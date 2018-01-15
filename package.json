@@ -4,10 +4,15 @@
   "version": "1.0.0",
   "author": "Al McKinlay <github@10people.co.uk>",
   "dependencies": {
-    "gatsby": "^1.9.153",
-    "gatsby-link": "^1.6.34",
-    "gatsby-plugin-react-helmet": "^2.0.3",
-    "react-helmet": "^5.2.0"
+    "bootstrap": "4.0.0-beta.3",
+    "gatsby": "1.9.153",
+    "gatsby-link": "1.6.34",
+    "gatsby-plugin-react-helmet": "2.0.3",
+    "jquery": "3.2.1",
+    "react": "16.2.0",
+    "react-dom": "16.2.0",
+    "react-helmet": "5.2.0",
+    "reactstrap": "5.0.0-alpha.4"
   },
   "keywords": [
     "completionist",
