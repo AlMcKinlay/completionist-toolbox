@@ -1,0 +1,22 @@
+{
+  "name": "completionist-toolbox",
+  "description": "A site for lists of things to do for completionists",
+  "version": "1.0.0",
+  "author": "Al McKinlay <github@10people.co.uk>",
+  "dependencies": {
+    "gatsby": "^1.9.153",
+    "gatsby-link": "^1.6.34",
+    "gatsby-plugin-react-helmet": "^2.0.3",
+    "react-helmet": "^5.2.0"
+  },
+  "keywords": [
+    "completionist",
+    "gaming"
+  ],
+  "license": "MIT",
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
