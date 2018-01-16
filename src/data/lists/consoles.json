@@ -1,0 +1,76 @@
+{
+  "name": "Games consoles",
+  "category": "collection",
+  "sections": [
+    {
+      "name": "Nintendo",
+      "entries": [
+        {
+          "value": "NES"
+        },
+        {
+          "value": "SNES"
+        },
+        {
+          "value": "Gameboy"
+        },
+        {
+          "value": "N64"
+        },
+        {
+          "value": "GBA"
+        },
+        {
+          "value": "Gamecube"
+        },
+        {
+          "value": "DS"
+        },
+        {
+          "value": "Wii"
+        },
+        {
+          "value": "3DS"
+        },
+        {
+          "value": "Wii U"
+        },
+        {
+          "value": "New 3DS"
+        },
+        {
+          "value": "Switch"
+        }
+      ]
+    },
+    {
+      "name": "Sony",
+      "entries": [
+        {
+          "value": "Playstation"
+        },
+        {
+          "value": "PS2"
+        },
+        {
+          "value": "PSP"
+        },
+        {
+          "value": "PSP Go"
+        },
+        {
+          "value": "PSP 3000"
+        },
+        {
+          "value": "PS3"
+        },
+        {
+          "value": "Vita"
+        },
+        {
+          "value": "PS4"
+        }
+      ]
+    }
+  ]
+}
