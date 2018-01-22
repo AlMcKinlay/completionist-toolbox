@@ -61,6 +61,14 @@ const makeCategoryPages = (createPage, results) => {
 		}
 	});
 
+	categories.forEach((category) => createPage({
+		path: `/lists/${category}`,
+		component: path.resolve(`./src/templates/category.js`),
+		context: {
+			category
+		},
+	}));
+
 	createPage({
 		path: "/lists",
 		component: path.resolve(`./src/templates/lists.js`),
