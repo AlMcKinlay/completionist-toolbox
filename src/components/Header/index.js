@@ -27,24 +27,26 @@ export default class Header extends React.Component {
 
 	render() {
 		return (
-			<Navbar color="faded" dark expand="md" style={{
-				backgroundColor: "#0099C6"
-			}}>
-				<div className="container">
-					<NavbarBrand href="/">The Completionist's Toolbox</NavbarBrand>
-					<NavbarToggler onClick={this.toggle} />
-					<Collapse isOpen={this.state.isOpen} navbar>
-						<Nav className="ml-auto" navbar>
-							<NavItem>
-								<NavLink href="/lists/">Lists</NavLink>
-							</NavItem>
-							<NavItem>
-								<NavLink href="/contributing/">Contributing</NavLink>
-							</NavItem>
-						</Nav>
-					</Collapse>
-				</div>
-			</Navbar>
+			<header>
+				<Navbar color="faded" dark expand="md" style={{
+					backgroundColor: "#0099C6"
+				}}>
+					<div className="container">
+						<NavbarBrand href="/">The Completionist's Toolbox</NavbarBrand>
+						<NavbarToggler onClick={this.toggle} />
+						<Collapse isOpen={this.state.isOpen} navbar>
+							<Nav className="ml-auto" navbar>
+								<NavItem>
+									<NavLink href="/lists/">Lists</NavLink>
+								</NavItem>
+								<NavItem>
+									<NavLink href="/contributing/">Contributing</NavLink>
+								</NavItem>
+							</Nav>
+						</Collapse>
+					</div>
+				</Navbar>
+			</header>
 		)
 	}
 }

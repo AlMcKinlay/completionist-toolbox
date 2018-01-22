@@ -2,10 +2,11 @@ import React from "react";
 
 export default ({ data }) => {
 	const post = data.listsJson;
-	console.log(post);
 	return (
-		<div>
-			<h1>{post.name}</h1>
+		<div className="row">
+			<div className="col">
+				<h1>{post.name}</h1>
+			</div>
 		</div>
 	);
 };

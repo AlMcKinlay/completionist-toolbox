@@ -15,9 +15,11 @@ const TemplateWrapper = ({ children }) => (
       ]}
     />
     <Header />
-    <div className={"container"}>
-      {children()}
-    </div>
+    <main>
+      <div className={"container mt-4"}>
+        {children()}
+      </div>
+    </main>
   </div>
 );
 
