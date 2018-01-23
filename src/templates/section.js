@@ -8,7 +8,9 @@ export const Section = ({ name, entries }) => {
 			<CardHeader>{name}</CardHeader>
 			<ListGroup>
 				{entries.map((entry) =>
-					<Item key={entry.name} name={entry.value} help={entry.help} />
+					<div key={entry.value}>
+						<Item name={entry.value} help={entry.help} />
+					</div>
 				)}
 			</ListGroup>
 		</Card>
