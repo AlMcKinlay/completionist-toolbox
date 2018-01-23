@@ -45,7 +45,7 @@ const makeListPages = (createPage, result) => {
 	return result.data.allListsJson.edges.forEach(({ node }) => {
 		createPage({
 			path: node.fields.slug,
-			component: path.resolve(`./src/templates/entry.js`),
+			component: path.resolve(`./src/templates/list.js`),
 			context: {
 				slug: node.fields.slug,
 			},
