@@ -68,14 +68,6 @@ const makeCategoryPages = (createPage, results) => {
 			category
 		},
 	}));
-
-	createPage({
-		path: "/lists",
-		component: path.resolve(`./src/templates/lists.js`),
-		context: {
-			categories
-		},
-	});
 };
 
 exports.createPages = ({ graphql, boundActionCreators }) => {

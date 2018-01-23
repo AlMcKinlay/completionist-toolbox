@@ -1,7 +1,12 @@
 import React from 'react';
 import { ListGroup, ListGroupItem } from 'reactstrap';
 
-export default ({pathContext: {categories}}) => {
+export default ({data: {allListsHJson: {edges: categories}}}) => {
+	categories = categories
+		.map(({node}) => node.category)
+		.filter((category, pos, self) => {
+			return self.indexOf(category) === pos;
+	});
 	return (
 		<div className="row">
 			<div className="col">
@@ -17,3 +22,15 @@ export default ({pathContext: {categories}}) => {
 		</div>
 	);
 }
+
+export const query = graphql`
+	query Categories {
+		allListsHJson {
+			edges {
+				node {
+					category
+				}
+			}
+		}
+	}
+`;
