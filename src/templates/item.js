@@ -2,6 +2,10 @@ import React from "react";
 import { ListGroupItem, UncontrolledTooltip } from 'reactstrap';
 import { Icon } from "react-font-awesome-5";
 
+const selectedStyle = {
+	color: 'gray'
+};
+
 export class Item extends React.Component {
 
 	constructor(props) {
@@ -44,7 +48,7 @@ export class Item extends React.Component {
 
 	render() {
 		return (
-			<ListGroupItem onClick={this.toggle}>
+			<ListGroupItem onClick={this.toggle} style={this.state.selected ? selectedStyle : null}>
 				{this.state.selected  ? <Icon.CheckSquare.regular /> : <Icon.Square.regular />}
 				{" " + this.props.name}
 				{this.props.help &&
