@@ -1,34 +1,46 @@
 import React from 'react';
-import { ListGroup, ListGroupItem } from 'reactstrap';
+import { Row, Col } from 'reactstrap';
+import Category from '../templates/categoryCard';
 
-export default ({data: {allListsHJson: {edges: categories}}}) => {
-	categories = categories
-		.map(({node}) => node.category)
-		.filter((category, pos, self) => {
-			return self.indexOf(category) === pos;
+export default ({data: {allListsHJson: {edges: entries}}}) => {
+	const categoryNames = [];
+	const categories = entries.map(({node: {category}}) => ({name: category, entries: []}))
+		.filter(({name}) => {
+			return !categoryNames.includes(name) && categoryNames.push(name);
+	});
+	categories.forEach((category) => {
+		entries.forEach(({node: entry}) => {
+			if (category.name === entry.category) {
+				category.entries.push(entry);
+			}
+		});
 	});
 	return (
 		<div className="row">
 			<div className="col">
 				<h2>Lists</h2>
-				<ListGroup>
+				<Row>
 					{categories.map((category) =>
-						<ListGroupItem tag="a" href={`/lists/${category}`} key={category}>
-							{category.charAt(0).toUpperCase()}{category.slice(1)}s
-						</ListGroupItem>
+						<Col key={category.name}>
+							<Category name={category.name} entries={category.entries} />
+						</Col>
 					)}
-				</ListGroup>
+				</Row>
 			</div>
 		</div>
 	);
 }
 
 export const query = graphql`
-	query Categories {
+	query GetAllCategories {
 		allListsHJson {
 			edges {
 				node {
-					category
+					category,
+					name,
+					fields {
+						slug
+					}
 				}
 			}
 		}
