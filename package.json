@@ -23,7 +23,7 @@
   "license": "MIT",
   "scripts": {
     "build": "gatsby build",
-    "develop": "gatsby develop --host 0.0.0.0",
+    "develop": "gatsby develop",
     "test": "echo \"Error: no test specified\" && exit 1"
   }
 }
