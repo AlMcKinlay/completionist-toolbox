@@ -8,7 +8,7 @@ export default ({ data }) => {
 		<div>
 			<Row>
 				<Col>
-					<h1>{post.name}</h1>
+					<h2>{post.name}</h2>
 				</Col>
 			</Row>
 			<Row>
