@@ -3,7 +3,7 @@ import { Row, Col } from 'reactstrap';
 import { Section } from "./section";
 
 export default ({ data }) => {
-	const post = data.listsJson;
+	const post = data.listsHJson;
 	return (
 		<div>
 			<Row>
@@ -24,7 +24,7 @@ export default ({ data }) => {
 
 export const query = graphql`
   query EntryQuery($slug: String!) {
-		listsJson(fields: { slug: { eq: $slug } }) {
+		listsHJson(fields: { slug: { eq: $slug } }) {
 			name,
 			sections {
 				name,

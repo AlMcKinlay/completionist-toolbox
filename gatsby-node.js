@@ -3,7 +3,7 @@ const path = require(`path`);
 
 exports.onCreateNode = ({ node, getNode, boundActionCreators }) => {
 	const { createNodeField } = boundActionCreators;
-	if (node.internal.owner === `gatsby-transformer-json`) {
+	if (node.internal.owner === `gatsby-transformer-hjson`) {
 		const fileNode = getNode(node.parent);
 		if (fileNode.dir.includes("/data/")) {
 			const slug = createFilePath({ node, getNode, basePath: `pages` });
@@ -16,8 +16,8 @@ exports.onCreateNode = ({ node, getNode, boundActionCreators }) => {
 	}
 };
 
-const getLists= (graphql) => graphql(`{
-	allListsJson {
+const getLists = (graphql) => graphql(`{
+	allListsHJson {
 		edges {
 			node {
 				fields {
@@ -29,7 +29,7 @@ const getLists= (graphql) => graphql(`{
 }`);
 
 const getCategories = (graphql) => graphql(`{
-  allListsJson {
+  allListsHJson {
     edges {
       node {
         category
@@ -42,7 +42,7 @@ const makeListPages = (createPage, result) => {
 	if (!result || !result.data) {
 		return;
 	}
-	return result.data.allListsJson.edges.forEach(({ node }) => {
+	return result.data.allListsHJson.edges.forEach(({ node }) => {
 		createPage({
 			path: node.fields.slug,
 			component: path.resolve(`./src/templates/list.js`),
@@ -55,7 +55,7 @@ const makeListPages = (createPage, result) => {
 
 const makeCategoryPages = (createPage, results) => {
 	const categories = [];
-	results.data.allListsJson.edges.forEach(({ node }) => {
+	results.data.allListsHJson.edges.forEach(({ node }) => {
 		if (!categories.includes(node.category)) {
 			categories.push(node.category);
 		}
