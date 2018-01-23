@@ -1,12 +1,23 @@
 import React from "react";
+import { Row, Col } from 'reactstrap';
+import { Section } from "./section";
 
 export default ({ data }) => {
 	const post = data.listsJson;
 	return (
-		<div className="row">
-			<div className="col">
-				<h1>{post.name}</h1>
-			</div>
+		<div>
+			<Row>
+				<Col>
+					<h1>{post.name}</h1>
+				</Col>
+			</Row>
+			<Row>
+				{post.sections.map((section) =>
+					<Col key={section.name}>
+						<Section name={section.name} entries={section.entries} />
+					</Col>
+				)}
+			</Row>
 		</div>
 	);
 };
@@ -16,7 +27,11 @@ export const query = graphql`
 		listsJson(fields: { slug: { eq: $slug } }) {
 			name,
 			sections {
-				name
+				name,
+				entries {
+					value,
+					help
+				}
 			}
 		}
 	}
