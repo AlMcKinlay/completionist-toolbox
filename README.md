@@ -1,5 +1,7 @@
 # completionist-toolbox
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/YaManicKill/completionist-toolbox.svg)](https://greenkeeper.io/)
+
 ### Dev
 
 * `npm i`
