@@ -11,17 +11,10 @@ export class Item extends React.Component {
 	constructor(props) {
 		super(props);
 
-		this.toggle = this.toggle.bind(this);
 		this.copy = this.copy.bind(this);
 		this.state = {
-			selected: false
+			copied: false
 		}
-	}
-
-	toggle() {
-		this.setState({
-			selected: !this.state.selected
-		})
 	}
 
 	copy(e) {
@@ -48,8 +41,8 @@ export class Item extends React.Component {
 
 	render() {
 		return (
-			<ListGroupItem onClick={this.toggle} style={this.state.selected ? selectedStyle : null}>
-				{this.state.selected  ? <Icon.CheckSquare.regular /> : <Icon.Square.regular />}
+			<ListGroupItem onClick={this.props.clickItem} style={this.props.selected ? selectedStyle : null}>
+				{this.props.selected  ? <Icon.CheckSquare.regular /> : <Icon.Square.regular />}
 				{" " + this.props.name}
 				{this.props.help &&
 					<span className="float-right" onClick={this.copy}>
