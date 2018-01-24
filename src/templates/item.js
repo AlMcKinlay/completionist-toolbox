@@ -43,7 +43,7 @@ export class Item extends React.Component {
 	}
 
 	getName() {
-		return this.props.name.replace(/\s/g, "-");
+		return this.props.name.replace(/(\s|\(|\))/g, "-").replace("'", "");
 	}
 
 	render() {
