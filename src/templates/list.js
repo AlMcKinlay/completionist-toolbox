@@ -1,6 +1,18 @@
 import React from "react";
 import { Row, Col } from 'reactstrap';
 import { Section } from "./section";
+import styled from "styled-components";
+
+const ListSection = styled.div`
+	display: block !important;
+	break-inside: avoid;
+	padding: 10px;
+`;
+
+const List = styled.div`
+	column-count: 3; 
+	column-gap: 0;
+`;
 
 export default ({ data }) => {
 	const post = data.listsHJson;
@@ -11,13 +23,13 @@ export default ({ data }) => {
 					<h2>{post.name}</h2>
 				</Col>
 			</Row>
-			<Row>
+			<List>
 				{post.sections.map((section) =>
-					<Col key={section.name}>
+					<ListSection key={section.name}>
 						<Section name={section.name} entries={section.entries} />
-					</Col>
+					</ListSection>
 				)}
-			</Row>
+			</List>
 		</div>
 	);
 };
