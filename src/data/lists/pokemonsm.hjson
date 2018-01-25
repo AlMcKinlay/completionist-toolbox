@@ -1,24 +1,7 @@
 {
-  "name": "Pokemon Sun and Moon Postgame",
+  "name": "Pokemon SM Postgame (Coming Soon)",
   "category": "game",
   "sections": [
-    {
-      "name": "pokemon to catch",
-      "entries": [
-        {
-          "value": "Do something",
-          "help": "You need to do it"
-        }
-      ]
-    },
-    {
-      "name": "people to beat",
-      "entries": [
-        {
-          "value": "Beat them all",
-          "help": "DO IT"
-        }
-      ]
-    }
+
   ]
 }

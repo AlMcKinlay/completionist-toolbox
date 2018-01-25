@@ -1,25 +1,8 @@
 {
-  "name": "Pokemon Ultra Sun and Ultra Moon Postgame",
+  "name": "Pokemon USUM Postgame (Coming Soon)",
   "category": "game",
   "sections":[
-    {
-      "name": "pokemon to catch (usum)",
-      "entries": [
-        {
-          "value": "Do something",
-          "help": "You need to do it"
-        }
-      ]
-    },
-    {
-      "name": "people to beat (usum)",
-      "entries": [
-        {
-          "value": "Beat them all",
-          "help": "DO IT"
-        }
-      ]
-    }
+
   ]
 }
 
