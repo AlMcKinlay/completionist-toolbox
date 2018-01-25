@@ -34,3 +34,7 @@ jobs:
           key: v1-dependencies-{{ checksum "package.json" }}
 
       - run: yarn run build
+
+      - deploy:
+          name: deploy master
+          command: rsync -a public/ 10people.co.uk:~/completionist/ && ssh 10people.co.uk rsync -a ~/completionist/ /var/www/completionist/
