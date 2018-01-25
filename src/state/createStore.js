@@ -48,6 +48,9 @@ const persistConfig = {
 const persistedReducer = persistReducer(persistConfig, reducerDoesThing);
 
 const setUpCrossTab = (store) => {
+	if (typeof window === "undefined" || window) {
+		return;
+	}
 	window.addEventListener("storage", handleStorageEvent, false);
 
 	function handleStorageEvent(e){

@@ -12,6 +12,5 @@ module.exports = {
 			},
 		},
 		'gatsby-transformer-hjson',
-		'gatsby-plugin-styled-components',
   ],
 };
