@@ -10,8 +10,8 @@ const TemplateWrapper = ({ children }) => (
     <Helmet
       title="The Completionist Toolbox"
       meta={[
-        { name: 'description', content: 'Sample' },
-        { name: 'keywords', content: 'sample, something' },
+        { name: 'description', content: 'A tool for completionists of all types' },
+        { name: 'keywords', content: 'gaming, completionists' },
       ]}
     />
     <Header />
