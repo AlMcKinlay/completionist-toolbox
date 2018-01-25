@@ -41,7 +41,6 @@ jobs:
             if [ "${CIRCLE_BRANCH}" = 'master' ]; then
                sudo apt-get install -y rsync
                echo '10people.co.uk,178.62.79.25 ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBAPZxJCHQLjw0DxW/MI35RHZdj310FqdlkGrZi9fWdPioDzx3wfgvvCkGuqj5iTycM6N7hhw9itmDxuTjoMQvsU=' >> ~/.ssh/known_hosts
-               ls -la
                rsync -a public/ 10people.co.uk:~/completionist/ && ssh 10people.co.uk rsync -a ~/completionist/ /var/www/completionist/
             fi
 
