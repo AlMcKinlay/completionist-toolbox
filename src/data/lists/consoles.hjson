@@ -3,6 +3,23 @@
   "category": "collection",
   "sections": [
     {
+      "name": "Sega",
+      "entries": [
+        {
+          "value": "Master System"
+        },
+        {
+          "value": "Megadrive/Genesis"
+        },
+        {
+          "value": "Saturn"
+        },
+        {
+          "value": "Dreamcast"
+        },
+      ]
+    }
+    {
       "name": "Nintendo",
       "entries": [
         {
@@ -53,23 +70,28 @@
           "value": "PS2"
         },
         {
-          "value": "PSP"
-        },
-        {
-          "value": "PSP Go"
-        },
-        {
-          "value": "PSP 3000"
-        },
-        {
           "value": "PS3"
         },
         {
-          "value": "Vita"
+          "value": "PS Vita"
         },
         {
           "value": "PS4"
-        }
+        },
+      ]
+    }
+    {
+      "name": "Microsoft",
+      "entries": [
+        {
+          "value": "XBox"
+        },
+        {
+          "value": "XBox 360"
+        },
+        {
+          "value": "XBox One"
+        },
       ]
     }
   ]
