@@ -6,8 +6,8 @@ import {
 	NavbarBrand,
 	Nav,
 	NavItem,
-	NavLink,
 } from 'reactstrap';
+import Link from "gatsby-link";
 
 export default class Header extends React.Component {
 	constructor(props) {
@@ -32,15 +32,29 @@ export default class Header extends React.Component {
 					backgroundColor: "#0099C6"
 				}}>
 					<div className="container">
-						<NavbarBrand href="/">The Completionist's Toolbox</NavbarBrand>
+						<Link to="/" className="navbar-brand">
+							The Completionist's Toolbox
+						</Link>
 						<NavbarToggler onClick={this.toggle} />
 						<Collapse isOpen={this.state.isOpen} navbar>
 							<Nav className="ml-auto" navbar>
 								<NavItem>
-									<NavLink href="/lists/">Lists</NavLink>
+									<Link
+										className="nav-link"
+										to="/lists/"
+										innerRef={(el) => { this.myLink = el }}
+									>
+										Lists
+									</Link>
 								</NavItem>
 								<NavItem>
-									<NavLink href="/contributing/">Contributing</NavLink>
+									<Link
+										className="nav-link"
+										to="/contributing/"
+										innerRef={(el) => { this.myLink = el }}
+									>
+										Contributing
+									</Link>
 								</NavItem>
 							</Nav>
 						</Collapse>

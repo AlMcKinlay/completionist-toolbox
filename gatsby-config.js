@@ -2,6 +2,7 @@ module.exports = {
   siteMetadata: {
     title: 'The Completionist Toolbox',
   },
+	pathPrefix: `/completionist`,
   plugins: [
     'gatsby-plugin-react-helmet',
 		{
