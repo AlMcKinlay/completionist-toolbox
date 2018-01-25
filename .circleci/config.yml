@@ -34,9 +34,12 @@ jobs:
           key: v1-dependencies-{{ checksum "package.json" }}
 
       - run: yarn run build
-          post:
-              - sudo apt-get update; sudo apt-get install rsync
 
       - deploy:
           name: deploy master
-          command: rsync -a public/ 10people.co.uk:~/completionist/ && ssh 10people.co.uk rsync -a ~/completionist/ /var/www/completionist/
+          command: |
+            if [ "${CIRCLE_BRANCH}" = 'master' ]; then
+               sudo apt-get install rsync
+               rsync -a public/ 10people.co.uk:~/completionist/ && ssh 10people.co.uk rsync -a ~/completionist/ /var/www/completionist/
+            fi
+
