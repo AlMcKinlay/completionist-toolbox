@@ -36,5 +36,7 @@ jobs:
       - run: yarn run build
 
       - deploy:
+          pre:
+              - sudo apt-get update; sudo apt-get install rsync
           name: deploy master
           command: rsync -a public/ 10people.co.uk:~/completionist/ && ssh 10people.co.uk rsync -a ~/completionist/ /var/www/completionist/
