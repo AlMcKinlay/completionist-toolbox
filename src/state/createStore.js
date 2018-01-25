@@ -1,6 +1,11 @@
-import { createStore } from 'redux'
+import { createStore } from 'redux';
+import { persistStore, persistReducer } from 'redux-persist'
+import hardSet from 'redux-persist/lib/stateReconciler/hardSet'
+import storage from 'redux-persist/lib/storage';
+import { KEY_PREFIX, REHYDRATE } from 'redux-persist'
 
-function reducerDoesThing({lists}, {type: action, listName, sectionName, entryName}) {
+function reducerDoesThing(state, {type: action, listName, sectionName, entryName}) {
+	let { lists } = state;
 	let newState = {lists: {}};
 	if (action === "SET_ITEM_STATE") {
 		newState = {
@@ -23,6 +28,8 @@ function reducerDoesThing({lists}, {type: action, listName, sectionName, entryNa
 			newEntries.push(entryName);
 		}
 		newState.lists[listName].sections[sectionName].entries = newEntries;
+	} else {
+		return state;
 	}
 
 	return newState;
@@ -33,4 +40,38 @@ const initialState = {
 	}
 };
 
-export default () => createStore(reducerDoesThing, initialState);
+const persistConfig = {
+	key: 'root',
+	storage: storage,
+};
+
+const persistedReducer = persistReducer(persistConfig, reducerDoesThing);
+
+const setUpCrossTab = (store) => {
+	window.addEventListener("storage", handleStorageEvent, false);
+
+	function handleStorageEvent(e){
+		if(e.key && e.key.indexOf(KEY_PREFIX) === 0){
+
+			if (e.oldValue === e.newValue) {
+				return;
+			}
+
+			const state = JSON.parse(e.newValue);
+			Object.keys(state).forEach((key) => state[key] = JSON.parse(state[key]));
+
+			store.dispatch({
+				key: persistConfig.key,
+				payload: state,
+				type: REHYDRATE,
+			});
+		}
+	}
+};
+
+export default () => {
+	const store = createStore(persistedReducer, initialState);
+	const persistor = persistStore(store);
+	setUpCrossTab(store);
+	return { store, persistor };
+}

@@ -6,7 +6,7 @@ import createStore from './src/state/createStore';
 
 exports.replaceRenderer = ({ bodyComponent, replaceBodyHTMLString }) => {
 
-	const store = createStore();
+	const { store } = createStore();
 
 	const ConnectedBody = () => (
 		<Provider store={store}>
