@@ -39,7 +39,7 @@ jobs:
           name: deploy master
           command: |
             if [ "${CIRCLE_BRANCH}" = 'master' ]; then
-               sudo apt-get install rsync
+               sudo apt-get install -y rsync
                rsync -a public/ 10people.co.uk:~/completionist/ && ssh 10people.co.uk rsync -a ~/completionist/ /var/www/completionist/
             fi
 
