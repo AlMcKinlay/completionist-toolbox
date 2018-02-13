@@ -9,7 +9,7 @@
     "gatsby": "1.9.172",
     "gatsby-link": "1.6.35",
     "gatsby-plugin-react-helmet": "2.0.4",
-    "gatsby-plugin-styled-components": "2.0.5",
+    "gatsby-plugin-styled-components": "2.0.6",
     "gatsby-source-filesystem": "1.5.15",
     "gatsby-transformer-hjson": "^1.0.2",
     "jquery": "3.3.1",
