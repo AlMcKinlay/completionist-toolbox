@@ -1,0 +1,45 @@
+{
+  "name": "Pokemon Let's Go Completion",
+  "category": "game",
+  "sections": [
+    {
+      "name": "Play through",
+      "entries": [
+        {
+          "value": "Defeat All Gyms"
+        },
+        {
+          "value": "Defeat Elite 4"
+        }
+      ]
+    },
+    {
+      "name": "Catching",
+      "entries": [
+        {
+          "value": "Catch first 150"
+        },
+        {
+          "value": "Get Mew from Pokéball Plus"
+        },
+        {
+          "value": "Obtain Meltan"
+        }
+      ]
+    },
+    {
+      "name": "Pokémon Go Integration",
+      "entries": [
+        {
+          "value": "Connect to Go"
+        },
+        {
+          "value": "Transfer Alolan forms from Go"
+        },
+        {
+          "value": "Get Meltan in Go"
+        }
+      ]
+    }
+  ]
+}
