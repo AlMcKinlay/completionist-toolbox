@@ -33,7 +33,7 @@
   "license": "MIT",
   "scripts": {
     "build": "gatsby build --prefix-paths",
-    "develop": "gatsby develop",
+    "dev": "gatsby develop",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "devDependencies": {
