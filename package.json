@@ -17,7 +17,7 @@
     "react-dom": "16.5.2",
     "react-font-awesome-5": "0.2.2",
     "react-helmet": "5.2.0",
-    "react-popper": "1.0.2",
+    "react-popper": "0.10.4",
     "react-redux": "5.0.7",
     "react-transition-group": "2.5.0",
     "reactstrap": "6.4.0",
