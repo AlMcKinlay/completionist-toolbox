@@ -2,8 +2,10 @@ import React from 'react';
 import { Row, Col } from 'reactstrap';
 import Category from '../templates/categoryCard';
 import { graphql } from 'gatsby';
+import Layout from "../components/layout"
 
 export default ({data: {allListsHJson: {edges: entries}}}) => {
+	
 	const categoryNames = [];
 	const categories = entries.map(({node: {category}}) => ({name: category, entries: []}))
 		.filter(({name}) => {
@@ -17,6 +19,7 @@ export default ({data: {allListsHJson: {edges: entries}}}) => {
 		});
 	});
 	return (
+		<Layout>
 		<div className="row">
 			<div className="col">
 				<h2>Lists</h2>
@@ -29,6 +32,7 @@ export default ({data: {allListsHJson: {edges: entries}}}) => {
 				</Row>
 			</div>
 		</div>
+		</Layout>
 	);
 }
 

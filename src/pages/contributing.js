@@ -1,6 +1,8 @@
 import React from 'react';
+import Layout from "../components/layout"
 
 const IndexPage = () => (
+	<Layout>
 	<div className="row">
 		<div className="col">
       <h3>Contributing</h3>
@@ -11,6 +13,7 @@ const IndexPage = () => (
 			an issue on the repository, and I'll fix/add if I have time.</p>
 		</div>
 	</div>
+	</Layout>
 );
 
 export default IndexPage;

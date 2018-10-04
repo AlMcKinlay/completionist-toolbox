@@ -1,9 +1,11 @@
 import React from 'react';
 import { ListGroup, ListGroupItem } from 'reactstrap';
 import { graphql } from 'gatsby';
+import Layout from "../components/layout"
 
-export default ({pathContext: {category}, data: {allListsHJson: {edges: entries}}}) => {
+export default ({pageContext: {category}, data: {allListsHJson: {edges: entries}}}) => {
 	return (
+		<Layout>
 		<div className="row">
 			<div className="col">
 				<h2>{category.charAt(0).toUpperCase()}{category.slice(1)}s</h2>
@@ -16,6 +18,7 @@ export default ({pathContext: {category}, data: {allListsHJson: {edges: entries}
 				</ListGroup>
 			</div>
 		</div>
+		</Layout>
 	);
 }
 
