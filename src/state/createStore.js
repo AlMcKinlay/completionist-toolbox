@@ -1,6 +1,5 @@
 import { createStore } from 'redux';
 import { persistStore, persistReducer } from 'redux-persist'
-import hardSet from 'redux-persist/lib/stateReconciler/hardSet'
 import storage from 'redux-persist/lib/storage';
 import { KEY_PREFIX, REHYDRATE } from 'redux-persist'
 
