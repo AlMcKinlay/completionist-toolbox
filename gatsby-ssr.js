@@ -5,19 +5,21 @@ import { ServerStyleSheet } from 'styled-components';
 
 import createStore from './src/state/createStore';
 
-exports.replaceRenderer = ({ bodyComponent, replaceBodyHTMLString, setHeadComponents }) => {
+export default {
+	replaceRenderer: ({ bodyComponent, replaceBodyHTMLString, setHeadComponents }) => {
 
-	const { store } = createStore();
+		const { store } = createStore();
 
-	const ConnectedBody = () => (
-		<Provider store={store}>
-			{bodyComponent}
-		</Provider>
-	);
+		const ConnectedBody = () => (
+			<Provider store={store}>
+				{bodyComponent}
+			</Provider>
+		);
 
-	const sheet = new ServerStyleSheet();
-	const bodyHTML = renderToString(sheet.collectStyles(<ConnectedBody />));
-	const styleElement = sheet.getStyleElement();
-	replaceBodyHTMLString(bodyHTML);
-	setHeadComponents(styleElement);
+		const sheet = new ServerStyleSheet();
+		const bodyHTML = renderToString(sheet.collectStyles(<ConnectedBody />));
+		const styleElement = sheet.getStyleElement();
+		replaceBodyHTMLString(bodyHTML);
+		setHeadComponents(styleElement);
+	}
 };
