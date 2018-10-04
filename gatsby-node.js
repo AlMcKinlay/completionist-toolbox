@@ -1,8 +1,8 @@
 const { createFilePath } = require(`gatsby-source-filesystem`);
 const path = require(`path`);
 
-exports.onCreateNode = ({ node, getNode, boundActionCreators }) => {
-	const { createNodeField } = boundActionCreators;
+exports.onCreateNode = ({ node, getNode, actions }) => {
+	const { createNodeField } = actions;
 	if (node.internal.owner === `gatsby-transformer-hjson`) {
 		const fileNode = getNode(node.parent);
 		if (fileNode.dir.includes("/data/")) {
@@ -70,8 +70,8 @@ const makeCategoryPages = (createPage, results) => {
 	}));
 };
 
-exports.createPages = ({ graphql, boundActionCreators }) => {
-	const { createPage } = boundActionCreators;
+exports.createPages = ({ graphql, actions }) => {
+	const { createPage } = actions;
 	const promises = [];
 	promises.push(getLists(graphql).then(makeListPages.bind(this, createPage)));
 	promises.push(getCategories(graphql).then(makeCategoryPages.bind(this, createPage)));
