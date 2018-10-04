@@ -4,6 +4,7 @@ import { Section } from "./section";
 import styled from "styled-components";
 import { connect } from "react-redux"
 import { graphql } from 'gatsby';
+import Layout from "../components/layout"
 
 const ListSection = styled.div`
 	display: block !important;
@@ -38,6 +39,7 @@ const ConnectedSection = connect(mapStateToProps, mapDispatchToProps)(Section);
 export default ({ data }) => {
 	const post = data.listsHJson;
 	return (
+		<Layout>
 		<div>
 			<Row>
 				<Col>
@@ -52,6 +54,7 @@ export default ({ data }) => {
 				)}
 			</List>
 		</div>
+		</Layout>
 	);
 };
 
