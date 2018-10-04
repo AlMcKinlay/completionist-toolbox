@@ -1,5 +1,6 @@
 import React from 'react';
 import { ListGroup, ListGroupItem } from 'reactstrap';
+import { graphql } from 'gatsby';
 
 export default ({pathContext: {category}, data: {allListsHJson: {edges: entries}}}) => {
 	return (
