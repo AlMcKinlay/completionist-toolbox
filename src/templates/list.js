@@ -3,6 +3,7 @@ import { Row, Col } from 'reactstrap';
 import { Section } from "./section";
 import styled from "styled-components";
 import { connect } from "react-redux"
+import { graphql } from 'gatsby';
 
 const ListSection = styled.div`
 	display: block !important;

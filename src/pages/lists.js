@@ -1,6 +1,7 @@
 import React from 'react';
 import { Row, Col } from 'reactstrap';
 import Category from '../templates/categoryCard';
+import { graphql } from 'gatsby';
 
 export default ({data: {allListsHJson: {edges: entries}}}) => {
 	const categoryNames = [];
