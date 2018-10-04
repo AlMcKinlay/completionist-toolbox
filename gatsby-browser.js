@@ -5,15 +5,17 @@ import { PersistGate } from 'redux-persist/lib/integration/react'
 
 import createStore from './src/state/createStore';
 
-exports.replaceRouterComponent = ({ history }) => {
+export default {
+	replaceRouterComponent: ({ history }) => {
 
-	const { store, persistor } = createStore();
+		const { store, persistor } = createStore();
 
-	return ({children}) => (
-		<Provider store={store}>
-			<PersistGate loading={null} persistor={persistor}>
-				<Router history={history}>{children}</Router>
-			</PersistGate>
-		</Provider>
-	);
+		return ({children}) => (
+			<Provider store={store}>
+				<PersistGate loading={null} persistor={persistor}>
+					<Router history={history}>{children}</Router>
+				</PersistGate>
+			</Provider>
+		);
+	}
 };
