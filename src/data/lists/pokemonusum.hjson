@@ -267,8 +267,76 @@
       "name": "Z-Crystals",
       "entries": [
         {
-          "value": "",
-          "help": ""
+          "value": "Buginium Z",
+          "help": "Shady House"
+        },
+        {
+          "value": "Darkinium Z",
+          "help": "Defeat Kahuna Nanu"
+        },
+        {
+          "value": "Dragonium Z",
+          "help": "Complete Dragon Trial"
+        },
+        {
+          "value": "Electrium Z",
+          "help": "Complete Sophocles Trial"
+        },
+        {
+          "value": "Farium Z",
+          "help": "Complete Mina's Trial"
+        },
+        {
+          "value": "Fightinium Z",
+          "help": "Defeat Kahuna Hala"
+        },
+        {
+          "value": "Firium Z",
+          "help": "Defeat Kiawe's Trial"
+        },
+        {
+          "value": "Flyinium Z",
+          "help": "Ten Carat Hill (Taurus and Machamp rides required)"
+        },
+        {
+          "value": "Ghostium Z",
+          "help": "Defeat Acerola's Trial"
+        },
+        {
+          "value": "Grassium Z",
+          "help": "Defeat Mallow's Trial"
+        },
+        {
+          "value": "Groundium Z",
+          "help": "Defeat Kahuna Hapu"
+        },
+        {
+          "value": "Icium Z",
+          "help": "Mount Lanakila"
+        },
+        {
+          "value": "Normalium Z",
+          "help": "Defeat Ilima's Trial"
+        },
+        {
+          "value": "Poisonium Z",
+          "help": "Poni Island"
+        },
+        {
+          "value": "Psychium Z",
+          "help": "Haina Desert"
+        },
+        {
+          "value": "Rockium Z",
+          "help": "Defeat Kahuna Olivia"
+        },
+        {
+          "value": "Steelium Z",
+          "help": "Defeat Molayne's Trial"
+        },
+        {
+          "value": "Waterium Z",
+          "help": "Defeat Lana's Trial"
         }
       ]
     },
