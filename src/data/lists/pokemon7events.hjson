@@ -3,17 +3,129 @@
   "category": "game",
   "sections": [
     {
+      "name": "Year of Legendary",
+      "entries": [
+        {
+          "value": "Zekrom",
+          "help": ""
+        },
+        {
+          "value": "Reshiram",
+          "help": ""
+        },
+        {
+          "value": "Latias",
+          "help": ""
+        },
+        {
+          "value": "Latios",
+          "help": ""
+        },
+        {
+          "value": "Kyogre",
+          "help": ""
+        },
+        {
+          "value": "Groudon",
+          "help": ""
+        },
+        {
+          "value": "Tornadus",
+          "help": ""
+        },
+        {
+          "value": "Thundurus",
+          "help": ""
+        },
+        {
+          "value": "Zygarde",
+          "help": ""
+        },
+        {
+          "value": "Xerneas",
+          "help": ""
+        },
+        {
+          "value": "Yveltal",
+          "help": ""
+        },
+        {
+          "value": "Raikou",
+          "help": ""
+        },
+        {
+          "value": "Entei",
+          "help": ""
+        },
+        {
+          "value": "Heatran",
+          "help": ""
+        },
+        {
+          "value": "Regigigas",
+          "help": ""
+        },
+        {
+          "value": "Dialga",
+          "help": ""
+        },
+        {
+          "value": "Palkia",
+          "help": ""
+        },
+      ]
+    }
+    {
       "name": "Serial code",
       "entries": [
         {
-          "value": "Legendary Dialga",
+          "value": "Zeraora",
           "help": ""
         },
         {
-          "value": "Legendary Palkia",
+          "value": "Shiny Poipole",
           "help": ""
         },
-
+        {
+          "value": "Hong Kong Ash's Pikachu",
+          "help": ""
+        },
+        {
+          "value": "Fula City Lugia",
+          "help": "https://bulbapedia.bulbagarden.net/wiki/List_of_Japanese_region_serial_code_event_Pok%C3%A9mon_distributions_in_Generation_VII#Fula_City_Lugia"
+        },
+        {
+          "value": "Pokémon Generations Zygarde",
+          "help": "https://bulbapedia.bulbagarden.net/wiki/List_of_Korean_region_serial_code_event_Pok%C3%A9mon_distributions_in_Generation_VII#Pok.C3.A9mon_Generations_Zygarde"
+        },
+        {
+          "value": "Tokou Pikachu",
+          "help": "https://bulbapedia.bulbagarden.net/wiki/List_of_Japanese_region_serial_code_event_Pok%C3%A9mon_distributions_in_Generation_VII#2018_Tohoku_Pikachu"
+        },
+        {
+          "value": "Alamos Dialga",
+          "help": "https://bulbapedia.bulbagarden.net/wiki/List_of_Korean_region_serial_code_event_Pok%C3%A9mon_distributions_in_Generation_VII#Dialga"
+        },
+        {
+          "value": "Alamos Palkia",
+          "help": "https://bulbapedia.bulbagarden.net/wiki/List_of_Korean_region_serial_code_event_Pok%C3%A9mon_distributions_in_Generation_VII#Palkia"
+        },
+        {
+          "value": "Alamos Darkrai",
+          "help": "https://bulbapedia.bulbagarden.net/wiki/List_of_Korean_region_serial_code_event_Pok%C3%A9mon_distributions_in_Generation_VII#Darkrai"
+        },
+        {
+          "value": "Heart Shaymin",
+          "help": "https://bulbapedia.bulbagarden.net/wiki/List_of_Korean_region_serial_code_event_Pok%C3%A9mon_distributions_in_Generation_VII#Heart_Shaymin"
+        },
+        {
+          "value": "KOR Ultra Shiny Kyogre",
+          "help": "https://bulbapedia.bulbagarden.net/wiki/List_of_Korean_region_serial_code_event_Pok%C3%A9mon_distributions_in_Generation_VII#Kyogre"
+        },
+        {
+          "value": "KOR Ultra Shiny Groudon",
+          "help": "https://bulbapedia.bulbagarden.net/wiki/List_of_Korean_region_serial_code_event_Pok%C3%A9mon_distributions_in_Generation_VII#Groudon"
+        },
         {
           "value": "CoroCoro Arceus",
           "help": "https://bulbapedia.bulbagarden.net/wiki/List_of_Japanese_region_serial_code_event_Pok%C3%A9mon_distributions_in_Generation_VII#CoroCoro_Arceus"
@@ -135,6 +247,54 @@
     {
       "name": "Local",
       "entries": [
+        {
+          "value": "Suwoong Cheong's Metagross",
+          "help": "https://bulbapedia.bulbagarden.net/wiki/List_of_local_event_Pok%C3%A9mon_distributions_in_Generation_VII#Suwoong_Cheong.27s_Metagross"
+        },
+        {
+          "value": "World's Meloetta",
+          "help": "https://bulbapedia.bulbagarden.net/wiki/List_of_local_event_Pok%C3%A9mon_distributions_in_Generation_VII#2018_World_Championships_Meloetta"
+        },
+        {
+          "value": "M21 Fula City Zeraora",
+          "help": "https://bulbapedia.bulbagarden.net/wiki/List_of_local_event_Pok%C3%A9mon_distributions_in_Generation_VII#Fula_City_Zeraora"
+        },
+        {
+          "value": "2018 Tanabata Jirachi",
+          "help": "https://bulbapedia.bulbagarden.net/wiki/List_of_local_event_Pok%C3%A9mon_distributions_in_Generation_VII#2018_Tanabata_Jirachi"
+        },
+        {
+          "value": "Ryota Otsubo's Golduck",
+          "help": "https://bulbapedia.bulbagarden.net/wiki/List_of_local_event_Pok%C3%A9mon_distributions_in_Generation_VII#Ryota_Otsubo.27s_Golduck"
+        },
+        {
+          "value": "Ryota Otsubo's Krokorok",
+          "help": "https://bulbapedia.bulbagarden.net/wiki/List_of_local_event_Pok%C3%A9mon_distributions_in_Generation_VII#Ryota_Otsubo.27s_Krookodile"
+        },
+        {
+          "value": "Pokémon World Festival Pikachu",
+          "help": "https://bulbapedia.bulbagarden.net/wiki/List_of_local_event_Pok%C3%A9mon_distributions_in_Generation_VII#Pok.C3.A9mon_World_Festival_Pikachu"
+        },
+        {
+          "value": "Pokémon Centre Shaymin",
+          "help": "https://bulbapedia.bulbagarden.net/wiki/List_of_local_event_Pok%C3%A9mon_distributions_in_Generation_VII#Pok.C3.A9mon_Center_Shaymin"
+        },
+        {
+          "value": "Spring Korean League Shiny Poipole",
+          "help": "https://bulbapedia.bulbagarden.net/wiki/List_of_local_event_Pok%C3%A9mon_distributions_in_Generation_VII#Spring_Korean_League_Shiny_Poipole"
+        },
+        {
+          "value": "Summer Manaphy",
+          "help": "https://bulbapedia.bulbagarden.net/wiki/List_of_local_event_Pok%C3%A9mon_distributions_in_Generation_VII#Summer_Manaphy"
+        },
+        {
+          "value": "Pokémon Cafe Pikachu",
+          "help": "https://bulbapedia.bulbagarden.net/wiki/List_of_local_event_Pok%C3%A9mon_distributions_in_Generation_VII#Pok.C3.A9mon_Cafe_Pikachu"
+        },
+        {
+          "value": "Nihonbashi Snorlax",
+          "help": "https://bulbapedia.bulbagarden.net/wiki/List_of_local_event_Pok%C3%A9mon_distributions_in_Generation_VII#Nihonbashi_Snorlax"
+        },
         {
           "value": "Winter KOR league Kyogre",
           "help": "https://bulbapedia.bulbagarden.net/wiki/List_of_local_event_Pok%C3%A9mon_distributions_in_Generation_VII#Kyogre"
@@ -461,6 +621,23 @@
         {
           "value": "Snorlium Z Munchlax",
           "help": "https://bulbapedia.bulbagarden.net/wiki/List_of_PAL_region_Nintendo_Network_event_Pok%C3%A9mon_distributions_in_Generation_VII#Snorlium_Z_Munchlax"
+        }
+      ]
+    },
+    {
+      "name": "Other",
+      "entries": [
+        {
+          "value": "Bank Inciniroar",
+          "help": ""
+        },
+        {
+          "value": "Bank Primarina",
+          "help": ""
+        },
+        {
+          "value": "Bank Dicidueye",
+          "help": ""
         }
       ]
     }
