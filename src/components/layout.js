@@ -24,7 +24,7 @@ const TemplateWrapper = ({ children }) => (
 );
 
 TemplateWrapper.propTypes = {
-  children: PropTypes.func,
+  children: PropTypes.oneOfType([PropTypes.array, PropTypes.object]),
 };
 
 export default TemplateWrapper;
