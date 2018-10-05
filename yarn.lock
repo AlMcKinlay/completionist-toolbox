@@ -3979,9 +3979,9 @@ gatsby-react-router-scroll@^2.0.0:
     scroll-behavior "^0.9.9"
     warning "^3.0.0"
 
-gatsby-source-filesystem@2.0.1:
-  version "2.0.1"
-  resolved "https://registry.yarnpkg.com/gatsby-source-filesystem/-/gatsby-source-filesystem-2.0.1.tgz#27aa5393a8e50fe160e65bb88b5e62f28dafa6de"
+gatsby-source-filesystem@2.0.2:
+  version "2.0.2"
+  resolved "https://registry.yarnpkg.com/gatsby-source-filesystem/-/gatsby-source-filesystem-2.0.2.tgz#ec0fbdbaf653c535d48a2c4524acd4f699b0bd96"
   dependencies:
     "@babel/runtime" "^7.0.0"
     better-queue "^3.8.7"
