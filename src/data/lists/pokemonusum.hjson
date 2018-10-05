@@ -227,9 +227,26 @@
       "name": "Battle Tree",
       "entries": [
         {
-          "value": "",
-          "help": ""
-        }
+          "value": "Beat Red or Blue at the entrance"
+        },
+        {
+          "value": "Beat Red or Blue on Singles"
+        },
+        {
+          "value": "Beat Red or Blue on Doubles"
+        },
+        {
+          "value": "Beat Red or Blue on Multi"
+        },
+        {
+          "value": "50 Streak on Super Singles"
+        },
+        {
+          "value": "50 Streak on Super Doubles"
+        },
+        {
+          "value": "50 Streak on Super Multi"
+        },
       ]
     },
     {
