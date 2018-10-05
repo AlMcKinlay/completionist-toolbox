@@ -129,6 +129,85 @@
           "help": ""
         }
       ]
+    },
+    {
+      "name": "Defend Your Title",
+      "entries": [
+        {
+          "value": "Gladion"
+        },
+        {
+          "value": "Guzma"
+        },
+        {
+          "value": "Hapu"
+        },
+        {
+          "value": "Hau"
+        },
+        {
+          "value": "Kukui"
+        },
+        {
+          "value": "Plumeria"
+        },
+        {
+          "value": "Ryuki"
+        },
+        {
+          "value": "Sophocles"
+        },
+        {
+          "value": "Tristan"
+        },
+        {
+          "value": "Gladion",
+          "help": "Only starts appearing 1 month after you first defeat Necrozma"
+        },
+        {
+          "value": "Lusamine",
+          "help": "Only appears on the 1st of each month"
+        },
+      ]
+    },
+    {
+      "name": "Unlock All Battle Styles",
+      "entries": [
+        {
+          "value": "Normal"
+        },
+        {
+          "value": "Elegant"
+        },
+        {
+          "value": "Girlish",
+          "help": "Defeat Lana in Konikoni"
+        },
+        {
+          "value": "Reverent",
+          "help": "Defeat Kiawe in Paniola or Mallow in Hau'oli"
+        },
+        {
+          "value": "Smug",
+          "help": "Defeat Gladion just before Elite Four"
+        },
+        {
+          "value": "Left-handed",
+          "help": "Defeat Ilima in Hau'oli after defeating Hala"
+        },
+        {
+          "value": "Passionate",
+          "help": "Get Battle Tree Streak of 50"
+        },
+        {
+          "value": "Idol",
+          "help": "Defeat Master Rank in the Battle Royal"
+        },
+        {
+          "value": "Nihilist",
+          "help": "Defeat Giovanni"
+        }
+      ]
     }
   ]
 }
