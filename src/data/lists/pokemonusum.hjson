@@ -27,13 +27,7 @@
         },
         {
           "value": "Complete Poni Dex"
-        },
-        {
-          "value": "Catch all 4 Oricorio"
-        },
-        {
-          "value": "Catch all Minior"
-        },
+        }
       ]
     },
     {
@@ -226,6 +220,24 @@
         },
         {
           "value": "Level 50"
+        }
+      ]
+    },
+    {
+      "name": "Oricorio Forms",
+      "entries": [
+        {
+          "value": "",
+          "help": ""
+        }
+      ]
+    },
+    {
+      "name": "Minior Forms",
+      "entries": [
+        {
+          "value": "",
+          "help": ""
         }
       ]
     }
