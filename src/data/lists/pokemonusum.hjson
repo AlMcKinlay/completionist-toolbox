@@ -1,8 +1,135 @@
 {
-  "name": "Pokemon USUM Postgame (Coming Soon)",
+  "name": "Pokemon USUM Completion",
   "category": "game",
-  "sections":[
-
+  "sections": [
+    {
+      "name": "Play through",
+      "entries": [
+        {
+          "value": "Defeat All Gyms"
+        },
+        {
+          "value": "Defeat Elite 4 and become Champion"
+        }
+      ]
+    },
+    {
+      "name": "Dex",
+      "entries": [
+        {
+          "value": "Complete Melemele Dex"
+        },
+        {
+          "value": "Complete Akala Dex"
+        },
+        {
+          "value": "Complete Ula'ula Dex"
+        },
+        {
+          "value": "Complete Poni Dex"
+        },
+        {
+          "value": "Catch all 4 Oricorio"
+        },
+        {
+          "value": "Catch all Minior"
+        },
+      ]
+    },
+    {
+      "name": "In-game Trades",
+      "entries": [
+        {
+          "value": "Spearow for Hawlucha",
+          "help": "Route 2 PC"
+        },
+        {
+          "value": "Lillipup for Noibat",
+          "help": "Route 5 PC"
+        },
+        {
+          "value": "Tentacool for Barboach",
+          "help": "Royal Avenue PC"
+        },
+        {
+          "value": "Trumbeak for Arbok",
+          "help": "Rpite 8 PC"
+        },
+        {
+          "value": "Phantump for Trevenant",
+          "help": "Tapu Village PC"
+        },
+        {
+          "value": "Granbull for West Sea Shellos",
+          "help": "Seafolk Village"
+        },
+        {
+          "value": "Bewear for Tauros",
+          "help": "Poni Gauntlet"
+        }
+      ]
+    },
+    {
+      "name": "In-game Gifts",
+      "entries": [
+        {
+          "value": "Ash Hat Pikachu",
+          "help": "QR Code from M20"
+        },
+        {
+          "value": "Magearna",
+          "help": "QR code"
+        },
+        {
+          "value": "Surfing Pikachu",
+          "help": "High score on all Mantine Surf courses"
+        },
+        {
+          "value": "Eevee Egg",
+          "help": "Paniola Ranch"
+        },
+        {
+          "value": "Zygarde",
+          "help": "Defeat Elite 4, Capture wild Zygarde in Resolution Cave, Defeat Dexio"
+        },
+        {
+          "value": "Totem Gumshoos/Raticate",
+          "help": ""
+        },
+        {
+          "value": "Totem Marowak/Araquanid",
+          "help": ""
+        },
+        {
+          "value": "Totem Lurantis/Salazzle",
+          "help": ""
+        },
+        {
+          "value": "Totem Vikavolt/Togedemaru",
+          "help": ""
+        },
+        {
+          "value": "Totem Mimikyu",
+          "help": ""
+        },
+        {
+          "value": "Totem Ribombee/Kommo-oh",
+          "help": ""
+        },
+        {
+          "value": "Porygon",
+          "help": "Aether House after defeating Elite Four"
+        },
+        {
+          "value": "Aerodactyl",
+          "help": "Seafolk Village: Huntail Boat"
+        },
+        {
+          "value": "Type Null",
+          "help": "Ancient Poni Path: Wicke after defeating Elite Four"
+        }
+      ]
+    }
   ]
 }
 
