@@ -353,8 +353,20 @@
       "name": "Oricorio Forms",
       "entries": [
         {
-          "value": "",
-          "help": ""
+          "value": "Baile Style",
+          "help": "Ula'ula Island"
+        },
+        {
+          "value": "Pom-pom Style",
+          "help": "Melemele Island"
+        },
+        {
+          "value": "Pa'u Style",
+          "help": "Akala Island"
+        },
+        {
+          "value": "Sensu Style",
+          "help": "Poni Island"
         }
       ]
     },
