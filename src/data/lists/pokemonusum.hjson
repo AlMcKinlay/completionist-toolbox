@@ -317,8 +317,34 @@
       "name": "Festival Plaza",
       "entries": [
         {
-          "value": "",
-          "help": ""
+          "value": "Reach Level 10"
+        },
+        {
+          "value": "Reach Level 20"
+        },
+        {
+          "value": "Reach Level 30"
+        },
+        {
+          "value": "Reach Level 40"
+        },
+        {
+          "value": "Reach Level 50"
+        },
+        {
+          "value": "Reach Level 60"
+        },
+        {
+          "value": "Reach Level 70"
+        },
+        {
+          "value": "Reach Level 80"
+        },
+        {
+          "value": "Reach Level 90"
+        },
+        {
+          "value": "Reach Level 100"
         }
       ]
     },
