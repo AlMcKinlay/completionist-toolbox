@@ -362,8 +362,25 @@
       "name": "Minior Forms",
       "entries": [
         {
-          "value": "",
-          "help": ""
+          "value": "Red"
+        },
+        {
+          "value": "Orange"
+        },
+        {
+          "value": "Yellow"
+        },
+        {
+          "value": "Green"
+        },
+        {
+          "value": "Blue"
+        },
+        {
+          "value": "Indigo"
+        },
+        {
+          "value": "Violet"
         }
       ]
     },
