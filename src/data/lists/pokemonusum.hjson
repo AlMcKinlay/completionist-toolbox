@@ -371,8 +371,20 @@
       "name": "Mantine Surf",
       "entries": [
         {
-          "value": "",
-          "help": ""
+          "value": "Get the High Score at Big Wave Beach"
+        },
+        {
+          "value": "Get the High Score at Heahea Beach"
+        },
+        {
+          "value": "Get the High Score at Ula'ula Beach"
+        },
+        {
+          "value": "Get the High Score at Poni Beach"
+        },
+        {
+          "value": "Visit the Surf Association",
+          "help": "After all 4 high scores"
         }
       ]
     },
