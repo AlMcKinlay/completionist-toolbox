@@ -208,6 +208,26 @@
           "help": "Defeat Giovanni"
         }
       ]
+    },
+    {
+      "name": "Upgrade Battle Agency",
+      "entries": [
+        {
+          "value": "Level 10"
+        },
+        {
+          "value": "Level 20"
+        },
+        {
+          "value": "Level 30"
+        },
+        {
+          "value": "Level 40"
+        },
+        {
+          "value": "Level 50"
+        }
+      ]
     }
   ]
 }
