@@ -344,8 +344,48 @@
       "name": "Ultra Beasts",
       "entries": [
         {
-          "value": "",
-          "help": ""
+          "value": "Poipole",
+          "help": "Megalo Tower or Ultra Megalopolis"
+        },
+        {
+          "value": "Naganadel",
+          "help": "Evolve from Poipole"
+        },
+        {
+          "value": "Nihilego",
+          "help": "Ultra Deep Sea"
+        },
+        {
+          "value": "Buzzwhole",
+          "help": "Ultra Jungle (Ultra Sun)"
+        },
+        {
+          "value": "Pheremosa",
+          "help": "Ultra Desert (Ultra Moon)"
+        },
+        {
+          "value": "Xirkitree",
+          "help": "Ultra Plant"
+        },
+        {
+          "value": "Kartana",
+          "help": "Ultra Forest (Ultra Sun)"
+        },
+        {
+          "value": "Celesteela",
+          "help": "Ultra Crater (Ultra Moon)"
+        },
+        {
+          "value": "Guzzlord",
+          "help": "Ultra Ruin"
+        },
+        {
+          "value": "Blacephalon",
+          "help": "Poni Grove (Ultra Sun)"
+        },
+        {
+          "value": "Stakataka",
+          "help": "Poni Grove (Ultra Moon)"
         }
       ]
     },
