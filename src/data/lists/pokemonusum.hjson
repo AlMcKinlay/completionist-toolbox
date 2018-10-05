@@ -253,8 +253,13 @@
       "name": "Battle Royal",
       "entries": [
         {
-          "value": "",
-          "help": ""
+          "value": "Reach Super Rank"
+        },
+        {
+          "value": "Reach Hyper Rank"
+        },
+        {
+          "value": "Reach Master Rank"
         }
       ]
     },
