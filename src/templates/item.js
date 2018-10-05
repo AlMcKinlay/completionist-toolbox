@@ -50,7 +50,7 @@ export class Item extends React.Component {
 						<UncontrolledTooltip placement="right" target={`item-tooltip-${this.getName()}`} >
 							<span>
 								<span ref={(helpText) => { this.helpText = helpText; }}>{this.props.help}</span>
-								{this.state.copied ? " (copied)" : " (click to copy)"}
+								{this.props.help.startsWith("http") ? this.state.copied ? " (copied)" : " (click to copy)" : ""}
 								</span>
 						</UncontrolledTooltip>
 					</span>
