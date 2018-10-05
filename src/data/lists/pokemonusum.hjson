@@ -337,6 +337,74 @@
         {
           "value": "Waterium Z",
           "help": "Defeat Lana's Trial"
+        },
+        {
+          "value": "Aloraichium Z",
+          "help": "Have Alolan Raichu in your party and talk to woman in Steelix Sub in Seafolk Village"
+        },
+        {
+          "value": "Decidium Z",
+          "help": "Gifted by Kukui after defeating Guzma first time if Rowlet was starter, otherwise defeat Kahuna Hala after becoming Champion"
+        },
+        {
+          "value": "Eevium Z",
+          "help": "Talk to Veteran Cashier at Thrifty Megamart, defeat all the Eevolution trainers"
+        },
+        {
+          "value": "Incinium Z",
+          "help": "Gifted by Kukui after defeating Guzma first time if Litten was starter, otherwise defeat Kahuna Hala after becoming Champion"
+        },
+        {
+          "value": "Kommonium Z",
+          "help": "Plains Grotto (Poni Island)"
+        },
+        {
+          "value": "Lunalium Z",
+          "help": "From Lillie after catching Lunala or after finding Cosmog in Reverse World"
+        },
+        {
+          "value": "Lycanium Z",
+          "help": "Defeat Hau at Malie City"
+        },
+        {
+          "value": "Marshadium Z",
+          "help": "Show Marshadow to man at Tide Song Hotel, 3F"
+        },
+        {
+          "value": "Mewnium Z",
+          "help": "Show Mew to man at Tide Song Hotel, 3F"
+        },
+        {
+          "value": "Mimikium Z",
+          "help": "Follow Mimikyu through the Thrift Megamart at night"
+        },
+        {
+          "value": "Pikanium Z",
+          "help": "Help the Pikachu at Hano Grand Resort"
+        },
+        {
+          "value": "Pikashunium Z",
+          "help": "Speak with Pikachu in Pikachu Valley after getting Ash Hat Pikachu"
+        },
+        {
+          "value": "Primarium Z",
+          "help": "Gifted by Kukui after defeating Guzma first time if Popplio was starter, otherwise defeat Kahuna Hala after becoming Champion"
+        },
+        {
+          "value": "Snorlium Z",
+          "help": "Show Snorlax to man at Tide Song Hotel, 3F"
+        },
+        {
+          "value": "Solganium Z",
+          "help": "From Lillie after catching Solgaleo or after finding Cosmog in Reverse World"
+        },
+        {
+          "value": "Tapunium Z",
+          "help": "After catching/defeating Tapu Koko after becoming Champion"
+        },
+        {
+          "value": "Ultranecrozium Z",
+          "help": "After catching Ultra Necrozma"
         }
       ]
     },
