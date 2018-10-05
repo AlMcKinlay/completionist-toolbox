@@ -81,16 +81,28 @@
           "help": "QR code"
         },
         {
-          "value": "Surfing Pikachu",
-          "help": "High score on all Mantine Surf courses"
-        },
-        {
           "value": "Eevee Egg",
           "help": "Paniola Ranch"
         },
         {
+          "value": "Aerodactyl",
+          "help": "Seafolk Village: Huntail Boat"
+        },
+        {
+          "value": "Surfing Pikachu",
+          "help": "High score on all Mantine Surf courses"
+        },
+        {
           "value": "Zygarde",
           "help": "Defeat Elite 4, Capture wild Zygarde in Resolution Cave, Defeat Dexio"
+        },
+        {
+          "value": "Porygon",
+          "help": "Aether House after defeating Elite Four"
+        },
+        {
+          "value": "Type Null",
+          "help": "Ancient Poni Path: Wicke after defeating Elite Four"
         },
         {
           "value": "Totem Gumshoos/Raticate",
@@ -115,18 +127,6 @@
         {
           "value": "Totem Ribombee/Kommo-oh",
           "help": ""
-        },
-        {
-          "value": "Porygon",
-          "help": "Aether House after defeating Elite Four"
-        },
-        {
-          "value": "Aerodactyl",
-          "help": "Seafolk Village: Huntail Boat"
-        },
-        {
-          "value": "Type Null",
-          "help": "Ancient Poni Path: Wicke after defeating Elite Four"
         }
       ]
     }
