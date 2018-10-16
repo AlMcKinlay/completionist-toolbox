@@ -3,13 +3,16 @@
   "category": "game",
   "sections": [
     {
-      "name": "Play through",
+      "name": "Battling",
       "entries": [
         {
           "value": "Defeat All Gyms"
         },
         {
           "value": "Defeat Elite 4"
+        },
+        {
+          "value": "Defeat 151 Master Trainers"
         }
       ]
     },
@@ -24,14 +27,6 @@
         },
         {
           "value": "Obtain Meltan"
-        }
-      ]
-    },
-    {
-      "name": "Battling",
-      "entries": [
-        {
-          "value": "Defeat 151 Master Trainers"
         }
       ]
     },
