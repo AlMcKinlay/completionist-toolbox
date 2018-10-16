@@ -12,7 +12,7 @@
           "value": "Defeat Elite 4"
         },
         {
-          "value": "Defeat 151 Master Trainers"
+          "value": "Defeat the 151 Master Trainers"
         }
       ]
     },
@@ -20,13 +20,41 @@
       "name": "Catching",
       "entries": [
         {
-          "value": "Catch first 150"
+          "value": "Trade/Transfer for Growlithe/Vulpix"
+        },
+        {
+          "value": "Trade/Transfer for Oddish/Bellsprout"
+        },
+        {
+          "value": "Trade/Transfer for Sandshrew/Meowth"
+        },
+        {
+          "value": "Catch Articuno",
+          "help": "Unknown location at this point in time"
+        },
+        {
+          "value": "Catch Zapdos",
+          "help": "Unknown location at this point in time"
+        },
+        {
+          "value": "Catch Moltres",
+          "help": "Unknown location at this point in time"
+        },
+        {
+          "value": "Catch Mewtwo",
+          "help": "Cerulean Cave"
         },
         {
           "value": "Get Mew from Pokéball Plus"
         },
         {
           "value": "Obtain Meltan"
+        },
+        {
+          "value": "Obtain Meltan Evolution"
+        },
+        {
+          "value": "Complete Dex"
         }
       ]
     },
@@ -40,7 +68,8 @@
           "value": "Transfer Alolan forms from Go"
         },
         {
-          "value": "Get Meltan in Go"
+          "value": "Get Meltan in Go",
+          "help": "Send any Pokémon to let's go to get the mystery box, and open that in Go to make meltan appear"
         }
       ]
     }
