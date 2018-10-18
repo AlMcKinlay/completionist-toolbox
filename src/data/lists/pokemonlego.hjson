@@ -291,7 +291,7 @@
         },
         {
           "value": "Defeat Venusaur Master Trainer",
-          "help": "To-do"
+          "help": "Route 23, has outrage"
         },
         {
           "value": "Defeat Charmander Master Trainer",
@@ -303,7 +303,7 @@
         },
         {
           "value": "Defeat Charizard Master Trainer",
-          "help": "To-do"
+          "help": "Route 23, has thunderpunch"
         },
         {
           "value": "Defeat Squirtle Master Trainer",
@@ -315,15 +315,15 @@
         },
         {
           "value": "Defeat Blastoise Master Trainer",
-          "help": "To-do"
+          "help": "Unknown, has Dark Pulse"
         },
         {
           "value": "Defeat Caterpie Master Trainer",
-          "help": "To-do"
+          "help": "Route 18"
         },
         {
           "value": "Defeat Metapod Master Trainer",
-          "help": "To-do"
+          "help": "Viridian Forest, North East Corner"
         },
         {
           "value": "Defeat Butterfree Master Trainer",
@@ -331,7 +331,7 @@
         },
         {
           "value": "Defeat Weedle Master Trainer",
-          "help": "To-do"
+          "help": "Viridian Forest"
         },
         {
           "value": "Defeat Kakuna Master Trainer",
@@ -343,7 +343,7 @@
         },
         {
           "value": "Defeat Pidgey Master Trainer",
-          "help": "To-do"
+          "help": "Route 2"
         },
         {
           "value": "Defeat Pidgeotto Master Trainer",
@@ -379,7 +379,7 @@
         },
         {
           "value": "Defeat Pikachu Master Trainer",
-          "help": "To-do"
+          "help": "Viridian Forest, North West (to the East of the North exit)"
         },
         {
           "value": "Defeat Raichu Master Trainer",
@@ -387,7 +387,7 @@
         },
         {
           "value": "Defeat Sandshrew Master Trainer",
-          "help": "To-do"
+          "help": "Route 11"
         },
         {
           "value": "Defeat Sandslash Master Trainer",
@@ -527,7 +527,7 @@
         },
         {
           "value": "Defeat Poliwrath Master Trainer",
-          "help": "To-do"
+          "help": "Cerulean City"
         },
         {
           "value": "Defeat Abra Master Trainer",
@@ -807,11 +807,11 @@
         },
         {
           "value": "Defeat Ditto Master Trainer",
-          "help": "To-do"
+          "help": "Pokemon Mansion, Next to one of the holes in the floor"
         },
         {
           "value": "Defeat Eevee Master Trainer",
-          "help": "To-do"
+          "help": "Route 17"
         },
         {
           "value": "Defeat Vaporeon Master Trainer",
