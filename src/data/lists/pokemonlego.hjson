@@ -72,6 +72,615 @@
           "help": "Send any Pokémon to let's go to get the mystery box, and open that in Go to make meltan appear"
         }
       ]
+    },
+    {
+      "name": "Master Trainers",
+      "entries": [
+        {
+          "value": "Defeat Bulbasaur Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Ivysaur Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Venusaur Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Charmander Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Charmeleon Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Charizard Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Squirtle Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Wartortle Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Blastoise Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Caterpie Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Metapod Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Butterfree Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Weedle Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Kakuna Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Bedrill Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Pidgey Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Pidgeotto Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Pidgeot Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Rattata Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Raticate Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Spearow Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Fearow Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Ekans Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Arbok Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Pikachu Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Raichu Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Sandshrew Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Sandslash Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Nidoran♀ Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Nidorina Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Nidoqueen Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Nidoran♂ Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Nidorino Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Nidoking Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Clefairy Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Clefable Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Vulpix Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Ninetails Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Jigglypuff Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Wigglytuff Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Zubat Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Golbat Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Oddish Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Gloom Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Vileplume Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Paras Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Parasect Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Venonat Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Venomoth Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Diglett Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Dugtrio Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Meowth Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Persian Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Psyduck Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Golduck Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Mankey Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Primeape Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Growlithe Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Arcanine Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Poliwag Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Poliwhirl Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Poliwrath Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Abra Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Kadabra Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Alakazam Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Machop Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Machoke Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Machamp Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Bellsprout Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Weepinbell Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Victreebel Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Tentacool Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Tentacruel Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Geodude Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Graveler Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Golem Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Ponyta Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Rapidash Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Slowpoke Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Slowbro Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Magnemite Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Magneton Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Fatfetch'd Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Doduo Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Dodrio Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Seel Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Dewgong Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Grimer Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Muk Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Shellder Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Cloyster Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Gastly Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Haunter Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Gengar Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Onix Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Drowzee Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Hypno Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Krabby Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Kingler Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Voltorb Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Electrode Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Exeggcute Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Exeggutor Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Cubone Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Marowak Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Hitmonlee Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Hitmonchan Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Lickitung Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Koffing Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Weezing Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Rhyhorn Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Rhydon Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Chansey Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Tangela Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Kangaskhan Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Horsea Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Seadra Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Goldeen Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Seaking Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Staryu Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Starmie Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Mr Mime Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Scyther Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Jynx Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Electabuzz Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Magmar Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Pinsir Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Tauros Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Magikarp Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Gyarados Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Lapras Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Ditto Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Eevee Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Vaporeon Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Jolteon Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Flareon Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Porygon Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Omanyte Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Omastar Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Kabuto Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Kabutops Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Aerodactyl Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Snorlax Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Articuno Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Zapdos Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Moltres Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Dratini Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Dragonair Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Dragonite Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Mewtwo Master Trainer",
+          "help": "To-do"
+        },
+        {
+          "value": "Defeat Mew Master Trainer",
+          "help": "To-do"
+        },
+      ]
     }
   ]
 }
