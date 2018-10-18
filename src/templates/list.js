@@ -13,8 +13,9 @@ const ListSection = styled.div`
 `;
 
 const List = styled.div`
-	column-count: 3; 
-	column-gap: 0;
+	display: grid;
+	grid-template-columns: repeat(3, 33%);
+	grid-auto-flow: row;
 `;
 
 const mapStateToProps = ({ lists }, {listName, name, entries}) => {
