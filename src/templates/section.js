@@ -55,7 +55,7 @@ export class Section extends React.Component {
 				<Grid>
 					<Completion total={this.total()} completed={this.completed()}></Completion>
 					
-					<StyledButton onClick={this.toggle}>Open</StyledButton>
+					<StyledButton onClick={this.toggle}>View List</StyledButton>
 				</Grid>
 				<Modal isOpen={this.state.modal} toggle={this.toggle} className={this.props.className}>
 					<ModalHeader toggle={this.toggle}>{this.props.name}</ModalHeader>
