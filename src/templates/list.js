@@ -14,8 +14,15 @@ const ListSection = styled.div`
 
 const List = styled.div`
 	display: grid;
-	grid-template-columns: repeat(3, 33%);
 	grid-auto-flow: row;
+	
+	@media only screen  and (min-width : 480px) {
+		grid-template-columns: repeat(2, 50%);
+	}
+	
+	@media only screen  and (min-width : 768px) {
+		grid-template-columns: repeat(3, 33%);
+	}
 `;
 
 const mapStateToProps = ({ lists }, {listName, name, entries}) => {
