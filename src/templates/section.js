@@ -1,6 +1,13 @@
 import React from "react";
 import { Card, CardTitle, Button,  ListGroup, Modal, ModalHeader, ModalBody, ModalFooter } from 'reactstrap';
 import { Item } from "./item";
+import styled from "styled-components";
+
+const Title = styled(CardTitle)`
+	overflow: hidden;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+`;
 
 export class Section extends React.Component {
 	constructor(props) {
@@ -23,7 +30,7 @@ export class Section extends React.Component {
 
 		return (
 			<Card body className="text-center">
-				<CardTitle>{this.props.name}</CardTitle>
+				<Title title={this.props.name}>{this.props.name}</Title>
 				
 				<Button onClick={this.toggle}>Open</Button>
 				<Modal isOpen={this.state.modal} toggle={this.toggle} className={this.props.className}>
