@@ -3,10 +3,6 @@ import CircularProgressbar from 'react-circular-progressbar';
 
 export class Completion extends React.Component {
 
-	constructor(props) {
-		super(props);
-	}
-
 	getPercentage() {
         if (!this.props.completed || !this.props.total) {
             return 0;
