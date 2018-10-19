@@ -3,20 +3,6 @@
   "category": "game",
   "sections": [
     {
-      "name": "Battling",
-      "entries": [
-        {
-          "value": "Defeat All Gyms"
-        },
-        {
-          "value": "Defeat Elite 4"
-        },
-        {
-          "value": "Defeat the 151 Master Trainers"
-        }
-      ]
-    },
-    {
       "name": "Catching",
       "entries": [
         {
@@ -55,6 +41,20 @@
         },
         {
           "value": "Complete Dex"
+        }
+      ]
+    },
+    {
+      "name": "Battling",
+      "entries": [
+        {
+          "value": "Defeat All Gyms"
+        },
+        {
+          "value": "Defeat Elite 4"
+        },
+        {
+          "value": "Defeat the 151 Master Trainers"
         }
       ]
     },
