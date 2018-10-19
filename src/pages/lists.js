@@ -1,8 +1,23 @@
 import React from 'react';
-import { Row, Col } from 'reactstrap';
 import Category from '../templates/categoryCard';
 import { graphql } from 'gatsby';
 import Layout from "../components/layout"
+import styled from "styled-components";
+
+const CategorySection = styled.div`
+	display: block !important;
+	break-inside: avoid;
+	padding: 10px;
+`;
+
+const List = styled.div`
+	display: grid;
+	grid-auto-flow: row;
+	
+	@media only screen  and (min-width : 768px) {
+		grid-template-columns: repeat(2, 50%);
+	}
+`;
 
 export default ({data: {allListsHJson: {edges: entries}}}) => {
 	
@@ -20,18 +35,14 @@ export default ({data: {allListsHJson: {edges: entries}}}) => {
 	});
 	return (
 		<Layout>
-		<div className="row">
-			<div className="col">
 				<h2>Lists</h2>
-				<Row>
+				<List>
 					{categories.map((category) =>
-						<Col key={category.name}>
+						<CategorySection>
 							<Category name={category.name} entries={category.entries} />
-						</Col>
+						</CategorySection>
 					)}
-				</Row>
-			</div>
-		</div>
+				</List>
 		</Layout>
 	);
 }
