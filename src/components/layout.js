@@ -4,6 +4,7 @@ import Helmet from 'react-helmet';
 
 import Header from './header';
 import './index.css';
+import 'react-circular-progressbar/dist/styles.css';
 
 const TemplateWrapper = ({ children }) => (
   <div>
