@@ -25,6 +25,14 @@ export class Section extends React.Component {
 			modal: !this.state.modal
 		});
 	}
+	
+	total() {
+		return this.props.entries.length;
+	}
+	
+	completed() {
+		return this.props.state.entries.length;
+	}
 
 	render() {
 		console.log(`${this.props.name} rendered with state: ${this.props.state.entries}`);
@@ -32,7 +40,7 @@ export class Section extends React.Component {
 		return (
 			<Card body className="text-center">
 				<Title title={this.props.name}>{this.props.name}</Title>
-				<Completion></Completion>
+					<Completion total={this.total()} completed={this.completed()}></Completion>
 				
 				<Button onClick={this.toggle}>Open</Button>
 				<Modal isOpen={this.state.modal} toggle={this.toggle} className={this.props.className}>

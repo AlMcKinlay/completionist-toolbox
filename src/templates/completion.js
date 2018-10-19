@@ -8,8 +8,11 @@ export class Completion extends React.Component {
 	}
 
 	getPercentage() {
-        return 67;
-    }
+        if (!this.props.completed || !this.props.total) {
+            return 0;
+        }
+        return ((this.props.completed / this.props.total) * 100).toFixed(2);
+    } 
 
 	render() {
 		return (
