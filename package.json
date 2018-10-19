@@ -14,6 +14,7 @@
     "gatsby-transformer-hjson": "^2.1.1",
     "jquery": "3.3.1",
     "react": "16.5.2",
+    "react-circular-progressbar": "^1.0.0",
     "react-dom": "16.5.2",
     "react-font-awesome-5": "0.2.2",
     "react-helmet": "5.2.0",

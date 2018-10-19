@@ -1,6 +1,7 @@
 import React from "react";
 import { Card, CardTitle, Button,  ListGroup, Modal, ModalHeader, ModalBody, ModalFooter } from 'reactstrap';
 import { Item } from "./item";
+import { Completion } from "./completion";
 import styled from "styled-components";
 
 const Title = styled(CardTitle)`
@@ -31,6 +32,7 @@ export class Section extends React.Component {
 		return (
 			<Card body className="text-center">
 				<Title title={this.props.name}>{this.props.name}</Title>
+				<Completion></Completion>
 				
 				<Button onClick={this.toggle}>Open</Button>
 				<Modal isOpen={this.state.modal} toggle={this.toggle} className={this.props.className}>
