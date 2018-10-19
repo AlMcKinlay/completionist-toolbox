@@ -10,6 +10,18 @@ const Title = styled(CardTitle)`
 	text-overflow: ellipsis;
 `;
 
+const Grid = styled.div`
+	display:grid;
+	grid-auto-flow: row;
+	grid-template-columns: repeat(4, 1fr);
+`;
+
+const StyledButton = styled(Button)`
+	margin-top: 15px;
+	margin-bottom: 15px;
+	grid-column: 4;
+`;
+
 export class Section extends React.Component {
 	constructor(props) {
 		super(props);
@@ -40,9 +52,11 @@ export class Section extends React.Component {
 		return (
 			<Card body className="text-center">
 				<Title title={this.props.name}>{this.props.name}</Title>
+				<Grid>
 					<Completion total={this.total()} completed={this.completed()}></Completion>
-				
-				<Button onClick={this.toggle}>Open</Button>
+					
+					<StyledButton onClick={this.toggle}>Open</StyledButton>
+				</Grid>
 				<Modal isOpen={this.state.modal} toggle={this.toggle} className={this.props.className}>
 					<ModalHeader toggle={this.toggle}>{this.props.name}</ModalHeader>
 					<ModalBody>
