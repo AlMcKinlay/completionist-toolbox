@@ -8,11 +8,13 @@ import 'react-circular-progressbar/dist/styles.css';
 
 import screenshot from './screenshot.png';
 
+const url = "https://toolbox.yamanickill.com";
+
 const data = {
-  url: "https://toolbox.yamanickill.com",
+  url: url,
   title: "The Completionist's Toolbox",
   description: "A tool for completionists of all types",
-  image: screenshot
+  image: `${url}${screenshot}`
 }
 
 const TemplateWrapper = ({ children }) => (
