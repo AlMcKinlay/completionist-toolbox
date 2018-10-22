@@ -1,5 +1,6 @@
 import React from "react";
-import { ListGroupItem, UncontrolledTooltip } from 'reactstrap';
+import { UncontrolledTooltip } from 'reactstrap';
+import { ThemedListItem } from '../components/ThemedList';
 import { Icon } from "react-font-awesome-5";
 
 const selectedStyle = {
@@ -41,7 +42,7 @@ export class Item extends React.Component {
 
 	render() {
 		return (
-			<ListGroupItem onClick={this.props.clickItem} style={this.props.selected ? selectedStyle : null}>
+			<ThemedListItem onClick={this.props.clickItem} style={this.props.selected ? selectedStyle : null}>
 				{this.props.selected  ? <Icon.CheckSquare.regular /> : <Icon.Square.regular />}
 				{" " + this.props.name}
 				{this.props.help &&
@@ -55,7 +56,7 @@ export class Item extends React.Component {
 						</UncontrolledTooltip>
 					</span>
 				}
-			</ListGroupItem>
+			</ThemedListItem>
 		);
 	}
 }
