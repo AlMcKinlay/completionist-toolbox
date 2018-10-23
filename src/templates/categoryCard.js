@@ -1,20 +1,26 @@
 import React from 'react';
-import { ListGroup, ListGroupItem, Card, CardHeader } from 'reactstrap';
+import { ThemedListGroup, ThemedListItem } from '../components/ThemedList';
 import Link from "gatsby-link";
+import { ThemedCard, ThemedCardHeader } from "../components/ThemedCard";
+import styled from "styled-components";
+
+const MyLink = styled(Link)`
+	color: ${props => props.theme.textColor()};
+`;
 
 export default ({name, entries}) => {
 	return (
-		<Card>
-			<CardHeader>{name.charAt(0).toUpperCase()}{name.slice(1)}s</CardHeader>
-			<ListGroup>
+		<ThemedCard>
+			<ThemedCardHeader>{name.charAt(0).toUpperCase()}{name.slice(1)}s</ThemedCardHeader>
+			<ThemedListGroup>
 				{entries.map(({name, fields: {slug}}) =>
-					<ListGroupItem key={slug}>
-						<Link to={slug}>
+					<ThemedListItem key={slug}>
+						<MyLink to={slug}>
 							{name.charAt(0).toUpperCase()}{name.slice(1)}
-						</Link>
-					</ListGroupItem>
+						</MyLink>
+					</ThemedListItem>
 				)}
-			</ListGroup>
-		</Card>
+			</ThemedListGroup>
+		</ThemedCard>
 	);
 }

@@ -1,8 +1,10 @@
 import React from "react";
-import { Card, CardTitle, Button,  ListGroup, Modal, ModalHeader, ModalBody, ModalFooter } from 'reactstrap';
+import { CardTitle, Button,  ListGroup } from 'reactstrap';
 import { Item } from "./item";
 import { Completion } from "./completion";
 import styled from "styled-components";
+import { ThemedCard } from "../components/ThemedCard";
+import { ThemedModal, ThemedModalBody, ThemedModalFooter, ThemedModalHeader } from "../components/ThemedModal";
 
 const Title = styled(CardTitle)`
 	overflow: hidden;
@@ -50,16 +52,16 @@ export class Section extends React.Component {
 		console.log(`${this.props.name} rendered with state: ${this.props.state.entries}`);
 
 		return (
-			<Card body className="text-center">
+			<ThemedCard body className="text-center">
 				<Title title={this.props.name}>{this.props.name}</Title>
 				<Grid>
 					<Completion total={this.total()} completed={this.completed()}></Completion>
 					
 					<StyledButton onClick={this.toggle}>View List</StyledButton>
 				</Grid>
-				<Modal isOpen={this.state.modal} toggle={this.toggle} className={this.props.className}>
-					<ModalHeader toggle={this.toggle}>{this.props.name}</ModalHeader>
-					<ModalBody>
+				<ThemedModal isOpen={this.state.modal} toggle={this.toggle} className={this.props.className}>
+					<ThemedModalHeader toggle={this.toggle}>{this.props.name}</ThemedModalHeader>
+					<ThemedModalBody>
 						<ListGroup>
 							{this.props.entries.map((entry) =>
 								<div key={entry.value}>
@@ -71,12 +73,12 @@ export class Section extends React.Component {
 								</div>
 							)}
 						</ListGroup>
-					</ModalBody>
-					<ModalFooter>
+					</ThemedModalBody>
+					<ThemedModalFooter>
 						<Button color="primary" onClick={this.toggle}>Close</Button>
-					</ModalFooter>
-				</Modal>
-			</Card>
+					</ThemedModalFooter>
+				</ThemedModal>
+			</ThemedCard>
 		);
 	}
 }

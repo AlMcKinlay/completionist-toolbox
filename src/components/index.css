@@ -1,1 +1,6 @@
 @import '../../node_modules/bootstrap/dist/css/bootstrap.css';
+
+:root{
+    --blue: #0099C6;
+    --black: #282828;
+}
