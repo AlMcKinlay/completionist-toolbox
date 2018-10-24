@@ -34,10 +34,12 @@
           "value": "Get Mew from Pokéball Plus"
         },
         {
-          "value": "Obtain Meltan"
+          "value": "Obtain Meltan",
+          "help": "Transfer a Pokémon from Go to Let's Go, then get the mystery box, catch meltan, transfer from Go"
         },
         {
-          "value": "Obtain Meltan Evolution"
+          "value": "Obtain Melmetal",
+          "help": "Evolve Meltan (400 candy in Pokémon Go)"
         },
         {
           "value": "Complete Dex"
