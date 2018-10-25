@@ -3961,7 +3961,20 @@ gatsby-cli@^2.4.3:
     yargs "^11.1.0"
     yurnalist "^0.2.1"
 
+<<<<<<< greenkeeper/gatsby-link-2.0.5
+gatsby-link@2.0.5:
+  version "2.0.5"
+  resolved "https://registry.yarnpkg.com/gatsby-link/-/gatsby-link-2.0.5.tgz#67ed7bf67c892452695659e0e0fc0f9ba5c1fc34"
+  dependencies:
+    "@babel/runtime" "^7.0.0"
+    "@reach/router" "^1.1.1"
+    "@types/reach__router" "^1.0.0"
+    prop-types "^15.6.1"
+
+gatsby-link@^2.0.4:
+=======
 gatsby-link@2.0.4:
+>>>>>>> master
   version "2.0.4"
   resolved "https://registry.yarnpkg.com/gatsby-link/-/gatsby-link-2.0.4.tgz#2af30f21171261d7b5ab61954704a399f81ca28f"
   dependencies:
