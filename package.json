@@ -9,7 +9,7 @@
     "bootstrap": "4.1.3",
     "gatsby-link": "2.0.5",
     "gatsby": "2.0.31",
-    "gatsby-plugin-react-helmet": "3.0.0",
+    "gatsby-plugin-react-helmet": "3.0.1",
     "gatsby-plugin-styled-components": "3.0.0",
     "gatsby-source-filesystem": "2.0.5",
     "gatsby-transformer-hjson": "^2.1.1",
