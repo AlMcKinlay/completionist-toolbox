@@ -52,22 +52,22 @@
       "name": "Catching",
       "entries": [
         {
-          "value": "Trade/Transfer for Growlithe/Vulpix"
+          "value": "Trade or Transfer for Growlithe or Vulpix"
         },
         {
-          "value": "Trade/Transfer for Oddish/Bellsprout"
+          "value": "Trade or Transfer for Oddish or Bellsprout"
         },
         {
-          "value": "Trade/Transfer for Sandshrew/Meowth"
+          "value": "Trade or Transfer for Sandshrew or Meowth"
         },
         {
-          "value": "Trade/Transfer for Mankey/Ekans"
+          "value": "Trade or Transfer for Mankey or Ekans"
         },
         {
-          "value": "Trade/Transfer for Grimer/Koffing"
+          "value": "Trade or Transfer for Grimer or Koffing"
         },
         {
-          "value": "Trade/Transfer for Scyther/Pinsir"
+          "value": "Trade or Transfer for Scyther or Pinsir"
         },
         {
           "value": "Catch Articuno",
@@ -121,15 +121,15 @@
           "help": "Capture over 60 Pokemon, Officer Jenny Vermilion City"
         },
         {
-          "value": "Persian/Arcanine",
-          "help": "Capture 5 Growlithe/Meowth, Blackbelt Vermilion City"
+          "value": "Persian or Arcanine",
+          "help": "Capture 5 Growlithe or Meowth, Blackbelt Vermilion City"
         },
         {
           "value": "Lapras",
           "help": "Silph Co."
         },
         {
-          "value": "Hitmonlee/Hitmonchan",
+          "value": "Hitmonlee or Hitmonchan",
           "help": "Defeat Fighting Dojo, Saffron City"
         },
         {
@@ -137,7 +137,7 @@
           "help": "Defeat Team Rocket in Silph Co., Saffron City"
         },
         {
-          "value": "Omanyte/Kabuto",
+          "value": "Omanyte or Kabuto",
           "help": "Fossil, Mt. Moon"
         },
         {
@@ -177,7 +177,7 @@
           "help": "Lavender Town PC"
         },
         {
-          "value": "Kantonian Sandshrew/Vulpix for Alolan Sandshrew/Vulpix",
+          "value": "Kantonian Sandshrew or Vulpix for Alolan Sandshrew or Vulpix",
           "help": "Celadon City PC"
         },
         {
@@ -189,7 +189,7 @@
           "help": "Fuchsia City PC"
         },
         {
-          "value": "Kantonian Grimer/Meowth for Alolan Grimer/Meowth",
+          "value": "Kantonian Grimer or Meowth for Alolan Grimer or Meowth",
           "help": "Cinnabar Island PC"
         },
         {
