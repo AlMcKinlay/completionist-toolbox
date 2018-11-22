@@ -3,6 +3,52 @@
   "category": "game",
   "sections": [
     {
+      "name": "Battling",
+      "entries": [
+        {
+          "value": "Defeat All Gyms"
+        },
+        {
+          "value": "Defeat Elite 4"
+        },
+        {
+          "value": "Defeat the 151 Master Trainers"
+        },
+        {
+          "value": "Defeat Mina",
+          "help": "Vermilion City Dock"
+        },
+        {
+          "value": "Defeat Mina as Champion",
+          "help": "Vermilion City Dock"
+        },
+        {
+          "value": "Defeat Red",
+          "help": "Outside Indigo Plateau. Beat 6 master trainers, and have 6 pokemon in your party."
+        },
+        {
+          "value": "Defeat Blue final time",
+          "help": "Viridian City after defeating Elite Four."
+        },
+        {
+          "value": "Defeat Green first time",
+          "help": "Cerulean Cave after defeating the Elite Four."
+        },
+        {
+          "value": "Defeat Green second time",
+          "help": "Daily outside Bike Shop, Cerulean City (after defeating her the first time)"
+        },
+        {
+          "value": "Defeat Archer as Champion",
+          "help": "Rocket Hideout after defeating Elite Four"
+        },
+        {
+          "value": "Defeat Jessie and James as Champion",
+          "help": "Route 17 after defeating Elite Four"
+        }
+      ]
+    },
+    {
       "name": "Catching",
       "entries": [
         {
@@ -15,16 +61,25 @@
           "value": "Trade/Transfer for Sandshrew/Meowth"
         },
         {
+          "value": "Trade/Transfer for Mankey/Ekans"
+        },
+        {
+          "value": "Trade/Transfer for Grimer/Koffing"
+        },
+        {
+          "value": "Trade/Transfer for Scyther/Pinsir"
+        },
+        {
           "value": "Catch Articuno",
-          "help": "Unknown location at this point in time"
+          "help": "Seafoam Islands"
         },
         {
           "value": "Catch Zapdos",
-          "help": "Unknown location at this point in time"
+          "help": "Power Plant"
         },
         {
           "value": "Catch Moltres",
-          "help": "Unknown location at this point in time"
+          "help": "Victory Road"
         },
         {
           "value": "Catch Mewtwo",
@@ -35,7 +90,7 @@
         },
         {
           "value": "Obtain Meltan",
-          "help": "Transfer a Pokémon from Go to Let's Go, then get the mystery box, catch meltan, transfer from Go"
+          "help": "Send any Pokémon to let's go to get the mystery box, and open that in Go to make meltan appear"
         },
         {
           "value": "Obtain Melmetal",
@@ -47,17 +102,48 @@
       ]
     },
     {
-      "name": "Battling",
+      "name": "\"Gift\" Pokemon",
       "entries": [
         {
-          "value": "Defeat All Gyms"
+          "value": "Magikarp",
+          "help": "Purchase for 500, Route 4 PC"
         },
         {
-          "value": "Defeat Elite 4"
+          "value": "Bulbasaur",
+          "help": "Capture over 30 Pokemon, Woman in house next to Cerulean City PC"
         },
         {
-          "value": "Defeat the 151 Master Trainers"
-        }
+          "value": "Charmander",
+          "help": "Capture over 50 Pokemon, Man in top left Route 24"
+        },
+        {
+          "value": "Squirtle",
+          "help": "Capture over 60 Pokemon, Officer Jenny Vermilion City"
+        },
+        {
+          "value": "Persian/Arcanine",
+          "help": "Capture 5 Growlithe/Meowth, Blackbelt Vermilion City"
+        },
+        {
+          "value": "Lapras",
+          "help": "Silph Co."
+        },
+        {
+          "value": "Hitmonlee/Hitmonchan",
+          "help": "Defeat Fighting Dojo, Saffron City"
+        },
+        {
+          "value": "Porygon",
+          "help": "Defeat Team Rocket in Silph Co., Saffron City"
+        },
+        {
+          "value": "Omanyte/Kabuto",
+          "help": "Fossil, Mt. Moon"
+        },
+        {
+          "value": "Aerodactyl",
+          "help": "Old Amber, Museum Pewter City"
+        },
       ]
     },
     {
@@ -76,207 +162,284 @@
       ]
     },
     {
+      "name": "In-game Trades",
+      "entries": [
+        {
+          "value": "Kantonian Rattata for Alolan Rattata",
+          "help": "Cerulean City PC"
+        },
+        {
+          "value": "Kantonian Geodude for Alolan Geodude",
+          "help": "Vermilion City PC"
+        },
+        {
+          "value": "Kantonian Diglett for Alolan Diglett",
+          "help": "Lavender Town PC"
+        },
+        {
+          "value": "Kantonian Sandshrew/Vulpix for Alolan Sandshrew/Vulpix",
+          "help": "Celadon City PC"
+        },
+        {
+          "value": "Kantonian Raichu for Alolan Raichu",
+          "help": "Saffron City PC"
+        },
+        {
+          "value": "Kantonian Marowak for Alolan Marowak",
+          "help": "Fuchsia City PC"
+        },
+        {
+          "value": "Kantonian Grimer/Meowth for Alolan Grimer/Meowth",
+          "help": "Cinnabar Island PC"
+        },
+        {
+          "value": "Kantonian Exeggutor for Alolan Exeggutor",
+          "help": "Indigo Plateau"
+        },
+      ]
+    },
+    {
       "name": "TMs",
       "entries": [
         {
-          "value": "TM01 ()",
-          "help": ""
+          "value": "TM01 (Headbutt)",
+          "help": "Defeat Brock"
         },
         {
-          "value": "TM02 ()",
-          "help": ""
+          "value": "TM02 (Taunt)",
+          "help": "Scientist in Research Lab, Cinnabar Island"
         },
         {
-          "value": "TM03 ()",
-          "help": ""
+          "value": "TM03 (Helping Hand)",
+          "help": "3F Pokémart, Celadon City"
         },
         {
-          "value": "TM04 ()",
-          "help": ""
+          "value": "TM04 (Teleport)",
+          "help": "Next to Channeler Jody, 4F Pokemon Tower"
         },
         {
-          "value": "TM05 ()",
-          "help": ""
+          "value": "TM05 (Rest)",
+          "help": "Middle of tile puzzle, B2F Rocket Hideout"
         },
         {
-          "value": "TM06 ()",
-          "help": ""
+          "value": "TM06 (Light Screen)",
+          "help": "Give girl in Celadon City department store a fresh water"
         },
         {
-          "value": "TM07 ()",
-          "help": ""
+          "value": "TM07 (Protect)",
+          "help": "Give girl in Celadon City department store a lemonade"
         },
         {
-          "value": "TM08 ()",
-          "help": ""
+          "value": "TM08 (Substitute)",
+          "help": "Show copycat a clefairy, Saffron City"
         },
         {
-          "value": "TM09 ()",
-          "help": ""
+          "value": "TM09 (Reflect)",
+          "help": "Give girl in Celadon City department store a soda pop"
         },
         {
-          "value": "TM10 ()",
-          "help": ""
+          "value": "TM10 (Dig)",
+          "help": "Defeat Rocket Grunt, Cerulean City"
         },
         {
-          "value": "TM11 ()",
-          "help": ""
+          "value": "TM11 (Will-O-Wisp)",
+          "help": "Man behind tree in south-west of Viridian City"
         },
         {
-          "value": "TM12 ()",
-          "help": ""
+          "value": "TM12 (Facade)",
+          "help": "Defeat Coath Trainer Alpesh, Route 7"
         },
         {
-          "value": "TM13 ()",
-          "help": ""
+          "value": "TM13 (Brick Break)",
+          "help": "Defeat Coach Trainer Tasha, Route 10"
         },
         {
-          "value": "TM14 ()",
-          "help": ""
+          "value": "TM14 (Fly)",
+          "help": "From girl in house in the north of Route 16"
         },
         {
-          "value": "TM15 ()",
-          "help": ""
+          "value": "TM15 (Seismic Toss)",
+          "help": "Defeat Coach Trainer Amala, Route 25"
         },
         {
-          "value": "TM16 ()",
-          "help": ""
+          "value": "TM16 (Thunder Wave)",
+          "help": "Behind tree at the end of Route 25"
         },
         {
-          "value": "TM17 ()",
-          "help": ""
+          "value": "TM17 (Dragon Tail)",
+          "help": "Celadon City Department Store, 1F"
         },
         {
-          "value": "TM18 ()",
-          "help": ""
+          "value": "TM18 (U-turn)",
+          "help": "Celadon City Department Store, 1F"
         },
         {
-          "value": "TM19 ()",
-          "help": ""
+          "value": "TM19 (Iron Tail)",
+          "help": "Celadon City Department Store, 1F"
         },
         {
-          "value": "TM20 ()",
-          "help": ""
+          "value": "TM20 (Dark Pulse)",
+          "help": "South of female Grunt, B3F Rocket Hidehout"
         },
         {
-          "value": "TM21 ()",
-          "help": ""
+          "value": "TM21 (Foul Play)",
+          "help": "Top Right Room, 3F Pokemon Mansion"
         },
         {
-          "value": "TM22 ()",
-          "help": ""
+          "value": "TM22 (Rock Slide)",
+          "help": "Defeat Coach Trainer Rita, 2F Pokemon Mansion"
         },
         {
-          "value": "TM23 ()",
-          "help": ""
+          "value": "TM23 (Thunder Punch)",
+          "help": "Defeat Coach Trainer Leona, Saffron City Fighting Dojo"
         },
         {
-          "value": "TM24 ()",
-          "help": ""
+          "value": "TM24 (X-Scissor)",
+          "help": "On island south of gate, Route 12"
         },
         {
-          "value": "TM25 ()",
-          "help": ""
+          "value": "TM25 (Waterfall)",
+          "help": "Celadon City Department Store, 1F"
         },
         {
-          "value": "TM26 ()",
-          "help": ""
+          "value": "TM26 (Poison Jab)",
+          "help": "From man across pond in Celadon city"
         },
         {
-          "value": "TM27 ()",
-          "help": ""
+          "value": "TM27 (Toxic)",
+          "help": "Defeat Koga"
         },
         {
-          "value": "TM28 ()",
-          "help": ""
+          "value": "TM28 (Tri Attack)",
+          "help": "Celadon City Department Store, 1F"
         },
         {
-          "value": "TM29 ()",
-          "help": ""
+          "value": "TM29 (Scald)",
+          "help": "Defeat Misty"
         },
         {
-          "value": "TM30 ()",
-          "help": ""
+          "value": "TM30 (Bulk Up)",
+          "help": "Celadon City Department Store, 1F"
         },
         {
-          "value": "TM31 ()",
-          "help": ""
+          "value": "TM31 (Fire Punch)",
+          "help": "Defeat Coach Trainer Midge, TM31"
         },
         {
-          "value": "TM32 ()",
-          "help": ""
+          "value": "TM32 (Dazzling Gleam)",
+          "help": "In house south of Snorlax, Route 12"
         },
         {
-          "value": "TM33 ()",
-          "help": ""
+          "value": "TM33 (Calm Mind)",
+          "help": "Defeat Sabrina"
         },
         {
-          "value": "TM34 ()",
-          "help": ""
+          "value": "TM34 (Dragon Pulse)",
+          "help": "Under desk in room on right, 7F Silph Co"
         },
         {
-          "value": "TM35 ()",
-          "help": ""
+          "value": "TM35 (Ice Punch)",
+          "help": "Defeat Coach Trainer Pam, Route 21"
         },
         {
-          "value": "TM36 ()",
-          "help": ""
+          "value": "TM36 (Thunderbolt)",
+          "help": "Defeat Lt. Surge"
         },
         {
-          "value": "TM37 ()",
-          "help": ""
+          "value": "TM37 (Flamethrower)",
+          "help": "Bottom left room, 10F Silph Co"
         },
         {
-          "value": "TM38 ()",
-          "help": ""
+          "value": "TM38 (Thunder)",
+          "help": "South of Power Plant"
         },
         {
-          "value": "TM39 ()",
-          "help": ""
+          "value": "TM39 (Outrage)",
+          "help": "Defeat Coach Trainer Ryan, 3F Victory Road"
         },
         {
-          "value": "TM40 ()",
-          "help": ""
+          "value": "TM40 (Psychic)",
+          "help": "From man in south east house of Saffron City"
         },
         {
-          "value": "TM41 ()",
-          "help": ""
+          "value": "TM41 (Earthquake)",
+          "help": "Defeat Giovanni"
         },
         {
-          "value": "TM42 ()",
-          "help": ""
+          "value": "TM42 (Self-Destruct)",
+          "help": "From woman in top-left room, 2F Silph co."
         },
         {
-          "value": "TM43 ()",
-          "help": ""
+          "value": "TM43 (Shadow Ball)",
+          "help": "Celadon City Department Store, 1F"
         },
         {
-          "value": "TM44 ()",
-          "help": ""
+          "value": "TM44 (Play Rough)",
+          "help": "Top of building, down path behind Pokémon centre in Celadon City"
         },
         {
-          "value": "TM45 ()",
-          "help": ""
+          "value": "TM45 (Solar Beam)",
+          "help": "2F Victory Road"
         },
         {
-          "value": "TM46 ()",
-          "help": ""
+          "value": "TM46 (Fire Blast)",
+          "help": "Defeat Blaine"
         },
         {
-          "value": "TM47 ()",
-          "help": ""
+          "value": "TM47 (Surf)",
+          "help": "Top left of Route 15"
         },
         {
-          "value": "TM48 ()",
-          "help": ""
+          "value": "TM48 (Hyper Beam)",
+          "help": "Celadon City Department Store, 1F"
         },
         {
-          "value": "TM49 ()",
-          "help": ""
+          "value": "TM49 (Superpower)",
+          "help": "2F Victory Road"
         },
         {
-          "value": "TM50 ()",
-          "help": ""
+          "value": "TM50 (Roost)",
+          "help": "From girl upstairs in route gate, Route 12"
+        },
+        {
+          "value": "TM51 (Blizzard)",
+          "help": "3F Victory Road"
+        },
+        {
+          "value": "TM52 (Sludge Bomb)",
+          "help": "Middle bottom room, B1F Pokemon Mansion"
+        },
+        {
+          "value": "TM53 (Mega Drain)",
+          "help": "Defeat Erica"
+        },
+        {
+          "value": "TM54 (Flash Cannon)",
+          "help": "Bottom left room, 5F Silph Co."
+        },
+        {
+          "value": "TM55 (Ice Beam)",
+          "help": "South West Seafoam Islands"
+        },
+        {
+          "value": "TM56 (Stealth Rock)",
+          "help": "1F Victory Road"
+        },
+        {
+          "value": "TM57 (Pay Day)",
+          "help": "Defeat Coach Trainer Oberon, Route 4"
+        },
+        {
+          "value": "TM58 (Drill Run)",
+          "help": "Defeat Coach Trainer Grantlet, Route 17"
+        },
+        {
+          "value": "TM59 (Dream Eater)",
+          "help": "Defeat Coach Trainer Priya, Route 12"
+        },
+        {
+          "value": "TM60 (Megahorn)",
+          "help": "Defeat Coach Trainer Harjit, Cerulean City"
         },
       ]
     },
@@ -285,39 +448,39 @@
       "entries": [
         {
           "value": "Defeat Bulbasaur Master Trainer",
-          "help": "To-do"
+          "help": "Route 4"
         },
         {
           "value": "Defeat Ivysaur Master Trainer",
-          "help": "To-do"
+          "help": "Route 14"
         },
         {
           "value": "Defeat Venusaur Master Trainer",
-          "help": "Route 23, has outrage"
+          "help": "Route 23"
         },
         {
           "value": "Defeat Charmander Master Trainer",
-          "help": "To-do"
+          "help": "Celadon City"
         },
         {
           "value": "Defeat Charmeleon Master Trainer",
-          "help": "To-do"
+          "help": "Route 10"
         },
         {
           "value": "Defeat Charizard Master Trainer",
-          "help": "Route 23, has thunderpunch"
+          "help": "Route 23"
         },
         {
           "value": "Defeat Squirtle Master Trainer",
-          "help": "To-do"
+          "help": "Route 12"
         },
         {
           "value": "Defeat Wartortle Master Trainer",
-          "help": "To-do"
+          "help": "Route 20"
         },
         {
           "value": "Defeat Blastoise Master Trainer",
-          "help": "Unknown, has Dark Pulse"
+          "help": "Route 20"
         },
         {
           "value": "Defeat Caterpie Master Trainer",
@@ -325,11 +488,11 @@
         },
         {
           "value": "Defeat Metapod Master Trainer",
-          "help": "Viridian Forest, North East Corner"
+          "help": "Route 11"
         },
         {
           "value": "Defeat Butterfree Master Trainer",
-          "help": "To-do"
+          "help": "Route 2"
         },
         {
           "value": "Defeat Weedle Master Trainer",
@@ -337,11 +500,11 @@
         },
         {
           "value": "Defeat Kakuna Master Trainer",
-          "help": "To-do"
+          "help": "Route 13"
         },
         {
           "value": "Defeat Bedrill Master Trainer",
-          "help": "To-do"
+          "help": "Route 8"
         },
         {
           "value": "Defeat Pidgey Master Trainer",
@@ -349,43 +512,43 @@
         },
         {
           "value": "Defeat Pidgeotto Master Trainer",
-          "help": "To-do"
+          "help": "Route 16"
         },
         {
           "value": "Defeat Pidgeot Master Trainer",
-          "help": "To-do"
+          "help": "Route 12"
         },
         {
           "value": "Defeat Rattata Master Trainer",
-          "help": "To-do"
+          "help": "Route 10"
         },
         {
           "value": "Defeat Raticate Master Trainer",
-          "help": "To-do"
+          "help": "Cerulean City"
         },
         {
           "value": "Defeat Spearow Master Trainer",
-          "help": "To-do"
+          "help": "Pewter City"
         },
         {
           "value": "Defeat Fearow Master Trainer",
-          "help": "To-do"
+          "help": "Route 18"
         },
         {
           "value": "Defeat Ekans Master Trainer",
-          "help": "To-do"
+          "help": "Route 4"
         },
         {
           "value": "Defeat Arbok Master Trainer",
-          "help": "To-do"
+          "help": "Rocket Hideout"
         },
         {
           "value": "Defeat Pikachu Master Trainer",
-          "help": "Viridian Forest, North West (to the East of the North exit)"
+          "help": "Viridian Forest"
         },
         {
           "value": "Defeat Raichu Master Trainer",
-          "help": "To-do"
+          "help": "Pokemon Tower"
         },
         {
           "value": "Defeat Sandshrew Master Trainer",
@@ -393,139 +556,139 @@
         },
         {
           "value": "Defeat Sandslash Master Trainer",
-          "help": "To-do"
+          "help": "Route 7"
         },
         {
           "value": "Defeat Nidoran♀ Master Trainer",
-          "help": "To-do"
+          "help": "Route 3"
         },
         {
           "value": "Defeat Nidorina Master Trainer",
-          "help": "To-do"
+          "help": "Underground Path"
         },
         {
           "value": "Defeat Nidoqueen Master Trainer",
-          "help": "To-do"
+          "help": "Route 23"
         },
         {
           "value": "Defeat Nidoran♂ Master Trainer",
-          "help": "To-do"
+          "help": "Route 4"
         },
         {
           "value": "Defeat Nidorino Master Trainer",
-          "help": "To-do"
+          "help": "Underground Path"
         },
         {
           "value": "Defeat Nidoking Master Trainer",
-          "help": "To-do"
+          "help": "Route 23"
         },
         {
           "value": "Defeat Clefairy Master Trainer",
-          "help": "To-do"
+          "help": "Saffron City"
         },
         {
           "value": "Defeat Clefable Master Trainer",
-          "help": "To-do"
+          "help": "Mt. Moon"
         },
         {
           "value": "Defeat Vulpix Master Trainer",
-          "help": "To-do"
+          "help": "Route 6"
         },
         {
           "value": "Defeat Ninetails Master Trainer",
-          "help": "To-do"
+          "help": "Route 9"
         },
         {
           "value": "Defeat Jigglypuff Master Trainer",
-          "help": "To-do"
+          "help": "Pewter City"
         },
         {
           "value": "Defeat Wigglytuff Master Trainer",
-          "help": "To-do"
+          "help": "Silph Co."
         },
         {
           "value": "Defeat Zubat Master Trainer",
-          "help": "To-do"
+          "help": "Rock Tunnel"
         },
         {
           "value": "Defeat Golbat Master Trainer",
-          "help": "To-do"
+          "help": "Victory Road"
         },
         {
           "value": "Defeat Oddish Master Trainer",
-          "help": "To-do"
+          "help": "Viridian City"
         },
         {
           "value": "Defeat Gloom Master Trainer",
-          "help": "To-do"
+          "help": "Pewter City"
         },
         {
           "value": "Defeat Vileplume Master Trainer",
-          "help": "To-do"
+          "help": "Route 14"
         },
         {
           "value": "Defeat Paras Master Trainer",
-          "help": "To-do"
+          "help": "Mt. Moon"
         },
         {
           "value": "Defeat Parasect Master Trainer",
-          "help": "To-do"
+          "help": "Route 2"
         },
         {
           "value": "Defeat Venonat Master Trainer",
-          "help": "To-do"
+          "help": "Route 24"
         },
         {
           "value": "Defeat Venomoth Master Trainer",
-          "help": "To-do"
+          "help": "Route 15"
         },
         {
           "value": "Defeat Diglett Master Trainer",
-          "help": "To-do"
+          "help": "Diglett's Cave"
         },
         {
           "value": "Defeat Dugtrio Master Trainer",
-          "help": "To-do"
+          "help": "Diglett's Cave"
         },
         {
           "value": "Defeat Meowth Master Trainer",
-          "help": "To-do"
+          "help": "Viridian City"
         },
         {
           "value": "Defeat Persian Master Trainer",
-          "help": "To-do"
+          "help": "Rocket Hideout"
         },
         {
           "value": "Defeat Psyduck Master Trainer",
-          "help": "To-do"
+          "help": "Route 21"
         },
         {
           "value": "Defeat Golduck Master Trainer",
-          "help": "To-do"
+          "help": "Route 4"
         },
         {
           "value": "Defeat Mankey Master Trainer",
-          "help": "To-do"
+          "help": "Route 5"
         },
         {
           "value": "Defeat Primeape Master Trainer",
-          "help": "To-do"
+          "help": "Route 11"
         },
         {
           "value": "Defeat Growlithe Master Trainer",
-          "help": "To-do"
+          "help": "Route 7"
         },
         {
           "value": "Defeat Arcanine Master Trainer",
-          "help": "To-do"
+          "help": "Celadon City"
         },
         {
           "value": "Defeat Poliwag Master Trainer",
-          "help": "To-do"
+          "help": "Route 12"
         },
         {
           "value": "Defeat Poliwhirl Master Trainer",
-          "help": "To-do"
+          "help": "Cerulean City"
         },
         {
           "value": "Defeat Poliwrath Master Trainer",
@@ -533,283 +696,283 @@
         },
         {
           "value": "Defeat Abra Master Trainer",
-          "help": "To-do"
+          "help": "Viridian City"
         },
         {
           "value": "Defeat Kadabra Master Trainer",
-          "help": "To-do"
+          "help": "Saffron City"
         },
         {
           "value": "Defeat Alakazam Master Trainer",
-          "help": "To-do"
+          "help": "Route 10"
         },
         {
           "value": "Defeat Machop Master Trainer",
-          "help": "To-do"
+          "help": "Silph Co."
         },
         {
           "value": "Defeat Machoke Master Trainer",
-          "help": "To-do"
+          "help": "Fuchsia City"
         },
         {
           "value": "Defeat Machamp Master Trainer",
-          "help": "To-do"
+          "help": "Vermillion City"
         },
         {
           "value": "Defeat Bellsprout Master Trainer",
-          "help": "To-do"
+          "help": "Viridian City"
         },
         {
           "value": "Defeat Weepinbell Master Trainer",
-          "help": "To-do"
+          "help": "Pokemon Tower"
         },
         {
           "value": "Defeat Victreebel Master Trainer",
-          "help": "To-do"
+          "help": "Celadon City"
         },
         {
           "value": "Defeat Tentacool Master Trainer",
-          "help": "To-do"
+          "help": "Route 20"
         },
         {
           "value": "Defeat Tentacruel Master Trainer",
-          "help": "To-do"
+          "help": "Route 20"
         },
         {
           "value": "Defeat Geodude Master Trainer",
-          "help": "To-do"
+          "help": "Rock Tunnel"
         },
         {
           "value": "Defeat Graveler Master Trainer",
-          "help": "To-do"
+          "help": "Victory Road"
         },
         {
           "value": "Defeat Golem Master Trainer",
-          "help": "To-do"
+          "help": "Pewter City"
         },
         {
           "value": "Defeat Ponyta Master Trainer",
-          "help": "To-do"
+          "help": "Saffron City"
         },
         {
           "value": "Defeat Rapidash Master Trainer",
-          "help": "To-do"
+          "help": "Saffron City"
         },
         {
           "value": "Defeat Slowpoke Master Trainer",
-          "help": "To-do"
+          "help": "Route 21"
         },
         {
           "value": "Defeat Slowbro Master Trainer",
-          "help": "To-do"
+          "help": "Route 21"
         },
         {
           "value": "Defeat Magnemite Master Trainer",
-          "help": "To-do"
+          "help": "Underground Path"
         },
         {
           "value": "Defeat Magneton Master Trainer",
-          "help": "To-do"
+          "help": "Underground Path"
         },
         {
           "value": "Defeat Fatfetch'd Master Trainer",
-          "help": "To-do"
+          "help": "Vermilion City"
         },
         {
           "value": "Defeat Doduo Master Trainer",
-          "help": "To-do"
+          "help": "Cerulean City"
         },
         {
           "value": "Defeat Dodrio Master Trainer",
-          "help": "To-do"
+          "help": "Route 15"
         },
         {
           "value": "Defeat Seel Master Trainer",
-          "help": "To-do"
+          "help": "Seafoam Island"
         },
         {
           "value": "Defeat Dewgong Master Trainer",
-          "help": "To-do"
+          "help": "Seafoam Island"
         },
         {
           "value": "Defeat Grimer Master Trainer",
-          "help": "To-do"
+          "help": "Celadon City"
         },
         {
           "value": "Defeat Muk Master Trainer",
-          "help": "To-do"
+          "help": "Pokemon Mansion"
         },
         {
           "value": "Defeat Shellder Master Trainer",
-          "help": "To-do"
+          "help": "Route 19"
         },
         {
           "value": "Defeat Cloyster Master Trainer",
-          "help": "To-do"
+          "help": "Route 20"
         },
         {
           "value": "Defeat Gastly Master Trainer",
-          "help": "To-do"
+          "help": "Lavender Town"
         },
         {
           "value": "Defeat Haunter Master Trainer",
-          "help": "To-do"
+          "help": "Lavender Town"
         },
         {
           "value": "Defeat Gengar Master Trainer",
-          "help": "To-do"
+          "help": "Lavender Town"
         },
         {
           "value": "Defeat Onix Master Trainer",
-          "help": "To-do"
+          "help": "Underground Path"
         },
         {
           "value": "Defeat Drowzee Master Trainer",
-          "help": "To-do"
+          "help": "Viridian City"
         },
         {
           "value": "Defeat Hypno Master Trainer",
-          "help": "To-do"
+          "help": "Pokemon Tower"
         },
         {
           "value": "Defeat Krabby Master Trainer",
-          "help": "To-do"
+          "help": "Vermilion City"
         },
         {
           "value": "Defeat Kingler Master Trainer",
-          "help": "To-do"
+          "help": "Silph Co."
         },
         {
           "value": "Defeat Voltorb Master Trainer",
-          "help": "To-do"
+          "help": "Power Plant"
         },
         {
           "value": "Defeat Electrode Master Trainer",
-          "help": "To-do"
+          "help": "Route 16"
         },
         {
           "value": "Defeat Exeggcute Master Trainer",
-          "help": "To-do"
+          "help": "Route 24"
         },
         {
           "value": "Defeat Exeggutor Master Trainer",
-          "help": "To-do"
+          "help": "Cinnabar Island"
         },
         {
           "value": "Defeat Cubone Master Trainer",
-          "help": "To-do"
+          "help": "Route 7"
         },
         {
           "value": "Defeat Marowak Master Trainer",
-          "help": "To-do"
+          "help": "Lavender Town"
         },
         {
           "value": "Defeat Hitmonlee Master Trainer",
-          "help": "To-do"
+          "help": "Saffron City"
         },
         {
           "value": "Defeat Hitmonchan Master Trainer",
-          "help": "To-do"
+          "help": "Saffron City"
         },
         {
           "value": "Defeat Lickitung Master Trainer",
-          "help": "To-do"
+          "help": "Route 16"
         },
         {
           "value": "Defeat Koffing Master Trainer",
-          "help": "To-do"
+          "help": "Route 17"
         },
         {
           "value": "Defeat Weezing Master Trainer",
-          "help": "To-do"
+          "help": "Rocket Hideout"
         },
         {
           "value": "Defeat Rhyhorn Master Trainer",
-          "help": "To-do"
+          "help": "Route 17"
         },
         {
           "value": "Defeat Rhydon Master Trainer",
-          "help": "To-do"
+          "help": "Rocket Hideout"
         },
         {
           "value": "Defeat Chansey Master Trainer",
-          "help": "To-do"
+          "help": "Fuchsia City"
         },
         {
           "value": "Defeat Tangela Master Trainer",
-          "help": "To-do"
+          "help": "Route 15"
         },
         {
           "value": "Defeat Kangaskhan Master Trainer",
-          "help": "To-do"
+          "help": "Fuchsia City"
         },
         {
           "value": "Defeat Horsea Master Trainer",
-          "help": "To-do"
+          "help": "Route 19"
         },
         {
           "value": "Defeat Seadra Master Trainer",
-          "help": "To-do"
+          "help": "Route 12"
         },
         {
           "value": "Defeat Goldeen Master Trainer",
-          "help": "To-do"
+          "help": "Route 12"
         },
         {
           "value": "Defeat Seaking Master Trainer",
-          "help": "To-do"
+          "help": "Route 13"
         },
         {
           "value": "Defeat Staryu Master Trainer",
-          "help": "To-do"
+          "help": "Route 19"
         },
         {
           "value": "Defeat Starmie Master Trainer",
-          "help": "To-do"
+          "help": "Route 25"
         },
         {
           "value": "Defeat Mr Mime Master Trainer",
-          "help": "To-do"
+          "help": "Celadon City"
         },
         {
           "value": "Defeat Scyther Master Trainer",
-          "help": "To-do"
+          "help": "Route 15"
         },
         {
           "value": "Defeat Jynx Master Trainer",
-          "help": "To-do"
+          "help": "Cerulean City"
         },
         {
           "value": "Defeat Electabuzz Master Trainer",
-          "help": "To-do"
+          "help": "Route 10"
         },
         {
           "value": "Defeat Magmar Master Trainer",
-          "help": "To-do"
+          "help": "Pokemon Mansion"
         },
         {
           "value": "Defeat Pinsir Master Trainer",
-          "help": "To-do"
+          "help": "Route 18"
         },
         {
           "value": "Defeat Tauros Master Trainer",
-          "help": "To-do"
+          "help": "Fuchsia City"
         },
         {
           "value": "Defeat Magikarp Master Trainer",
-          "help": "To-do"
+          "help": "Route 4"
         },
         {
           "value": "Defeat Gyarados Master Trainer",
-          "help": "To-do"
+          "help": "Celadon City"
         },
         {
           "value": "Defeat Lapras Master Trainer",
-          "help": "To-do"
+          "help": "Pokemon Tower"
         },
         {
-          "value": "Defeat Ditto Master Trainer",
-          "help": "Pokemon Mansion, Next to one of the holes in the floor"
+          "value": "Show Ditto Master Trainer a L100 Ditto",
+          "help": "Pokemon Mansion"
         },
         {
           "value": "Defeat Eevee Master Trainer",
@@ -817,75 +980,83 @@
         },
         {
           "value": "Defeat Vaporeon Master Trainer",
-          "help": "To-do"
+          "help": "Celadon City"
         },
         {
           "value": "Defeat Jolteon Master Trainer",
-          "help": "To-do"
+          "help": "Celadon City"
         },
         {
           "value": "Defeat Flareon Master Trainer",
-          "help": "To-do"
+          "help": "Celadon City"
         },
         {
           "value": "Defeat Porygon Master Trainer",
-          "help": "To-do"
+          "help": "Celadon City"
         },
         {
           "value": "Defeat Omanyte Master Trainer",
-          "help": "To-do"
+          "help": "Mt. Moon"
         },
         {
           "value": "Defeat Omastar Master Trainer",
-          "help": "To-do"
+          "help": "Cinnabar Island"
         },
         {
           "value": "Defeat Kabuto Master Trainer",
-          "help": "To-do"
+          "help": "Mt. Moon"
         },
         {
           "value": "Defeat Kabutops Master Trainer",
-          "help": "To-do"
+          "help": "Pewter City"
         },
         {
           "value": "Defeat Aerodactyl Master Trainer",
-          "help": "To-do"
+          "help": "Pewter City"
         },
         {
           "value": "Defeat Snorlax Master Trainer",
-          "help": "To-do"
+          "help": "Celadon City"
         },
         {
-          "value": "Defeat Articuno Master Trainer",
-          "help": "To-do"
+          "value": "Show Articuno Master Trainer a L100 Articuno",
+          "help": "Seafoam Islands"
         },
         {
-          "value": "Defeat Zapdos Master Trainer",
-          "help": "To-do"
+          "value": "Show Zapdos Master Trainer a L100 Zapdos",
+          "help": "Power Plant"
         },
         {
-          "value": "Defeat Moltres Master Trainer",
-          "help": "To-do"
+          "value": "Show Moltres Master Trainer a L100 Moltres",
+          "help": "Victory Road"
         },
         {
           "value": "Defeat Dratini Master Trainer",
-          "help": "To-do"
+          "help": "Route 23"
         },
         {
           "value": "Defeat Dragonair Master Trainer",
-          "help": "To-do"
+          "help": "Seafoam Island"
         },
         {
           "value": "Defeat Dragonite Master Trainer",
-          "help": "To-do"
+          "help": "Cerulean City"
         },
         {
-          "value": "Defeat Mewtwo Master Trainer",
-          "help": "To-do"
+          "value": "Show Mewtwo Master Trainer a L100 Mewtwo",
+          "help": "Pokemon Mansion"
         },
         {
-          "value": "Defeat Mew Master Trainer",
-          "help": "To-do"
+          "value": "Show Mew Master Trainer a L100 Mew",
+          "help": "Pokemon Mansion"
+        },
+        {
+          "value": "Show Meltan Master Trainer a L100 Meltan",
+          "help": "Pokemon Mansion"
+        },
+        {
+          "value": "Show Melmetal Master Trainer a L100 Melmetal",
+          "help": "Pokemon Mansion"
         },
       ]
     }
