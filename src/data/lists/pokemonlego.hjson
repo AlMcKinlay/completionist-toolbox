@@ -79,243 +79,243 @@
       "name": "TMs",
       "entries": [
         {
-          "value": "TM01 ()",
+          "value": "TM01 (Headbutt)",
           "help": ""
         },
         {
-          "value": "TM02 ()",
+          "value": "TM02 (Taunt)",
           "help": ""
         },
         {
-          "value": "TM03 ()",
+          "value": "TM03 (Helping Hand)",
           "help": ""
         },
         {
-          "value": "TM04 ()",
+          "value": "TM04 (Teleport)",
           "help": ""
         },
         {
-          "value": "TM05 ()",
+          "value": "TM05 (Rest)",
           "help": ""
         },
         {
-          "value": "TM06 ()",
+          "value": "TM06 (Light Screen)",
           "help": ""
         },
         {
-          "value": "TM07 ()",
+          "value": "TM07 (Protect)",
           "help": ""
         },
         {
-          "value": "TM08 ()",
+          "value": "TM08 (Substitute)",
           "help": ""
         },
         {
-          "value": "TM09 ()",
+          "value": "TM09 (Reflect)",
           "help": ""
         },
         {
-          "value": "TM10 ()",
+          "value": "TM10 (Dig)",
           "help": ""
         },
         {
-          "value": "TM11 ()",
+          "value": "TM11 (Will-O-Wisp)",
           "help": ""
         },
         {
-          "value": "TM12 ()",
+          "value": "TM12 (Facade)",
           "help": ""
         },
         {
-          "value": "TM13 ()",
+          "value": "TM13 (Brick Break)",
           "help": ""
         },
         {
-          "value": "TM14 ()",
+          "value": "TM14 (Fly)",
           "help": ""
         },
         {
-          "value": "TM15 ()",
+          "value": "TM15 (Seismic Toss)",
           "help": ""
         },
         {
-          "value": "TM16 ()",
+          "value": "TM16 (Thunder Wave)",
           "help": ""
         },
         {
-          "value": "TM17 ()",
+          "value": "TM17 (Dragon Tail)",
           "help": ""
         },
         {
-          "value": "TM18 ()",
+          "value": "TM18 (U-turn)",
           "help": ""
         },
         {
-          "value": "TM19 ()",
+          "value": "TM19 (Iron Tail)",
           "help": ""
         },
         {
-          "value": "TM20 ()",
+          "value": "TM20 (Dark Pulse)",
           "help": ""
         },
         {
-          "value": "TM21 ()",
+          "value": "TM21 (Foul Play)",
           "help": ""
         },
         {
-          "value": "TM22 ()",
+          "value": "TM22 (Rock Slide)",
           "help": ""
         },
         {
-          "value": "TM23 ()",
+          "value": "TM23 (Thunder Punch)",
           "help": ""
         },
         {
-          "value": "TM24 ()",
+          "value": "TM24 (X-Scissor)",
           "help": ""
         },
         {
-          "value": "TM25 ()",
+          "value": "TM25 (Waterfall)",
           "help": ""
         },
         {
-          "value": "TM26 ()",
+          "value": "TM26 (Poison Jab)",
           "help": ""
         },
         {
-          "value": "TM27 ()",
+          "value": "TM27 (Toxic)",
           "help": ""
         },
         {
-          "value": "TM28 ()",
+          "value": "TM28 (Tri Attack)",
           "help": ""
         },
         {
-          "value": "TM29 ()",
+          "value": "TM29 (Scald)",
           "help": ""
         },
         {
-          "value": "TM30 ()",
+          "value": "TM30 (Bulk Up)",
           "help": ""
         },
         {
-          "value": "TM31 ()",
+          "value": "TM31 (Fire Punch)",
           "help": ""
         },
         {
-          "value": "TM32 ()",
+          "value": "TM32 (Dazzling Gleam)",
           "help": ""
         },
         {
-          "value": "TM33 ()",
+          "value": "TM33 (Calm Mind)",
           "help": ""
         },
         {
-          "value": "TM34 ()",
+          "value": "TM34 (Dragon Pulse)",
           "help": ""
         },
         {
-          "value": "TM35 ()",
+          "value": "TM35 (Ice Punch)",
           "help": ""
         },
         {
-          "value": "TM36 ()",
+          "value": "TM36 (Thunderbolt)",
           "help": ""
         },
         {
-          "value": "TM37 ()",
+          "value": "TM37 (Flamethrower)",
           "help": ""
         },
         {
-          "value": "TM38 ()",
+          "value": "TM38 (Thunder)",
           "help": ""
         },
         {
-          "value": "TM39 ()",
+          "value": "TM39 (Outrage)",
           "help": ""
         },
         {
-          "value": "TM40 ()",
+          "value": "TM40 (Psychic)",
           "help": ""
         },
         {
-          "value": "TM41 ()",
+          "value": "TM41 (Earthquake)",
           "help": ""
         },
         {
-          "value": "TM42 ()",
+          "value": "TM42 (Self-Destruct)",
           "help": ""
         },
         {
-          "value": "TM43 ()",
+          "value": "TM43 (Shadow Ball)",
           "help": ""
         },
         {
-          "value": "TM44 ()",
+          "value": "TM44 (Play Rough)",
           "help": ""
         },
         {
-          "value": "TM45 ()",
+          "value": "TM45 (Solar Beam)",
           "help": ""
         },
         {
-          "value": "TM46 ()",
+          "value": "TM46 (Fire Blast)",
           "help": ""
         },
         {
-          "value": "TM47 ()",
+          "value": "TM47 (Surf)",
           "help": ""
         },
         {
-          "value": "TM48 ()",
+          "value": "TM48 (Hyper Beam)",
           "help": ""
         },
         {
-          "value": "TM49 ()",
+          "value": "TM49 (Superpower)",
           "help": ""
         },
         {
-          "value": "TM50 ()",
+          "value": "TM50 (Roost)",
           "help": ""
         },
         {
-          "value": "TM51 ()",
+          "value": "TM51 (Blizzard)",
           "help": ""
         },
         {
-          "value": "TM52 ()",
+          "value": "TM52 (Sludge Bomb)",
           "help": ""
         },
         {
-          "value": "TM53 ()",
+          "value": "TM53 (Mega Drain)",
           "help": ""
         },
         {
-          "value": "TM54 ()",
+          "value": "TM54 (Flash Cannon)",
           "help": ""
         },
         {
-          "value": "TM55 ()",
+          "value": "TM55 (Ice Beam)",
           "help": ""
         },
         {
-          "value": "TM56 ()",
+          "value": "TM56 (Stealth Rock)",
           "help": ""
         },
         {
-          "value": "TM57 ()",
+          "value": "TM57 (Pay Day)",
           "help": ""
         },
         {
-          "value": "TM58 ()",
+          "value": "TM58 (Drill Run)",
           "help": ""
         },
         {
-          "value": "TM59 ()",
+          "value": "TM59 (Dream Eater)",
           "help": ""
         },
         {
-          "value": "TM60 ()",
+          "value": "TM60 (Megahorn)",
           "help": ""
         },
       ]
