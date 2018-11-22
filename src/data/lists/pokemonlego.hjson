@@ -3,6 +3,43 @@
   "category": "game",
   "sections": [
     {
+      "name": "In-game Trades",
+      "entries": [
+        {
+          "value": "Kantonian Rattata for Alolan Rattata",
+          "help": "Cerulean City PC"
+        },
+        {
+          "value": "Kantonian Geodude for Alolan Geodude",
+          "help": "Vermilion City PC"
+        },
+        {
+          "value": "Kantonian Diglett for Alolan Diglett",
+          "help": "Lavender Town PC"
+        },
+        {
+          "value": "Kantonian Sandshrew/Vulpix for Alolan Sandshrew/Vulpix",
+          "help": "Celadon City PC"
+        },
+        {
+          "value": "Kantonian Raichu for Alolan Raichu",
+          "help": "Saffron City PC"
+        },
+        {
+          "value": "Kantonian Marowak for Alolan Marowak",
+          "help": "Fuchsia City PC"
+        },
+        {
+          "value": "Kantonian Grimer/Meowth for Alolan Grimer/Meowth",
+          "help": "Cinnabar Island PC"
+        },
+        {
+          "value": "Kantonian Exeggutor for Alolan Exeggutor",
+          "help": "Indigo Plateau"
+        },
+      ]
+    },
+    {
       "name": "Catching",
       "entries": [
         {
@@ -16,15 +53,15 @@
         },
         {
           "value": "Catch Articuno",
-          "help": "Unknown location at this point in time"
+          "help": "Seafoam Islands"
         },
         {
           "value": "Catch Zapdos",
-          "help": "Unknown location at this point in time"
+          "help": "Power Plant"
         },
         {
           "value": "Catch Moltres",
-          "help": "Unknown location at this point in time"
+          "help": "Victory Road"
         },
         {
           "value": "Catch Mewtwo",
