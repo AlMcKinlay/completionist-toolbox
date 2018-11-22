@@ -13,6 +13,38 @@
         },
         {
           "value": "Defeat the 151 Master Trainers"
+        },
+        {
+          "value": "Defeat Mina",
+          "help": "Vermilion City Dock"
+        },
+        {
+          "value": "Defeat Mina as Champion",
+          "help": "Vermilion City Dock"
+        },
+        {
+          "value": "Defeat Red",
+          "help": "Outside Indigo Plateau. Beat 6 master trainers, and have 6 pokemon in your party."
+        },
+        {
+          "value": "Defeat Blue final time",
+          "help": "Viridian City after defeating Elite Four."
+        },
+        {
+          "value": "Defeat Green first time",
+          "help": "Cerulean Cave after defeating the Elite Four."
+        },
+        {
+          "value": "Defeat Green second time",
+          "help": "Daily outside Bike Shop, Cerulean City (after defeating her the first time)"
+        },
+        {
+          "value": "Defeat Archer as Champion",
+          "help": "Rocket Hideout after defeating Elite Four"
+        },
+        {
+          "value": "Defeat Jessie and James as Champion",
+          "help": "Route 17 after defeating Elite Four"
         }
       ]
     },
