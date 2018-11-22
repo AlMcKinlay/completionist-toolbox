@@ -153,9 +153,6 @@
           "value": "Connect to Go"
         },
         {
-          "value": "Transfer Alolan forms from Go"
-        },
-        {
           "value": "Get Meltan in Go",
           "help": "Send any Pokémon to let's go to get the mystery box, and open that in Go to make meltan appear"
         }
