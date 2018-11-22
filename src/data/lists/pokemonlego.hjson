@@ -102,6 +102,51 @@
       ]
     },
     {
+      "name": "\"Gift\" Pokemon",
+      "entries": [
+        {
+          "value": "Magikarp",
+          "help": "Purchase for 500, Route 4 PC"
+        },
+        {
+          "value": "Bulbasaur",
+          "help": "Capture over 30 Pokemon, Woman in house next to Cerulean City PC"
+        },
+        {
+          "value": "Charmander",
+          "help": "Capture over 50 Pokemon, Man in top left Route 24"
+        },
+        {
+          "value": "Squirtle",
+          "help": "Capture over 60 Pokemon, Officer Jenny Vermilion City"
+        },
+        {
+          "value": "Persian/Arcanine",
+          "help": "Capture 5 Growlithe/Meowth, Blackbelt Vermilion City"
+        },
+        {
+          "value": "Lapras",
+          "help": "Silph Co."
+        },
+        {
+          "value": "Hitmonlee/Hitmonchan",
+          "help": "Defeat Fighting Dojo, Saffron City"
+        },
+        {
+          "value": "Porygon",
+          "help": "Defeat Team Rocket in Silph Co., Saffron City"
+        },
+        {
+          "value": "Omanyte/Kabuto",
+          "help": "Fossil, Mt. Moon"
+        },
+        {
+          "value": "Aerodactyl",
+          "help": "Old Amber, Museum Pewter City"
+        },
+      ]
+    },
+    {
       "name": "Pokémon Go Integration",
       "entries": [
         {
