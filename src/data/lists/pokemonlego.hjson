@@ -3,40 +3,17 @@
   "category": "game",
   "sections": [
     {
-      "name": "In-game Trades",
+      "name": "Battling",
       "entries": [
         {
-          "value": "Kantonian Rattata for Alolan Rattata",
-          "help": "Cerulean City PC"
+          "value": "Defeat All Gyms"
         },
         {
-          "value": "Kantonian Geodude for Alolan Geodude",
-          "help": "Vermilion City PC"
+          "value": "Defeat Elite 4"
         },
         {
-          "value": "Kantonian Diglett for Alolan Diglett",
-          "help": "Lavender Town PC"
-        },
-        {
-          "value": "Kantonian Sandshrew/Vulpix for Alolan Sandshrew/Vulpix",
-          "help": "Celadon City PC"
-        },
-        {
-          "value": "Kantonian Raichu for Alolan Raichu",
-          "help": "Saffron City PC"
-        },
-        {
-          "value": "Kantonian Marowak for Alolan Marowak",
-          "help": "Fuchsia City PC"
-        },
-        {
-          "value": "Kantonian Grimer/Meowth for Alolan Grimer/Meowth",
-          "help": "Cinnabar Island PC"
-        },
-        {
-          "value": "Kantonian Exeggutor for Alolan Exeggutor",
-          "help": "Indigo Plateau"
-        },
+          "value": "Defeat the 151 Master Trainers"
+        }
       ]
     },
     {
@@ -93,20 +70,6 @@
       ]
     },
     {
-      "name": "Battling",
-      "entries": [
-        {
-          "value": "Defeat All Gyms"
-        },
-        {
-          "value": "Defeat Elite 4"
-        },
-        {
-          "value": "Defeat the 151 Master Trainers"
-        }
-      ]
-    },
-    {
       "name": "Pokémon Go Integration",
       "entries": [
         {
@@ -119,6 +82,43 @@
           "value": "Get Meltan in Go",
           "help": "Send any Pokémon to let's go to get the mystery box, and open that in Go to make meltan appear"
         }
+      ]
+    },
+    {
+      "name": "In-game Trades",
+      "entries": [
+        {
+          "value": "Kantonian Rattata for Alolan Rattata",
+          "help": "Cerulean City PC"
+        },
+        {
+          "value": "Kantonian Geodude for Alolan Geodude",
+          "help": "Vermilion City PC"
+        },
+        {
+          "value": "Kantonian Diglett for Alolan Diglett",
+          "help": "Lavender Town PC"
+        },
+        {
+          "value": "Kantonian Sandshrew/Vulpix for Alolan Sandshrew/Vulpix",
+          "help": "Celadon City PC"
+        },
+        {
+          "value": "Kantonian Raichu for Alolan Raichu",
+          "help": "Saffron City PC"
+        },
+        {
+          "value": "Kantonian Marowak for Alolan Marowak",
+          "help": "Fuchsia City PC"
+        },
+        {
+          "value": "Kantonian Grimer/Meowth for Alolan Grimer/Meowth",
+          "help": "Cinnabar Island PC"
+        },
+        {
+          "value": "Kantonian Exeggutor for Alolan Exeggutor",
+          "help": "Indigo Plateau"
+        },
       ]
     },
     {
