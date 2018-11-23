@@ -17,11 +17,11 @@ const List = styled.div`
 	display: grid;
 	grid-auto-flow: row;
 	
-	@media only screen  and (min-width : 480px) {
+	@media only screen  and (min-width : 768px) {
 		grid-template-columns: repeat(2, 50%);
 	}
 	
-	@media only screen  and (min-width : 768px) {
+	@media only screen  and (min-width : 992px) {
 		grid-template-columns: repeat(3, 33%);
 	}
 `;

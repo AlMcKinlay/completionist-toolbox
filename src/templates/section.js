@@ -15,13 +15,19 @@ const Title = styled(CardTitle)`
 const Grid = styled.div`
 	display:grid;
 	grid-auto-flow: row;
-	grid-template-columns: repeat(4, 1fr);
+	grid-template-columns: repeat(3, 1fr);
+	@media only screen  and (min-width : 992px) {
+		grid-template-columns: repeat(4, 1fr);
+	}
 `;
 
 const StyledButton = styled(Button)`
-	margin-top: 15px;
-	margin-bottom: 15px;
-	grid-column: 4;
+	max-height: 2.5rem;
+	margin: auto;
+	grid-column: 3;
+	@media only screen  and (min-width : 992px) {
+		grid-column: 4;
+	}
 `;
 
 export class Section extends React.Component {

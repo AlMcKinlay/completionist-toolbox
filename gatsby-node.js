@@ -28,16 +28,6 @@ const getLists = (graphql) => graphql(`{
 	}
 }`);
 
-const getCategories = (graphql) => graphql(`{
-  allListsHJson {
-    edges {
-      node {
-        category
-      }
-    }
-  }
-}`);
-
 const makeListPages = (createPage, result) => {
 	if (!result || !result.data) {
 		return;
@@ -53,27 +43,9 @@ const makeListPages = (createPage, result) => {
 	});
 };
 
-const makeCategoryPages = (createPage, results) => {
-	const categories = [];
-	results.data.allListsHJson.edges.forEach(({ node }) => {
-		if (!categories.includes(node.category)) {
-			categories.push(node.category);
-		}
-	});
-
-	categories.forEach((category) => createPage({
-		path: `/lists/${category}`,
-		component: path.resolve(`./src/templates/category.js`),
-		context: {
-			category
-		},
-	}));
-};
-
 exports.createPages = ({ graphql, actions }) => {
 	const { createPage } = actions;
 	const promises = [];
 	promises.push(getLists(graphql).then(makeListPages.bind(this, createPage)));
-	promises.push(getCategories(graphql).then(makeCategoryPages.bind(this, createPage)));
 	return Promise.all(promises);
 };
