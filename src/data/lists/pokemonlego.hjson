@@ -19,8 +19,8 @@
           "help": "Vermilion City Dock"
         },
         {
-          "value": "Defeat Mina as Champion",
-          "help": "Vermilion City Dock"
+          "value": "Defeat Mina after becoming Champion",
+          "help": "Vermilion City Dock (more difficult team)"
         },
         {
           "value": "Defeat Red",
@@ -39,11 +39,11 @@
           "help": "Daily outside Bike Shop, Cerulean City (after defeating her the first time)"
         },
         {
-          "value": "Defeat Archer as Champion",
+          "value": "Defeat Archer after becoming Champion",
           "help": "Rocket Hideout after defeating Elite Four"
         },
         {
-          "value": "Defeat Jessie and James as Champion",
+          "value": "Defeat Jessie and James after becoming Champion",
           "help": "Route 17 after defeating Elite Four"
         }
       ]
