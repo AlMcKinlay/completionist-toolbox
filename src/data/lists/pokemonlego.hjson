@@ -1057,5 +1057,258 @@
         },
       ]
     }
+    {
+      "name": "Clothing/Accessories",
+      "entries": [
+        {
+          "value": "Sportswear Set",
+          "help": "Given by rival's sister as you leave Pallet Town"
+        },
+        {
+          "value": "Sailor Set",
+          "help": "From Sailor, S.S. Anne"
+        },
+        {
+          "value": "Formal Set",
+          "help": "From woman, 1F Pokémon Tower"
+        },
+        {
+          "value": "Assistant Set",
+          "help": "Prof Oak's Aide, Fuchsia City gate (requires 50 species registered in Pokédex)"
+        },
+        {
+          "value": "Safari Set",
+          "help": "Warden, Fuchsia City (requires gold teeth found on Route 19)"
+        },
+        {
+          "value": "Police Set",
+          "help": "Officer Jenny, Saffron City"
+        },
+        {
+          "value": "Raichu Set (Pikachu Only)",
+          "help": "Pokémon Fan Club President, Pokémon Fan Club (requires best friends with Pikachu)"
+        },
+        {
+          "value": "Vaporeon Set (Eevee Only)",
+          "help": "Pokémon Fan Club President, Pokémon Fan Club (requires best friends with Eevee)"
+        },
+        {
+          "value": "Jolteon Set (Eevee Only)",
+          "help": "Pokémon Fan Club President, Pokémon Fan Club (requires best friends with Eevee)"
+        },
+        {
+          "value": "Flareon Set (Eevee Only)",
+          "help": "Pokémon Fan Club President, Pokémon Fan Club (requires best friends with Eevee)"
+        },
+        {
+          "value": "Espeon Set (Eevee Only)",
+          "help": "Pokémon Fan Club President, Pokémon Fan Club (requires best friends with Eevee)"
+        },
+        {
+          "value": "Umbreon Set (Eevee Only)",
+          "help": "Pokémon Fan Club President, Pokémon Fan Club (requires best friends with Eevee)"
+        },
+        {
+          "value": "Leafeon Set (Eevee Only)",
+          "help": "Pokémon Fan Club President, Pokémon Fan Club (requires best friends with Eevee)"
+        },
+        {
+          "value": "Glaceon Set (Eevee Only)",
+          "help": "Pokémon Fan Club President, Pokémon Fan Club (requires best friends with Eevee)"
+        },
+        {
+          "value": "Sylveon Set (Eevee Only)",
+          "help": "Pokémon Fan Club President, Pokémon Fan Club (requires best friends with Eevee)"
+        },
+        {
+          "value": "Team Rocket Set",
+          "help": "Team Rocket Spy, Rocket Hideout"
+        },
+        {
+          "value": "Diglett Cap",
+          "help": "Celadon Department Store"
+        },
+        {
+          "value": "Straw Hat",
+          "help": "Celadon Department Store"
+        },
+        {
+          "value": "Sweet Hat",
+          "help": "Celadon Department Store"
+        },
+        {
+          "value": "Elegant Hat",
+          "help": "Celadon Department Store"
+        },
+        {
+          "value": "Blast-off T-shirt",
+          "help": "Jessie & James, Route 17 (requires beating Elite Four)"
+        },
+        {
+          "value": "Little Red Bow",
+          "help": "Celadon Department Store"
+        },
+        {
+          "value": "Little Green Bow",
+          "help": "Celadon Department Store"
+        },
+        {
+          "value": "Little Blue Bow",
+          "help": "Celadon Department Store"
+        },
+        {
+          "value": "Little Black Bow",
+          "help": "Celadon Department Store"
+        },
+        {
+          "value": "Little Plaid Bow",
+          "help": "Celadon Department Store"
+        },
+        {
+          "value": "Little Formal Bow",
+          "help": "Celadon Department Store"
+        },
+        {
+          "value": "Little Polka-Dot Bow",
+          "help": "Celadon Department Store"
+        },
+        {
+          "value": "Little Bow",
+          "help": "Celadon Department Store"
+        },
+        {
+          "value": "Fancy Red Bow",
+          "help": "Celadon Department Store"
+        },
+        {
+          "value": "Fancy Green Bow",
+          "help": "Celadon Department Store"
+        },
+        {
+          "value": "Fancy Blue Bow",
+          "help": "Celadon Department Store"
+        },
+        {
+          "value": "Fancy Black Bow",
+          "help": "Celadon Department Store"
+        },
+        {
+          "value": "Fancy Plaid Bow",
+          "help": "Celadon Department Store"
+        },
+        {
+          "value": "Fancy Polka-Dot Bow",
+          "help": "Celadon Department Store"
+        },
+        {
+          "value": "Fancy Cute Bow",
+          "help": "Celadon Department Store"
+        },
+        {
+          "value": "Fancy Frilly Bow",
+          "help": "Celadon Department Store"
+        },
+        {
+          "value": "Sailor Bandana",
+          "help": "Celadon Department Store"
+        },
+        {
+          "value": "Safari Bandana",
+          "help": "Celadon Department Store"
+        },
+        {
+          "value": "Polka-dot Bandana",
+          "help": "Celadon Department Store"
+        },
+        {
+          "value": "Ruby Bandana",
+          "help": "Celadon Department Store"
+        },
+        {
+          "value": "Sapphire Bandana",
+          "help": "Celadon Department Store"
+        },
+        {
+          "value": "Emerald Bandana",
+          "help": "Celadon Department Store"
+        },
+        {
+          "value": "Black Bandana",
+          "help": "Celadon Department Store"
+        },
+        {
+          "value": "White Bandana",
+          "help": "Celadon Department Store"
+        },
+        {
+          "value": "Red Flowers",
+          "help": "Celadon Department Store"
+        },
+        {
+          "value": "Pink Flowers",
+          "help": "Celadon Department Store"
+        },
+        {
+          "value": "Blue Flowers",
+          "help": "Celadon Department Store"
+        },
+        {
+          "value": "White Flowers",
+          "help": "Celadon Department Store"
+        },
+        {
+          "value": "Orange Flowers",
+          "help": "Celadon Department Store"
+        },
+        {
+          "value": "Purple Flowers",
+          "help": "Celadon Department Store"
+        },
+        {
+          "value": "Pale Blue Flowers",
+          "help": "Celadon Department Store"
+        },
+        {
+          "value": "Green Flowers",
+          "help": "Celadon Department Store"
+        },
+        {
+          "value": "Black Framed Glasses",
+          "help": "Celadon Department Store"
+        },
+        {
+          "value": "Red Framed Glasses",
+          "help": "Celadon Department Store"
+        },
+        {
+          "value": "Green Framed Glasses",
+          "help": "Celadon Department Store"
+        },
+        {
+          "value": "Brown Framed Glasses",
+          "help": "Celadon Department Store"
+        },
+        {
+          "value": "Thick Glasses",
+          "help": "Celadon Department Store"
+        },
+        {
+          "value": "Blue Sky Glasses",
+          "help": "Celadon Department Store"
+        },
+        {
+          "value": "Dawn Glasses",
+          "help": "Celadon Department Store"
+        },
+        {
+          "value": "Dusk Glasses",
+          "help": "Celadon Department Store"
+        },
+        {
+          "value": "Midnight Glasses",
+          "help": "Celadon Department Store"
+        },
+      ]
+    },
   ]
 }
