@@ -1,13 +1,17 @@
 import React from 'react';
-import Category from '../templates/categoryCard';
 import { graphql } from 'gatsby';
 import Layout from "../components/layout"
 import styled from "styled-components";
+import { ListCard } from "../templates/listCard";
 
-const CategorySection = styled.div`
+const ListSection = styled.div`
 	display: block !important;
 	break-inside: avoid;
 	padding: 10px;
+`;
+
+const Title = styled.h2`
+	margin-top: 3rem;
 `;
 
 const List = styled.div`
@@ -17,30 +21,24 @@ const List = styled.div`
 	@media only screen  and (min-width : 768px) {
 		grid-template-columns: repeat(2, 50%);
 	}
+	
+	@media only screen  and (min-width : 992px) {
+		grid-template-columns: repeat(3, 33%);
+	}
 `;
+
+const getTotalItems = (sections) => sections.reduce((total, section) => total + section.entries.length, 0);
 
 export default ({data: {allListsHJson: {edges: entries}}}) => {
 	
-	const categoryNames = [];
-	const categories = entries.map(({node: {category}}) => ({name: category, entries: []}))
-		.filter(({name}) => {
-			return !categoryNames.includes(name) && categoryNames.push(name);
-	});
-	categories.forEach((category) => {
-		entries.forEach(({node: entry}) => {
-			if (category.name === entry.category) {
-				category.entries.push(entry);
-			}
-		});
-	});
 	return (
 		<Layout>
-				<h2>Lists</h2>
+				<Title>Lists</Title>
 				<List>
-					{categories.map((category) =>
-						<CategorySection>
-							<Category name={category.name} entries={category.entries} />
-						</CategorySection>
+					{entries.map(({node: entry}) =>
+						<ListSection key={entry.name}>
+							<ListCard name={entry.name} slug={entry.fields.slug} total={getTotalItems(entry.sections)} />
+						</ListSection>
 					)}
 				</List>
 		</Layout>
@@ -48,12 +46,16 @@ export default ({data: {allListsHJson: {edges: entries}}}) => {
 }
 
 export const query = graphql`
-	query GetAllCategories {
+	query GetAllLists {
 		allListsHJson {
 			edges {
 				node {
-					category,
 					name,
+					sections {
+						entries{
+							value
+						}
+					},
 					fields {
 						slug
 					}
