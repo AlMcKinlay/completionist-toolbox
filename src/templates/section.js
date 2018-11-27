@@ -47,16 +47,18 @@ export class Section extends React.Component {
 	}
 	
 	total() {
-		return this.props.entries.length;
+		return this.getEntries().length;
 	}
 	
 	completed() {
-		return this.props.state.entries.length;
+		return this.getEntries().filter((entry) => this.props.state.entries.includes(entry.value)).length;
+	}
+
+	getEntries() {
+		return this.props.entries.filter((entry) => !entry.version || entry.version === this.props.version)
 	}
 
 	render() {
-		console.log(`${this.props.name} rendered with state: ${this.props.state.entries}`);
-
 		return (
 			<ThemedCard body className="text-center">
 				<Title title={this.props.name}>{this.props.name}</Title>
@@ -69,13 +71,14 @@ export class Section extends React.Component {
 					<ThemedModalHeader toggle={this.toggle}>{this.props.name}</ThemedModalHeader>
 					<ThemedModalBody>
 						<ListGroup>
-							{this.props.entries.map((entry) =>
+							{this.getEntries().map((entry) =>
 								<div key={entry.value}>
-									{this.props.state.entries.includes(entry.value) ?
-									<Item name={entry.value} help={entry.help} clickItem={this.props.clickItem.bind(null, entry.value)} selected />
-										:
-									<Item name={entry.value} help={entry.help} clickItem={this.props.clickItem.bind(null, entry.value)} />
-									}
+									<Item 
+										name={entry.value} 
+										help={entry.help} 
+										clickItem={this.props.clickItem.bind(null, entry.value)} 
+										selected={this.props.state.entries.includes(entry.value)}
+										/>
 								</div>
 							)}
 						</ListGroup>
