@@ -22,7 +22,8 @@ const data = {
 
 const Container = styled.div`
   background-color: ${props => props.theme.background()};
-  height: 100vh;
+  height: 100%;
+  min-height: 100vh;
   color: ${props => props.theme.textColor()};
 `;
 
