@@ -440,6 +440,87 @@
       ]
     },
     {
+      "name": "Coach Trainers",
+      "entries": [
+        {
+          "value": "Kareem",
+          "help": "Route 3"
+        },
+        {
+          "value": "Oberon",
+          "help": "Route 4 (Reward: TM57)"
+        },
+        {
+          "value": "Alpesh",
+          "help": "Route 7 (Reward: TM12)"
+        },
+        {
+          "value": "Tasha",
+          "help": "Route 10 (Reward: TM13)"
+        },
+        {
+          "value": "Will",
+          "help": "Route 11 (Reward: Pikachu/Eevee Candy)"
+        },
+        {
+          "value": "Priya",
+          "help": "Route 12 (Reward: TM59)"
+        },
+        {
+          "value": "Midge",
+          "help": "Route 15 (Reward: TM31)"
+        },
+        {
+          "value": "Grantley",
+          "help": "Route 17 (Reward: TM58)"
+        },
+        {
+          "value": "Pam",
+          "help": "Route 21 (Reward: TM35)"
+        },
+        {
+          "value": "Amala",
+          "help": "Route 25 (Reward: TM15)"
+        },
+        {
+          "value": "Harjit",
+          "help": "Cerulean City (Reward: TM60)"
+        },
+        {
+          "value": "Miromoto",
+          "help": "Celadon City (Reward: PP Max)"
+        },
+        {
+          "value": "Leona",
+          "help": "Saffron City (Reward: TM23)"
+        },
+        {
+          "value": "Holly",
+          "help": "Pokemon Tower (Reward: Pikachu/Eevee Candy)"
+        },
+        {
+          "value": "Mable",
+          "help": "Power Planet (Reward: Rare Candy)"
+        },
+        {
+          "value": "Yas",
+          "help": "Seafoam Islands (Reward: Rare Candy)"
+        },
+        {
+          "value": "Rita",
+          "help": "Pokemon Mansion (Reward: TM22)"
+        },
+        {
+          "value": "Alemana",
+          "help": "Victory Road (Reward: Pikachu/Eevee Candy)"
+        },
+        {
+          "value": "Ryan",
+          "help": "Victory Road (Reward: TM39)"
+        },
+      ]
+    },
+    {
       "name": "Master Trainers",
       "entries": [
         {
