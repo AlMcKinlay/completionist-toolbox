@@ -2,40 +2,40 @@ import { createStore } from 'redux';
 import { persistStore, persistReducer } from 'redux-persist'
 import storage from 'redux-persist/lib/storage';
 import { KEY_PREFIX, REHYDRATE } from 'redux-persist'
+import List from './list';
+import Section from './section';
+
+const initialState = {
+	lists: {}
+};
 
 function reducerDoesThing(state, {type: action, listName, sectionName, entryName, version}) {
 	let { lists } = state;
-	let newState = {lists: {}};
+	let newState = {...initialState};
+	const oldList = lists && lists[listName] && lists[listName];
+	const newList = new List(oldList);
+	
 	if (action === "SET_ITEM_STATE") {
+		const oldSection = newList.sections[sectionName];
+		const newSection = new Section(oldSection);
+		newList.sections[sectionName] = newSection;
 		newState = {
 			lists: {
 				...lists,
-				[listName]: {
-					...lists[listName],
-					sections: {
-						...(lists[listName] ? lists[listName].sections : {}),
-						[sectionName] : {
-							...(lists[listName] && lists[listName].sections && lists[listName].sections[sectionName] ? lists[listName].sections[sectionName] : {entries: []})
-						}
-					}
-				}
+				[listName]: newList
 			}
 		};
-		const newEntries = newState.lists[listName].sections[sectionName].entries.slice();
-		if (newEntries.includes(entryName)) {
-			newEntries.splice(newEntries.indexOf(entryName), 1);
+		if (newSection.entries.includes(entryName)) {
+			newSection.entries.splice(newSection.entries.indexOf(entryName), 1);
 		} else {
-			newEntries.push(entryName);
+			newSection.entries.push(entryName);
 		}
-		newState.lists[listName].sections[sectionName].entries = newEntries;
 	} else if (action === "SET_LIST_VERSION") {
+		newList.version = version;
 		newState = {
 			lists: {
 				...lists,
-				[listName]: {
-					...lists[listName],
-					version
-				}
+				[listName]: newList
 			}
 		}
 	} else {
@@ -44,11 +44,6 @@ function reducerDoesThing(state, {type: action, listName, sectionName, entryName
 
 	return newState;
 }
-
-const initialState = {
-	lists: {
-	}
-};
 
 const persistConfig = {
 	key: 'root',
@@ -83,7 +78,7 @@ const setUpCrossTab = (store) => {
 };
 
 export default () => {
-	const store = createStore(persistedReducer, initialState);
+	const store = createStore(persistedReducer, {...initialState});
 	const persistor = persistStore(store);
 	setUpCrossTab(store);
 	return { store, persistor };
