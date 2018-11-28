@@ -58,6 +58,44 @@ export class Section extends React.Component {
 		return this.props.entries.filter((entry) => !entry.version || entry.version === this.props.version)
 	}
 
+	setUpInterval() {
+		if (this.interval) {
+			this.clearInterval();
+		}
+		console.log("Setting up interval");
+		this.interval = setInterval(() => {
+			this.checkIfWeNeedReset();
+		}, 10000);
+	}
+
+	clearInterval() {
+		if (this.interval) {
+			clearInterval(this.interval);
+		}
+	}
+
+	checkIfWeNeedReset() {
+		console.log("Checking if the day has flipped");
+			
+		const now = new Date(Date.now());
+		const updated = new Date(this.props.state.updated);
+		if (this.props.reset === "daily" && updated.getDate() < now.getDate()) {
+			console.log("The day has flipped, clearing section");
+			this.props.clearSection();
+		}
+	}
+
+	componentDidMount() {
+		if (this.props.reset) {
+			this.checkIfWeNeedReset();
+			this.setUpInterval();
+		}
+	}
+
+	componentWillUnmount() {
+		this.clearInterval();
+	}
+
 	render() {
 		return (
 			<ThemedCard body className="text-center">

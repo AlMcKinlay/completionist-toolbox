@@ -30,6 +30,19 @@ function reducerDoesThing(state, {type: action, listName, sectionName, entryName
 		} else {
 			newSection.entries.push(entryName);
 		}
+		newSection.updated = Date.now()
+	} else if (action === "CLEAR_SECTION") {
+		const oldSection = newList.sections[sectionName];
+		const newSection = new Section(oldSection);
+		newList.sections[sectionName] = newSection;
+		newState = {
+			lists: {
+				...lists,
+				[listName]: newList
+			}
+		};
+		newSection.entries = [];
+		newSection.updated = Date.now();
 	} else if (action === "SET_LIST_VERSION") {
 		newList.version = version;
 		newState = {

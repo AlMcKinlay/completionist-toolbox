@@ -46,7 +46,7 @@ const Title = styled.h2`
     margin-bottom: auto;
 `;
 
-const mapStateToProps = ({ lists }, {listName, name, entries, defaultVersion}) => {
+const mapStateToProps = ({ lists }, {listName, name, entries, defaultVersion, reset}) => {
 	const list = lists[listName];
 	const section = (list && list.sections && list.sections[name]) ? list.sections[name] : {entries: []};
 	const version = (list && list.version) ? list.version : defaultVersion;
@@ -54,6 +54,7 @@ const mapStateToProps = ({ lists }, {listName, name, entries, defaultVersion}) =
 	return {
 		name,
 		version,
+		reset,
 		entries,
 		state: section
 	}
@@ -62,7 +63,8 @@ const mapStateToProps = ({ lists }, {listName, name, entries, defaultVersion}) =
 const mapDispatchToProps = (dispatch, {listName, name}) => {
 	return {
 		clickItem: (entryName) => dispatch({ type: `SET_ITEM_STATE`, listName, sectionName: name, entryName }),
-		switchVersion: (version) => dispatch({ type: `SET_LIST_VERSION`, listName, version})
+		switchVersion: (version) => dispatch({ type: `SET_LIST_VERSION`, listName, version}),
+		clearSection: () => dispatch({ type: `CLEAR_SECTION`, listName, sectionName: name })
 	}
 };
 
@@ -128,7 +130,12 @@ class SectionList extends React.Component {
 				<List>
 					{this.state.post.sections.map((section) =>
 						<ListSection key={section.name}>
-							<ConnectedSection listName={this.state.post.name} name={section.name} entries={section.entries} defaultVersion={this.defaultVersion} />
+							<ConnectedSection 
+								listName={this.state.post.name} 
+								name={section.name} 
+								entries={section.entries}
+								reset={section.reset}
+								defaultVersion={this.defaultVersion} />
 						</ListSection>
 					)}
 				</List>
@@ -153,6 +160,7 @@ export const query = graphql`
 			versions,
 			sections {
 				name,
+				reset,
 				entries {
 					value,
 					help,
