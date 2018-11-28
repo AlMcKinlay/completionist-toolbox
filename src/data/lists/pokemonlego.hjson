@@ -1,5 +1,6 @@
 {
   "name": "Pokemon Let's Go Completion",
+  "versions": ["pikachu", "eevee"],
   "sections": [
     {
       "name": "Battling",
@@ -51,22 +52,52 @@
       "name": "Catching",
       "entries": [
         {
-          "value": "Trade or Transfer for Growlithe or Vulpix"
+          "value": "Trade or Transfer for Growlithe",
+          "version": "eevee"
         },
         {
-          "value": "Trade or Transfer for Oddish or Bellsprout"
+          "value": "Trade or Transfer for Oddish",
+          "version": "eevee"
         },
         {
-          "value": "Trade or Transfer for Sandshrew or Meowth"
+          "value": "Trade or Transfer for Sandshrew",
+          "version": "eevee"
         },
         {
-          "value": "Trade or Transfer for Mankey or Ekans"
+          "value": "Trade or Transfer for Mankey",
+          "version": "eevee"
         },
         {
-          "value": "Trade or Transfer for Grimer or Koffing"
+          "value": "Trade or Transfer for Grimer",
+          "version": "eevee"
         },
         {
-          "value": "Trade or Transfer for Scyther or Pinsir"
+          "value": "Trade or Transfer for Scyther",
+          "version": "eevee"
+        },
+        {
+          "value": "Trade or Transfer for Ekans",
+          "version": "pikachu"
+        },
+        {
+          "value": "Trade or Transfer for Vulpix",
+          "version": "pikachu"
+        },
+        {
+          "value": "Trade or Transfer for Meowth",
+          "version": "pikachu"
+        },
+        {
+          "value": "Trade or Transfer for Bellsprout",
+          "version": "pikachu"
+        },
+        {
+          "value": "Trade or Transfer for Koffing",
+          "version": "pikachu"
+        },
+        {
+          "value": "Trade or Transfer for Pinsir",
+          "version": "pikachu"
         },
         {
           "value": "Catch Articuno",
@@ -120,8 +151,14 @@
           "help": "Capture over 60 Pokemon, Officer Jenny Vermilion City"
         },
         {
-          "value": "Persian or Arcanine",
-          "help": "Capture 5 Growlithe or Meowth, Blackbelt Vermilion City"
+          "value": "Persian",
+          "help": "Capture 5 Growlithe, Blackbelt in Vermilion City",
+          "version": "pikachu"
+        },
+        {
+          "value": "Arcanine",
+          "help": "Capture 5 Meowth, Blackbelt in Vermilion City",
+          "version": "eevee"
         },
         {
           "value": "Lapras",
@@ -173,8 +210,14 @@
           "help": "Lavender Town PC"
         },
         {
-          "value": "Kantonian Sandshrew or Vulpix for Alolan Sandshrew or Vulpix",
-          "help": "Celadon City PC"
+          "value": "Kantonian Sandshrew for Alolan Sandshrew ",
+          "help": "Celadon City PC",
+          "version": "pikachu"
+        },
+        {
+          "value": "Kantonian Vulpix for Alolan Vulpix",
+          "help": "Celadon City PC",
+          "version": "eevee"
         },
         {
           "value": "Kantonian Raichu for Alolan Raichu",
@@ -185,8 +228,14 @@
           "help": "Fuchsia City PC"
         },
         {
-          "value": "Kantonian Grimer or Meowth for Alolan Grimer or Meowth",
-          "help": "Cinnabar Island PC"
+          "value": "Kantonian Grimer for Alolan Grimer",
+          "help": "Cinnabar Island PC",
+          "version": "pikachu"
+        },
+        {
+          "value": "Kantonian Meowth for Alolan Meowth",
+          "help": "Cinnabar Island PC",
+          "version": "eevee"
         },
         {
           "value": "Kantonian Exeggutor for Alolan Exeggutor",
@@ -460,7 +509,13 @@
         },
         {
           "value": "Will",
-          "help": "Route 11 (Reward: Pikachu/Eevee Candy)"
+          "help": "Route 11 (Reward: Pikachu Candy)",
+          "version": "pikachu"
+        },
+        {
+          "value": "Will",
+          "help": "Route 11 (Reward: Eevee Candy)",
+          "version": "eevee"
         },
         {
           "value": "Priya",
@@ -496,7 +551,13 @@
         },
         {
           "value": "Holly",
-          "help": "Pokemon Tower (Reward: Pikachu/Eevee Candy)"
+          "help": "Pokemon Tower (Reward: Pikachu Candy)",
+          "version": "pikachu"
+        },
+        {
+          "value": "Holly",
+          "help": "Pokemon Tower (Reward: Eevee Candy)",
+          "version": "eevee"
         },
         {
           "value": "Mable",
@@ -512,7 +573,13 @@
         },
         {
           "value": "Alemana",
-          "help": "Victory Road (Reward: Pikachu/Eevee Candy)"
+          "help": "Victory Road (Reward: Pikachu Candy)",
+          "version": "pikachu"
+        },
+        {
+          "value": "Alemana",
+          "help": "Victory Road (Reward: Eevee Candy)",
+          "version": "eevee"
         },
         {
           "value": "Ryan",
@@ -1165,40 +1232,49 @@
           "help": "Officer Jenny, Saffron City"
         },
         {
-          "value": "Raichu Set (Pikachu Only)",
-          "help": "Pokémon Fan Club President, Pokémon Fan Club (requires best friends with Pikachu)"
+          "value": "Raichu Set",
+          "help": "Pokémon Fan Club President, Pokémon Fan Club (requires best friends with Pikachu)",
+          "version": "pikachu"
         },
         {
-          "value": "Vaporeon Set (Eevee Only)",
-          "help": "Pokémon Fan Club President, Pokémon Fan Club (requires best friends with Eevee)"
+          "value": "Vaporeon Set",
+          "help": "Pokémon Fan Club President, Pokémon Fan Club (requires best friends with Eevee)",
+          "version": "eevee"
         },
         {
-          "value": "Jolteon Set (Eevee Only)",
-          "help": "Pokémon Fan Club President, Pokémon Fan Club (requires best friends with Eevee)"
+          "value": "Jolteon Set",
+          "help": "Pokémon Fan Club President, Pokémon Fan Club (requires best friends with Eevee)",
+          "version": "eevee"
         },
         {
-          "value": "Flareon Set (Eevee Only)",
-          "help": "Pokémon Fan Club President, Pokémon Fan Club (requires best friends with Eevee)"
+          "value": "Flareon Set",
+          "help": "Pokémon Fan Club President, Pokémon Fan Club (requires best friends with Eevee)",
+          "version": "eevee"
         },
         {
-          "value": "Espeon Set (Eevee Only)",
-          "help": "Pokémon Fan Club President, Pokémon Fan Club (requires best friends with Eevee)"
+          "value": "Espeon Set",
+          "help": "Pokémon Fan Club President, Pokémon Fan Club (requires best friends with Eevee)",
+          "version": "eevee"
         },
         {
-          "value": "Umbreon Set (Eevee Only)",
-          "help": "Pokémon Fan Club President, Pokémon Fan Club (requires best friends with Eevee)"
+          "value": "Umbreon Set",
+          "help": "Pokémon Fan Club President, Pokémon Fan Club (requires best friends with Eevee)",
+          "version": "eevee"
         },
         {
-          "value": "Leafeon Set (Eevee Only)",
-          "help": "Pokémon Fan Club President, Pokémon Fan Club (requires best friends with Eevee)"
+          "value": "Leafeon Set",
+          "help": "Pokémon Fan Club President, Pokémon Fan Club (requires best friends with Eevee)",
+          "version": "eevee"
         },
         {
-          "value": "Glaceon Set (Eevee Only)",
-          "help": "Pokémon Fan Club President, Pokémon Fan Club (requires best friends with Eevee)"
+          "value": "Glaceon Set",
+          "help": "Pokémon Fan Club President, Pokémon Fan Club (requires best friends with Eevee)",
+          "version": "eevee"
         },
         {
-          "value": "Sylveon Set (Eevee Only)",
-          "help": "Pokémon Fan Club President, Pokémon Fan Club (requires best friends with Eevee)"
+          "value": "Sylveon Set",
+          "help": "Pokémon Fan Club President, Pokémon Fan Club (requires best friends with Eevee)",
+          "version": "eevee"
         },
         {
           "value": "Team Rocket Set",

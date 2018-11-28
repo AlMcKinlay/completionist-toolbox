@@ -3,7 +3,7 @@ import { persistStore, persistReducer } from 'redux-persist'
 import storage from 'redux-persist/lib/storage';
 import { KEY_PREFIX, REHYDRATE } from 'redux-persist'
 
-function reducerDoesThing(state, {type: action, listName, sectionName, entryName}) {
+function reducerDoesThing(state, {type: action, listName, sectionName, entryName, version}) {
 	let { lists } = state;
 	let newState = {lists: {}};
 	if (action === "SET_ITEM_STATE") {
@@ -11,6 +11,7 @@ function reducerDoesThing(state, {type: action, listName, sectionName, entryName
 			lists: {
 				...lists,
 				[listName]: {
+					...lists[listName],
 					sections: {
 						...(lists[listName] ? lists[listName].sections : {}),
 						[sectionName] : {
@@ -27,6 +28,16 @@ function reducerDoesThing(state, {type: action, listName, sectionName, entryName
 			newEntries.push(entryName);
 		}
 		newState.lists[listName].sections[sectionName].entries = newEntries;
+	} else if (action === "SET_LIST_VERSION") {
+		newState = {
+			lists: {
+				...lists,
+				[listName]: {
+					...lists[listName],
+					version
+				}
+			}
+		}
 	} else {
 		return state;
 	}
