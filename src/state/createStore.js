@@ -15,7 +15,7 @@ function reducerDoesThing(state, {type: action, listName, sectionName, entryName
 					sections: {
 						...(lists[listName] ? lists[listName].sections : {}),
 						[sectionName] : {
-							...(lists[listName] && lists[listName].sections[sectionName] ? lists[listName].sections[sectionName] : {entries: []})
+							...(lists[listName] && lists[listName].sections && lists[listName].sections[sectionName] ? lists[listName].sections[sectionName] : {entries: []})
 						}
 					}
 				}
