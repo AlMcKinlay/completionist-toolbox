@@ -1531,5 +1531,39 @@
         },
       ]
     },
+    {
+      "name": "Daily Tasks",
+      "reset": "daily",
+      "entries": [
+        {
+          "value": "Buy Pewter Crunchies",
+          "help": "Pewter City PC",
+        },
+        {
+          "value": "Take Care of Slowpoke",
+          "help": "Pewter City (Reward: Big Pearl)",
+        },
+        {
+          "value": "Battle Mina",
+          "help": "Vermillion Port (Reward: Bottle Cap)",
+        },
+        {
+          "value": "Talk to Diglett",
+          "help": "Warden's House, Fushcia City (Reward: Nugget)",
+        },
+        {
+          "value": "Manipulate Wild Natures",
+          "help": "Madam Celadon, Celadon City PC (Reward: Makes 1 nature more common in the wild)"
+        },
+        {
+          "value": "Find hidden items in caves",
+          "help": "Mt. Moon, Rock Tunnel, Cerulean Cave, Victory Road"
+        },
+        {
+          "value": "Gym Battles",
+          "help": "Requires having beaten the Elite 4"
+        },
+      ]
+    },
   ]
 }
