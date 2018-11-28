@@ -489,6 +489,71 @@
       ]
     },
     {
+      "name": "Mega Stones",
+      "entries": [
+        {
+          "value": "Blastoisinite",
+          "help": "From Blue, after beating Blaine, Pallet Town"
+        },
+        {
+          "value": "Charizardite X",
+          "help": "From Blue, after beating Blaine, Pallet Town"
+        },
+        {
+          "value": "Charizardite Y",
+          "help": "From Blue, after beating Blaine, Pallet Town"
+        },
+        {
+          "value": "Venusaurite",
+          "help": "From Blue, after beating Blaine, Pallet Town"
+        },
+        {
+          "value": "Mewtwonite X",
+          "help": "From Green, Cerulean Cave"
+        },
+        {
+          "value": "Mewtwonite Y",
+          "help": "From Green, Cerulean Cave"
+        },
+        {
+          "value": "Aerodactylite",
+          "help": "Indigo Plateau Shop"
+        },
+        {
+          "value": "Alakazite",
+          "help": "Indigo Plateau Shop"
+        },
+        {
+          "value": "Beedrillite",
+          "help": "Indigo Plateau Shop"
+        },
+        {
+          "value": "Gengarite",
+          "help": "Indigo Plateau Shop"
+        },
+        {
+          "value": "Gyaradosite",
+          "help": "Indigo Plateau Shop"
+        },
+        {
+          "value": "Kangaskhanite",
+          "help": "Indigo Plateau Shop"
+        },
+        {
+          "value": "Pidgeotite",
+          "help": "Indigo Plateau Shop"
+        },
+        {
+          "value": "Pinsirite",
+          "help": "Indigo Plateau Shop"
+        },
+        {
+          "value": "Slowbronite",
+          "help": "Indigo Plateau Shop"
+        },
+      ]
+    },
+    {
       "name": "Coach Trainers",
       "entries": [
         {
