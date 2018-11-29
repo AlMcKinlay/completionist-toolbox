@@ -1,5 +1,5 @@
 import React from "react";
-import { CardTitle, Button,  ListGroup } from 'reactstrap';
+import { CardTitle, Button,  ListGroup, DropdownMenu, DropdownItem, DropdownToggle, UncontrolledDropdown, } from 'reactstrap';
 import { Item } from "./item";
 import { Completion } from "./completion";
 import styled from "styled-components";
@@ -10,6 +10,14 @@ const Title = styled(CardTitle)`
 	overflow: hidden;
 	white-space: nowrap;
 	text-overflow: ellipsis;
+`;
+
+const NonLink = styled.a`
+	padding: 0;
+	color: ${props => props.theme.textColor()};
+	&:hover {
+		background-color: ${props => props.theme.background()};
+	}
 `;
 
 const Grid = styled.div`
@@ -27,6 +35,34 @@ const StyledButton = styled(Button)`
 	grid-column: 3;
 	@media only screen  and (min-width : 992px) {
 		grid-column: 4;
+	}
+`;
+
+const Menu = styled(DropdownToggle)`
+	&:hover{
+		background: ${props => props.theme.background()};
+		border: ${props => props.theme.background()};
+	}
+	&:focus{
+		box-shadow: none;
+	}
+	background: ${props => props.theme.background()};
+	border: ${props => props.theme.background()};
+	color: ${props => props.theme.textColor()}
+	box-shadow: none;
+	position: absolute;
+    top: -40px;
+    right: 0;
+`;
+
+const StyledDropdownMenu = styled(DropdownMenu)`
+	background-color: ${props => props.theme.background()};
+	border-color: rgba(255, 255, 255, 0.5);
+`;
+
+const StyledDropdownItem = styled(DropdownItem)`
+	&:hover {
+		background-color: ${props => props.theme.background()};
 	}
 `;
 
@@ -100,6 +136,16 @@ export class Section extends React.Component {
 		return (
 			<ThemedCard body className="text-center">
 				<Title title={this.props.name}>{this.props.name}</Title>
+				<UncontrolledDropdown>
+					<Menu>&#x2807;</Menu>
+					<StyledDropdownMenu right>
+						<StyledDropdownItem onClick={this.props.hideSection}>
+							<NonLink href="#">
+								Hide
+							</NonLink>
+						</StyledDropdownItem>
+					</StyledDropdownMenu>
+				</UncontrolledDropdown>
 				<Grid>
 					<Completion total={this.total()} completed={this.completed()}></Completion>
 					
