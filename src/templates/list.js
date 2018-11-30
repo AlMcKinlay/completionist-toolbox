@@ -1,5 +1,5 @@
 import React from "react";
-import { Row } from 'reactstrap';
+import { DropdownToggle, DropdownItem, UncontrolledDropdown, DropdownMenu, Row } from 'reactstrap';
 import { Section } from "./section";
 import styled from "styled-components";
 import { connect } from "react-redux"
@@ -9,7 +9,7 @@ import { Completion } from "./completion";
 import { VersionSwitch } from "./versionSwitch";
 
 const ListSection = styled.div`
-	display: block !important;
+	display: ${props => props.hidden ? "none" : "block !important"};
 	break-inside: avoid;
 	padding: 10px;
 `;
@@ -46,6 +46,43 @@ const Title = styled.h2`
     margin-bottom: auto;
 `;
 
+const NonLink = styled.a`
+	padding: 0;
+	color: ${props => props.theme.textColor()};
+	&:hover {
+		background-color: ${props => props.theme.background()};
+	}
+`;
+
+const Menu = styled(DropdownToggle)`
+	&:hover{
+		background: ${props => props.theme.background()};
+		border: ${props => props.theme.background()};
+	}
+	&:focus{
+		box-shadow: none;
+	}
+	background: ${props => props.theme.background()};
+	border: ${props => props.theme.background()};
+	color: ${props => props.theme.textColor()}
+	box-shadow: none;
+`;
+
+const StyledDropdownMenu = styled(DropdownMenu)`
+	background-color: ${props => props.theme.background()};
+	border-color: rgba(255, 255, 255, 0.5);
+`;
+
+const StyledDropdownItem = styled(DropdownItem)`
+	&:hover {
+		background-color: ${props => props.theme.background()};
+	}
+`;
+
+const StyledUncontrolledDropdown = styled(UncontrolledDropdown)`
+	margin: auto
+`;
+
 const mapStateToProps = ({ lists }, {listName, name, entries, defaultVersion, reset}) => {
 	const list = lists[listName];
 	const section = (list && list.sections && list.sections[name]) ? list.sections[name] : {entries: []};
@@ -64,17 +101,29 @@ const mapDispatchToProps = (dispatch, {listName, name}) => {
 	return {
 		clickItem: (entryName) => dispatch({ type: `SET_ITEM_STATE`, listName, sectionName: name, entryName }),
 		switchVersion: (version) => dispatch({ type: `SET_LIST_VERSION`, listName, version}),
-		clearSection: () => dispatch({ type: `CLEAR_SECTION`, listName, sectionName: name })
+		clearSection: () => dispatch({ type: `CLEAR_SECTION`, listName, sectionName: name }),
+		hideSection: () => dispatch({ type: `HIDE_SECTION`, listName, sectionName: name }),
 	}
 };
 
 const ConnectedSection = connect(mapStateToProps, mapDispatchToProps)(Section);
 
-const getCompletionState = ({ lists }, {name}) => {
-	const list = lists[name];
-	const completed = list && list.sections ? Object.values(list.sections).reduce((total, section) => total + section.entries.length, 0) : 0;
+const getCompletionState = ({ lists }, { list, defaultVersion }) => {
+	const listState = lists[list.name];
+	const version = listState && listState.version ? listState.version : defaultVersion;
+	const sections = listState ? listState.sections : [];
+	const completed = sections ? Object.values(sections).reduce((total, section) => total + (section.hidden ? 0 : section.entries.length), 0) : 0;
+	const total = list && list.sections ? Object.values(list.sections).reduce((total, section) => {
+		const sectionState = sections[section.name];
+		if ((sectionState && sectionState.hidden)) {
+			return total;
+		} else {
+			return total + section.entries.filter((entry) => !entry.version || entry.version === version).length
+		}
+	}, 0) : 0;
 	return {
-		completed: completed
+		completed,
+		total
 	}
 };
 
@@ -90,22 +139,27 @@ const getVersion = ({lists}, {listName, defaultVersion}) => {
 
 const ConnectedVersionSwitch = connect(getVersion, mapDispatchToProps)(VersionSwitch);
 
+const getVisibility = ({lists}, {listName, sectionName}) => {
+	const list = lists[listName];
+	const section = list && list.sections && list.sections[sectionName];
+	const hidden = section ? section.hidden : false;
+	return { 
+		hidden
+	}
+}
+
+const ConnectedListSection = connect(getVisibility)(ListSection);
+
 class SectionList extends React.Component {
 
 	constructor(props) {
 		super(props);
-		this.total = this.total.bind(this);
 		const list = props.data.listsHJson;
 		this.defaultVersion = list && list.versions ? list.versions[0] : undefined;
 
 		this.state = {
-			entries: props.entries,
 			post: list
 		}
-	}
-
-	total() {
-		return Object.values(this.state.post.sections).reduce((total, section) => total + section.entries.length, 0);
 	}
 
 	render() {
@@ -124,20 +178,32 @@ class SectionList extends React.Component {
 								</ConnectedVersionSwitch>
 							)
 						}
-						<CompletionLast><ConnectedCompletion name={this.state.post.name} total={this.total()}></ConnectedCompletion></CompletionLast>
+						<StyledUncontrolledDropdown>
+							<Menu>&#x2807;</Menu>
+							<StyledDropdownMenu right>
+								<StyledDropdownItem onClick={this.props.showAllSections}>
+									<NonLink href="#">
+										Show Hidden Sections
+									</NonLink>
+								</StyledDropdownItem>
+							</StyledDropdownMenu>
+						</StyledUncontrolledDropdown>
+						<CompletionLast><ConnectedCompletion list={this.state.post}></ConnectedCompletion></CompletionLast>
 					</Grid>
 				</Row>
 				<List>
-					{this.state.post.sections.map((section) =>
-						<ListSection key={section.name}>
+					{this.state.post.sections.map((section) => (
+						<ConnectedListSection key={section.name}
+							listName={this.state.post.name}
+							sectionName={section.name}>
 							<ConnectedSection 
 								listName={this.state.post.name} 
 								name={section.name} 
 								entries={section.entries}
 								reset={section.reset}
 								defaultVersion={this.defaultVersion} />
-						</ListSection>
-					)}
+						</ConnectedListSection>
+					))}
 				</List>
 			</div>
 			</Layout>
@@ -145,13 +211,19 @@ class SectionList extends React.Component {
 	}
 }
 
-const getState = ({ lists }, {data: {listsHJson: {name}}}) => {
+const listDispatchProps = (dispatch, {data: {listsHJson: {name}}}) => {
 	return {
-		entries: lists[name]
+		showAllSections: () => dispatch({ type: `SHOW_ALL_SECTIONS`, listName: name }),
 	}
 };
 
-export default connect(getState)(SectionList);
+const getState = ({ lists }, {data: {listsHJson: {name}}}) => {
+	return {
+		listState: lists[name]
+	}
+};
+
+export default connect(getState, listDispatchProps)(SectionList);
 
 export const query = graphql`
   query EntryQuery($slug: String!) {

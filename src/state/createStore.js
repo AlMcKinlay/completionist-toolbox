@@ -43,6 +43,31 @@ function reducerDoesThing(state, {type: action, listName, sectionName, entryName
 		};
 		newSection.entries = [];
 		newSection.updated = Date.now();
+	} else if (action === "HIDE_SECTION") {
+		const oldSection = newList.sections[sectionName];
+		const newSection = new Section(oldSection);
+		newSection.hidden = true;
+		newList.sections[sectionName] = newSection;
+		newState = {
+			lists: {
+				...lists,
+				[listName]: newList
+			}
+		};
+	} else if (action === "SHOW_ALL_SECTIONS") {
+		const newSections = {};
+		Object.entries(newList.sections)
+			.forEach(([key, section]) => {
+				newSections[key] = new Section(section);
+				newSections[key].hidden = false
+			});
+		newList.sections = newSections;
+		newState = {
+			lists: {
+				...lists,
+				[listName]: newList
+			}
+		};
 	} else if (action === "SET_LIST_VERSION") {
 		newList.version = version;
 		newState = {
