@@ -1297,9 +1297,19 @@
           "help": "Officer Jenny, Saffron City"
         },
         {
+          "value": "Pikachu Set",
+          "help": "Pokémon Fan Club President, Pokémon Fan Club",
+          "version": "pikachu"
+        },
+        {
           "value": "Raichu Set",
           "help": "Pokémon Fan Club President, Pokémon Fan Club (requires best friends with Pikachu)",
           "version": "pikachu"
+        },
+        {
+          "value": "Eevee Set",
+          "help": "Pokémon Fan Club President, Pokémon Fan Club",
+          "version": "eevee"
         },
         {
           "value": "Vaporeon Set",
@@ -1346,6 +1356,10 @@
           "help": "Team Rocket Spy, Rocket Hideout"
         },
         {
+          "value": "Blast-off Set",
+          "help": "Jessie & James, Route 17 (requires beating Elite Four)"
+        },
+        {
           "value": "Diglett Cap",
           "help": "Celadon Department Store"
         },
@@ -1360,10 +1374,6 @@
         {
           "value": "Elegant Hat",
           "help": "Celadon Department Store"
-        },
-        {
-          "value": "Blast-off T-shirt",
-          "help": "Jessie & James, Route 17 (requires beating Elite Four)"
         },
         {
           "value": "Little Red Bow",
