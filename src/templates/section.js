@@ -133,7 +133,7 @@ export class Section extends React.Component {
 	}
 
 	render() {
-		return (
+		return (this.getEntries().length > 0 ?
 			<ThemedCard body className="text-center">
 				<Title title={this.props.name}>{this.props.name}</Title>
 				<UncontrolledDropdown>
@@ -172,6 +172,6 @@ export class Section extends React.Component {
 					</ThemedModalFooter>
 				</ThemedModal>
 			</ThemedCard>
-		);
+		: null);
 	}
 }

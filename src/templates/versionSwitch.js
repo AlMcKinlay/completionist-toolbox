@@ -9,7 +9,11 @@ const Wrapper = styled.div`
 export class VersionSwitch extends React.Component {
 
     getOptions() {
-        return this.props.options.map((option) => option.charAt(0).toUpperCase() + option.slice(1));
+        return this.props.options
+            .map((option) => option
+                .split("-")
+                .map((word) => word.charAt(0).toUpperCase() + word.slice(1))
+                .join(" "));
     }
 
     isActive(option) {

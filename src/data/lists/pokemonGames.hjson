@@ -1,0 +1,260 @@
+{
+  "name": "Pokémon Games",
+  "versions": ["main-series", "all"],
+  "sections": [
+    {
+      "name": "Gameboy/GBC",
+      "entries": [
+        {
+          "value": "Red"
+        },
+        {
+          "value": "Green"
+        },
+        {
+          "value": "Blue"
+        },
+        {
+          "value": "Yellow"
+        },
+        {
+          "value": "Gold"
+        },
+        {
+          "value": "Silver"
+        },
+        {
+          "value": "Crystal"
+        },
+        {
+          "value": "Trading Card Game",
+          "version": "all"
+        },
+        {
+          "value": "Trading Card GB2",
+          "version": "all"
+        },
+        {
+          "value": "Pinball",
+          "version": "all"
+        },
+        {
+          "value": "Puzzle challenge",
+          "version": "all"
+        },
+      ]
+    },
+    {
+      "name": "Gameboy Advance",
+      "entries": [
+        {
+          "value": "Ruby"
+        },
+        {
+          "value": "Sapphire"
+        },
+        {
+          "value": "Fire Red"
+        },
+        {
+          "value": "Leaf Green"
+        },
+        {
+          "value": "Emerald"
+        },
+        {
+          "value": "Pinball: Ruby and Sapphire",
+          "version": "all"
+        },
+        {
+          "value": "Mystery Dungeon: Red Rescue Team",
+          "version": "all"
+        },
+      ]
+    },
+    {
+      "name": "DS",
+      "entries": [
+        {
+          "value": "Diamond"
+        },
+        {
+          "value": "Pearl"
+        },
+        {
+          "value": "Platinum"
+        },
+        {
+          "value": "Heart Gold"
+        },
+        {
+          "value": "Soul Silver"
+        },
+        {
+          "value": "Black"
+        },
+        {
+          "value": "White"
+        },
+        {
+          "value": "Black 2"
+        },
+        {
+          "value": "White 2"
+        },
+        {
+          "value": "Mystery Dungeon: Blue Rescue Team",
+          "version": "all"
+        },
+        {
+          "value": "Mystery Dungeon: Explorers of Sky",
+          "version": "all"
+        },
+        {
+          "value": "Ranger",
+          "version": "all"
+        },
+        {
+          "value": "Ranger: Shadowns of Almia",
+          "version": "all"
+        },
+        {
+          "value": "Ranger: Guardian Signs",
+          "version": "all"
+        },
+        {
+          "value": "Dash",
+          "version": "all"
+        },
+        {
+          "value": "Trozei",
+          "version": "all"
+        },
+        {
+          "value": "Conquest",
+          "version": "all"
+        },
+      ]
+    },
+    {
+      "name": "3DS",
+      "entries": [
+        {
+          "value": "X"
+        },
+        {
+          "value": "Y"
+        },
+        {
+          "value": "Omega Ruby"
+        },
+        {
+          "value": "Alpha Sapphire"
+        },
+        {
+          "value": "Sun"
+        },
+        {
+          "value": "Moon"
+        },
+        {
+          "value": "Ultra Sun"
+        },
+        {
+          "value": "Ultra Moon"
+        },
+        {
+          "value": "Mystery Dungeon: Gates to Infinity",
+          "version": "all"
+        },
+        {
+          "value": "Super Mystery Dungeon",
+          "version": "all"
+        },
+        {
+          "value": "Detective Pikachu",
+          "version": "all"
+        },
+      ]
+    },
+    {
+      "name": "N64",
+      "entries": [
+        {
+          "value": "Hey You, Pikachu",
+          "version": "all"
+        },
+        {
+          "value": "Stadium",
+          "version": "all"
+        },
+        {
+          "value": "Stadium 2",
+          "version": "all"
+        },
+        {
+          "value": "Snap",
+          "version": "all"
+        },
+        {
+          "value": "Puzzle League",
+          "version": "all"
+        },
+      ]
+    },
+    {
+      "name": "Gamecube",
+      "entries": [
+        {
+          "value": "Colosseum",
+          "version": "all"
+        },
+        {
+          "value": "XD: Gale of Darkness",
+          "version": "all"
+        },
+      ]
+    },
+    {
+      "name": "Wii",
+      "entries": [
+        {
+          "value": "Battle Revolution",
+          "version": "all"
+        },
+        {
+          "value": "PokéPark Wii",
+          "version": "all"
+        },
+        {
+          "value": "Poképark 2",
+          "version": "all"
+        },
+      ]
+    },
+    {
+      "name": "Wii U",
+      "entries": [
+        {
+          "value": "Pokken Tournament",
+          "version": "all"
+        },
+      ]
+    },
+    {
+      "name": "Switch",
+      "entries": [
+        {
+          "value": "Let\'s Go Pikachu"
+        },
+        {
+          "value": "Let\'s Go Eevee"
+        },
+        {
+          "value": "Pokken DX",
+          "version": "all"
+        },
+      ]
+    }
+  ]
+}
