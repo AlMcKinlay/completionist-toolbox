@@ -9,7 +9,10 @@ import { Completion } from "./completion";
 import { VersionSwitch } from "./versionSwitch";
 
 const ListSection = styled.div`
-	display: ${props => props.hidden ? "none" : "block !important"};
+	display: ${props => props.hidden ? "none" : "block"};
+	&:empty {
+		display: none;
+	}
 	break-inside: avoid;
 	padding: 10px;
 `;
