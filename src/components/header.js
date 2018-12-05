@@ -74,10 +74,10 @@ class Header extends React.Component {
 								<NavItem>
 									<Link
 										className="nav-link"
-										to="/lists/"
+										to="/"
 										innerRef={(el) => { this.myLink = el }}
 									>
-										Lists
+										All Lists
 									</Link>
 								</NavItem>
 								<UncontrolledDropdown nav inNavbar>
