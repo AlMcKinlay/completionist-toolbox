@@ -115,10 +115,17 @@ const getCompletionState = ({ lists }, { list, defaultVersion }) => {
 	const listState = lists[list.name];
 	const version = listState && listState.version ? listState.version : defaultVersion;
 	const sections = listState ? listState.sections : [];
-	const completed = sections ? Object.values(sections).reduce((total, section) => total + (section.hidden ? 0 : section.entries.length), 0) : 0;
+	const completed = list && list.sections ? Object.values(list.sections).reduce((total, section) => {
+		const sectionState = sections && sections[section.name];
+		if ((sectionState && sectionState.hidden) || !sectionState) {
+			return total;
+		} else {
+			return total + section.entries.filter((entry) => sectionState.entries.includes(entry.value) && (!entry.version || entry.version === version)).length
+		}
+	}, 0) : 0;
 	const total = list && list.sections ? Object.values(list.sections).reduce((total, section) => {
 		const sectionState = sections[section.name];
-		if ((sectionState && sectionState.hidden)) {
+		if (sectionState && sectionState.hidden) {
 			return total;
 		} else {
 			return total + section.entries.filter((entry) => !entry.version || entry.version === version).length
