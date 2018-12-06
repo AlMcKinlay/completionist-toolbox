@@ -1,5 +1,15 @@
 import React from "react";
 import { CircularProgressbar } from 'react-circular-progressbar';
+import styled from "styled-components";
+
+const ProgressBar = styled(CircularProgressbar)`
+    path.CircularProgressbar-path {
+        stroke: ${props => props.value >= 100 ? 'rgba(46, 139, 87)' : `rgba(62, 152, 199)`};
+    }
+    text {
+        fill: ${props => props.value >= 100 ? 'rgba(46, 139, 87)' : `rgba(62, 152, 199, 100)`};
+    }
+`;
 
 export class Completion extends React.Component {
 	constructor(props) {
@@ -21,7 +31,7 @@ export class Completion extends React.Component {
 
 	render() {
 		return (
-            <CircularProgressbar
+            <ProgressBar
                 value={this.getPercentage()}
                 text={`${this.getPercentage()}%`}
             />
