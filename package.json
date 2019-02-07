@@ -12,7 +12,7 @@
     "gatsby-plugin-react-helmet": "3.0.6",
     "gatsby-plugin-styled-components": "3.0.5",
     "gatsby-source-filesystem": "2.0.20",
-    "gatsby-transformer-hjson": "^2.1.3",
+    "gatsby-transformer-hjson": "^2.1.5",
     "jquery": "3.3.1",
     "react": "16.6.3",
     "react-circular-progressbar": "^1.0.0",
