@@ -24,9 +24,6 @@ const Grid = styled.div`
 	display:grid;
 	grid-auto-flow: row;
 	grid-template-columns: repeat(3, 1fr);
-	@media only screen  and (min-width : 992px) {
-		grid-template-columns: repeat(4, 1fr);
-	}
 `;
 
 const StyledButton = styled(Button)`
