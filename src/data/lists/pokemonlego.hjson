@@ -1570,6 +1570,9 @@
           "help": "Mt. Moon, Rock Tunnel, Cerulean Cave, Victory Road"
         },
         {
+          "value": "Find hidden items in game corner"
+        },
+        {
           "value": "Gym Battles",
           "help": "Requires having beaten the Elite 4"
         },
