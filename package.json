@@ -7,7 +7,7 @@
     "@fortawesome/fontawesome": "1.1.8",
     "@quickbaseoss/babel-plugin-styled-components-css-namespace": "^0.1.1",
     "bootstrap": "4.3.0",
-    "gatsby": "2.0.118",
+    "gatsby": "2.0.119",
     "gatsby-link": "2.0.10",
     "gatsby-plugin-react-helmet": "3.0.6",
     "gatsby-plugin-styled-components": "3.0.5",
