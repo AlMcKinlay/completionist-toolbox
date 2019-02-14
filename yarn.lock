@@ -787,9 +787,10 @@
   version "1.1.3"
   resolved "https://registry.yarnpkg.com/@nodelib/fs.stat/-/fs.stat-1.1.3.tgz#2b5a3ab3f918cca48a8c754c08168e3f03eba61b"
 
-"@quickbaseoss/babel-plugin-styled-components-css-namespace@^0.1.1":
+"@quickbaseoss/babel-plugin-styled-components-css-namespace@0.1.1":
   version "0.1.1"
   resolved "https://registry.yarnpkg.com/@quickbaseoss/babel-plugin-styled-components-css-namespace/-/babel-plugin-styled-components-css-namespace-0.1.1.tgz#fbd3484cb34a9dde2cb96aa4488844a9c6199a82"
+  integrity sha512-BUhjdgu3Qa9jvoUm2/d7gE7LH8v2suW3icicwRrfiNVzZfHmvBMPNIvzWcpnmm8khAUUeVC0vvKvJw5+4iTRyA==
   dependencies:
     babel-plugin-styled-components "1.5.1"
     babel-types "6.26.0"
@@ -3845,7 +3846,7 @@ gatsby-source-filesystem@2.0.20:
     valid-url "^1.0.9"
     xstate "^3.1.0"
 
-gatsby-transformer-hjson@^2.1.5:
+gatsby-transformer-hjson@2.1.5:
   version "2.1.5"
   resolved "https://registry.yarnpkg.com/gatsby-transformer-hjson/-/gatsby-transformer-hjson-2.1.5.tgz#3422c9ad561e161ec8e6654e65035ad25553c390"
   integrity sha512-Q55fenH/t2p2ypAiYgkZST3QhGmI+76j7NPHV5GFTjjUHfCjy2sSWtAB+6idDCcDzpJOinRA3AqoeJXNhA6P3w==
@@ -6837,9 +6838,10 @@ rc@^1.0.1, rc@^1.1.6, rc@^1.2.7:
     minimist "^1.2.0"
     strip-json-comments "~2.0.1"
 
-react-circular-progressbar@^1.0.0:
+react-circular-progressbar@1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/react-circular-progressbar/-/react-circular-progressbar-1.0.0.tgz#0d2a6c07c9f14fcafca4510f27829e4276dee3e0"
+  integrity sha512-6QOqwsYJCeFDPYTparTS3FdFGlSItafJWD8BloLG3k1sW8ZG7JGdHo7FQsqtGEIK0bldwTO9v+nD2nEYAU1OYg==
   dependencies:
     prop-types "^15.5.10"
 
@@ -7081,9 +7083,10 @@ redux-devtools-instrument@^1.9.0:
     lodash "^4.2.0"
     symbol-observable "^1.0.2"
 
-redux-devtools@^3.4.1:
+redux-devtools@3.4.2:
   version "3.4.2"
   resolved "https://registry.yarnpkg.com/redux-devtools/-/redux-devtools-3.4.2.tgz#000a8987a61569be446a497a8da7dbd2848c6bf5"
+  integrity sha512-XBTdnhyR+BoMT65BTMlSEpfy2mNyah2TABjgux0mMrQp8SoISL7rSQJsXUKvckuyq4A1PRFRxnRuY/9YRiM6Tw==
   dependencies:
     lodash "^4.2.0"
     prop-types "^15.5.7"
