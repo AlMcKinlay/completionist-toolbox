@@ -39,6 +39,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "devDependencies": {
-    "redux-devtools": "3.4.2"
+    "redux-devtools": "3.5.0"
   }
 }
