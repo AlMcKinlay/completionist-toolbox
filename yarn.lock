@@ -3757,9 +3757,9 @@ gatsby-cli@^2.5.12:
     yargs "^12.0.5"
     yurnalist "^1.0.2"
 
-gatsby-link@2.0.17, gatsby-link@^2.0.17:
-  version "2.0.17"
-  resolved "https://registry.yarnpkg.com/gatsby-link/-/gatsby-link-2.0.17.tgz#f6129a942c9138466fceb25cce89d579f3a62f85"
+gatsby-link@2.1.0, gatsby-link@^2.1.0:
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/gatsby-link/-/gatsby-link-2.1.0.tgz#19b9d0d3c06f42b707d0cf097c3a76b72d189530"
   dependencies:
     "@babel/runtime" "^7.0.0"
     "@types/reach__router" "^1.0.0"
@@ -3847,9 +3847,9 @@ gatsby-transformer-hjson@2.1.8:
     bluebird "^3.5.0"
     hjson "^3.1.0"
 
-gatsby@2.3.35:
-  version "2.3.35"
-  resolved "https://registry.yarnpkg.com/gatsby/-/gatsby-2.3.35.tgz#a154dd883d5bf458a363d23aa627229d9c2910e1"
+gatsby@2.4.0:
+  version "2.4.0"
+  resolved "https://registry.yarnpkg.com/gatsby/-/gatsby-2.4.0.tgz#8315c73957928af15bb3c15e93aebd19d7204853"
   dependencies:
     "@babel/code-frame" "^7.0.0"
     "@babel/core" "^7.0.0"
@@ -3907,7 +3907,7 @@ gatsby@2.3.35:
     fs-exists-cached "1.0.0"
     fs-extra "^5.0.0"
     gatsby-cli "^2.5.12"
-    gatsby-link "^2.0.17"
+    gatsby-link "^2.1.0"
     gatsby-plugin-page-creator "^2.0.12"
     gatsby-react-router-scroll "^2.0.7"
     gatsby-telemetry "^1.0.9"
