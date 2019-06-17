@@ -1,0 +1,65 @@
+{
+  "name": "Pokemon Sword and Shield Completion",
+  // "versions": ["sword", "shield"],
+  "sections": [
+    {
+      "name": "Battling",
+      "entries": [
+        {
+          "value": "Defeat All Gyms"
+        },
+        {
+          "value": "Defeat Elite 4"
+        },
+      ]
+    },
+    {
+      "name": "Catching",
+      "entries": [
+        {
+          "value": "Catch ",
+          "help": ""
+        },
+        {
+          "value": "Complete Dex"
+        }
+      ]
+    },
+    {
+      "name": "\"Gift\" Pokemon",
+      "entries": [
+        {
+          "value": "¯\\_(ツ)_\/¯",
+          "help": ""
+        },
+      ]
+    },
+    {
+      "name": "In-game Trades",
+      "entries": [
+        {
+          "value": "¯\\_(ツ)_\/¯",
+          "help": ""
+        },
+      ]
+    },
+    {
+      "name": "TMs",
+      "entries": [
+        {
+          "value": "TM01 ()",
+          "help": ""
+        },
+      ]
+    },
+    {
+      "name": "Clothing/Accessories",
+      "entries": [
+        {
+          "value": "¯\\_(ツ)_\/¯",
+          "help": ""
+        },
+      ]
+    },
+  ]
+}
