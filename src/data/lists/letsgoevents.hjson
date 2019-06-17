@@ -1,0 +1,40 @@
+{
+  "name": "Pokemon Events (Let's Go)",
+  "sections": [
+    {
+      "name": "Codes",
+      "entries": [
+        {
+          "value": "M22 Mewtwo",
+          "help": ""
+        },
+        {
+          "value": "Shiny Target Pikachu",
+          "help": ""
+        },
+        {
+          "value": "Shiny Target Eevee",
+          "help": ""
+        },
+      ]
+    }
+    {
+      "name": "Local",
+      "entries": [
+        {
+          "value": "Birthday Chansey",
+          "help": ""
+        },
+      ]
+    }
+    {
+      "name": "Other",
+      "entries": [
+        {
+          "value": "Pokéball Plus Mew",
+          "help": ""
+        }
+      ]
+    }
+  ]
+}
