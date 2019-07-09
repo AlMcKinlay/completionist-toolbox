@@ -866,16 +866,7 @@
   version "6.2.4"
   resolved "https://registry.yarnpkg.com/@hapi/hoek/-/hoek-6.2.4.tgz#4b95fbaccbfba90185690890bdf1a2fbbda10595"
 
-"@hapi/joi@^14.0.0":
-  version "14.5.0"
-  resolved "https://registry.yarnpkg.com/@hapi/joi/-/joi-14.5.0.tgz#197e06edbd90436150f7f02154a83d0a82753188"
-  dependencies:
-    "@hapi/hoek" "6.x.x"
-    "@hapi/marker" "1.x.x"
-    "@hapi/topo" "3.x.x"
-    isemail "3.x.x"
-
-"@hapi/joi@^15.1.0":
+"@hapi/joi@^15.0.0", "@hapi/joi@^15.1.0":
   version "15.1.0"
   resolved "https://registry.yarnpkg.com/@hapi/joi/-/joi-15.1.0.tgz#940cb749b5c55c26ab3b34ce362e82b6162c8e7a"
   dependencies:
@@ -1357,7 +1348,7 @@ arrify@^1.0.1:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/arrify/-/arrify-1.0.1.tgz#898508da2226f380df904728456849c1501a4b0d"
 
-asap@^2.0.0, asap@~2.0.3:
+asap@~2.0.3:
   version "2.0.6"
   resolved "https://registry.yarnpkg.com/asap/-/asap-2.0.6.tgz#e50347611d7e690943208bbdafebcbc2fb866d46"
 
@@ -2767,10 +2758,6 @@ debug@~3.1.0:
   dependencies:
     ms "2.0.0"
 
-debuglog@^1.0.1:
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/debuglog/-/debuglog-1.0.1.tgz#aa24ffb9ac3df9a2351837cfb2d279360cd78492"
-
 decamelize@^1.1.1, decamelize@^1.2.0:
   version "1.2.0"
   resolved "https://registry.yarnpkg.com/decamelize/-/decamelize-1.2.0.tgz#f6534d15148269b20352e7bee26f501f9a191290"
@@ -2911,13 +2898,6 @@ devcert-san@^0.3.3:
     mkdirp "^0.5.1"
     tmp "^0.0.31"
     tslib "^1.6.0"
-
-dezalgo@^1.0.0:
-  version "1.0.3"
-  resolved "https://registry.yarnpkg.com/dezalgo/-/dezalgo-1.0.3.tgz#7f742de066fc748bc8db820569dddce49bf0d456"
-  dependencies:
-    asap "^2.0.0"
-    wrappy "1"
 
 diffie-hellman@^5.0.0:
   version "5.0.3"
@@ -3853,9 +3833,9 @@ functional-red-black-tree@^1.0.1:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/functional-red-black-tree/-/functional-red-black-tree-1.0.1.tgz#1b0ab3bd553b2a0d6399d29c0e3ea0b252078327"
 
-gatsby-cli@^2.7.7:
-  version "2.7.7"
-  resolved "https://registry.yarnpkg.com/gatsby-cli/-/gatsby-cli-2.7.7.tgz#9d8e8b6a8313ec3d64a752db9c8579332bc13e55"
+gatsby-cli@^2.7.8:
+  version "2.7.8"
+  resolved "https://registry.yarnpkg.com/gatsby-cli/-/gatsby-cli-2.7.8.tgz#03f8131ab013db587e683c3e192a67331083a18e"
   dependencies:
     "@babel/code-frame" "^7.0.0"
     "@babel/runtime" "^7.0.0"
@@ -3873,7 +3853,7 @@ gatsby-cli@^2.7.7:
     execa "^0.8.0"
     fs-exists-cached "^1.0.0"
     fs-extra "^4.0.1"
-    gatsby-telemetry "^1.1.2"
+    gatsby-telemetry "^1.1.3"
     hosted-git-info "^2.6.0"
     is-valid-path "^0.1.1"
     lodash "^4.17.10"
@@ -3976,9 +3956,9 @@ gatsby-source-filesystem@2.1.2:
     valid-url "^1.0.9"
     xstate "^3.1.0"
 
-gatsby-telemetry@^1.1.2:
-  version "1.1.2"
-  resolved "https://registry.yarnpkg.com/gatsby-telemetry/-/gatsby-telemetry-1.1.2.tgz#14c63c3035abacc27018966337e4e3bb07787acb"
+gatsby-telemetry@^1.1.3:
+  version "1.1.3"
+  resolved "https://registry.yarnpkg.com/gatsby-telemetry/-/gatsby-telemetry-1.1.3.tgz#15250fe425c24317f00968bb9346a566e61d042a"
   dependencies:
     "@babel/code-frame" "^7.0.0"
     "@babel/runtime" "^7.0.0"
@@ -3988,6 +3968,7 @@ gatsby-telemetry@^1.1.2:
     configstore "^4.0.0"
     envinfo "^5.8.1"
     fs-extra "^7.0.1"
+    git-up "4.0.1"
     is-docker "1.1.0"
     lodash "^4.17.10"
     node-fetch "2.3.0"
@@ -4005,9 +3986,9 @@ gatsby-transformer-hjson@2.2.0:
     bluebird "^3.5.0"
     hjson "^3.1.0"
 
-gatsby@2.13.1:
-  version "2.13.1"
-  resolved "https://registry.yarnpkg.com/gatsby/-/gatsby-2.13.1.tgz#af55152ed738cf3918e9b3cc16a7991863da70ce"
+gatsby@2.13.10:
+  version "2.13.10"
+  resolved "https://registry.yarnpkg.com/gatsby/-/gatsby-2.13.10.tgz#01efdf748c8cc693fc3d8dc6f9640951c2344184"
   dependencies:
     "@babel/code-frame" "^7.0.0"
     "@babel/core" "^7.0.0"
@@ -4016,7 +3997,7 @@ gatsby@2.13.1:
     "@babel/runtime" "^7.0.0"
     "@babel/traverse" "^7.0.0"
     "@gatsbyjs/relay-compiler" "2.0.0-printer-fix.2"
-    "@hapi/joi" "^14.0.0"
+    "@hapi/joi" "^15.0.0"
     "@mikaelkristiansson/domready" "^1.0.9"
     "@pieh/friendly-errors-webpack-plugin" "1.7.0-chalk-2"
     "@reach/router" "^1.1.1"
@@ -4066,12 +4047,12 @@ gatsby@2.13.1:
     flat "^4.0.0"
     fs-exists-cached "1.0.0"
     fs-extra "^5.0.0"
-    gatsby-cli "^2.7.7"
+    gatsby-cli "^2.7.8"
     gatsby-graphiql-explorer "^0.2.1"
     gatsby-link "^2.2.0"
     gatsby-plugin-page-creator "^2.1.2"
     gatsby-react-router-scroll "^2.1.1"
-    gatsby-telemetry "^1.1.2"
+    gatsby-telemetry "^1.1.3"
     glob "^7.1.1"
     got "8.0.0"
     graphql "^14.1.1"
@@ -4107,8 +4088,7 @@ gatsby@2.13.1:
     raw-loader "^0.5.1"
     react-dev-utils "^4.2.3"
     react-error-overlay "^3.0.0"
-    react-hot-loader "^4.8.4"
-    read-package-tree "^5.3.1"
+    react-hot-loader "^4.12.5"
     redux "^4.0.0"
     redux-thunk "^2.3.0"
     semver "^5.6.0"
@@ -4170,6 +4150,13 @@ get-stream@^4.0.0:
 get-value@^2.0.3, get-value@^2.0.6:
   version "2.0.6"
   resolved "https://registry.yarnpkg.com/get-value/-/get-value-2.0.6.tgz#dc15ca1c672387ca76bd37ac0a395ba2042a2c28"
+
+git-up@4.0.1:
+  version "4.0.1"
+  resolved "https://registry.yarnpkg.com/git-up/-/git-up-4.0.1.tgz#cb2ef086653640e721d2042fe3104857d89007c0"
+  dependencies:
+    is-ssh "^1.3.0"
+    parse-url "^5.0.0"
 
 glob-parent@^3.1.0:
   version "3.1.0"
@@ -5057,6 +5044,12 @@ is-root@1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/is-root/-/is-root-1.0.0.tgz#07b6c233bc394cd9d02ba15c966bd6660d6342d5"
 
+is-ssh@^1.3.0:
+  version "1.3.1"
+  resolved "https://registry.yarnpkg.com/is-ssh/-/is-ssh-1.3.1.tgz#f349a8cadd24e65298037a522cf7520f2e81a0f3"
+  dependencies:
+    protocols "^1.1.0"
+
 is-stream@^1.0.0, is-stream@^1.0.1, is-stream@^1.1.0:
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/is-stream/-/is-stream-1.1.0.tgz#12d4a3dd4e68e0b79ceb8dbc84173ae80d91ca44"
@@ -5108,12 +5101,6 @@ isarray@1.0.0, isarray@^1.0.0, isarray@~1.0.0:
 isarray@2.0.1:
   version "2.0.1"
   resolved "https://registry.yarnpkg.com/isarray/-/isarray-2.0.1.tgz#a37d94ed9cda2d59865c9f76fe596ee1f338741e"
-
-isemail@3.x.x:
-  version "3.2.0"
-  resolved "https://registry.yarnpkg.com/isemail/-/isemail-3.2.0.tgz#59310a021931a9fb06bbb51e155ce0b3f236832c"
-  dependencies:
-    punycode "2.x.x"
 
 isexe@^2.0.0:
   version "2.0.0"
@@ -5916,7 +5903,7 @@ nopt@^4.0.1:
     abbrev "1"
     osenv "^0.1.4"
 
-normalize-package-data@^2.0.0, normalize-package-data@^2.3.2:
+normalize-package-data@^2.3.2:
   version "2.5.0"
   resolved "https://registry.yarnpkg.com/normalize-package-data/-/normalize-package-data-2.5.0.tgz#e66db1838b200c1dfc233225d12cb36520e234a8"
   dependencies:
@@ -5947,7 +5934,7 @@ normalize-url@2.0.1:
     query-string "^5.0.1"
     sort-keys "^2.0.0"
 
-normalize-url@^3.0.0:
+normalize-url@^3.0.0, normalize-url@^3.3.0:
   version "3.3.0"
   resolved "https://registry.yarnpkg.com/normalize-url/-/normalize-url-3.3.0.tgz#b2e1c4dc4f7c6d57743df733a4f5978d18650559"
 
@@ -6290,6 +6277,22 @@ parse-json@^4.0.0:
 parse-passwd@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/parse-passwd/-/parse-passwd-1.0.0.tgz#6d5b934a456993b23d37f40a382d6f1666a8e5c6"
+
+parse-path@^4.0.0:
+  version "4.0.1"
+  resolved "https://registry.yarnpkg.com/parse-path/-/parse-path-4.0.1.tgz#0ec769704949778cb3b8eda5e994c32073a1adff"
+  dependencies:
+    is-ssh "^1.3.0"
+    protocols "^1.4.0"
+
+parse-url@^5.0.0:
+  version "5.0.1"
+  resolved "https://registry.yarnpkg.com/parse-url/-/parse-url-5.0.1.tgz#99c4084fc11be14141efa41b3d117a96fcb9527f"
+  dependencies:
+    is-ssh "^1.3.0"
+    normalize-url "^3.3.0"
+    parse-path "^4.0.0"
+    protocols "^1.4.0"
 
 parseqs@0.0.5:
   version "0.0.5"
@@ -6813,6 +6816,10 @@ prop-types@^15.5.10, prop-types@^15.5.4, prop-types@^15.5.7, prop-types@^15.5.8,
     object-assign "^4.1.1"
     react-is "^16.8.1"
 
+protocols@^1.1.0, protocols@^1.4.0:
+  version "1.4.7"
+  resolved "https://registry.yarnpkg.com/protocols/-/protocols-1.4.7.tgz#95f788a4f0e979b291ffefcf5636ad113d037d32"
+
 proxy-addr@~2.0.4:
   version "2.0.4"
   resolved "https://registry.yarnpkg.com/proxy-addr/-/proxy-addr-2.0.4.tgz#ecfc733bf22ff8c6f407fa275327b9ab67e48b93"
@@ -6865,13 +6872,13 @@ punycode@1.3.2:
   version "1.3.2"
   resolved "https://registry.yarnpkg.com/punycode/-/punycode-1.3.2.tgz#9653a036fb7c1ee42342f2325cceefea3926c48d"
 
-punycode@2.x.x, punycode@^2.1.0:
-  version "2.1.1"
-  resolved "https://registry.yarnpkg.com/punycode/-/punycode-2.1.1.tgz#b58b010ac40c22c5657616c8d2c2c02c7bf479ec"
-
 punycode@^1.2.4:
   version "1.4.1"
   resolved "https://registry.yarnpkg.com/punycode/-/punycode-1.4.1.tgz#c0d5a63b2718800ad8e1eb0fa5269c84dd41845e"
+
+punycode@^2.1.0:
+  version "2.1.1"
+  resolved "https://registry.yarnpkg.com/punycode/-/punycode-2.1.1.tgz#b58b010ac40c22c5657616c8d2c2c02c7bf479ec"
 
 q@^1.1.2:
   version "1.5.1"
@@ -7003,15 +7010,14 @@ react-helmet@5.2.1:
     react-fast-compare "^2.0.2"
     react-side-effect "^1.1.0"
 
-react-hot-loader@^4.8.4:
-  version "4.8.6"
-  resolved "https://registry.yarnpkg.com/react-hot-loader/-/react-hot-loader-4.8.6.tgz#8352805be277de70d6da8657552d0fc55faa0014"
+react-hot-loader@^4.12.5:
+  version "4.12.5"
+  resolved "https://registry.yarnpkg.com/react-hot-loader/-/react-hot-loader-4.12.5.tgz#ebe5b6a68190b14fce42151fff03d1ad43634e9b"
   dependencies:
     fast-levenshtein "^2.0.6"
     global "^4.3.0"
     hoist-non-react-statics "^3.3.0"
     loader-utils "^1.1.0"
-    lodash "^4.17.11"
     prop-types "^15.6.1"
     react-lifecycles-compat "^3.0.4"
     shallowequal "^1.0.2"
@@ -7124,25 +7130,6 @@ read-chunk@^3.0.0:
     pify "^4.0.0"
     with-open-file "^0.1.3"
 
-read-package-json@^2.0.0:
-  version "2.0.13"
-  resolved "https://registry.yarnpkg.com/read-package-json/-/read-package-json-2.0.13.tgz#2e82ebd9f613baa6d2ebe3aa72cefe3f68e41f4a"
-  dependencies:
-    glob "^7.1.1"
-    json-parse-better-errors "^1.0.1"
-    normalize-package-data "^2.0.0"
-    slash "^1.0.0"
-  optionalDependencies:
-    graceful-fs "^4.1.2"
-
-read-package-tree@^5.3.1:
-  version "5.3.1"
-  resolved "https://registry.yarnpkg.com/read-package-tree/-/read-package-tree-5.3.1.tgz#a32cb64c7f31eb8a6f31ef06f9cedf74068fe636"
-  dependencies:
-    read-package-json "^2.0.0"
-    readdir-scoped-modules "^1.0.0"
-    util-promisify "^2.1.0"
-
 read-pkg-up@^2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/read-pkg-up/-/read-pkg-up-2.0.0.tgz#6b72a8048984e0c41e79510fd5e9fa99b3b549be"
@@ -7192,15 +7179,6 @@ readable-stream@^3.0.6:
     inherits "^2.0.3"
     string_decoder "^1.1.1"
     util-deprecate "^1.0.1"
-
-readdir-scoped-modules@^1.0.0:
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/readdir-scoped-modules/-/readdir-scoped-modules-1.1.0.tgz#8d45407b4f870a0dcaebc0e28670d18e74514309"
-  dependencies:
-    debuglog "^1.0.1"
-    dezalgo "^1.0.0"
-    graceful-fs "^4.1.2"
-    once "^1.3.0"
 
 readdirp@^2.2.1:
   version "2.2.1"
@@ -8561,12 +8539,6 @@ use@^3.1.0:
 util-deprecate@^1.0.1, util-deprecate@~1.0.1:
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/util-deprecate/-/util-deprecate-1.0.2.tgz#450d4dc9fa70de732762fbd2d4a28981419a0ccf"
-
-util-promisify@^2.1.0:
-  version "2.1.0"
-  resolved "https://registry.yarnpkg.com/util-promisify/-/util-promisify-2.1.0.tgz#3c2236476c4d32c5ff3c47002add7c13b9a82a53"
-  dependencies:
-    object.getownpropertydescriptors "^2.0.3"
 
 util.promisify@^1.0.0, util.promisify@~1.0.0:
   version "1.0.0"
