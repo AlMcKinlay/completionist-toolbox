@@ -7109,9 +7109,9 @@ react@^16.2.0:
     prop-types "^15.6.2"
     scheduler "^0.13.2"
 
-reactstrap@8.0.0:
-  version "8.0.0"
-  resolved "https://registry.yarnpkg.com/reactstrap/-/reactstrap-8.0.0.tgz#db24d0127e58db89baa743dc660b65f611fe9b84"
+reactstrap@8.0.1:
+  version "8.0.1"
+  resolved "https://registry.yarnpkg.com/reactstrap/-/reactstrap-8.0.1.tgz#0b663c8195f540bc1d6d5dbcbcf73cab56fe7c79"
   dependencies:
     "@babel/runtime" "^7.2.0"
     classnames "^2.2.3"
