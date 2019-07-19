@@ -3840,9 +3840,9 @@ functional-red-black-tree@^1.0.1:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/functional-red-black-tree/-/functional-red-black-tree-1.0.1.tgz#1b0ab3bd553b2a0d6399d29c0e3ea0b252078327"
 
-gatsby-cli@^2.7.16:
-  version "2.7.16"
-  resolved "https://registry.yarnpkg.com/gatsby-cli/-/gatsby-cli-2.7.16.tgz#5ba593ba2f0b7b96793ec82f51ad081207bf9591"
+gatsby-cli@^2.7.17:
+  version "2.7.17"
+  resolved "https://registry.yarnpkg.com/gatsby-cli/-/gatsby-cli-2.7.17.tgz#5c2e2a453ff97c505e2540a7e5f7c9104993fb4b"
   dependencies:
     "@babel/code-frame" "^7.0.0"
     "@babel/runtime" "^7.0.0"
@@ -3882,7 +3882,7 @@ gatsby-cli@^2.7.16:
     yargs "^12.0.5"
     yurnalist "^1.0.5"
   optionalDependencies:
-    ink "^2.0.5"
+    ink "^2.3.0"
     ink-spinner "^3.0.1"
 
 gatsby-graphiql-explorer@^0.2.3:
@@ -3993,9 +3993,9 @@ gatsby-transformer-hjson@2.2.2:
     bluebird "^3.5.0"
     hjson "^3.1.0"
 
-gatsby@2.13.30:
-  version "2.13.30"
-  resolved "https://registry.yarnpkg.com/gatsby/-/gatsby-2.13.30.tgz#5c37f37ac46db0916adec2b57252c980bbfe8423"
+gatsby@2.13.31:
+  version "2.13.31"
+  resolved "https://registry.yarnpkg.com/gatsby/-/gatsby-2.13.31.tgz#c9fff86bf6b15ad808c20f9096aa24c37a382c84"
   dependencies:
     "@babel/code-frame" "^7.0.0"
     "@babel/core" "^7.0.0"
@@ -4054,7 +4054,7 @@ gatsby@2.13.30:
     flat "^4.0.0"
     fs-exists-cached "1.0.0"
     fs-extra "^5.0.0"
-    gatsby-cli "^2.7.16"
+    gatsby-cli "^2.7.17"
     gatsby-graphiql-explorer "^0.2.3"
     gatsby-link "^2.2.2"
     gatsby-plugin-page-creator "^2.1.5"
@@ -4695,9 +4695,9 @@ ink-spinner@^3.0.1:
     cli-spinners "^1.0.0"
     prop-types "^15.5.10"
 
-ink@^2.0.5:
-  version "2.1.1"
-  resolved "https://registry.yarnpkg.com/ink/-/ink-2.1.1.tgz#efb2adbd30be79b4f640d7c67b524bfb030205ba"
+ink@^2.3.0:
+  version "2.3.0"
+  resolved "https://registry.yarnpkg.com/ink/-/ink-2.3.0.tgz#222136be17bb72fc742e19090483e7e0e7dc3690"
   dependencies:
     "@types/react" "^16.8.6"
     arrify "^1.0.1"
