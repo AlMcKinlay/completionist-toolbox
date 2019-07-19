@@ -3840,9 +3840,9 @@ functional-red-black-tree@^1.0.1:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/functional-red-black-tree/-/functional-red-black-tree-1.0.1.tgz#1b0ab3bd553b2a0d6399d29c0e3ea0b252078327"
 
-gatsby-cli@^2.7.15:
-  version "2.7.15"
-  resolved "https://registry.yarnpkg.com/gatsby-cli/-/gatsby-cli-2.7.15.tgz#7cc40d0f22ef4a3a844e689901e560959e0bd5b9"
+gatsby-cli@^2.7.16:
+  version "2.7.16"
+  resolved "https://registry.yarnpkg.com/gatsby-cli/-/gatsby-cli-2.7.16.tgz#5ba593ba2f0b7b96793ec82f51ad081207bf9591"
   dependencies:
     "@babel/code-frame" "^7.0.0"
     "@babel/runtime" "^7.0.0"
@@ -3993,9 +3993,9 @@ gatsby-transformer-hjson@2.2.2:
     bluebird "^3.5.0"
     hjson "^3.1.0"
 
-gatsby@2.13.28:
-  version "2.13.28"
-  resolved "https://registry.yarnpkg.com/gatsby/-/gatsby-2.13.28.tgz#0d13fb802453666eed5d448078d7b7ddca618012"
+gatsby@2.13.29:
+  version "2.13.29"
+  resolved "https://registry.yarnpkg.com/gatsby/-/gatsby-2.13.29.tgz#0fbacca1a27ea738ca5c332b8621e4812106a794"
   dependencies:
     "@babel/code-frame" "^7.0.0"
     "@babel/core" "^7.0.0"
@@ -4054,7 +4054,7 @@ gatsby@2.13.28:
     flat "^4.0.0"
     fs-exists-cached "1.0.0"
     fs-extra "^5.0.0"
-    gatsby-cli "^2.7.15"
+    gatsby-cli "^2.7.16"
     gatsby-graphiql-explorer "^0.2.3"
     gatsby-link "^2.2.2"
     gatsby-plugin-page-creator "^2.1.5"
