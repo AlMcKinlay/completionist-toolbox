@@ -1,0 +1,89 @@
+{
+  "name": "MCU Films",
+  "sections": [
+    {
+      "name": "Phase 1",
+      "entries": [
+        {
+          "value": "Iron Man"
+        },
+        {
+          "value": "Incredible Hulk"
+        },
+        {
+          "value": "Iron Man 2"
+        },
+        {
+          "value": "Thor"
+        },
+        {
+          "value": "Captain America: The First Avenger"
+        },
+        {
+          "value": "The Avengers"
+        },
+      ]
+    },
+    {
+      "name": "Phase 2",
+      "entries": [
+        {
+          "value": "Iron Man 3"
+        },
+        {
+          "value": "Thor: The Dark World"
+        },
+        {
+          "value": "Captain America: The Winter Soldier"
+        },
+        {
+          "value": "Guardians of the Galaxy"
+        },
+        {
+          "value": "Avengers: Age of Ultron"
+        },
+        {
+          "value": "Ant-Man"
+        },
+      ]
+    },
+    {
+      "name": "Phase 3",
+      "entries": [
+        {
+          "value": "Captain America: Civil War"
+        },
+        {
+          "value": "Doctor Strange"
+        },
+        {
+          "value": "Guardians of the Galaxy Vol 2."
+        },
+        {
+          "value": "Spider-Man: Homecoming"
+        },
+        {
+          "value": "Thor: Ragnarok"
+        },
+        {
+          "value": "Black Panther"
+        },
+        {
+          "value": "Avengers: Infinity War"
+        },
+        {
+          "value": "Ant-Man and the Wasp"
+        },
+        {
+          "value": "Captain Marvel"
+        },
+        {
+          "value": "Angers: Endgame"
+        },
+        {
+          "value": "Spider-Man: Far From Home"
+        },
+      ]
+    },
+  ]
+}
