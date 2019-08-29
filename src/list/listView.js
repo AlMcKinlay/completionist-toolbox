@@ -1,5 +1,5 @@
 import React from "react";
-import { DropdownToggle, DropdownItem, UncontrolledDropdown, DropdownMenu, Row } from 'reactstrap';
+import { Row } from 'reactstrap';
 import { Section } from "../section/sectionCard";
 import styled from "styled-components";
 import { connect } from "react-redux"
@@ -7,6 +7,7 @@ import { graphql } from 'gatsby';
 import Layout from "../layout"
 import { Completion } from "../components/completion";
 import { VersionSwitch } from "../components/versionSwitch";
+import Dropdown, { DropdownEl } from "../components/dropdown";
 
 const ListSection = styled.div`
 	display: ${props => props.hidden ? "none" : "block"};
@@ -47,43 +48,6 @@ const CompletionLast = styled.div`
 const Title = styled.h2`
 	margin-top: auto;
     margin-bottom: auto;
-`;
-
-const NonLink = styled.a`
-	padding: 0;
-	color: ${props => props.theme.textColor()};
-	&:hover {
-		background-color: ${props => props.theme.background()};
-	}
-`;
-
-const Menu = styled(DropdownToggle)`
-	&:hover{
-		background: ${props => props.theme.background()};
-		border: ${props => props.theme.background()};
-	}
-	&:focus{
-		box-shadow: none;
-	}
-	background: ${props => props.theme.background()};
-	border: ${props => props.theme.background()};
-	color: ${props => props.theme.textColor()}
-	box-shadow: none;
-`;
-
-const StyledDropdownMenu = styled(DropdownMenu)`
-	background-color: ${props => props.theme.background()};
-	border-color: rgba(255, 255, 255, 0.5);
-`;
-
-const StyledDropdownItem = styled(DropdownItem)`
-	&:hover {
-		background-color: ${props => props.theme.background()};
-	}
-`;
-
-const StyledUncontrolledDropdown = styled(UncontrolledDropdown)`
-	margin: auto
 `;
 
 const mapStateToProps = ({ lists }, {listName, name, entries, defaultVersion, reset}) => {
@@ -188,16 +152,12 @@ class SectionList extends React.Component {
 								</ConnectedVersionSwitch>
 							)
 						}
-						<StyledUncontrolledDropdown>
-							<Menu>&#x2807;</Menu>
-							<StyledDropdownMenu right>
-								<StyledDropdownItem onClick={this.props.showAllSections}>
-									<NonLink href="#">
-										Show Hidden Sections
-									</NonLink>
-								</StyledDropdownItem>
-							</StyledDropdownMenu>
-						</StyledUncontrolledDropdown>
+
+						<Dropdown positioned={"normal"}>
+							<DropdownEl action={this.props.showAllSections}>
+							Show Hidden Sections
+							</DropdownEl>
+						</Dropdown>
 						<CompletionLast><ConnectedCompletion list={this.state.post}></ConnectedCompletion></CompletionLast>
 					</Grid>
 				</Row>
