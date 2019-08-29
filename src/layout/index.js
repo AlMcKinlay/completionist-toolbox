@@ -2,14 +2,14 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import Helmet from 'react-helmet';
 
-import Header from './header';
+import Header from './Header';
 import './index.css';
 import 'react-circular-progressbar/dist/styles.css';
 
-import screenshot from './screenshot.png';
+import screenshot from '../resources/screenshot.png';
 import styled, { ThemeProvider } from 'styled-components';
 
-import { Theme } from '../state';
+import ThemeState from '../theme/state';
 
 const url = "https://toolbox.yamanickill.com";
 
@@ -40,18 +40,18 @@ class TemplateWrapper extends React.Component {
     this.state = {
       children: props.children,
       theme: {
-        ...Theme
+        ...ThemeState
       }
     }
 
-    Theme.watchLocalStorage((theme) => this.setState({theme: {...this.state.theme, ...theme}}));
+    ThemeState.watchLocalStorage((theme) => this.setState({theme: {...this.state.theme, ...theme}}));
   }
 
 	toggleDarkMode() {
 		this.setState({
 			theme: {
         ...this.state.theme,
-        ...Theme.toggleDarkMode()
+        ...ThemeState.toggleDarkMode()
       }
 		});
 	}

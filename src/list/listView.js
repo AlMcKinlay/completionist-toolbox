@@ -1,12 +1,12 @@
 import React from "react";
 import { DropdownToggle, DropdownItem, UncontrolledDropdown, DropdownMenu, Row } from 'reactstrap';
-import { Section } from "./section";
+import { Section } from "../section/sectionCard";
 import styled from "styled-components";
 import { connect } from "react-redux"
 import { graphql } from 'gatsby';
-import Layout from "../components/layout"
-import { Completion } from "./completion";
-import { VersionSwitch } from "./versionSwitch";
+import Layout from "../layout"
+import { Completion } from "../components/completion";
+import { VersionSwitch } from "../components/versionSwitch";
 
 const ListSection = styled.div`
 	display: ${props => props.hidden ? "none" : "block"};

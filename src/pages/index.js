@@ -1,6 +1,6 @@
 import React from 'react'
-import Layout from "../components/layout"
-import Lists from "../templates/lists";
+import Layout from "../layout"
+import Lists from "../list/lists";
 import { graphql } from 'gatsby';
 import { connect } from "react-redux"
 

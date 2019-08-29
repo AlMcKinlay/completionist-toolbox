@@ -1,6 +1,6 @@
 import React from "react";
 import { Tooltip } from 'reactstrap';
-import { ThemedListItem } from '../components/ThemedList';
+import { ThemedListItem } from '../theme';
 import { Icon } from "react-font-awesome-5";
 
 const selectedStyle = {

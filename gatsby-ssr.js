@@ -3,7 +3,7 @@ import { Provider } from 'react-redux';
 import { renderToString } from 'react-dom/server';
 import { ServerStyleSheet } from 'styled-components';
 
-import createStore from './src/state/createStore';
+import createStore from './src/createStore';
 
 export const replaceRenderer = ({ bodyComponent, replaceBodyHTMLString, setHeadComponents }) => {
 

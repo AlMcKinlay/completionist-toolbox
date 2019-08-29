@@ -1,10 +1,9 @@
 import React from "react";
 import { CardTitle, Button,  ListGroup, DropdownMenu, DropdownItem, DropdownToggle, UncontrolledDropdown, } from 'reactstrap';
-import { Item } from "./item";
-import { Completion } from "./completion";
+import { Item } from "../components/item";
+import { Completion } from "../components/completion";
 import styled from "styled-components";
-import { ThemedCard } from "../components/ThemedCard";
-import { ThemedModal, ThemedModalBody, ThemedModalFooter, ThemedModalHeader } from "../components/ThemedModal";
+import { ThemedCard, ThemedModal, ThemedModalBody, ThemedModalFooter, ThemedModalHeader } from "../theme";
 
 const Title = styled(CardTitle)`
 	overflow: hidden;
