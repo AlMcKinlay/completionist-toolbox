@@ -2,6 +2,23 @@ import React from 'react'
 import Layout from "../components/layout"
 import Lists from "../templates/lists";
 import { graphql } from 'gatsby';
+import { connect } from "react-redux"
+
+const mapStateToProps = ({ lists }, {data: {allListsHJson: {edges: entries}}}) => {
+	return {
+		unusedLists: entries.filter((entry) => !lists[entry.node.name] || lists[entry.node.name].visible === false),
+		lists: entries.filter((entry) => lists[entry.node.name] && lists[entry.node.name].visible !== false)
+	}
+};
+
+const mapDispatchToProps = (dispatch) => {
+	return {
+		addList: (list) => dispatch({ type: `ADD_LIST`, listName: list.name }),
+		hideList: (list) => dispatch({ type: `HIDE_LIST`, listName: list.name })
+	}
+};
+
+const ConnectedLists = connect(mapStateToProps, mapDispatchToProps)(Lists);
 
 const IndexPage = (data) => (
 	<Layout>
@@ -11,7 +28,7 @@ const IndexPage = (data) => (
 			<p>Welcome to the completionist toolbox. A place to help you in your constant need to complete things.</p>
 		</div>
 	</div>
-	<Lists data={data.data}></Lists>
+	<ConnectedLists data={data.data}></ConnectedLists>
 	</Layout>
 );
 

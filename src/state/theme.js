@@ -9,6 +9,7 @@ class Theme {
 
         this.dark = stored.dark || false;
         this.background = () => this.dark ? '#282828' : '#ffffff';
+        this.hoverBackground = () => this.dark ? '#383838' : '#cccccc';
         this.navbarBackground = () => this.dark ? '#282828' : '#0099C6';
         this.textColor = () => this.dark ? '#ffffff' : '#000000';
     }

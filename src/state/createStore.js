@@ -76,6 +76,24 @@ function reducerDoesThing(state, {type: action, listName, sectionName, entryName
 				[listName]: newList
 			}
 		}
+	} else if (action === "ADD_LIST") {
+		newList.visible = true;
+		newState = {
+			lists: {
+				...lists,
+				[listName]: newList
+			}
+		}
+	} else if (action === "HIDE_LIST") {
+		console.log("HIDE_LIST");
+		console.log(listName);
+		newList.visible = false;
+		newState = {
+			lists: {
+				...lists,
+				[listName]: newList
+			}
+		}
 	} else {
 		return state;
 	}
