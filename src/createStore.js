@@ -2,8 +2,8 @@ import { createStore } from 'redux';
 import { persistStore, persistReducer } from 'redux-persist'
 import storage from 'redux-persist/lib/storage';
 import { KEY_PREFIX, REHYDRATE } from 'redux-persist'
-import List from './list';
-import Section from './section';
+import List from './list/listState';
+import Section from './section/sectionState';
 
 const initialState = {
 	lists: {}

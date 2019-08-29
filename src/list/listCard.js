@@ -1,8 +1,8 @@
 import React from "react";
 import { CardTitle } from 'reactstrap';
-import { Completion } from "./completion";
+import { Completion } from "../components/completion";
 import styled from "styled-components";
-import { ThemedCard } from "../components/ThemedCard";
+import { ThemedCard } from "../theme";
 import { Link } from "gatsby"
 import { connect } from "react-redux"
 import { DropdownToggle, DropdownItem, UncontrolledDropdown, DropdownMenu } from 'reactstrap';

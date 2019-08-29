@@ -1,9 +1,9 @@
 import React, {useState} from 'react';
 import styled from "styled-components";
 import { ListCard } from "./listCard";
-import { ThemedModal, ThemedModalBody, ThemedModalFooter, ThemedModalHeader } from "../components/ThemedModal";
+import { ThemedModal, ThemedModalBody, ThemedModalFooter, ThemedModalHeader } from "../theme";
 import { Button, ListGroup } from 'reactstrap';
-import { Item } from "./item";
+import { Item } from "../components/item";
 
 const ListSection = styled.div`
 	display: block !important;
