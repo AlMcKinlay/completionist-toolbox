@@ -11,7 +11,8 @@ class Theme {
         this.background = () => this.dark ? '#282828' : '#ffffff';
         this.hoverBackground = () => this.dark ? '#383838' : '#cccccc';
         this.navbarBackground = () => this.dark ? '#282828' : '#0099C6';
-        this.textColor = () => this.dark ? '#ffffff' : '#000000';
+        this.textColor = () => this.dark ? 'rgba(255, 255, 255, 0.5)' : '#000000';
+        this.hoverTextcolor = () => this.dark ? 'rgba(255, 255, 255, 0.75)' : 'rgba(0, 0, 0, 0.75)';
     }
 
     toggleDarkMode() {

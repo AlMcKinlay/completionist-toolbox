@@ -1,46 +1,14 @@
 import React from 'react';
 import {
 	Collapse,
-	DropdownItem,
-	DropdownMenu,
-	DropdownToggle,
 	Navbar,
 	NavbarToggler,
 	Nav,
 	NavItem,
-	UncontrolledDropdown,
 } from 'reactstrap';
 import Link from "gatsby-link";
-import styled, { withTheme } from "styled-components";
-
-const StyledDropdownMenu = styled(DropdownMenu)`
-	background-color: ${props => props.theme.navbarBackground()};
-	border-color: rgba(255, 255, 255, 0.5);
-`;
-
-const StyledDivider = styled(DropdownItem)`
-	border-color: rgba(255, 255, 255, 0.5);
-`;
-
-const StyledDropdownItem = styled(DropdownItem)`
-	&:hover {
-		background-color: ${props => props.theme.navbarBackground()};
-	}
-`;
-
-const MyLink = styled(Link)`
-	padding: 0;
-	&:hover {
-		background-color: ${props => props.theme.navbarBackground()};
-	}
-`;
-
-const NonLink = styled.a`
-	padding: 0;
-	&:hover {
-		background-color: ${props => props.theme.navbarBackground()};
-	}
-`;
+import { withTheme } from "styled-components";
+import Dropdown, { DropdownDivider, DropdownLink, DropdownEl } from '../components/dropdown';
 
 class Header extends React.Component {
 	constructor(props) {
@@ -61,7 +29,7 @@ class Header extends React.Component {
 	render() {
 		return (
 			<header>
-				<Navbar color="faded" dark expand="md" style={{
+				<Navbar color="faded" dark={this.props.theme.dark} light={!this.props.theme.dark} expand="md" style={{
 					backgroundColor: this.props.theme.navbarBackground()
 				}}>
 					<div className="container">
@@ -80,32 +48,16 @@ class Header extends React.Component {
 										All Lists
 									</Link>
 								</NavItem>
-								<UncontrolledDropdown nav inNavbar>
-									<DropdownToggle nav caret>
-									Options
-									</DropdownToggle>
-									<StyledDropdownMenu right>
-										<StyledDropdownItem
-												onClick={this.props.toggleDarkMode.bind(null)}>
-											<NonLink
-												className="nav-link dropdown-item"
-												href="#"
-											>
-												{this.props.theme.dark ? 'Light Mode' : 'Dark Mode'}
-											</NonLink>
-										</StyledDropdownItem>
-										<StyledDivider divider />
-										<StyledDropdownItem>
-											<MyLink
-												className="nav-link dropdown-item"
-												to="/contributing/"
-												innerRef={(el) => { this.myLink = el }}
-											>
-												Contributing
-											</MyLink>
-										</StyledDropdownItem>
-									</StyledDropdownMenu>
-								</UncontrolledDropdown>
+
+								<Dropdown name={"Options"}>
+									<DropdownEl action={this.props.toggleDarkMode.bind(null)}>
+										{this.props.theme.dark ? 'Light Mode' : 'Dark Mode'}
+									</DropdownEl>
+									<DropdownDivider />
+									<DropdownLink link="/contributing/">
+										Contributing
+									</DropdownLink>
+								</Dropdown>
 							</Nav>
 						</Collapse>
 					</div>
