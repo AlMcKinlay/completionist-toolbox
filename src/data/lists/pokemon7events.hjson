@@ -78,20 +78,44 @@
       "name": "Serial code",
       "entries": [
         {
-          "value": "Ultra Spooky Cup Shiny Mimikyu",
+          "value": "Shiny Solgaleo",
           "help": ""
+        },
+        {
+          "value": "Shiny Lunala",
+          "help": "https://bulbapedia.bulbagarden.net/wiki/List_of_PAL_region_serial_code_event_Pok%C3%A9mon_distributions_in_Generation_VII#Shiny_Lunala"
+        },
+        {
+          "value": "Shiny Tapu Fini",
+          "help": "https://bulbapedia.bulbagarden.net/wiki/List_of_PAL_region_serial_code_event_Pok%C3%A9mon_distributions_in_Generation_VII#Poni_Island_Shiny_Tapu_Fini"
+        },
+        {
+          "value": "Shiny Tapu Bulu",
+          "help": "https://bulbapedia.bulbagarden.net/wiki/List_of_PAL_region_serial_code_event_Pok%C3%A9mon_distributions_in_Generation_VII#Ula.27ula_Island_Shiny_Tapu_Bulu"
+        },
+        {
+          "value": "Shiny Tapu Lele",
+          "help": "https://bulbapedia.bulbagarden.net/wiki/List_of_PAL_region_serial_code_event_Pok%C3%A9mon_distributions_in_Generation_VII#Akala_Island_Shiny_Tapu_Lele"
+        },
+        {
+          "value": "Fula city Lugia",
+          "help": "https://bulbapedia.bulbagarden.net/wiki/List_of_PAL_region_serial_code_event_Pok%C3%A9mon_distributions_in_Generation_VII#Fula_City_Lugia"
+        },
+        {
+          "value": "Ultra Spooky Cup Shiny Mimikyu",
+          "help": "https://bulbapedia.bulbagarden.net/wiki/List_of_PAL_region_serial_code_event_Pok%C3%A9mon_distributions_in_Generation_VII#Ultra_Spooky_Cup_Shiny_Mimikyu"
         },
         {
           "value": "Zeraora",
-          "help": ""
+          "help": "https://bulbapedia.bulbagarden.net/wiki/List_of_PAL_region_serial_code_event_Pok%C3%A9mon_distributions_in_Generation_VII#Fula_City_Zeraora"
         },
         {
           "value": "Shiny Poipole",
-          "help": ""
+          "help": "https://bulbapedia.bulbagarden.net/wiki/List_of_PAL_region_serial_code_event_Pok%C3%A9mon_distributions_in_Generation_VII#Ultra_Poipole"
         },
         {
           "value": "Hong Kong Ash's Pikachu",
-          "help": ""
+          "help": "https://bulbapedia.bulbagarden.net/wiki/List_of_PAL_region_serial_code_event_Pok%C3%A9mon_distributions_in_Generation_VII#Hong_Kong_Ash.27s_Pikachu"
         },
         {
           "value": "Fula City Lugia",
@@ -250,6 +274,18 @@
     {
       "name": "Local",
       "entries": [
+        {
+          "value": "2019 World's Aerodactyl",
+          "help": "https://bulbapedia.bulbagarden.net/wiki/List_of_local_event_Pok%C3%A9mon_distributions_in_Generation_VII#2019_World_Championships_Aerodactyl"
+        },
+        {
+          "value": "Paul Ruiz's West Sea Gastrodon",
+          "help": "https://bulbapedia.bulbagarden.net/wiki/List_of_local_event_Pok%C3%A9mon_distributions_in_Generation_VII#Paul_Ruiz.27s_West_Sea_Gastrodon"
+        },
+        {
+          "value": "Hirofumi Kimura's Nidoqueen",
+          "help": "https://bulbapedia.bulbagarden.net/wiki/List_of_local_event_Pok%C3%A9mon_distributions_in_Generation_VII#Hirofumi_Kimura.27s_Nidoqueen"
+        },
         {
           "value": "Suwoong Cheong's Metagross",
           "help": "https://bulbapedia.bulbagarden.net/wiki/List_of_local_event_Pok%C3%A9mon_distributions_in_Generation_VII#Suwoong_Cheong.27s_Metagross"
