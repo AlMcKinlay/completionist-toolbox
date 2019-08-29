@@ -50,7 +50,7 @@ export class Item extends React.Component {
 	render() {
 		return (
 			<ThemedListItem onClick={this.props.clickItem} style={this.props.selected ? selectedStyle : null}>
-				{this.props.selected  ? <Icon.CheckSquare.regular /> : <Icon.Square.regular />}
+				{this.props.checkbox !== false && (this.props.selected  ? <Icon.CheckSquare.regular /> : <Icon.Square.regular />)}
 				{" " + this.props.name}
 				{this.props.help &&
 					<span className="float-right" onClick={this.copy}>
