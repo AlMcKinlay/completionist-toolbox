@@ -20,7 +20,7 @@
     "react-font-awesome-5": "0.2.2",
     "react-helmet": "5.2.1",
     "react-redux": "7.1.1",
-    "react-transition-group": "4.2.2",
+    "react-transition-group": "4.3.0",
     "reactstrap": "8.0.1",
     "redux": "4.0.4",
     "redux-persist": "6.0.0",
