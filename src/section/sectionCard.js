@@ -15,16 +15,14 @@ const Title = styled(CardTitle)`
 const Grid = styled.div`
 	display:grid;
 	grid-auto-flow: row;
-	grid-template-columns: repeat(3, 1fr);
+	grid-template-columns: 5rem 1fr;
+	min-height: 5rem;
 `;
 
 const StyledButton = styled(Button)`
 	max-height: 2.5rem;
 	margin: auto;
 	grid-column: 3;
-	@media only screen  and (min-width : 992px) {
-		grid-column: 4;
-	}
 `;
 
 export class Section extends React.Component {
@@ -94,17 +92,19 @@ export class Section extends React.Component {
 	}
 
 	render() {
-		return (this.getEntries().length > 0 ?
+		return (
 			<ThemedCard body className="text-center">
 				<Title title={this.props.name}>{this.props.name}</Title>
 				<Dropdown>
 					<DropdownEl action={this.props.hideSection}>Hide Section</DropdownEl>
 				</Dropdown>
+				{this.getEntries().length > 0 ? (
 				<Grid>
 					<Completion total={this.total()} completed={this.completed()}></Completion>
 					
 					<StyledButton onClick={this.toggle}>View List</StyledButton>
 				</Grid>
+				) : (<Grid><StyledButton disabled>Coming Soon</StyledButton></Grid>)}
 				<ThemedModal isOpen={this.state.modal} toggle={this.toggle} className={this.props.className}>
 					<ThemedModalHeader toggle={this.toggle}>{this.props.name}</ThemedModalHeader>
 					<ThemedModalBody>
@@ -126,6 +126,6 @@ export class Section extends React.Component {
 					</ThemedModalFooter>
 				</ThemedModal>
 			</ThemedCard>
-		: null);
+		);
 	}
 }

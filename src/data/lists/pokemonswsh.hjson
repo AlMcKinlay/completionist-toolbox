@@ -33,66 +33,31 @@
     },
     {
       "name": "\"Gift\" Pokemon",
-      "entries": [
-        {
-          "value": "¯\\_(ツ)_\/¯",
-          "help": ""
-        },
-      ]
+      "entries": []
     },
     {
       "name": "In-game Trades",
-      "entries": [
-        {
-          "value": "¯\\_(ツ)_\/¯",
-          "help": ""
-        },
-      ]
+      "entries": []
     },
     {
       "name": "TMs",
-      "entries": [
-        {
-          "value": "TM01 ()",
-          "help": ""
-        },
-      ]
+      "entries": []
     },
     {
       "name": "Clothing/Accessories",
-      "entries": [
-        {
-          "value": "¯\\_(ツ)_\/¯",
-          "help": ""
-        },
-      ]
+      "entries": []
     },
     {
       "name": "Curry",
-      "entries": [
-        {
-          "value": "¯\\_(ツ)_\/¯",
-          "help": ""
-        },
-      ]
+      "entries": []
     },
     {
       "name": "Raids",
-      "entries": [
-        {
-          "value": "¯\\_(ツ)_\/¯",
-          "help": ""
-        },
-      ]
+      "entries": []
     },
     {
       "name": "League Cards",
-      "entries": [
-        {
-          "value": "¯\\_(ツ)_\/¯",
-          "help": ""
-        },
-      ]
+      "entries": []
     },
   ]
 }
