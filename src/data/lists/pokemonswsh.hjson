@@ -1,6 +1,6 @@
 {
   "name": "Pokemon Sword and Shield Completion",
-  // "versions": ["sword", "shield"],
+  "versions": ["sword", "shield"],
   "sections": [
     {
       "name": "Battling",
@@ -17,11 +17,17 @@
       "name": "Catching",
       "entries": [
         {
-          "value": "Catch ",
+          "value": "Catch Zacian",
+          "version": "sword",
           "help": ""
         },
         {
-          "value": "Complete Dex"
+          "value": "Catch Zamazenta",
+          "version": "shield",
+          "help": ""
+        },
+        {
+          "value": "Complete Regional Dex"
         }
       ]
     },
