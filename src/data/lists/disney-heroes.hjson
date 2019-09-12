@@ -1,0 +1,467 @@
+{
+  "name": "Disney Heroes",
+  "sections": [
+    {
+      "name": "Eat Well",
+      "entries": [
+        {
+          "value": "Mickey"
+        },
+        {
+          "value": "Remy"
+        },
+        {
+          "value": "Linguini"
+        },
+        {
+          "value": "Baymax"
+        },
+        {
+          "value": "Judy Hopps"
+        },
+        {
+          "value": "Winnie the Pooh"
+        },
+        {
+          "value": "Admiral Ackbar"
+        },
+        {
+          "value": "Obi-Wan Kenobi"
+        },
+        {
+          "value": "Princess Leia"
+        },
+        {
+          "value": "Porgs"
+        },
+        {
+          "value": "Chewbacca"
+        },
+        {
+          "value": "Banthas"
+        },
+        {
+          "value": "Hulk"
+        },
+        {
+          "value": "Hawkeye"
+        },
+        {
+          "value": "Ghost-Spider"
+        },
+        {
+          "value": "Groot"
+        },
+        {
+          "value": "Mantis"
+        },
+        {
+          "value": "Gamora"
+        },
+        {
+          "value": "Sulley"
+        },
+        {
+          "value": "Sven"
+        },
+        {
+          "value": "Baloo"
+        },
+        {
+          "value": "Elastigirl"
+        },
+        {
+          "value": "Donald"
+        },
+        {
+          "value": "Tiana"
+        },
+      ]
+    },
+    {
+      "name": "Get Active",
+      "entries": [
+        {
+          "value": "Spider-Man"
+        },
+        {
+          "value": "Black Panther"
+        },
+        {
+          "value": "Captain Marvel"
+        },
+        {
+          "value": "Thor"
+        },
+        {
+          "value": "Captain America"
+        },
+        {
+          "value": "Falcon"
+        },
+        {
+          "value": "Dash"
+        },
+        {
+          "value": "Violet"
+        },
+        {
+          "value": "Kristoff"
+        },
+        {
+          "value": "Miguel"
+        },
+        {
+          "value": "Lightning McQueen"
+        },
+        {
+          "value": "Ariel"
+        },
+        {
+          "value": "Rey"
+        },
+        {
+          "value": "Kylo Ren"
+        },
+        {
+          "value": "Darth Maul"
+        },
+        {
+          "value": "Luke Skywalker"
+        },
+        {
+          "value": "Lando"
+        },
+        {
+          "value": "Darth Vader"
+        },
+        {
+          "value": "Elsa"
+        },
+        {
+          "value": "Moana"
+        },
+        {
+          "value": "Peter Pan"
+        },
+        {
+          "value": "Dante"
+        },
+        {
+          "value": "Dory"
+        },
+        {
+          "value": "Tigger"
+        },
+      ]
+    },
+    {
+      "name": "Express Yourself",
+      "entries": [
+        {
+          "value": "Héctor"
+        },
+        {
+          "value": "Fred"
+        },
+        {
+          "value": "Hiro"
+        },
+        {
+          "value": "Olaf"
+        },
+        {
+          "value": "Woody"
+        },
+        {
+          "value": "Cinderella"
+        },
+        {
+          "value": "Scarlet Witch"
+        },
+        {
+          "value": "Vision"
+        },
+        {
+          "value": "Groot"
+        },
+        {
+          "value": "Spider-Girl"
+        },
+        {
+          "value": "Miles Morales"
+        },
+        {
+          "value": "Rocket"
+        },
+        {
+          "value": "Rapunzel"
+        },
+        {
+          "value": "Alice"
+        },
+        {
+          "value": "Forky"
+        },
+        {
+          "value": "Tinker Bell"
+        },
+        {
+          "value": "Bonnie"
+        },
+        {
+          "value": "Lilo and Stich"
+        },
+        {
+          "value": "C-3PO"
+        },
+        {
+          "value": "Rose Tico"
+        },
+        {
+          "value": "Captain Phasma"
+        },
+        {
+          "value": "Aayla Secura"
+        },
+        {
+          "value": "Wicket W. Warrick"
+        },
+        {
+          "value": "Han Solo"
+        },
+      ]
+    },
+    {
+      "name": "Be Smart",
+      "entries": [
+        {
+          "value": "Mike Wazowski"
+        },
+        {
+          "value": "Wreck-It Ralph"
+        },
+        {
+          "value": "Rafiki"
+        },
+        {
+          "value": "Wall-E"
+        },
+        {
+          "value": "Belle"
+        },
+        {
+          "value": "Cruz Ramirez"
+        },
+        {
+          "value": "Black Widow"
+        },
+        {
+          "value": "Wasp"
+        },
+        {
+          "value": "Thanos"
+        },
+        {
+          "value": "Shuri"
+        },
+        {
+          "value": "Doctor Strange"
+        },
+        {
+          "value": "Iron Man"
+        },
+        {
+          "value": "Jack-Jack"
+        },
+        {
+          "value": "Edna Mode"
+        },
+        {
+          "value": "Wasabi"
+        },
+        {
+          "value": "Minnie"
+        },
+        {
+          "value": "Bo Peep"
+        },
+        {
+          "value": "Buzz Lightyear"
+        },
+        {
+          "value": "Yoda"
+        },
+        {
+          "value": "Padmé Amidala"
+        },
+        {
+          "value": "BB-9E"
+        },
+        {
+          "value": "R2-D2"
+        },
+        {
+          "value": "General Leia"
+        },
+        {
+          "value": "Boba Fett"
+        },
+      ]
+    },
+    {
+      "name": "Do Good",
+      "entries": [
+        {
+          "value": "Spider-Man"
+        },
+        {
+          "value": "Squirrel Girl"
+        },
+        {
+          "value": "Drax"
+        },
+        {
+          "value": "Nebula"
+        },
+        {
+          "value": "Star-Lord"
+        },
+        {
+          "value": "She-Hulk"
+        },
+        {
+          "value": "Mickey and Minnie"
+        },
+        {
+          "value": "Aladdin"
+        },
+        {
+          "value": "Hank"
+        },
+        {
+          "value": "Genie"
+        },
+        {
+          "value": "Snow White"
+        },
+        {
+          "value": "Joy"
+        },
+        {
+          "value": "BB-8"
+        },
+        {
+          "value": "Jar Jar Binks"
+        },
+        {
+          "value": "Maz Kanata"
+        },
+        {
+          "value": "Poe Dameron"
+        },
+        {
+          "value": "Mon Mothma"
+        },
+        {
+          "value": "Mace Windu"
+        },
+        {
+          "value": "Simba"
+        },
+        {
+          "value": "Mr. Incredible"
+        },
+        {
+          "value": "Merida"
+        },
+        {
+          "value": "Bing Bong"
+        },
+        {
+          "value": "Dumbo"
+        },
+        {
+          "value": "Jasmine"
+        },
+      ]
+    },
+    {
+      "name": "Team Up",
+      "entries": [
+        {
+          "value": "Chewbacca and Han Solo"
+        },
+        {
+          "value": "Rey and Finn"
+        },
+        {
+          "value": "Rey and BB-8"
+        },
+        {
+          "value": "Luke and R2-D2"
+        },
+        {
+          "value": "C-3PO and R2-D2"
+        },
+        {
+          "value": "Anakin and Obi-Wan"
+        },
+        {
+          "value": "Anna and Elsa"
+        },
+        {
+          "value": "Donald and Daisy"
+        },
+        {
+          "value": "Joy and Sadness"
+        },
+        {
+          "value": "Arlo and Spot"
+        },
+        {
+          "value": "Baymax and Hiro"
+        },
+        {
+          "value": "Ralph and Venellope"
+        },
+        {
+          "value": "Timone and Pumbaa"
+        },
+        {
+          "value": "Lilo and Stich"
+        },
+        {
+          "value": "Mike and Sulley"
+        },
+        {
+          "value": "Ducky and Bunny"
+        },
+        {
+          "value": "Nick and Judy"
+        },
+        {
+          "value": "Ariel and Flounder"
+        },
+        {
+          "value": "Rocket and Groot"
+        },
+        {
+          "value": "The Avengers"
+        },
+        {
+          "value": "Guardians of the Galaxy"
+        },
+        {
+          "value": "Spider-Man Team"
+        },
+        {
+          "value": "Ant-Man and Wasp"
+        },
+        {
+          "value": "Captain America"
+        },
+      ]
+    }
+  ]
+}
