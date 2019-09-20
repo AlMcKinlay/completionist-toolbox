@@ -1754,9 +1754,9 @@ babel-plugin-macros@^2.6.1:
     cosmiconfig "^5.2.0"
     resolve "^1.10.0"
 
-babel-plugin-remove-graphql-queries@^2.7.7:
-  version "2.7.7"
-  resolved "https://registry.yarnpkg.com/babel-plugin-remove-graphql-queries/-/babel-plugin-remove-graphql-queries-2.7.7.tgz#61e490b3221c36d94126056be2fc1e9d34268690"
+babel-plugin-remove-graphql-queries@^2.7.8:
+  version "2.7.8"
+  resolved "https://registry.yarnpkg.com/babel-plugin-remove-graphql-queries/-/babel-plugin-remove-graphql-queries-2.7.8.tgz#f9a90ae83750011931cee94941ae8714c6bf57c6"
 
 babel-plugin-styled-components@1.5.1:
   version "1.5.1"
@@ -1823,9 +1823,9 @@ babel-preset-fbjs@^3.1.2:
     "@babel/plugin-transform-template-literals" "^7.0.0"
     babel-plugin-syntax-trailing-function-commas "^7.0.0-beta.0"
 
-babel-preset-gatsby@^0.2.13:
-  version "0.2.13"
-  resolved "https://registry.yarnpkg.com/babel-preset-gatsby/-/babel-preset-gatsby-0.2.13.tgz#3584f0de51c66e218232655e87aa8e29203e54fe"
+babel-preset-gatsby@^0.2.14:
+  version "0.2.14"
+  resolved "https://registry.yarnpkg.com/babel-preset-gatsby/-/babel-preset-gatsby-0.2.14.tgz#2712a7dacf73d0b2f18d380180614c5587701c98"
   dependencies:
     "@babel/plugin-proposal-class-properties" "^7.5.5"
     "@babel/plugin-syntax-dynamic-import" "^7.2.0"
@@ -4228,9 +4228,9 @@ functional-red-black-tree@^1.0.1:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/functional-red-black-tree/-/functional-red-black-tree-1.0.1.tgz#1b0ab3bd553b2a0d6399d29c0e3ea0b252078327"
 
-gatsby-cli@^2.7.48:
-  version "2.7.48"
-  resolved "https://registry.yarnpkg.com/gatsby-cli/-/gatsby-cli-2.7.48.tgz#ca84ea265c0cfb78b5e641ae3dd6a711333832d3"
+gatsby-cli@^2.7.49:
+  version "2.7.49"
+  resolved "https://registry.yarnpkg.com/gatsby-cli/-/gatsby-cli-2.7.49.tgz#47a52c92e89b85ccdf0a5e8fbac0d49f120ebada"
   dependencies:
     "@babel/code-frame" "^7.5.5"
     "@babel/runtime" "^7.6.0"
@@ -4248,7 +4248,7 @@ gatsby-cli@^2.7.48:
     execa "^2.0.4"
     fs-exists-cached "^1.0.0"
     fs-extra "^8.1.0"
-    gatsby-telemetry "^1.1.24"
+    gatsby-telemetry "^1.1.25"
     hosted-git-info "^3.0.0"
     is-valid-path "^0.1.1"
     lodash "^4.17.15"
@@ -4273,27 +4273,27 @@ gatsby-cli@^2.7.48:
     ink "^2.3.0"
     ink-spinner "^3.0.1"
 
-gatsby-core-utils@^1.0.9:
-  version "1.0.9"
-  resolved "https://registry.yarnpkg.com/gatsby-core-utils/-/gatsby-core-utils-1.0.9.tgz#54476c43d50b5f8561b8f0eb5f91a6f94dad4dd3"
+gatsby-core-utils@^1.0.10:
+  version "1.0.10"
+  resolved "https://registry.yarnpkg.com/gatsby-core-utils/-/gatsby-core-utils-1.0.10.tgz#f4309a8439e36b3e833c00b1903f381148df4c1b"
 
-gatsby-graphiql-explorer@^0.2.17:
-  version "0.2.17"
-  resolved "https://registry.yarnpkg.com/gatsby-graphiql-explorer/-/gatsby-graphiql-explorer-0.2.17.tgz#cd59500d5fed05b687dff86b9805609697c6a9b5"
+gatsby-graphiql-explorer@^0.2.18:
+  version "0.2.18"
+  resolved "https://registry.yarnpkg.com/gatsby-graphiql-explorer/-/gatsby-graphiql-explorer-0.2.18.tgz#5801f327399d312d53ba423cd6c486ffc02f7707"
   dependencies:
     "@babel/runtime" "^7.6.0"
 
-gatsby-link@2.2.14, gatsby-link@^2.2.14:
-  version "2.2.14"
-  resolved "https://registry.yarnpkg.com/gatsby-link/-/gatsby-link-2.2.14.tgz#52c2bda60e2704335abab7430b273bd0ca3df7dd"
+gatsby-link@2.2.15, gatsby-link@^2.2.15:
+  version "2.2.15"
+  resolved "https://registry.yarnpkg.com/gatsby-link/-/gatsby-link-2.2.15.tgz#ef3fa6628f5738e45cfca03bb91b2cbb20df1eb7"
   dependencies:
     "@babel/runtime" "^7.6.0"
     "@types/reach__router" "^1.2.5"
     prop-types "^15.7.2"
 
-gatsby-page-utils@^0.0.19:
-  version "0.0.19"
-  resolved "https://registry.yarnpkg.com/gatsby-page-utils/-/gatsby-page-utils-0.0.19.tgz#33b7b91feccfe061c24af4824b5648560cd30b18"
+gatsby-page-utils@^0.0.20:
+  version "0.0.20"
+  resolved "https://registry.yarnpkg.com/gatsby-page-utils/-/gatsby-page-utils-0.0.20.tgz#eda4602904f8e302af015372062f63cec6fc8554"
   dependencies:
     "@babel/runtime" "^7.6.0"
     bluebird "^3.5.5"
@@ -4304,41 +4304,41 @@ gatsby-page-utils@^0.0.19:
     micromatch "^3.1.10"
     slash "^3.0.0"
 
-gatsby-plugin-page-creator@^2.1.19:
-  version "2.1.19"
-  resolved "https://registry.yarnpkg.com/gatsby-plugin-page-creator/-/gatsby-plugin-page-creator-2.1.19.tgz#2459af8147a8b1ae2f18e4fb50e11002e5f90f19"
+gatsby-plugin-page-creator@^2.1.20:
+  version "2.1.20"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-page-creator/-/gatsby-plugin-page-creator-2.1.20.tgz#b2831f3c86c5d9f0cc7eb29343ac46b75fa6d662"
   dependencies:
     "@babel/runtime" "^7.6.0"
     bluebird "^3.5.5"
     fs-exists-cached "^1.0.0"
-    gatsby-page-utils "^0.0.19"
+    gatsby-page-utils "^0.0.20"
     glob "^7.1.4"
     lodash "^4.17.15"
     micromatch "^3.1.10"
 
-gatsby-plugin-react-helmet@3.1.7:
-  version "3.1.7"
-  resolved "https://registry.yarnpkg.com/gatsby-plugin-react-helmet/-/gatsby-plugin-react-helmet-3.1.7.tgz#f93770eef0a7a6692249cc6437e11dda2729e1fa"
+gatsby-plugin-react-helmet@3.1.8:
+  version "3.1.8"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-react-helmet/-/gatsby-plugin-react-helmet-3.1.8.tgz#319254fd8cd99d0fcd615cee11a5d1f1ad0ab6f4"
   dependencies:
     "@babel/runtime" "^7.6.0"
 
-gatsby-plugin-styled-components@3.1.5:
-  version "3.1.5"
-  resolved "https://registry.yarnpkg.com/gatsby-plugin-styled-components/-/gatsby-plugin-styled-components-3.1.5.tgz#9b50164b568bbfc45caad958f47667deb90a955d"
+gatsby-plugin-styled-components@3.1.6:
+  version "3.1.6"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-styled-components/-/gatsby-plugin-styled-components-3.1.6.tgz#e4b8a0e20b888d9d74def8052713b4480212b559"
   dependencies:
     "@babel/runtime" "^7.6.0"
 
-gatsby-react-router-scroll@^2.1.8:
-  version "2.1.8"
-  resolved "https://registry.yarnpkg.com/gatsby-react-router-scroll/-/gatsby-react-router-scroll-2.1.8.tgz#ade44d09010eac5d0f6c6fa35ba122a8741f7589"
+gatsby-react-router-scroll@^2.1.9:
+  version "2.1.9"
+  resolved "https://registry.yarnpkg.com/gatsby-react-router-scroll/-/gatsby-react-router-scroll-2.1.9.tgz#7793827c3b492d4d55f84b33a153129cdbb04063"
   dependencies:
     "@babel/runtime" "^7.6.0"
     scroll-behavior "^0.9.10"
     warning "^3.0.0"
 
-gatsby-source-filesystem@2.1.24:
-  version "2.1.24"
-  resolved "https://registry.yarnpkg.com/gatsby-source-filesystem/-/gatsby-source-filesystem-2.1.24.tgz#f71cc39ce12377303b0ebe3378d803cc5db94cdb"
+gatsby-source-filesystem@2.1.25:
+  version "2.1.25"
+  resolved "https://registry.yarnpkg.com/gatsby-source-filesystem/-/gatsby-source-filesystem-2.1.25.tgz#2fb479b591381783018d8a7e67dd18fc6793e44a"
   dependencies:
     "@babel/runtime" "^7.6.0"
     better-queue "^3.8.10"
@@ -4346,7 +4346,7 @@ gatsby-source-filesystem@2.1.24:
     chokidar "3.1.0"
     file-type "^12.3.0"
     fs-extra "^8.1.0"
-    gatsby-core-utils "^1.0.9"
+    gatsby-core-utils "^1.0.10"
     got "^7.1.0"
     md5-file "^3.2.3"
     mime "^2.4.4"
@@ -4356,9 +4356,9 @@ gatsby-source-filesystem@2.1.24:
     valid-url "^1.0.9"
     xstate "^4.6.7"
 
-gatsby-telemetry@^1.1.24:
-  version "1.1.24"
-  resolved "https://registry.yarnpkg.com/gatsby-telemetry/-/gatsby-telemetry-1.1.24.tgz#868a04ec2a1710831370b41dcc8fdbab7a4228cf"
+gatsby-telemetry@^1.1.25:
+  version "1.1.25"
+  resolved "https://registry.yarnpkg.com/gatsby-telemetry/-/gatsby-telemetry-1.1.25.tgz#ff348fb179fab0144af53e48914ec5aaa266d73b"
   dependencies:
     "@babel/code-frame" "^7.5.5"
     "@babel/runtime" "^7.6.0"
@@ -4378,17 +4378,17 @@ gatsby-telemetry@^1.1.24:
     stack-utils "1.0.2"
     uuid "3.3.3"
 
-gatsby-transformer-hjson@2.2.9:
-  version "2.2.9"
-  resolved "https://registry.yarnpkg.com/gatsby-transformer-hjson/-/gatsby-transformer-hjson-2.2.9.tgz#b07c5be823f4cd224e8326f73ed89339160cff4c"
+gatsby-transformer-hjson@2.2.10:
+  version "2.2.10"
+  resolved "https://registry.yarnpkg.com/gatsby-transformer-hjson/-/gatsby-transformer-hjson-2.2.10.tgz#af592a5a5a0e8d04e220beba35c5a8c4c1092ee0"
   dependencies:
     "@babel/runtime" "^7.6.0"
     bluebird "^3.5.5"
     hjson "^3.1.2"
 
-gatsby@2.15.18:
-  version "2.15.18"
-  resolved "https://registry.yarnpkg.com/gatsby/-/gatsby-2.15.18.tgz#d9a68903bcf17cb040b45f935441b972e7bc8755"
+gatsby@2.15.19:
+  version "2.15.19"
+  resolved "https://registry.yarnpkg.com/gatsby/-/gatsby-2.15.19.tgz#da8bb371885c08bc3c7f99ff60eee71c64cfb7e6"
   dependencies:
     "@babel/code-frame" "^7.5.5"
     "@babel/core" "^7.6.0"
@@ -4411,8 +4411,8 @@ gatsby@2.15.18:
     babel-loader "^8.0.6"
     babel-plugin-add-module-exports "^0.3.3"
     babel-plugin-dynamic-import-node "^1.2.0"
-    babel-plugin-remove-graphql-queries "^2.7.7"
-    babel-preset-gatsby "^0.2.13"
+    babel-plugin-remove-graphql-queries "^2.7.8"
+    babel-preset-gatsby "^0.2.14"
     better-opn "1.0.0"
     better-queue "^3.8.10"
     bluebird "^3.5.5"
@@ -4450,13 +4450,13 @@ gatsby@2.15.18:
     flat "^4.1.0"
     fs-exists-cached "1.0.0"
     fs-extra "^8.1.0"
-    gatsby-cli "^2.7.48"
-    gatsby-core-utils "^1.0.9"
-    gatsby-graphiql-explorer "^0.2.17"
-    gatsby-link "^2.2.14"
-    gatsby-plugin-page-creator "^2.1.19"
-    gatsby-react-router-scroll "^2.1.8"
-    gatsby-telemetry "^1.1.24"
+    gatsby-cli "^2.7.49"
+    gatsby-core-utils "^1.0.10"
+    gatsby-graphiql-explorer "^0.2.18"
+    gatsby-link "^2.2.15"
+    gatsby-plugin-page-creator "^2.1.20"
+    gatsby-react-router-scroll "^2.1.9"
+    gatsby-telemetry "^1.1.25"
     glob "^7.1.4"
     got "8.3.2"
     graphql "^14.5.6"
