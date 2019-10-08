@@ -4402,9 +4402,9 @@ gatsby-react-router-scroll@^2.1.11:
     scroll-behavior "^0.9.10"
     warning "^3.0.0"
 
-gatsby-source-filesystem@2.1.29:
-  version "2.1.29"
-  resolved "https://registry.yarnpkg.com/gatsby-source-filesystem/-/gatsby-source-filesystem-2.1.29.tgz#ca4dd77c850152b1a57d91b6535930b67b35fe73"
+gatsby-source-filesystem@2.1.30:
+  version "2.1.30"
+  resolved "https://registry.yarnpkg.com/gatsby-source-filesystem/-/gatsby-source-filesystem-2.1.30.tgz#274457b9ce1352026191a56af74bce4b1342aa94"
   dependencies:
     "@babel/runtime" "^7.6.2"
     better-queue "^3.8.10"
@@ -4452,9 +4452,9 @@ gatsby-transformer-hjson@2.2.14:
     bluebird "^3.7.0"
     hjson "^3.2.0"
 
-gatsby@2.15.31:
-  version "2.15.31"
-  resolved "https://registry.yarnpkg.com/gatsby/-/gatsby-2.15.31.tgz#a9c4118b3859b3e1757d5022ff4dd8381554c325"
+gatsby@2.15.32:
+  version "2.15.32"
+  resolved "https://registry.yarnpkg.com/gatsby/-/gatsby-2.15.32.tgz#85eb426d1db9720451bec92a4aef215466656c21"
   dependencies:
     "@babel/code-frame" "^7.5.5"
     "@babel/core" "^7.6.2"
