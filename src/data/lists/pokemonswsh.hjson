@@ -27,6 +27,14 @@
           "help": ""
         },
         {
+          "value": "Trade for Zacian",
+          "version": "shield",
+        },
+        {
+          "value": "Trade for Zamazenta",
+          "version": "sword",
+        },
+        {
           "value": "Complete Dex"
         }
       ]
