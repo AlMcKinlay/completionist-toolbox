@@ -36,6 +36,10 @@
         },
         {
           "value": "Complete Dex"
+        },
+        {
+          "value": "Get Mew",
+          "help": "from Pokeball plus"
         }
       ]
     },
