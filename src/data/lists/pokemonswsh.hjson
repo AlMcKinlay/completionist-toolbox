@@ -44,6 +44,38 @@
       ]
     },
     {
+      "name": "Gigantamax Pokemon",
+      "entries": [
+        {
+          "value": "Charizard"
+        },
+        {
+          "value": "Butterfree"
+        },
+        {
+          "value": "Pikachu",
+          "help": "Need saved data from Let's Go Pikachu"
+        },
+        {
+          "value": "Meowth",
+          "help": "Early purchase bonus (before 2020/01/15)"
+        },
+        {
+          "value": "Eevee",
+          "help": "Need saved data from Let's Go Eevee"
+        }
+        {
+          "value": "Alcremie"
+        },
+        {
+          "value": "Corviknight"
+        },
+        {
+          "value": "Drednaw"
+        },
+      ]
+    },
+    {
       "name": "In-game Gifts",
       "entries": []
     },
