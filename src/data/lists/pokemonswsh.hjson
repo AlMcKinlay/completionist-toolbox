@@ -3,7 +3,7 @@
   "versions": ["sword", "shield"],
   "sections": [
     {
-      "name": "Battling",
+      "name": "Play-Through",
       "entries": [
         {
           "value": "Defeat All Gyms"
@@ -14,7 +14,7 @@
       ]
     },
     {
-      "name": "Catching",
+      "name": "Dex",
       "entries": [
         {
           "value": "Catch Zacian",
@@ -40,7 +40,7 @@
       ]
     },
     {
-      "name": "\"Gift\" Pokemon",
+      "name": "In-game Gifts",
       "entries": []
     },
     {
