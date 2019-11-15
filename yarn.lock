@@ -4569,9 +4569,9 @@ gatsby-transformer-hjson@2.2.20:
     bluebird "^3.7.1"
     hjson "^3.2.1"
 
-gatsby@2.17.14:
-  version "2.17.14"
-  resolved "https://registry.yarnpkg.com/gatsby/-/gatsby-2.17.14.tgz#b1c9e1da69f807bc67e337226208468a27bcf9f0"
+gatsby@2.17.15:
+  version "2.17.15"
+  resolved "https://registry.yarnpkg.com/gatsby/-/gatsby-2.17.15.tgz#731e44f4292256889f374d434d56ace29ac2cfec"
   dependencies:
     "@babel/code-frame" "^7.5.5"
     "@babel/core" "^7.7.2"
