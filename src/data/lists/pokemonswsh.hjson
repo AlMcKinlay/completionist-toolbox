@@ -19,12 +19,16 @@
         {
           "value": "Catch Zacian",
           "version": "sword",
-          "help": ""
+          "help": "Energy Plant"
         },
         {
           "value": "Catch Zamazenta",
           "version": "shield",
-          "help": ""
+          "help": "Energy Plant"
+        },
+        {
+          "value": "Catch Eternatus",
+          "help": "Energy Plant"
         },
         {
           "value": "Trade for Zacian",
