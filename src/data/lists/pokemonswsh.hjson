@@ -142,6 +142,11 @@
           "version": "shield"
         },
         {
+          "value": "Trade or transfer for Flapple",
+          "version": "shield",
+          "help": "Can only evolve in Sword"
+        },
+        {
           "value": "Trade or transfer for Stonjourner",
           "version": "shield"
         },
