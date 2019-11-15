@@ -17,6 +17,139 @@
       "name": "Dex",
       "entries": [
         {
+          "value": "Trade or transfer for Ponyta family",
+          "version": "sword"
+        },
+        {
+          "value": "Trade or transfer for Corsola family",
+          "version": "sword"
+        },
+        {
+          "value": "Trade or transfer for Larvitar family",
+          "version": "sword"
+        },
+        {
+          "value": "Trade or transfer for Lotad family",
+          "version": "sword"
+        },
+        {
+          "value": "Trade or transfer for Sableye",
+          "version": "sword"
+        },
+        {
+          "value": "Trade or transfer for Lunatone",
+          "version": "sword"
+        },
+        {
+          "value": "Trade or transfer for red-stripe Basculin",
+          "version": "sword"
+        },
+        {
+          "value": "Trade or transfer for Croagunk family",
+          "version": "sword"
+        },
+        {
+          "value": "Trade or transfer for Solosis family",
+          "version": "sword"
+        },
+        {
+          "value": "Trade or transfer for Vullaby family",
+          "version": "sword"
+        },
+        {
+          "value": "Trade or transfer for Spritzee family",
+          "version": "sword"
+        },
+        {
+          "value": "Trade or transfer for Goomy family",
+          "version": "sword"
+        },
+        {
+          "value": "Trade or transfer for Oranguru",
+          "version": "sword"
+        },
+        {
+          "value": "Trade or transfer for Drampa",
+          "version": "sword"
+        },
+        {
+          "value": "Trade or transfer for Appletun",
+          "version": "sword",
+          "help": "Can only evolve in Shield"
+        },
+        {
+          "value": "Trade or transfer for Eiscue",
+          "version": "sword"
+        },
+        {
+          "value": "Trade or transfer for female Indeedee",
+          "version": "sword"
+        },
+        {
+          "value": "Trade or transfer for Farfetch'd family",
+          "version": "shield"
+        },
+        {
+          "value": "Trade or transfer for Seedot family",
+          "version": "shield"
+        },
+        {
+          "value": "Trade or transfer for Mawile",
+          "version": "shield"
+        },
+        {
+          "value": "Trade or transfer for Solrock",
+          "version": "shield"
+        },
+        {
+          "value": "Trade or transfer for blue-stripe basculin",
+          "version": "shield"
+        },
+        {
+          "value": "Trade or transfer for Darumaka family",
+          "version": "shield"
+        },
+        {
+          "value": "Trade or transfer for Scraggy family",
+          "version": "shield"
+        },
+        {
+          "value": "Trade or transfer for Gothita family",
+          "version": "shield"
+        },
+        {
+          "value": "Trade or transfer for Rufflet family",
+          "version": "shield"
+        },
+        {
+          "value": "Trade or transfer for Deino family",
+          "version": "shield"
+        },
+        {
+          "value": "Trade or transfer for Swirlix family",
+          "version": "shield"
+        },
+        {
+          "value": "Trade or transfer for Passimian",
+          "version": "shield"
+        },
+        {
+          "value": "Trade or transfer for Turtonator",
+          "version": "shield"
+        },
+        {
+          "value": "Trade or transfer for Jangmo-o family",
+          "version": "shield"
+        },
+        {
+          "value": "Trade or transfer for Stonjourner",
+          "version": "shield"
+        },
+        {
+          "value": "Trade or transfer for male Indeedee",
+          "version": "shield"
+        },
+        {
           "value": "Catch Zacian",
           "version": "sword",
           "help": "Energy Plant"
