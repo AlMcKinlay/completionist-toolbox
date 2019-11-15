@@ -61,14 +61,71 @@
           "help": "Early purchase bonus (before 2020/01/15)"
         },
         {
+          "value": "Machamp"
+        },
+        {
+          "value": "Gengar"
+        },
+        {
+          "value": "Kingler"
+        },
+        {
+          "value": "Lapras"
+        },
+        {
           "value": "Eevee",
           "help": "Need saved data from Let's Go Eevee"
         }
         {
-          "value": "Alcremie"
+          "value": "Snorlax",
+          "help": "Not available yet"
+        },
+        {
+          "value": "Garbodar"
+        },
+        {
+          "value": "Melmetal",
+          "help": "Not available yet"
         },
         {
           "value": "Corviknight"
+        },
+        {
+          "value": "Orbeetle"
+        },
+        {
+          "value": "Drednaw"
+        },
+        {
+          "value": "Coalossal"
+        },
+        {
+          "value": "Flapple"
+        },
+        {
+          "value": "Appletun"
+        },
+        {
+          "value": "Sandaconda"
+        },
+        {
+          "value": "Toxtricity",
+          "help": "Not available yet"
+        },
+        {
+          "value": "Centiskorch"
+        },
+        {
+          "value": "Hatterene"
+        },
+        {
+          "value": "Grimmsnarl"
+        },
+        {
+          "value": "Alcremie"
+        },
+        {
+          "value": "Copperajah"
         },
         {
           "value": "Drednaw"
