@@ -198,16 +198,34 @@
           "help": "Early purchase bonus (before 2020/01/15)"
         },
         {
-          "value": "Machamp"
+          "value": "Machamp",
+          "version": "sword"
         },
         {
-          "value": "Gengar"
+          "value": "Machamp",
+          "help": "Only available in sword, play with sword player to gain access",
+          "version": "shield"
+        },
+        {
+          "value": "Gengar",
+          "version": "shield"
+        },
+        {
+          "value": "Gengar",
+          "help": "Only available in shield, play with shield player to gain access",
+          "version": "sword"
         },
         {
           "value": "Kingler"
         },
         {
-          "value": "Lapras"
+          "value": "Lapras",
+          "version": "shield"
+        },
+        {
+          "value": "Lapras",
+          "help": "Only available in shield, play with shield player to gain access",
+          "version": "sword"
         },
         {
           "value": "Eevee",
@@ -234,13 +252,31 @@
           "value": "Drednaw"
         },
         {
-          "value": "Coalossal"
+          "value": "Coalossal",
+          "version": "sword"
         },
         {
-          "value": "Flapple"
+          "value": "Coalossal",
+          "help": "Only available in sword, play with sword player to gain access",
+          "version": "shield"
         },
         {
-          "value": "Appletun"
+          "value": "Flapple",
+          "version": "sword"
+        },
+        {
+          "value": "Flapple",
+          "help": "Only available in sword, play with sword player to gain access",
+          "version": "shield"
+        },
+        {
+          "value": "Appletun",
+          "version": "shield"
+        },
+        {
+          "value": "Appletun",
+          "help": "Only available in shield, play with shield player to gain access",
+          "version": "sword"
         },
         {
           "value": "Sandaconda"
