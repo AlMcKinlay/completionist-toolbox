@@ -315,11 +315,97 @@
     },
     {
       "name": "In-game Gifts",
-      "entries": []
+      "entries": [
+        {
+          "value": "Gigantamax Pikachu",
+          "help": "Meetup Spot Train Station (have save data for Let's Go Pikachu)"
+        },
+        {
+          "value": "Gigantamax Eevee",
+          "help": "Meetup Spot Train Station (have save data for Let's Go Eevee)"
+        },
+        {
+          "value": "Toxel",
+          "help": "Nursery, Route 5"
+        },
+        {
+          "value": "Dracozolt",
+          "help": "Bird + Drake fossil"
+        },
+        {
+          "value": "Arctozolt",
+          "help": "Bird + Dino fossil"
+        },
+        {
+          "value": "Dracovish",
+          "help": "Fish + Drake fossil"
+        },
+        {
+          "value": "Arctovish",
+          "help": "Fish + Dino fossil"
+        },
+        {
+          "value": "Type Null", 
+          "help": "Battle Tower after becoming Champion"
+        },
+        {
+          "value": "Gigantamax Charmander",
+          "help": "Leon's Room after becoming Champion"
+        },
+      ]
     },
     {
       "name": "In-game Trades",
-      "entries": []
+      "entries": [
+        {
+          "value": "Bunnelby for Skwovet",
+          "help": "Motostoke Pokemon Centre"
+        },
+        {
+          "value": "Galarian Meowth for Kantonia Meowth",
+          "help": "Turrfield Gym"
+        },
+        {
+          "value": "Minccino for Cottonee",
+          "help": "Hulbury Market"
+        },
+        {
+          "value": "Toxel for Togepi",
+          "help": "Outside Hammerlocke Vault"
+        },
+        {
+          "value": "Maractus for Hatenna",
+          "help": "On top of building in Stow-on-Side",
+          "version": "sword"
+        },
+        {
+          "value": "Maractus for Impidimp",
+          "help": "On top of building in Stow-on-Side",
+          "version": "shield"
+        },
+        {
+          "value": "Galarian Yamask for Unovan Yamask",
+          "help": "Ballonlea Gym"
+        },
+        {
+          "value": "Vanillish for Throh",
+          "help": "Circhester Ice Cream Stall",
+          "version": "sword"
+        },
+        {
+          "value": "Vanillish for Sawk",
+          "help": "Circhester Ice Cream Stall",
+          "version": "shield"
+        },
+        {
+          "value": "Obstagoon for Kantonian Mr Mime",
+          "help": "Spikemuth, near battle area"
+        },
+        {
+          "value": "Frosmoth for Duraludon",
+          "help": "Wyndon, in house near stadium"
+        },
+      ]
     },
     {
       "name": "TMs",
