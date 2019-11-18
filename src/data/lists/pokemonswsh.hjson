@@ -336,7 +336,152 @@
     },
     {
       "name": "League Cards",
-      "entries": []
+      "entries": [
+        {
+          "value": "Hop (1)",
+          "help": "Defeat Hop on route 3"
+        },
+        {
+          "value": "Marnie (1)",
+          "help": "From Marnie in Ballonlea"
+        },
+        {
+          "value": "Milo (1)",
+          "help": "From Sonia in Turffield"
+        },
+        {
+          "value": "Nessa (1)",
+          "help": "From Nessa in Hulbury"
+        },
+        {
+          "value": "Kabu (1)",
+          "help": "From Marnie in Motostoke"
+        },
+        {
+          "value": "Bea (1)",
+          "help": "From Opal in Stow-on-Side",
+          "version": "sword"
+        },
+        {
+          "value": "Allister (1)",
+          "help": "From Opal in Stow-on-Side",
+          "version": "shield"
+        },
+        {
+          "value": "Opal (1)",
+          "help": "From Opal on route 6 after defeating Team Yell"
+        },
+        {
+          "value": "Gordie (1)",
+          "help": "From Hop in Circhester",
+          "version": "sword"
+        },
+        {
+          "value": "Melony (1)",
+          "help": "From Hop in Circhester",
+          "version": "shield"
+        },
+        {
+          "value": "Piers (1)",
+          "help": "From Marnie in Spikemuth"
+        },
+        {
+          "value": "Raihun (1)",
+          "help": "From Raihan in the Hammerlocke Vault"
+        },
+        {
+          "value": "Leon (1)",
+          "help": "From Leon at the start of the game"
+        },
+        {
+          "value": "Chairman Rose (1)",
+          "help": "From Oleana in Hulbury"
+        },
+        {
+          "value": "Bede (1)",
+          "help": "From Bede in Mine No. 2"
+        },
+        {
+          "value": "Hop (2)",
+          "help": "From Hop in Slumbering Weald after helping him catch Zamazenta",
+          "version": "sword"
+        },
+        {
+          "value": "Hop (2)",
+          "help": "From Hop in Slumbering Weald after helping him catch Zacian",
+          "version": "shield"
+        },
+        {
+          "value": "Marnie (2)",
+          "help": "From Marnie in Spikemuth"
+        },
+        {
+          "value": "Milo (2)",
+          "help": "From Milo in Turffield after becoming Champion"
+        },
+        {
+          "value": "Nessa (2)",
+          "help": "From Nessa in Hulbury after becoming Champion"
+        },
+        {
+          "value": "Kabu (2)",
+          "help": "From Kabu in Motostoke after becoming Champion"
+        },
+        {
+          "value": "Bea (2)",
+          "help": "From Bea in Stow-on-Side after becoming Champion",
+          "version": "sword"
+        },
+        {
+          "value": "Allister (2)",
+          "help": "From Allister in Stow-on-Side after becoming Champion",
+          "version": "shield"
+        },
+        {
+          "value": "Opal (2)",
+          "help": "From Opal in Ballonlea after becoming Champion"
+        },
+        {
+          "value": "Gordie (2)",
+          "help": "From Gordie in Circhester after becoming Champion",
+          "version": "sword"
+        },
+        {
+          "value": "Melony (2)",
+          "help": "From Melony in Circhester after becoming Champion",
+          "version": "shield"
+        },
+        {
+          "value": "Piers (2)",
+          "help": "From Piers in Spikemuth after capturing Zacian",
+          "version": "sword"
+        },
+        {
+          "value": "Piers (2)",
+          "help": "From Piers in Spikemuth after capturing Zamazenta",
+          "version": "shield"
+        },
+        {
+          "value": "Raihun (2)",
+          "help": "From Raihan in the Hammerlocke after becoming Champion"
+        },
+        {
+          "value": "Chairman Rose (2)",
+          "help": "From Oleana in Galar Mine after becoming Champion"
+        },
+        {
+          "value": "Bede (2)",
+          "help": "From Bede in Ballonlea after becoming Champion"
+        },
+        {
+          "value": "Ball Guy",
+          "help": "From Ball Guy outside Motostoke Stadium after becoming Champion"
+        },
+        {
+          "value": "Leon (2)",
+          "help": "Defeat Leon in the Battle Tower"
+        },
+      ]
     },
   ]
 }
