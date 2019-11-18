@@ -328,7 +328,612 @@
     },
     {
       "name": "Curry",
-      "entries": []
+      "entries": [
+        {
+          "value": "Curry",
+          "help": "10 berries of different tastes"
+        },
+        {
+          "value": "Spicy Curry",
+          "help": "10 spicy berries"
+        },
+        {
+          "value": "Dry Curry",
+          "help": "10 dry berries"
+        },
+        {
+          "value": "Sweet Curry",
+          "help": "10 sweet berries"
+        },
+        {
+          "value": "Bitter Curry",
+          "help": "10 bitter berries"
+        },
+        {
+          "value": "Sour Curry",
+          "help": "10 sour berries"
+        },
+        {
+          "value": "Sausage Curry",
+          "help": "Sausage and 10 berries of different tastes"
+        },
+        {
+          "value": "Spicy Sausage Curry",
+          "help": "Sausage and 10 spicy berries"
+        },
+        {
+          "value": "Dry Sausage Curry",
+          "help": "Sausage and 10 dry berries"
+        },
+        {
+          "value": "Sweet Sausage Curry",
+          "help": "Sausage and 10 sweet berries"
+        },
+        {
+          "value": "Bitter Sausage Curry",
+          "help": "Sausage and 10 bitter berries"
+        },
+        {
+          "value": "Sour Sausage Curry",
+          "help": "Sausage and 10 sour berries"
+        },
+        {
+          "value": "Juicy Curry",
+          "help": "Bob's Food Tin and 10 berries of different tastes"
+        },
+        {
+          "value": "Spicy Juicy Curry",
+          "help": "Bob's Food Tin and 10 spicy berries"
+        },
+        {
+          "value": "Dry Juicy Curry",
+          "help": "Bob's Food Tin and 10 dry berries"
+        },
+        {
+          "value": "Sweet Juicy Curry",
+          "help": "Bob's Food Tin and 10 sweet berries"
+        },
+        {
+          "value": "Bitter Juicy Curry",
+          "help": "Bob's Food Tin and 10 bitter berries"
+        },
+        {
+          "value": "Sour Juicy Curry",
+          "help": "Bob's Food Tin and 10 sour berries"
+        },
+        {
+          "value": "Rich Curry",
+          "help": "Bach's Food Tin and 10 berries of different tastes"
+        },
+        {
+          "value": "Spicy Rich Curry",
+          "help": "Bach's Food Tin and 10 spicy berries"
+        },
+        {
+          "value": "Dry Rich Curry",
+          "help": "Bach's Food Tin and 10 dry berries"
+        },
+        {
+          "value": "Sweet Rich Curry",
+          "help": "Bach's Food Tin and 10 sweet berries"
+        },
+        {
+          "value": "Bitter Rich Curry",
+          "help": "Bach's Food Tin and 10 bitter berries"
+        },
+        {
+          "value": "Sour Rich Curry",
+          "help": "Bach's Food Tin and 10 sour berries"
+        },
+        {
+          "value": "Bean Medley Curry",
+          "help": "Tin of Beans and 10 berries of different tastes"
+        },
+        {
+          "value": "Spicy Bean Medley Curry",
+          "help": "Tin of Beans and 10 spicy berries"
+        },
+        {
+          "value": "Dry Bean Medley Curry",
+          "help": "Tin of Beans and 10 dry berries"
+        },
+        {
+          "value": "Sweet Bean Medley Curry",
+          "help": "Tin of Beans and 10 sweet berries"
+        },
+        {
+          "value": "Bitter Bean Medley Curry",
+          "help": "Tin of Beans and 10 bitter berries"
+        },
+        {
+          "value": "Sour Bean Medley Curry",
+          "help": "Tin of Beans and 10 sour berries"
+        },
+        {
+          "value": "Toast Curry",
+          "help": "Bread and 10 berries of different tastes"
+        },
+        {
+          "value": "Spicy Toast Curry",
+          "help": "Bread and 10 spicy berries"
+        },
+        {
+          "value": "Dry Toast Curry",
+          "help": "Bread and 10 dry berries"
+        },
+        {
+          "value": "Sweet Toast Curry",
+          "help": "Bread and 10 sweet berries"
+        },
+        {
+          "value": "Bitter Toast Curry",
+          "help": "Bread and 10 bitter berries"
+        },
+        {
+          "value": "Sour Toast Curry",
+          "help": "Bread and 10 sour berries"
+        },
+        {
+          "value": "Pasta Curry",
+          "help": "Pasta and 10 berries of different tastes"
+        },
+        {
+          "value": "Spicy Pasta Curry",
+          "help": "Pasta and 10 spicy berries"
+        },
+        {
+          "value": "Dry Pasta Curry",
+          "help": "Pasta and 10 dry berries"
+        },
+        {
+          "value": "Sweet Pasta Curry",
+          "help": "Pasta and 10 sweet berries"
+        },
+        {
+          "value": "Bitter Pasta Curry",
+          "help": "Pasta and 10 bitter berries"
+        },
+        {
+          "value": "Sour Pasta Curry",
+          "help": "Pasta and 10 sour berries"
+        },
+        {
+          "value": "Mushroom Medley Curry",
+          "help": "Mixed Mushroom and 10 berries of different tastes"
+        },
+        {
+          "value": "Spicy Mushroom Medley Curry",
+          "help": "Mixed Mushroom and 10 spicy berries"
+        },
+        {
+          "value": "Dry Mushroom Medley Curry",
+          "help": "Mixed Mushroom and 10 dry berries"
+        },
+        {
+          "value": "Sweet Mushroom Medley Curry",
+          "help": "Mixed Mushroom and 10 sweet berries"
+        },
+        {
+          "value": "Bitter Mushroom Medley Curry",
+          "help": "Mixed Mushroom and 10 bitter berries"
+        },
+        {
+          "value": "Sour Mushroom Medley Curry",
+          "help": "Mixed Mushroom and 10 sour berries"
+        },
+        {
+          "value": "Smoked-Tail Curry",
+          "help": "Smoke-Poke Tail and 10 berries of different tastes"
+        },
+        {
+          "value": "Spicy Smoked-Tail Curry",
+          "help": "Smoke-Poke Tail and 10 spicy berries"
+        },
+        {
+          "value": "Dry Smoked-Tail Curry",
+          "help": "Smoke-Poke Tail and 10 dry berries"
+        },
+        {
+          "value": "Sweet Smoked-Tail Curry",
+          "help": "Smoke-Poke Tail and 10 sweet berries"
+        },
+        {
+          "value": "Bitter Smoked-Tail Curry",
+          "help": "Smoke-Poke Tail and 10 bitter berries"
+        },
+        {
+          "value": "Sour Smoked-Tail Curry",
+          "help": "Smoke-Poke Tail and 10 sour berries"
+        },
+        {
+          "value": "Leek Curry",
+          "help": "Large Leek and 10 berries of different tastes"
+        },
+        {
+          "value": "Spicy Leek Curry",
+          "help": "Large Leek and 10 spicy berries"
+        },
+        {
+          "value": "Dry Leek Curry",
+          "help": "Large Leek and 10 dry berries"
+        },
+        {
+          "value": "Sweet Leek Curry",
+          "help": "Large Leek and 10 sweet berries"
+        },
+        {
+          "value": "Bitter Leek Curry",
+          "help": "Large Leek and 10 bitter berries"
+        },
+        {
+          "value": "Sour Leek Curry",
+          "help": "Large Leek and 10 sour berries"
+        },
+        {
+          "value": "Apple Curry",
+          "help": "Fancy Apple and 10 berries of different tastes"
+        },
+        {
+          "value": "Spicy Apple Curry",
+          "help": "Fancy Apple and 10 spicy berries"
+        },
+        {
+          "value": "Dry Apple Curry",
+          "help": "Fancy Apple and 10 dry berries"
+        },
+        {
+          "value": "Sweet Apple Curry",
+          "help": "Fancy Apple and 10 sweet berries"
+        },
+        {
+          "value": "Bitter Apple Curry",
+          "help": "Fancy Apple and 10 bitter berries"
+        },
+        {
+          "value": "Sour Apple Curry",
+          "help": "Fancy Apple and 10 sour berries"
+        },
+        {
+          "value": "Bone Curry",
+          "help": "Brittle Bones and 10 berries of different tastes"
+        },
+        {
+          "value": "Spicy Bone Curry",
+          "help": "Brittle Bones and 10 spicy berries"
+        },
+        {
+          "value": "Dry Bone Curry",
+          "help": "Brittle Bones and 10 dry berries"
+        },
+        {
+          "value": "Sweet Bone Curry",
+          "help": "Brittle Bones and 10 sweet berries"
+        },
+        {
+          "value": "Bitter Bone Curry",
+          "help": "Brittle Bones and 10 bitter berries"
+        },
+        {
+          "value": "Sour Bone Curry",
+          "help": "Brittle Bones and 10 sour berries"
+        },
+        {
+          "value": "Plenty-of-Potato Curry",
+          "help": "Pack of Potatoes and 10 berries of different tastes"
+        },
+        {
+          "value": "Spicy Plenty-of-Potato Curry",
+          "help": "Pack of Potatoes and 10 spicy berries"
+        },
+        {
+          "value": "Dry Plenty-of-Potato Curry",
+          "help": "Pack of Potatoes and 10 dry berries"
+        },
+        {
+          "value": "Sweet Plenty-of-Potato Curry",
+          "help": "Pack of Potatoes and 10 sweet berries"
+        },
+        {
+          "value": "Bitter Plenty-of-Potato Curry",
+          "help": "Pack of Potatoes and 10 bitter berries"
+        },
+        {
+          "value": "Sour Plenty-of-Potato Curry",
+          "help": "Pack of Potatoes and 10 sour berries"
+        },
+        {
+          "value": "Herb Medley Curry",
+          "help": "Pungent Root and 10 berries of different tastes"
+        },
+        {
+          "value": "Spicy Herb Medley Curry",
+          "help": "Pungent Root and 10 spicy berries"
+        },
+        {
+          "value": "Dry Herb Medley Curry",
+          "help": "Pungent Root and 10 dry berries"
+        },
+        {
+          "value": "Sweet Herb Medley Curry",
+          "help": "Pungent Root and 10 sweet berries"
+        },
+        {
+          "value": "Bitter Herb Medley Curry",
+          "help": "Pungent Root and 10 bitter berries"
+        },
+        {
+          "value": "Sour Herb Medley Curry",
+          "help": "Pungent Root and 10 sour berries"
+        },
+        {
+          "value": "Salad Curry",
+          "help": "Salad Mix and 10 berries of different tastes"
+        },
+        {
+          "value": "Spicy Salad Curry",
+          "help": "Salad Mix and 10 spicy berries"
+        },
+        {
+          "value": "Dry Salad Curry",
+          "help": "Salad Mix and 10 dry berries"
+        },
+        {
+          "value": "Sweet Salad Curry",
+          "help": "Salad Mix and 10 sweet berries"
+        },
+        {
+          "value": "Bitter Salad Curry",
+          "help": "Salad Mix and 10 bitter berries"
+        },
+        {
+          "value": "Sour Salad Curry",
+          "help": "Salad Mix and 10 sour berries"
+        },
+        {
+          "value": "Fried-Food Curry",
+          "help": "Fried Food and 10 berries of different tastes"
+        },
+        {
+          "value": "Spicy Fried-Food Curry",
+          "help": "Fried Food and 10 spicy berries"
+        },
+        {
+          "value": "Dry Fried-Food Curry",
+          "help": "Fried Food and 10 dry berries"
+        },
+        {
+          "value": "Sweet Fried-Food Curry",
+          "help": "Fried Food and 10 sweet berries"
+        },
+        {
+          "value": "Bitter Fried-Food Curry",
+          "help": "Fried Food and 10 bitter berries"
+        },
+        {
+          "value": "Sour Fried-Food Curry",
+          "help": "Fried Food and 10 sour berries"
+        },
+        {
+          "value": "Boiled-Egg Curry",
+          "help": "Boiled Egg and 10 berries of different tastes"
+        },
+        {
+          "value": "Spicy Boiled-Egg Curry",
+          "help": "Boiled Egg and 10 spicy berries"
+        },
+        {
+          "value": "Dry Boiled-Egg Curry",
+          "help": "Boiled Egg and 10 dry berries"
+        },
+        {
+          "value": "Sweet Boiled-Egg Curry",
+          "help": "Boiled Egg and 10 sweet berries"
+        },
+        {
+          "value": "Bitter Boiled-Egg Curry",
+          "help": "Boiled Egg and 10 bitter berries"
+        },
+        {
+          "value": "Sour Boiled-Egg Curry",
+          "help": "Boiled Egg and 10 sour berries"
+        },
+        {
+          "value": "Tropical Curry",
+          "help": "Fruit Bunch and 10 berries of different tastes"
+        },
+        {
+          "value": "Spicy Tropical Curry",
+          "help": "Fruit Bunch and 10 spicy berries"
+        },
+        {
+          "value": "Dry Tropical Curry",
+          "help": "Fruit Bunch and 10 dry berries"
+        },
+        {
+          "value": "Sweet Tropical Curry",
+          "help": "Fruit Bunch and 10 sweet berries"
+        },
+        {
+          "value": "Bitter Tropical Curry",
+          "help": "Fruit Bunch and 10 bitter berries"
+        },
+        {
+          "value": "Sour Tropical Curry",
+          "help": "Fruit Bunch and 10 sour berries"
+        },
+        {
+          "value": "Cheese-Covered Curry",
+          "help": "Moomoo Cheese and 10 berries of different tastes"
+        },
+        {
+          "value": "Spicy Cheese-Covered Curry",
+          "help": "Moomoo Cheese and 10 spicy berries"
+        },
+        {
+          "value": "Dry Cheese-Covered Curry",
+          "help": "Moomoo Cheese and 10 dry berries"
+        },
+        {
+          "value": "Sweet Cheese-Covered Curry",
+          "help": "Moomoo Cheese and 10 sweet berries"
+        },
+        {
+          "value": "Bitter Cheese-Covered Curry",
+          "help": "Moomoo Cheese and 10 bitter berries"
+        },
+        {
+          "value": "Sour Cheese-Covered Curry",
+          "help": "Moomoo Cheese and 10 sour berries"
+        },
+        {
+          "value": "Seasoned Curry",
+          "help": "Spice Mix and 10 berries of different tastes"
+        },
+        {
+          "value": "Spicy Seasoned Curry",
+          "help": "Spice Mix and 10 spicy berries"
+        },
+        {
+          "value": "Dry Seasoned Curry",
+          "help": "Spice Mix and 10 dry berries"
+        },
+        {
+          "value": "Sweet Seasoned Curry",
+          "help": "Spice Mix and 10 sweet berries"
+        },
+        {
+          "value": "Bitter Seasoned Curry",
+          "help": "Spice Mix and 10 bitter berries"
+        },
+        {
+          "value": "Sour Seasoned Curry",
+          "help": "Spice Mix and 10 sour berries"
+        },
+        {
+          "value": "Whipped-Cream Curry",
+          "help": "Fresh Cream and 10 berries of different tastes"
+        },
+        {
+          "value": "Spicy Whipped-Cream Curry",
+          "help": "Fresh Cream and 10 spicy berries"
+        },
+        {
+          "value": "Dry Whipped-Cream Curry",
+          "help": "Fresh Cream and 10 dry berries"
+        },
+        {
+          "value": "Sweet Whipped-Cream Curry",
+          "help": "Fresh Cream and 10 sweet berries"
+        },
+        {
+          "value": "Bitter Whipped-Cream Curry",
+          "help": "Fresh Cream and 10 bitter berries"
+        },
+        {
+          "value": "Sour Whipped-Cream Curry",
+          "help": "Fresh Cream and 10 sour berries"
+        },
+        {
+          "value": "Decorative Curry",
+          "help": "Packaged Curry and 10 berries of different tastes"
+        },
+        {
+          "value": "Spicy Decorative Curry",
+          "help": "Packaged Curry and 10 spicy berries"
+        },
+        {
+          "value": "Dry Decorative Curry",
+          "help": "Packaged Curry and 10 dry berries"
+        },
+        {
+          "value": "Sweet Decorative Curry",
+          "help": "Packaged Curry and 10 sweet berries"
+        },
+        {
+          "value": "Bitter Decorative Curry",
+          "help": "Packaged Curry and 10 bitter berries"
+        },
+        {
+          "value": "Sour Decorative Curry",
+          "help": "Packaged Curry and 10 sour berries"
+        },
+        {
+          "value": "Coconut Curry",
+          "help": "Coconut Milk and 10 berries of different tastes"
+        },
+        {
+          "value": "Spicy Coconut Curry",
+          "help": "Coconut Milk and 10 spicy berries"
+        },
+        {
+          "value": "Dry Coconut Curry",
+          "help": "Coconut Milk and 10 dry berries"
+        },
+        {
+          "value": "Sweet Coconut Curry",
+          "help": "Coconut Milk and 10 sweet berries"
+        },
+        {
+          "value": "Bitter Coconut Curry",
+          "help": "Coconut Milk and 10 bitter berries"
+        },
+        {
+          "value": "Sour Coconut Curry",
+          "help": "Coconut Milk and 10 sour berries"
+        },
+        {
+          "value": "Instant-Noodle Curry",
+          "help": "Instant Noodles and 10 berries of different tastes"
+        },
+        {
+          "value": "Spicy Instant-Noodle Curry",
+          "help": "Instant Noodles and 10 spicy berries"
+        },
+        {
+          "value": "Dry Instant-Noodle Curry",
+          "help": "Instant Noodles and 10 dry berries"
+        },
+        {
+          "value": "Sweet Instant-Noodle Curry",
+          "help": "Instant Noodles and 10 sweet berries"
+        },
+        {
+          "value": "Bitter Instant-Noodle Curry",
+          "help": "Instant Noodles and 10 bitter berries"
+        },
+        {
+          "value": "Sour Instant-Noodle Curry",
+          "help": "Instant Noodles and 10 sour berries"
+        },
+        {
+          "value": "Burger-Steak Curry",
+          "help": "Precooked Burger and 10 berries of different tastes"
+        },
+        {
+          "value": "Spicy Burger-Steak Curry",
+          "help": "Precooked Burger and 10 spicy berries"
+        },
+        {
+          "value": "Dry Burger-Steak Curry",
+          "help": "Precooked Burger and 10 dry berries"
+        },
+        {
+          "value": "Sweet Burger-Steak Curry",
+          "help": "Precooked Burger and 10 sweet berries"
+        },
+        {
+          "value": "Bitter Burger-Steak Curry",
+          "help": "Precooked Burger and 10 bitter berries"
+        },
+        {
+          "value": "Sour Burger-Steak Curry",
+          "help": "Precooked Burger and 10 sour berries"
+        },
+        {
+          "value": "Gigantamax Curry",
+          "help": "Gigantamix and 10 berries of different tastes"
+        },
+      ]
     },
     {
       "name": "Raids",
