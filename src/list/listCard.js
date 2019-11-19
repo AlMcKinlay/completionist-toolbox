@@ -51,7 +51,7 @@ export class ListCard extends React.Component {
 				<ThemedCard body className="text-center" type={this.props.type}> 
 					<Grid>
 						<div></div>
-						<div>+ Add List</div>
+						<div>+ Choose List</div>
 						<div></div>
 					</Grid>
 				</ThemedCard>
