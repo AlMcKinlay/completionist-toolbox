@@ -1648,6 +1648,10 @@
       "reset": "daily",
       "entries": [
         {
+          "value": "Loto-ID",
+          "help": "On the PC"
+        },
+        {
           "value": "Buy from the Stow-on-Side Bargain Shop"
         },
         {
