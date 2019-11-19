@@ -1618,16 +1618,28 @@
       "name": "Battle Tower",
       "entries": [
         {
-          "value": "Poke Ball Rank"
+          "value": "Singles Poke Ball Rank"
         },
         {
-          "value": "Great Ball Rank"
+          "value": "Singles Great Ball Rank"
         },
         {
-          "value": "Ultra Ball Rank"
+          "value": "Singles Ultra Ball Rank"
         },
         {
-          "value": "Master Ball Rank"
+          "value": "Singles Master Ball Rank"
+        },
+        {
+          "value": "Doubles Poke Ball Rank"
+        },
+        {
+          "value": "Doubles Great Ball Rank"
+        },
+        {
+          "value": "Doubles Ultra Ball Rank"
+        },
+        {
+          "value": "Doubles Master Ball Rank"
         },
       ]
     },
