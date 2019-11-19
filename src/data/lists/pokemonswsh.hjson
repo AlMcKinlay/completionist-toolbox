@@ -409,7 +409,408 @@
     },
     {
       "name": "TMs",
-      "entries": []
+      "entries": [
+        {
+          "value": "TM00",
+          "help": "Hammerlocke Eastern Pokemon Centre"
+        },
+        {
+          "value": "TM01",
+          "help": "Hammerlocke Eastern Pokemon Centre"
+        },
+        {
+          "value": "TM02",
+          "help": "By Containers next to water in Motostoke"
+        },
+        {
+          "value": "TM03",
+          "help": "Wyndon Northern Pokemon Centre"
+        },
+        {
+          "value": "TM04",
+          "help": "Wyndon Northern Pokemon Centre"
+        },
+        {
+          "value": "TM05",
+          "help": "Wyndon Northern Pokemon Centre"
+        },
+        {
+          "value": "TM06",
+          "help": "Stow-on-Side, in house next to Taxi Driver before stadium"
+        },
+        {
+          "value": "TM07",
+          "help": "Route 4, behind Poke Kid Rhys"
+        },
+        {
+          "value": "TM08",
+          "help": "Wyndon Northern Pokemon Centre"
+        },
+        {
+          "value": "TM09",
+          "help": "Wyndon Northern Pokemon Centre"
+        },
+        {
+          "value": "TM10",
+          "help": "Defeat Milo"
+        },
+        {
+          "value": "TM11",
+          "help": "Turffield, on island in river"
+        },
+        {
+          "value": "TM12",
+          "help": "Wyndon Northern Pokemon Centre"
+        },
+        {
+          "value": "TM13",
+          "help": "Hammerlocke Western Pokemon Centre"
+        },
+        {
+          "value": "TM14",
+          "help": "Defeat first Rotom Rally"
+        },
+        {
+          "value": "TM15",
+          "help": "Route 6, next to tent"
+        },
+        {
+          "value": "TM16",
+          "help": "Circhester, room 3 East Hotel Ionia"
+        },
+        {
+          "value": "TM17",
+          "help": "Motostoke Western Pokemon Centre"
+        },
+        {
+          "value": "TM18",
+          "help": "Motostoke Western Pokemon Centre"
+        },
+        {
+          "value": "TM19",
+          "help": "Motostoke Western Pokemon Centre"
+        },
+        {
+          "value": "TM20",
+          "help": "Battle Tower Shop"
+        },
+        {
+          "value": "TM21",
+          "help": "Ballonlea, next to giant green mushrooms"
+        },
+        {
+          "value": "TM22",
+          "help": "Circhester Bay, Route 9, on beach"
+        },
+        {
+          "value": "TM23",
+          "help": "Hammerlocke Western Pokemon Centre"
+        },
+        {
+          "value": "TM24",
+          "help": "Glimwood Tangle, dark path next to Daring Couple"
+        },
+        {
+          "value": "TM25",
+          "help": "Motostoke Western Pokemon Centre"
+        },
+        {
+          "value": "TM26",
+          "help": "Galar Mine, west of Worker Georgia"
+        },
+        {
+          "value": "TM27",
+          "help": "Circhester, first house to the left"
+        },
+        {
+          "value": "TM28",
+          "help": "Battle Tower Shop"
+        },
+        {
+          "value": "TM29",
+          "help": "On Stairs up to Hammerlocke Vault"
+        },
+        {
+          "value": "TM30",
+          "help": "Route 6, on ledge in the East"
+        },
+        {
+          "value": "TM31",
+          "help": "Route 5, south east"
+        },
+        {
+          "value": "TM32",
+          "help": "Hammerlocke Western Pokemon Centre"
+        },
+        {
+          "value": "TM33",
+          "help": "Hammerlocke Western Pokemon Centre"
+        },
+        {
+          "value": "TM34",
+          "help": "Hammerlocke Western Pokemon Centre"
+        },
+        {
+          "value": "TM35",
+          "help": "Hammerlocke Western Pokemon Centre"
+        },
+        {
+          "value": "TM36",
+          "help": "Defeat Nessa"
+        },
+        {
+          "value": "TM37",
+          "help": "Route 3, on ledge east of Schoolgirl Kayleigh"
+        },
+        {
+          "value": "TM38",
+          "help": "Defeat Kabu"
+        },
+        {
+          "value": "TM39",
+          "help": "Motostoke Riverbank, next to pipes by a berry tree"
+        },
+        {
+          "value": "TM40",
+          "help": "Wedgehurst, from Hop at station"
+        },
+        {
+          "value": "TM41",
+          "help": "Motostoke Western Pokemon Centre"
+        },
+        {
+          "value": "TM42",
+          "help": "Defeat Bea"
+        },
+        {
+          "value": "TM43",
+          "help": "Route 8, west of north exit"
+        },
+        {
+          "value": "TM44",
+          "help": "Battle Tower Shop"
+        },
+        {
+          "value": "TM45",
+          "help": "Route 9, from diver"
+        },
+        {
+          "value": "TM46",
+          "help": "Hammerlocke Eastern Pokemon Centre"
+        },
+        {
+          "value": "TM47",
+          "help": "Circhester, room 4 East Hotel Ionia"
+        },
+        {
+          "value": "TM48",
+          "help": "Defeat Gordie"
+        },
+        {
+          "value": "TM49",
+          "help": "Galar Mine No. 2, east of Rail Staff Vincent"
+        },
+        {
+          "value": "TM50",
+          "help": "Hammerlocke Western Pokemon Centre"
+        },
+        {
+          "value": "TM51",
+          "help": "Circhester, pillar in Hero's Bath"
+        },
+        {
+          "value": "TM52",
+          "help": "Battle Tower Shop"
+        },
+        {
+          "value": "TM53",
+          "help": "Galar Mine No. 2, behind Gastrodon pool"
+        },
+        {
+          "value": "TM54",
+          "help": "Route 3"
+        },
+        {
+          "value": "TM55",
+          "help": "Hammerlocke Western Pokemon Centre"
+        },
+        {
+          "value": "TM56",
+          "help": "Glimwood Tangle, on path in the left"
+        },
+        {
+          "value": "TM57",
+          "help": "Route 2, behind the Professor's house"
+        },
+        {
+          "value": "TM58",
+          "help": "Route 7"
+        },
+        {
+          "value": "TM59",
+          "help": "Battle Tower Shop"
+        },
+        {
+          "value": "TM60",
+          "help": "Wyndon Northern Pokemon Centre"
+        },
+        {
+          "value": "TM61",
+          "help": "Wyndon Northern Pokemon Centre"
+        },
+        {
+          "value": "TM62",
+          "help": "Wyndon Northern Pokemon Centre"
+        },
+        {
+          "value": "TM63",
+          "help": "Wyndon Northern Pokemon Centre"
+        },
+        {
+          "value": "TM64",
+          "help": "Route 9, small alocove in north west"
+        },
+        {
+          "value": "TM65",
+          "help": "Wild Area, Lake of Outrage"
+        },
+        {
+          "value": "TM66",
+          "help": "Hammerlocke Eastern Pokemon Centre"
+        },
+        {
+          "value": "TM67",
+          "help": "Hammerlocke Eastern Pokemon Centre"
+        },
+        {
+          "value": "TM68",
+          "help": "Hammerlocke Eastern Pokemon Centre"
+        },
+        {
+          "value": "TM69",
+          "help": "Route 2, in alcove in the left"
+        },
+        {
+          "value": "TM70",
+          "help": "Battle Tower Shop"
+        },
+        {
+          "value": "TM71",
+          "help": "Battle Tower Shop"
+        },
+        {
+          "value": "TM72",
+          "help": "Battle Tower Shop"
+        },
+        {
+          "value": "TM73",
+          "help": "Wild Area, Dusty Bowl, by tree across the water"
+        },
+        {
+          "value": "TM74",
+          "help": "Stow-on-Side, on roof"
+        },
+        {
+          "value": "TM75",
+          "help": "Wild Area, Axew's Eye, on island in lake"
+        },
+        {
+          "value": "TM76",
+          "help": "Motostoke Western Pokemon Centre"
+        },
+        {
+          "value": "TM77",
+          "help": "Ballonlea, from woman in second house"
+        },
+        {
+          "value": "TM78",
+          "help": "Ballonlea, show fire themed outfit (wear it) to man in north west"
+        },
+        {
+          "value": "TM79",
+          "help": "Hulbury, from Sonia after defeating Nessa"
+        },
+        {
+          "value": "TM80",
+          "help": "Earn over 20000 points in Rotom Rally"
+        },
+        {
+          "value": "TM81",
+          "help": "Wild Area, Giant's Seat, behind giant pillar"
+        },
+        {
+          "value": "TM82",
+          "help": "Hulbury, behind lighthouse"
+        },
+        {
+          "value": "TM83",
+          "help": "Battle Tower Shop"
+        },
+        {
+          "value": "TM84",
+          "help": "Rolling Fields, hidden by tree alongside south wall"
+        },
+        {
+          "value": "TM85",
+          "help": "Defeat Piers"
+        },
+        {
+          "value": "TM86",
+          "help": "Slumbering Weald"
+        },
+        {
+          "value": "TM87",
+          "help": "Defeat Opal"
+        },
+        {
+          "value": "TM88",
+          "help": "Hammerlocke Eastern Pokemon Centre"
+        },
+        {
+          "value": "TM89",
+          "help": "Hammerlocke Eastern Pokemon Centre"
+        },
+        {
+          "value": "TM90",
+          "help": "Hammerlocke Eastern Pokemon Centre"
+        },
+        {
+          "value": "TM91",
+          "help": "Hammerlocke Eastern Pokemon Centre"
+        },
+        {
+          "value": "TM92",
+          "help": "Battle Tower Shop"
+        },
+        {
+          "value": "TM93",
+          "help": "Wyndon, behind Rose Tower sign"
+        },
+        {
+          "value": "TM94",
+          "help": "Motostoke Western Pokemon Centre"
+        },
+        {
+          "value": "TM95",
+          "help": "Wild Area, Axew's Eye"
+        },
+        {
+          "value": "TM96",
+          "help": "Route 8, up ladder in west"
+        },
+        {
+          "value": "TM97",
+          "help": "Turffield, east of stadium entrance"
+        },
+        {
+          "value": "TM98",
+          "help": "Route 10, climb hill towards Wyndon"
+        },
+        {
+          "value": "TM99",
+          "help": "Defeat Raihun"
+        },
+      ]
     },
     {
       "name": "Clothing/Accessories",
