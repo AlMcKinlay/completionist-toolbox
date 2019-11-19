@@ -1631,5 +1631,33 @@
         },
       ]
     },
+    {
+      "name": "Daily Tasks",
+      "reset": "daily",
+      "entries": [
+        {
+          "value": "Buy from the Stow-on-Side Bargain Shop"
+        },
+        {
+          "value": "Sell to the Stow-on-Side collector"
+        },
+        {
+          "value": "Get Wishing Piece by defeating the Champions Cup"
+        },
+        {
+          "value": "Motostoke Battle Cafe"
+        },
+        {
+          "value": "Hammerlocke Battle Cafe"
+        },
+        {
+          "value": "Wyndon Battle Cafe"
+        },
+        {
+          "value": "Battle Morimoto",
+          "help": "Disguised as Police Officer in Circhester Hotel",
+        },
+      ]
+    },
   ]
 }
