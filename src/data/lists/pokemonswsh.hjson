@@ -1610,5 +1610,22 @@
         },
       ]
     },
+    {
+      "name": "Battle Tower",
+      "entries": [
+        {
+          "value": "Poke Ball Rank"
+        },
+        {
+          "value": "Great Ball Rank"
+        },
+        {
+          "value": "Ultra Ball Rank"
+        },
+        {
+          "value": "Master Ball Rank"
+        },
+      ]
+    },
   ]
 }
