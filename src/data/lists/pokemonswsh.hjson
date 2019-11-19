@@ -17,6 +17,42 @@
       ]
     },
     {
+      "name": "Post Game",
+      "entries": [
+        {
+          "value": "Catch Zacian in Slumbering Weald",
+          "version": "sword"
+        },
+        {
+          "value": "Catch Zamazenta in Slumbering Weald",
+          "version": "shield"
+        },
+        {
+          "value": "Help Hop catch Zamazenta in Slumbering Weald",
+          "version": "sword"
+        },
+        {
+          "value": "Help Hop catch Zacian in Slumbering Weald",
+          "version": "shield"
+        },
+        {
+          "value": "Battle Police Officer in Circhester hotel"
+        },
+        {
+          "value": "Learn Steel Beam",
+          "help": "Motostoke, from man down the long stairs from the central Pokemon Center"
+        },
+        {
+          "value": "Get Master Ball",
+          "help": "From Professor Magnolia, in your house"
+        },
+        {
+          "value": "Get Beast Ball",
+          "help": "Stow-on-Side, merchant on the right"
+        },
+      ]
+    },
+    {
       "name": "Dex",
       "entries": [
         {
