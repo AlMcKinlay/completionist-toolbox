@@ -1466,6 +1466,263 @@
       ]
     },
     {
+      "name": "Alcremie",
+      "entries": [
+        {
+          "value": "Vanilla Cream with Strawberry Sweet",
+          "help": "Spin clockwise once during the day, holding Strawberry Sweet"
+        },
+        {
+          "value": "Vanilla Cream with Berry Sweet",
+          "help": "Spin clockwise once during the day, holding Strawberry Sweet"
+        },
+        {
+          "value": "Vanilla Cream with Love Sweet",
+          "help": "Spin clockwise once during the day, holding Strawberry Sweet"
+        },
+        {
+          "value": "Vanilla Cream with Star Sweet",
+          "help": "Spin clockwise once during the day, holding Strawberry Sweet"
+        },
+        {
+          "value": "Vanilla Cream with Clover Sweet",
+          "help": "Spin clockwise once during the day, holding Strawberry Sweet"
+        },
+        {
+          "value": "Vanilla Cream with Flower Sweet",
+          "help": "Spin clockwise once during the day, holding Strawberry Sweet"
+        },
+        {
+          "value": "Vanilla Cream with Ribbon Sweet",
+          "help": "Spin clockwise once during the day, holding Strawberry Sweet"
+        },
+        {
+          "value": "Ruby Cream with Strawberry Sweet",
+          "help": "Spin anticlockwise once during the day, holding Strawberry Sweet"
+        },
+        {
+          "value": "Ruby Cream with Berry Sweet",
+          "help": "Spin anticlockwise once during the day, holding Strawberry Sweet"
+        },
+        {
+          "value": "Ruby Cream with Love Sweet",
+          "help": "Spin anticlockwise once during the day, holding Strawberry Sweet"
+        },
+        {
+          "value": "Ruby Cream with Star Sweet",
+          "help": "Spin anticlockwise once during the day, holding Strawberry Sweet"
+        },
+        {
+          "value": "Ruby Cream with Clover Sweet",
+          "help": "Spin anticlockwise once during the day, holding Strawberry Sweet"
+        },
+        {
+          "value": "Ruby Cream with Flower Sweet",
+          "help": "Spin anticlockwise once during the day, holding Strawberry Sweet"
+        },
+        {
+          "value": "Ruby Cream with Ribbon Sweet",
+          "help": "Spin anticlockwise once during the day, holding Strawberry Sweet"
+        },
+        {
+          "value": "Matcha Cream with Strawberry Sweet",
+          "help": "Spin clockwise once during the night, holding Strawberry Sweet"
+        },
+        {
+          "value": "Matcha Cream with Berry Sweet",
+          "help": "Spin clockwise once during the night, holding Strawberry Sweet"
+        },
+        {
+          "value": "Matcha Cream with Love Sweet",
+          "help": "Spin clockwise once during the night, holding Strawberry Sweet"
+        },
+        {
+          "value": "Matcha Cream with Star Sweet",
+          "help": "Spin clockwise once during the night, holding Strawberry Sweet"
+        },
+        {
+          "value": "Matcha Cream with Clover Sweet",
+          "help": "Spin clockwise once during the night, holding Strawberry Sweet"
+        },
+        {
+          "value": "Matcha Cream with Flower Sweet",
+          "help": "Spin clockwise once during the night, holding Strawberry Sweet"
+        },
+        {
+          "value": "Matcha Cream with Ribbon Sweet",
+          "help": "Spin clockwise once during the night, holding Strawberry Sweet"
+        },
+        {
+          "value": "Mint Cream with Strawberry Sweet",
+          "help": "Spin anticlockwise for more than 5 seconds during the night, holding Strawberry Sweet"
+        },
+        {
+          "value": "Mint Cream with Berry Sweet",
+          "help": "Spin anticlockwise for more than 5 seconds during the night, holding Strawberry Sweet"
+        },
+        {
+          "value": "Mint Cream with Love Sweet",
+          "help": "Spin anticlockwise for more than 5 seconds during the night, holding Strawberry Sweet"
+        },
+        {
+          "value": "Mint Cream with Star Sweet",
+          "help": "Spin anticlockwise for more than 5 seconds during the night, holding Strawberry Sweet"
+        },
+        {
+          "value": "Mint Cream with Clover Sweet",
+          "help": "Spin anticlockwise for more than 5 seconds during the night, holding Strawberry Sweet"
+        },
+        {
+          "value": "Mint Cream with Flower Sweet",
+          "help": "Spin anticlockwise for more than 5 seconds during the night, holding Strawberry Sweet"
+        },
+        {
+          "value": "Mint Cream with Ribbon Sweet",
+          "help": "Spin anticlockwise for more than 5 seconds during the night, holding Strawberry Sweet"
+        },
+        {
+          "value": "Lemon Cream with Strawberry Sweet",
+          "help": "Spin clockwise for more than 5 seconds during the night, holding Strawberry Sweet"
+        },
+        {
+          "value": "Lemon Cream with Berry Sweet",
+          "help": "Spin clockwise for more than 5 seconds during the night, holding Strawberry Sweet"
+        },
+        {
+          "value": "Lemon Cream with Love Sweet",
+          "help": "Spin clockwise for more than 5 seconds during the night, holding Strawberry Sweet"
+        },
+        {
+          "value": "Lemon Cream with Star Sweet",
+          "help": "Spin clockwise for more than 5 seconds during the night, holding Strawberry Sweet"
+        },
+        {
+          "value": "Lemon Cream with Clover Sweet",
+          "help": "Spin clockwise for more than 5 seconds during the night, holding Strawberry Sweet"
+        },
+        {
+          "value": "Lemon Cream with Flower Sweet",
+          "help": "Spin clockwise for more than 5 seconds during the night, holding Strawberry Sweet"
+        },
+        {
+          "value": "Lemon Cream with Ribbon Sweet",
+          "help": "Spin clockwise for more than 5 seconds during the night, holding Strawberry Sweet"
+        },
+        {
+          "value": "Salted Cream with Strawberry Sweet",
+          "help": "Spin anticlockwise once during the night, holding Strawberry Sweet"
+        },
+        {
+          "value": "Salted Cream with Berry Sweet",
+          "help": "Spin anticlockwise once during the night, holding Strawberry Sweet"
+        },
+        {
+          "value": "Salted Cream with Love Sweet",
+          "help": "Spin anticlockwise once during the night, holding Strawberry Sweet"
+        },
+        {
+          "value": "Salted Cream with Star Sweet",
+          "help": "Spin anticlockwise once during the night, holding Strawberry Sweet"
+        },
+        {
+          "value": "Salted Cream with Clover Sweet",
+          "help": "Spin anticlockwise once during the night, holding Strawberry Sweet"
+        },
+        {
+          "value": "Salted Cream with Flower Sweet",
+          "help": "Spin anticlockwise once during the night, holding Strawberry Sweet"
+        },
+        {
+          "value": "Salted Cream with Ribbon Sweet",
+          "help": "Spin anticlockwise once during the night, holding Strawberry Sweet"
+        },
+        {
+          "value": "Ruby Swirl with Strawberry Sweet",
+          "help": "Spin anticlockwise for over 5 seconds during the day, holding Strawberry Sweet"
+        },
+        {
+          "value": "Ruby Swirl with Berry Sweet",
+          "help": "Spin anticlockwise for over 5 seconds during the day, holding Strawberry Sweet"
+        },
+        {
+          "value": "Ruby Swirl with Love Sweet",
+          "help": "Spin anticlockwise for over 5 seconds during the day, holding Strawberry Sweet"
+        },
+        {
+          "value": "Ruby Swirl with Star Sweet",
+          "help": "Spin anticlockwise for over 5 seconds during the day, holding Strawberry Sweet"
+        },
+        {
+          "value": "Ruby Swirl with Clover Sweet",
+          "help": "Spin anticlockwise for over 5 seconds during the day, holding Strawberry Sweet"
+        },
+        {
+          "value": "Ruby Swirl with Flower Sweet",
+          "help": "Spin anticlockwise for over 5 seconds during the day, holding Strawberry Sweet"
+        },
+        {
+          "value": "Ruby Swirl with Ribbon Sweet",
+          "help": "Spin anticlockwise for over 5 seconds during the day, holding Strawberry Sweet"
+        },
+        {
+          "value": "Caramel Swirl with Strawberry Sweet",
+          "help": "Spin clockwise for over 5 seconds during the day, holding Strawberry Sweet"
+        },
+        {
+          "value": "Caramel Swirl with Berry Sweet",
+          "help": "Spin clockwise for over 5 seconds during the day, holding Strawberry Sweet"
+        },
+        {
+          "value": "Caramel Swirl with Love Sweet",
+          "help": "Spin clockwise for over 5 seconds during the day, holding Strawberry Sweet"
+        },
+        {
+          "value": "Caramel Swirl with Star Sweet",
+          "help": "Spin clockwise for over 5 seconds during the day, holding Strawberry Sweet"
+        },
+        {
+          "value": "Caramel Swirl with Clover Sweet",
+          "help": "Spin clockwise for over 5 seconds during the day, holding Strawberry Sweet"
+        },
+        {
+          "value": "Caramel Swirl with Flower Sweet",
+          "help": "Spin clockwise for over 5 seconds during the day, holding Strawberry Sweet"
+        },
+        {
+          "value": "Caramel Swirl with Ribbon Sweet",
+          "help": "Spin clockwise for over 5 seconds during the day, holding Strawberry Sweet"
+        },
+        {
+          "value": "Rainbow Swirl with Strawberry Sweet",
+          "help": "Spin anticlockwise for over 10 seconds at dusk, holding Strawberry Sweet"
+        },
+        {
+          "value": "Rainbow Swirl with Berry Sweet",
+          "help": "Spin anticlockwise for over 10 seconds at dusk, holding Strawberry Sweet"
+        },
+        {
+          "value": "Rainbow Swirl with Love Sweet",
+          "help": "Spin anticlockwise for over 10 seconds at dusk, holding Strawberry Sweet"
+        },
+        {
+          "value": "Rainbow Swirl with Star Sweet",
+          "help": "Spin anticlockwise for over 10 seconds at dusk, holding Strawberry Sweet"
+        },
+        {
+          "value": "Rainbow Swirl with Clover Sweet",
+          "help": "Spin anticlockwise for over 10 seconds at dusk, holding Strawberry Sweet"
+        },
+        {
+          "value": "Rainbow Swirl with Flower Sweet",
+          "help": "Spin anticlockwise for over 10 seconds at dusk, holding Strawberry Sweet"
+        },
+        {
+          "value": "Rainbow Swirl with Ribbon Sweet",
+          "help": "Spin anticlockwise for over 10 seconds at dusk, holding Strawberry Sweet"
+        },
+      ]
+    },
+    {
       "name": "League Cards",
       "entries": [
         {
