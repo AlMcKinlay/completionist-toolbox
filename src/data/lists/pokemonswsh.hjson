@@ -1726,138 +1726,169 @@
       "name": "League Cards",
       "entries": [
         {
+          "display": "Hop",
           "value": "Hop (1)",
           "help": "Defeat Hop on route 3"
         },
         {
+          "display": "Marnie",
           "value": "Marnie (1)",
           "help": "From Marnie in Ballonlea"
         },
         {
+          "display": "Milo",
           "value": "Milo (1)",
           "help": "From Sonia in Turffield"
         },
         {
+          "display": "Nessa",
           "value": "Nessa (1)",
           "help": "From Nessa in Hulbury"
         },
         {
+          "display": "Kabu",
           "value": "Kabu (1)",
           "help": "From Marnie in Motostoke"
         },
         {
+          "display": "Bea",
           "value": "Bea (1)",
           "help": "From Opal in Stow-on-Side",
           "version": "sword"
         },
         {
+          "display": "Allister",
           "value": "Allister (1)",
           "help": "From Opal in Stow-on-Side",
           "version": "shield"
         },
         {
+          "display": "Opal",
           "value": "Opal (1)",
           "help": "From Opal on route 6 after defeating Team Yell"
         },
         {
+          "display": "Gordie",
           "value": "Gordie (1)",
           "help": "From Hop in Circhester",
           "version": "sword"
         },
         {
+          "display": "Melony",
           "value": "Melony (1)",
           "help": "From Hop in Circhester",
           "version": "shield"
         },
         {
+          "display": "Piers",
           "value": "Piers (1)",
           "help": "From Marnie in Spikemuth"
         },
         {
+          "display": "Raihun",
           "value": "Raihun (1)",
           "help": "From Raihan in the Hammerlocke Vault"
         },
         {
+          "display": "Leon",
           "value": "Leon (1)",
           "help": "From Leon at the start of the game"
         },
         {
+          "display": "Chairman Rose",
           "value": "Chairman Rose (1)",
           "help": "From Oleana in Hulbury"
         },
         {
+          "display": "Bede",
           "value": "Bede (1)",
           "help": "From Bede in Mine No. 2"
         },
         {
+          "display": "Hop (rare)",
           "value": "Hop (2)",
           "help": "From Hop in Slumbering Weald after helping him catch Zamazenta",
           "version": "sword"
         },
         {
+          "display": "Hop (rare)",
           "value": "Hop (2)",
           "help": "From Hop in Slumbering Weald after helping him catch Zacian",
           "version": "shield"
         },
         {
+          "display": "Marnie (rare)",
           "value": "Marnie (2)",
           "help": "From Marnie in Spikemuth"
         },
         {
+          "display": "Milo (rare)",
           "value": "Milo (2)",
           "help": "From Milo in Turffield after becoming Champion"
         },
         {
+          "display": "Nessa (rare)",
           "value": "Nessa (2)",
           "help": "From Nessa in Hulbury after becoming Champion"
         },
         {
+          "display": "Kabu (rare)",
           "value": "Kabu (2)",
           "help": "From Kabu in Motostoke after becoming Champion"
         },
         {
+          "display": "Bea (rare)",
           "value": "Bea (2)",
           "help": "From Bea in Stow-on-Side after becoming Champion",
           "version": "sword"
         },
         {
+          "display": "Allister (rare)",
           "value": "Allister (2)",
           "help": "From Allister in Stow-on-Side after becoming Champion",
           "version": "shield"
         },
         {
+          "display": "Opal (rare)",
           "value": "Opal (2)",
           "help": "From Opal in Ballonlea after becoming Champion"
         },
         {
+          "display": "Gordie (rare)",
           "value": "Gordie (2)",
           "help": "From Gordie in Circhester after becoming Champion",
           "version": "sword"
         },
         {
+          "display": "Melony (rare)",
           "value": "Melony (2)",
           "help": "From Melony in Circhester after becoming Champion",
           "version": "shield"
         },
         {
+          "display": "Piers (rare)",
           "value": "Piers (2)",
           "help": "From Piers in Spikemuth after capturing Zacian",
           "version": "sword"
         },
         {
+          "display": "Piers (rare)",
           "value": "Piers (2)",
           "help": "From Piers in Spikemuth after capturing Zamazenta",
           "version": "shield"
         },
         {
+          "display": "Raihun (rare)",
           "value": "Raihun (2)",
           "help": "From Raihan in the Hammerlocke after becoming Champion"
         },
         {
+          "display": "Chairman Rose (rare)",
           "value": "Chairman Rose (2)",
           "help": "From Oleana in Galar Mine after becoming Champion"
         },
         {
+          "display": "Bede (rare)",
           "value": "Bede (2)",
           "help": "From Bede in Ballonlea after becoming Champion"
         },
@@ -1866,6 +1897,7 @@
           "help": "From Ball Guy outside Motostoke Stadium after becoming Champion"
         },
         {
+          "display": "Leon (rare)",
           "value": "Leon (2)",
           "help": "Defeat Leon in the Battle Tower"
         },
