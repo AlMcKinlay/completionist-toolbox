@@ -206,7 +206,8 @@ export const query = graphql`
 				entries {
 					value,
 					help,
-					version
+					version,
+					display
 				}
 			}
 		}

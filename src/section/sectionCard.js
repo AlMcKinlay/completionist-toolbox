@@ -112,7 +112,7 @@ export class Section extends React.Component {
 							{this.getEntries().map((entry) =>
 								<div key={entry.value}>
 									<Item 
-										name={entry.value} 
+										name={entry.display || entry.value} 
 										help={entry.help} 
 										clickItem={this.props.clickItem.bind(null, entry.value)} 
 										selected={this.props.state.entries.includes(entry.value)}
