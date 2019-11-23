@@ -21,10 +21,14 @@
       "entries": [
         {
           "value": "Catch Zacian in Slumbering Weald",
+          "display": "Catch Zacian",
+          "help": "In Energy Plant during post-game story",
           "version": "sword"
         },
         {
           "value": "Catch Zamazenta in Slumbering Weald",
+          "display": "Catch Zamazenta",
+          "help": "In Energy Plant during post-game story",
           "version": "shield"
         },
         {
