@@ -20,16 +20,10 @@
       "name": "Post Game",
       "entries": [
         {
-          "value": "Catch Zacian in Slumbering Weald",
-          "display": "Catch Zacian",
-          "help": "In Energy Plant during post-game story",
-          "version": "sword"
+          "display": "Go to Slumbering Weald to start post-game story",
         },
         {
-          "value": "Catch Zamazenta in Slumbering Weald",
-          "display": "Catch Zamazenta",
-          "help": "In Energy Plant during post-game story",
-          "version": "shield"
+          "display": "Defeat all the Dynamx pokemon in post-game story",
         },
         {
           "value": "Help Hop catch Zamazenta in Slumbering Weald",
