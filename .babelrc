@@ -3,6 +3,7 @@
       [
         "@babel/preset-env",
         {
+          corejs: 2,
           loose: true,
           modules: false,
           useBuiltIns: "usage",
@@ -15,6 +16,7 @@
       [
         "@babel/preset-react",
         {
+          corejs: 2,
           useBuiltIns: true,
           pragma: "React.createElement",
         },

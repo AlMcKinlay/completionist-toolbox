@@ -1,5 +1,6 @@
 import React from "react";
 import { Row } from 'reactstrap';
+import {subscribe} from 'redux-subscriber';
 import { Section } from "../section/sectionCard";
 import styled from "styled-components";
 import { connect } from "react-redux"
@@ -130,6 +131,41 @@ class SectionList extends React.Component {
 		super(props);
 		const list = props.data.listsHJson;
 		this.defaultVersion = list && list.versions ? list.versions[0] : undefined;
+		
+		const urlId = typeof window !== "undefined" && window.location.hash && window.location.hash.includes("id") && window.location.hash.slice(1).split("=")[1];
+		const id = urlId || (props.listState && props.listState.id);
+
+		if (typeof WebSocket !== "undefined") {
+			const socket = new WebSocket(`ws://${window.location.hostname}:3000/`);
+			socket.onmessage = (event) => {
+				const message = JSON.parse(event.data);
+				switch(message.event) {
+					case "registered":
+						props.setId(message.id);
+						break;
+					case "init":
+						// TODO: Check to see if the data is newer or older
+						if (message.data) {
+							props.setAllData(message.data);
+						} else {
+							socket.send(JSON.stringify({command: "set", data: props.listState}));
+						}
+						break;
+					case "listUpdate":
+						props.setAllData(message.data);
+						break;
+					default:
+						break;
+				}
+			};
+			subscribe(`lists.${list.name}`, (state) => {
+				if (state.lists[list.name].server) {
+					return;
+				}
+				socket.send(JSON.stringify({command: "set", data: state.lists[list.name]}));
+			});
+			socket.onopen = () => socket.send(JSON.stringify({command: "register", data: {id}}));
+		}
 
 		this.state = {
 			post: list
@@ -184,6 +220,8 @@ class SectionList extends React.Component {
 const listDispatchProps = (dispatch, {data: {listsHJson: {name}}}) => {
 	return {
 		showAllSections: () => dispatch({ type: `SHOW_ALL_SECTIONS`, listName: name }),
+		setAllData: (data) => dispatch({ type: `SET_ALL_DATA`, listName: name, data }),
+		setId: (id) => dispatch({ type: `SET_ID`, listName: name, id }),
 	}
 };
 

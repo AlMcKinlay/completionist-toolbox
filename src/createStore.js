@@ -1,4 +1,5 @@
 import { createStore } from 'redux';
+import initSubscriber from 'redux-subscriber';
 import { persistStore, persistReducer } from 'redux-persist'
 import storage from 'redux-persist/lib/storage';
 import { KEY_PREFIX, REHYDRATE } from 'redux-persist'
@@ -9,7 +10,7 @@ const initialState = {
 	lists: {}
 };
 
-function reducerDoesThing(state, {type: action, listName, sectionName, entryName, version}) {
+function reducerDoesThing(state, {type: action, listName, sectionName, entryName, version, data, id}) {
 	let { lists } = state;
 	let newState = {...initialState};
 	const oldList = lists && lists[listName] && lists[listName];
@@ -31,6 +32,25 @@ function reducerDoesThing(state, {type: action, listName, sectionName, entryName
 			newSection.entries.push(entryName);
 		}
 		newSection.updated = Date.now()
+	} else if (action === "SET_ALL_DATA") {
+		const updatedList = new List(data)
+		updatedList.server = true;
+		newState = {
+			lists: {
+				...lists,
+				[listName]: updatedList
+			}
+		};
+	} else if (action === "SET_ID") {
+		window.location = `${window.location.protocol}//${window.location.host}${window.location.pathname}#id=${id}`
+		newList.id = id;
+		newList.server = true;
+		newState = {
+			lists: {
+				...lists,
+				[listName]: newList
+			}
+		};
 	} else if (action === "CLEAR_SECTION") {
 		const oldSection = newList.sections[sectionName];
 		const newSection = new Section(oldSection);
@@ -135,7 +155,8 @@ const setUpCrossTab = (store) => {
 
 export default () => {
 	const store = createStore(persistedReducer, {...initialState});
+	const subscribe = initSubscriber(store);
 	const persistor = persistStore(store);
 	setUpCrossTab(store);
-	return { store, persistor };
+	return { store, persistor, subscribe };
 }
