@@ -137,7 +137,8 @@ class SectionList extends React.Component {
 
 		if (typeof WebSocket !== "undefined") {
 			const protocol = window.location.protocol.startsWith("https") ? "wss" : "ws";
-			const socket = new WebSocket(`${protocol}://${window.location.hostname}:3000/`);
+			const location = window.location.hostname.includes("toolbox.yamanickill.com") ? `${window.location.hostname}/ws` : `${window.location.hostname}:3000`;
+			const socket = new WebSocket(`${protocol}://${location}`);
 			socket.onmessage = (event) => {
 				const message = JSON.parse(event.data);
 				switch(message.event) {
