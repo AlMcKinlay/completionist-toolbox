@@ -52,6 +52,6 @@ jobs:
                # Import docker, delete docker tar, copy everything over to correct dir
                ssh 10people.co.uk "sudo docker load < ~/completionist/toolbox.tar && rm ~/completionist/toolbox.tar && sudo rsync -a ~/completionist/ /root/server/nginx/data/completionist"
                # Restart the docker image
-               ssh 10people.co.uk "cd /root/server && sudo docker-compose restart toolbox"
+               ssh 10people.co.uk sudo docker-compose -f /root/server restart toolbox
             fi
 
