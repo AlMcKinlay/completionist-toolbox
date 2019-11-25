@@ -8,4 +8,6 @@ RUN pwd
 RUN yarn --production
 RUN ls -la node_modules
 
+EXPOSE 3000
+
 ENTRYPOINT ["yarn", "start"]
