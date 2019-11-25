@@ -4,10 +4,10 @@
   "version": "1.0.0",
   "author": "Al McKinlay <github@10people.co.uk>",
   "dependencies": {
-    "diskdb": "^0.1.17",
-    "express": "^4.17.1",
-    "uuid": "^3.3.3",
-    "ws": "^7.2.0"
+    "diskdb": "0.1.17",
+    "express": "4.17.1",
+    "uuid": "3.3.3",
+    "ws": "7.2.0"
   },
   "keywords": [
     "completionist",
@@ -44,7 +44,7 @@
     "redux-devtools": "3.5.0",
     "redux-persist": "6.0.0",
     "redux-persist-crosstab": "3.7.0",
-    "redux-subscriber": "^1.1.0",
+    "redux-subscriber": "1.1.0",
     "styled-components": "4.4.1"
   }
 }
