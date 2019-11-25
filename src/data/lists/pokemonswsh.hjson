@@ -20,10 +20,10 @@
       "name": "Post Game",
       "entries": [
         {
-          "display": "Go to Slumbering Weald to start post-game story",
+          "value": "Go to Slumbering Weald to start post-game story",
         },
         {
-          "display": "Defeat all the Dynamx pokemon in post-game story",
+          "value": "Defeat all the Dynamax pokemon in post-game story",
         },
         {
           "value": "Help Hop catch Zamazenta in Slumbering Weald",
