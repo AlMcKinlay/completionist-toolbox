@@ -135,7 +135,7 @@ class SectionList extends React.Component {
 		const urlId = typeof window !== "undefined" && window.location.hash && window.location.hash.includes("id") && window.location.hash.slice(1).split("=")[1];
 		const id = urlId || (props.listState && props.listState.id);
 
-		if (typeof WebSocket !== "undefined") {
+		if (typeof WebSocket !== "undefined" && WebSocket) {
 			const protocol = window.location.protocol.startsWith("https") ? "wss" : "ws";
 			const location = window.location.hostname.includes("toolbox.yamanickill.com") ? `${window.location.hostname}/ws` : `${window.location.hostname}:3000`;
 			const socket = new WebSocket(`${protocol}://${location}`);
