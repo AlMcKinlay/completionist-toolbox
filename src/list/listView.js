@@ -125,6 +125,38 @@ const getVisibility = ({lists}, {listName, sectionName}) => {
 
 const ConnectedListSection = connect(getVisibility)(ListSection);
 
+let socket;
+
+function start(websocketServerLocation, id, setSocket, props, unsaved){
+	const ws = new WebSocket(websocketServerLocation);
+	ws.unsaved = unsaved || false;
+    ws.onclose = function(){
+        setTimeout(function(){start(websocketServerLocation, id, setSocket, props, ws.unsaved)}, 1000);
+	};
+	ws.onopen = () => ws.send(JSON.stringify({command: "register", data: {id}}));
+	ws.onmessage = (event) => {
+		const message = JSON.parse(event.data);
+		switch(message.event) {
+			case "registered":
+				props.setId(message.id);
+				break;
+			case "init":
+				if (message.data && !ws.unsaved) { // We want to keep local data if there is something unsaved
+					props.setAllData(message.data);
+				} else {
+					ws.send(JSON.stringify({command: "set", data: props.listState}));
+				}
+				break;
+			case "listUpdate":
+				props.setAllData(message.data);
+				break;
+			default:
+				break;
+		}
+	};
+	setSocket(ws);
+}
+
 class SectionList extends React.Component {
 
 	constructor(props) {
@@ -138,35 +170,19 @@ class SectionList extends React.Component {
 		if (typeof WebSocket !== "undefined" && WebSocket) {
 			const protocol = window.location.protocol.startsWith("https") ? "wss" : "ws";
 			const location = window.location.hostname.includes("toolbox.yamanickill.com") ? `${window.location.hostname}/ws` : `${window.location.hostname}:3000`;
-			const socket = new WebSocket(`${protocol}://${location}`);
-			socket.onmessage = (event) => {
-				const message = JSON.parse(event.data);
-				switch(message.event) {
-					case "registered":
-						props.setId(message.id);
-						break;
-					case "init":
-						// TODO: Check to see if the data is newer or older
-						if (message.data) {
-							props.setAllData(message.data);
-						} else {
-							socket.send(JSON.stringify({command: "set", data: props.listState}));
-						}
-						break;
-					case "listUpdate":
-						props.setAllData(message.data);
-						break;
-					default:
-						break;
-				}
-			};
+			var socket = "test";
+			start(`${protocol}://${location}`, id, (newSocket) => socket = newSocket, props);
+
 			subscribe(`lists.${list.name}`, (state) => {
 				if (state.lists[list.name].server) {
 					return;
 				}
-				socket.send(JSON.stringify({command: "set", data: state.lists[list.name]}));
+				if (socket.readyState === socket.OPEN) {
+					socket.send(JSON.stringify({command: "set", data: state.lists[list.name]}));
+				} else {
+					socket.unsaved = true;
+				}
 			});
-			socket.onopen = () => socket.send(JSON.stringify({command: "register", data: {id}}));
 		}
 
 		this.state = {
