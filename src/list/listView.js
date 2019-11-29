@@ -125,11 +125,10 @@ const getVisibility = ({lists}, {listName, sectionName}) => {
 
 const ConnectedListSection = connect(getVisibility)(ListSection);
 
-function start(websocketServerLocation, id, setSocket, props, unsaved){
+function start(websocketServerLocation, id, setSocket, props){
 	const ws = new WebSocket(websocketServerLocation);
-	ws.unsaved = unsaved || false;
     ws.onclose = function(){
-        setTimeout(function(){start(websocketServerLocation, id, setSocket, props, ws.unsaved)}, 1000);
+        setTimeout(() => start(websocketServerLocation, id, setSocket, props), 1000);
 	};
 	ws.onopen = () => ws.send(JSON.stringify({command: "register", data: {id}}));
 	ws.onmessage = (event) => {
@@ -139,7 +138,7 @@ function start(websocketServerLocation, id, setSocket, props, unsaved){
 				props.setId(message.id);
 				break;
 			case "init":
-				if (message.data && !ws.unsaved) { // We want to keep local data if there is something unsaved
+				if (message.data && (props.listState.saved || (props.listState.time ? message.data.time > props.listState.time : message.data.time))) { 
 					props.setAllData(message.data);
 				} else {
 					ws.send(JSON.stringify({command: "set", data: props.listState}));
@@ -172,13 +171,12 @@ class SectionList extends React.Component {
 			start(`${protocol}://${location}`, id, (newSocket) => socket = newSocket, props);
 
 			subscribe(`lists.${list.name}`, (state) => {
-				if (state.lists[list.name].server) {
+				if (state.lists[list.name].server || state.lists[list.name].saved) {
 					return;
 				}
 				if (socket.readyState === socket.OPEN) {
 					socket.send(JSON.stringify({command: "set", data: state.lists[list.name]}));
-				} else {
-					socket.unsaved = true;
+					props.setSaved();
 				}
 			});
 		}
@@ -238,6 +236,7 @@ const listDispatchProps = (dispatch, {data: {listsHJson: {name}}}) => {
 		showAllSections: () => dispatch({ type: `SHOW_ALL_SECTIONS`, listName: name }),
 		setAllData: (data) => dispatch({ type: `SET_ALL_DATA`, listName: name, data }),
 		setId: (id) => dispatch({ type: `SET_ID`, listName: name, id }),
+		setSaved: () => dispatch({ type: `SET_SAVED`, listName: name }),
 	}
 };
 

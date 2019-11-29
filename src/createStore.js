@@ -20,6 +20,7 @@ function reducerDoesThing(state, {type: action, listName, sectionName, entryName
 		const oldSection = newList.sections[sectionName];
 		const newSection = new Section(oldSection);
 		newList.sections[sectionName] = newSection;
+		newList.saved = false;
 		newState = {
 			lists: {
 				...lists,
@@ -55,6 +56,7 @@ function reducerDoesThing(state, {type: action, listName, sectionName, entryName
 		const oldSection = newList.sections[sectionName];
 		const newSection = new Section(oldSection);
 		newList.sections[sectionName] = newSection;
+		newList.saved = false;
 		newState = {
 			lists: {
 				...lists,
@@ -68,6 +70,7 @@ function reducerDoesThing(state, {type: action, listName, sectionName, entryName
 		const newSection = new Section(oldSection);
 		newSection.hidden = true;
 		newList.sections[sectionName] = newSection;
+		newList.saved = false;
 		newState = {
 			lists: {
 				...lists,
@@ -82,6 +85,7 @@ function reducerDoesThing(state, {type: action, listName, sectionName, entryName
 				newSections[key].hidden = false
 			});
 		newList.sections = newSections;
+		newList.saved = false;
 		newState = {
 			lists: {
 				...lists,
@@ -90,6 +94,7 @@ function reducerDoesThing(state, {type: action, listName, sectionName, entryName
 		};
 	} else if (action === "SET_LIST_VERSION") {
 		newList.version = version;
+		newList.saved = false;
 		newState = {
 			lists: {
 				...lists,
@@ -105,9 +110,15 @@ function reducerDoesThing(state, {type: action, listName, sectionName, entryName
 			}
 		}
 	} else if (action === "HIDE_LIST") {
-		console.log("HIDE_LIST");
-		console.log(listName);
 		newList.visible = false;
+		newState = {
+			lists: {
+				...lists,
+				[listName]: newList
+			}
+		}
+	} else if (action === "SET_SAVED") {
+		newList.saved = true;
 		newState = {
 			lists: {
 				...lists,

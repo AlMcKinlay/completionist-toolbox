@@ -6,6 +6,8 @@ class List {
         this.visible = true;
         this.server = false;
         this.id = oldList && oldList.id;
+        this.saved = (oldList && oldList.saved) || false;
+        this.time = new Date().getTime();
     }
 
 }
