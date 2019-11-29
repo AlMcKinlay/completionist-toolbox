@@ -2015,6 +2015,10 @@
           "value": "Battle Morimoto",
           "help": "Disguised as Police Officer in Circhester Hotel",
         },
+        {
+          "value": "Battle Marnie",
+          "help": "In Spikemuth",
+        },
       ]
     },
   ]
