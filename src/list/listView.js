@@ -125,8 +125,6 @@ const getVisibility = ({lists}, {listName, sectionName}) => {
 
 const ConnectedListSection = connect(getVisibility)(ListSection);
 
-let socket;
-
 function start(websocketServerLocation, id, setSocket, props, unsaved){
 	const ws = new WebSocket(websocketServerLocation);
 	ws.unsaved = unsaved || false;
@@ -170,7 +168,7 @@ class SectionList extends React.Component {
 		if (typeof WebSocket !== "undefined" && WebSocket) {
 			const protocol = window.location.protocol.startsWith("https") ? "wss" : "ws";
 			const location = window.location.hostname.includes("toolbox.yamanickill.com") ? `${window.location.hostname}/ws` : `${window.location.hostname}:3000`;
-			var socket = "test";
+			let socket = "test";
 			start(`${protocol}://${location}`, id, (newSocket) => socket = newSocket, props);
 
 			subscribe(`lists.${list.name}`, (state) => {
