@@ -17,6 +17,31 @@
       ]
     },
     {
+      "name": "Side Quests",
+      "entries": [
+        {
+          "value": "Find the Mincinno",
+          "help": "Talk to kid in Motostoke west of Budew Drop Inn, whistle next to west fountain at gym"
+        },
+        {
+          "value": "Find the Turffield Treasure",
+          "help": "Interact with the grass, then water, then fire standing stones quickly"
+        },
+        {
+          "value": "Become a Delivery Driver",
+          "help": "In the Captain's Table restaurant, deliver food to 3 different places"
+        },
+        {
+          "value": "Deliver Paula's Old letter",
+          "help": "Get from Paula in Hammerlocke (up the stairs to the East of gym), deliver to Frank in Ballonlea, talk to Paula again"
+        },
+        {
+          "value": "Solve the mystery in Circhester",
+          "help": "In the hotel in Circhester, there is a 'crime' to be solved"
+        },
+      ]
+    },
+    {
       "name": "Post Game",
       "entries": [
         {
