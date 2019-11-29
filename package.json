@@ -16,7 +16,8 @@
   "license": "MIT",
   "scripts": {
     "build": "gatsby build --prefix-paths",
-    "dev": "concurrently 'gatsby develop' 'yarn start'",
+    "dev": "concurrently 'yarn dev:client' 'yarn start'",
+    "dev:client": "gatsby develop",
     "start": "node server/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
