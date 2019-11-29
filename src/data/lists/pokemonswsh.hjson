@@ -877,7 +877,37 @@
     },
     {
       "name": "Clothing/Accessories",
-      "entries": []
+      "entries": [
+        {
+          "value": "Everything from Wedgehurst Boutique"
+        },
+        {
+          "value": "Everything from Motostoke Boutique"
+        },
+        {
+          "value": "Everything from Hammerlocke Boutique"
+        },
+        {
+          "value": "Everything from Circhester Boutique"
+        },
+        {
+          "value": "Everything from Wyndon Boutique"
+        },
+        {
+          "value": "Everything from Stadium Uniform Shop"
+        },
+        {
+          "value": "All of the uniforms from beating Gym leaders and Champion"
+        },
+        {
+          "value": "Battle Tower Uniform",
+          "help": "Special uniform for getting to master ball tier in Battle Tower"
+        },
+        {
+          "value": "Ranked Battles Uniform",
+          "help": "Participate in Ranked Battles, then talk to person in BP shop in Hammerlocke"
+        },
+      ]
     },
     {
       "name": "Curry",
