@@ -81,8 +81,8 @@ const mapDispatchToProps = (dispatch, {listName, name}) => {
 
 const ConnectedSection = connect(mapStateToProps, mapDispatchToProps)(Section);
 
-const entryCounts = (entry, version, dlcEnabled) => entryCountsVersion(entry, version) && entryCountsDLC(entry, dlcEnabled)
-const entryCountsVersion = (entry, version) => !entry.version || entry.version === version
+const entryCounts = (entry, version, dlcEnabled) => entryCountsVersion(entry, version) && entryCountsDLC(entry, dlcEnabled);
+const entryCountsVersion = (entry, version) => !entry.version || entry.version.split("/").includes(version);
 const entryCountsDLC = (entry, dlcEnabled) => !entry.isDLC || dlcEnabled;
 
 const getCompletionState = ({ lists }, { list, defaultVersion }) => {
