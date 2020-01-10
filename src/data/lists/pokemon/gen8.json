@@ -255,6 +255,15 @@
         {
           "value": "Get Mew",
           "help": "from Pokeball plus"
+        },
+        {
+          "value": "Catch Kubfu"
+        },
+        {
+          "value": "Evolve Kubfu to Urshifu"
+        },
+        {
+          "value": "Complete Isle of Armor Dex"
         }
       ]
     },
