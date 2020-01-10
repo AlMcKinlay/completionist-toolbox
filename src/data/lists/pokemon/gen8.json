@@ -78,6 +78,11 @@
         {
           "value": "Get Beast Ball",
           "help": "Stow-on-Side, merchant on the right"
+        },
+        {
+          "value": "Get EXP Charm",
+          "help": "",
+          "isDLC": true
         }
       ]
     },
