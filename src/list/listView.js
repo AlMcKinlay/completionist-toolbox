@@ -75,6 +75,7 @@ const mapDispatchToProps = (dispatch, {listName, name}) => {
 		toggleDLC: () => dispatch({ type: `TOGGLE_DLC`, listName}),
 		clearSection: () => dispatch({ type: `CLEAR_SECTION`, listName, sectionName: name }),
 		hideSection: () => dispatch({ type: `HIDE_SECTION`, listName, sectionName: name }),
+		completeSection: (sectionData) => dispatch({ type: `COMPLETE_SECTION`, listName, sectionName: name, sectionData }),
 	}
 };
 

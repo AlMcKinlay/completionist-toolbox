@@ -109,6 +109,7 @@ export class Section extends React.Component {
 				<Title title={this.props.name}>{this.props.name}</Title>
 				<Dropdown>
 					<DropdownEl action={this.props.hideSection}>Hide Section</DropdownEl>
+					<DropdownEl action={() => this.props.completeSection(this.getEntries())}>Complete Section</DropdownEl>
 				</Dropdown>
 				{this.getEntries().length > 0 ? (
 				<Grid>
