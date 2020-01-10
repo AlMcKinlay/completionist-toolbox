@@ -10,7 +10,7 @@ const initialState = {
 	lists: {}
 };
 
-function reducerDoesThing(state, {type: action, listName, sectionName, entryName, version, data, id}) {
+function reducerDoesThing(state, {type: action, listName, sectionName, entryName, version, data, id, sectionData}) {
 	let { lists } = state;
 	let newState = {...initialState};
 	const oldList = lists && lists[listName] && lists[listName];
@@ -69,6 +69,18 @@ function reducerDoesThing(state, {type: action, listName, sectionName, entryName
 		const oldSection = newList.sections[sectionName];
 		const newSection = new Section(oldSection);
 		newSection.hidden = true;
+		newList.sections[sectionName] = newSection;
+		newList.saved = false;
+		newState = {
+			lists: {
+				...lists,
+				[listName]: newList
+			}
+		};
+	} else if (action === "COMPLETE_SECTION") {
+		const oldSection = newList.sections[sectionName];
+		const newSection = new Section(oldSection);
+		newSection.entries = sectionData.map((entry) => entry.value);
 		newList.sections[sectionName] = newSection;
 		newList.saved = false;
 		newState = {
