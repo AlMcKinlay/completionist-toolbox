@@ -1,0 +1,37 @@
+{
+	"Completion Entry": {
+		"prefix": "toolbox-entry",
+		"body": [
+			"{",
+			"\t\"value\": \"$1\",",
+			"\t\"help\": \"$2\"",
+			"}$0"
+		]
+	},
+
+	"Completion Section": {
+		"prefix": "toolbox-section",
+		"body": [
+			"{",
+			"\t\"name\": \"$1\",",
+			"\t\"entries\": [",
+			"\t\t$0",
+			"\t]",
+			"}"
+		]
+	},
+
+	"Completion List": {
+		"prefix": "toolbox-list",
+		"body": [
+			"{",
+			"\t\"name\": \"$1\",",
+			"\t\"versions\": [$2],",
+			"\t\"dlcAvailable\": ${3:false},",
+			"\t\"entries\": [",
+			"\t\t$0",
+			"\t]",
+			"}"
+		]
+	}
+}
