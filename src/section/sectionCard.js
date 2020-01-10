@@ -50,7 +50,19 @@ export class Section extends React.Component {
 	}
 
 	getEntries() {
-		return this.props.entries.filter((entry) => !entry.version || entry.version === this.props.version)
+		return this.props.entries.filter(this.entryCounts.bind(this))
+	}
+
+	entryCounts(entry) {
+		return this.entryCountsVersion(entry) && this.entryCountsDLC(entry);
+	}
+
+	entryCountsVersion(entry) {
+		return !entry.version || entry.version === this.props.version;
+	}
+
+	entryCountsDLC(entry) {
+		return !entry.isDLC || this.props.dlcEnabled;
 	}
 
 	setUpInterval() {

@@ -8,6 +8,7 @@ import { graphql } from 'gatsby';
 import Layout from "../layout"
 import { Completion } from "../components/completion";
 import { VersionSwitch } from "../components/versionSwitch";
+import { DLCSwitch } from "../components/dlcSwitch";
 import Dropdown, { DropdownEl } from "../components/dropdown";
 
 const ListSection = styled.div`
@@ -35,7 +36,7 @@ const List = styled.div`
 const Grid = styled.div`
 	display:grid;
 	grid-auto-flow: row;
-	grid-template-columns: 30fr 1fr 1fr 1fr;
+	grid-template-columns: 30fr 1fr 2fr 1fr 1fr;
 	width:100%;
 `;
 
@@ -43,7 +44,7 @@ const CompletionLast = styled.div`
 	margin-top: 15px;
 	margin-bottom: 15px;
 	width:5rem;
-	grid-column: 4;
+	grid-column: 5;
 `;
 
 const Title = styled.h2`
@@ -55,10 +56,12 @@ const mapStateToProps = ({ lists }, {listName, name, entries, defaultVersion, re
 	const list = lists[listName];
 	const section = (list && list.sections && list.sections[name]) ? list.sections[name] : {entries: []};
 	const version = (list && list.version) ? list.version : defaultVersion;
+	const dlcEnabled = list ? list.dlc : true;
 
 	return {
 		name,
 		version,
+		dlcEnabled,
 		reset,
 		entries,
 		state: section
@@ -69,6 +72,7 @@ const mapDispatchToProps = (dispatch, {listName, name}) => {
 	return {
 		clickItem: (entryName) => dispatch({ type: `SET_ITEM_STATE`, listName, sectionName: name, entryName }),
 		switchVersion: (version) => dispatch({ type: `SET_LIST_VERSION`, listName, version}),
+		toggleDLC: () => dispatch({ type: `TOGGLE_DLC`, listName}),
 		clearSection: () => dispatch({ type: `CLEAR_SECTION`, listName, sectionName: name }),
 		hideSection: () => dispatch({ type: `HIDE_SECTION`, listName, sectionName: name }),
 	}
@@ -76,16 +80,21 @@ const mapDispatchToProps = (dispatch, {listName, name}) => {
 
 const ConnectedSection = connect(mapStateToProps, mapDispatchToProps)(Section);
 
+const entryCounts = (entry, version, dlcEnabled) => entryCountsVersion(entry, version) && entryCountsDLC(entry, dlcEnabled)
+const entryCountsVersion = (entry, version) => !entry.version || entry.version === version
+const entryCountsDLC = (entry, dlcEnabled) => !entry.isDLC || dlcEnabled;
+
 const getCompletionState = ({ lists }, { list, defaultVersion }) => {
 	const listState = lists[list.name];
 	const version = listState && listState.version ? listState.version : defaultVersion;
+	const dlcEnabled = listState ? listState.dlc : true;
 	const sections = listState ? listState.sections : [];
 	const completed = list && list.sections ? Object.values(list.sections).reduce((total, section) => {
 		const sectionState = sections && sections[section.name];
 		if ((sectionState && sectionState.hidden) || !sectionState) {
 			return total;
 		} else {
-			return total + section.entries.filter((entry) => sectionState.entries.includes(entry.value) && (!entry.version || entry.version === version)).length
+			return total + section.entries.filter((entry) => entryCounts(entry, version, dlcEnabled) && sectionState.entries.includes(entry.value)).length;
 		}
 	}, 0) : 0;
 	const total = list && list.sections ? Object.values(list.sections).reduce((total, section) => {
@@ -93,7 +102,7 @@ const getCompletionState = ({ lists }, { list, defaultVersion }) => {
 		if (sectionState && sectionState.hidden) {
 			return total;
 		} else {
-			return total + section.entries.filter((entry) => !entry.version || entry.version === version).length
+			return total + section.entries.filter((entry) => entryCounts(entry, version, dlcEnabled)).length
 		}
 	}, 0) : 0;
 	return {
@@ -113,6 +122,16 @@ const getVersion = ({lists}, {listName, defaultVersion}) => {
 }
 
 const ConnectedVersionSwitch = connect(getVersion, mapDispatchToProps)(VersionSwitch);
+
+const isDlcEnabled = ({lists}, {listName}) => {
+	const list = lists[listName];
+	const dlcEnabled = list ? list.dlc : true;
+	return {
+		dlcEnabled
+	}
+}
+
+const ConnectedDLCSwitch = connect(isDlcEnabled, mapDispatchToProps)(DLCSwitch);
 
 const getVisibility = ({lists}, {listName, sectionName}) => {
 	const list = lists[listName];
@@ -194,6 +213,12 @@ class SectionList extends React.Component {
 					<Grid>
 						<Title>{this.state.post.name}</Title>
 						{
+							this.state.post.dlcAvailable && (
+								<ConnectedDLCSwitch listName={this.state.post.name}>
+								</ConnectedDLCSwitch>
+							)
+						}
+						{
 							this.state.post.versions && (
 								<ConnectedVersionSwitch 
 									options={this.state.post.versions} 
@@ -253,6 +278,7 @@ export const query = graphql`
 		listsHJson(fields: { slug: { eq: $slug } }) {
 			name,
 			versions,
+			dlcAvailable,
 			sections {
 				name,
 				reset,
@@ -260,6 +286,7 @@ export const query = graphql`
 					value,
 					help,
 					version,
+					isDLC,
 					display
 				}
 			}
