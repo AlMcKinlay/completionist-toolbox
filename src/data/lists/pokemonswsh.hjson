@@ -1,6 +1,7 @@
 {
   "name": "Pokemon Sword and Shield Completion",
   "versions": ["sword", "shield"],
+  "dlcAvailable": true,
   "sections": [
     {
       "name": "Play-Through",
@@ -905,6 +906,14 @@
         {
           "value": "Ranked Battles Uniform",
           "help": "Participate in Ranked Battles, then talk to person in BP shop in Hammerlocke"
+        },
+        {
+          "value": "Pikachu Kit",
+          "isDLC": true
+        },
+        {
+          "value": "Eevee Kit",
+          "isDLC": true
         },
       ]
     },
