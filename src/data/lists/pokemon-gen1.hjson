@@ -1,0 +1,467 @@
+{
+  "name": "Pokemon Gen 1",
+  "versions": ["red", "blue", "yellow"],
+  "sections": [
+    {
+      "name": "Play-Through",
+      "entries": [
+        {
+          "value": "Defeat All 8 Gyms"
+        },
+        {
+          "value": "Defeat the Elite Four"
+        },
+        {
+          "value": "Defeat Rival"
+        },
+      ]
+    },
+    {
+      "name": "HMs",
+      "entries": [
+        {
+          "value": "HM01 - Cut",
+          "help": "S.S. Anne"
+        },
+        {
+          "value": "HM02 - Fly",
+          "help": "Route 16"
+        },
+        {
+          "value": "HM03 - Surf",
+          "help": "Safari Zone"
+        },
+        {
+          "value": "HM04 - Strength",
+          "help": "Fuschia City"
+        },
+        {
+          "value": "HM05 - Flash",
+          "help": "Route 2"
+        },
+      ]
+    },
+    {
+      "name": "TMs",
+      "entries": [
+        {
+          "value": "TM01 - ",
+          "help": ""
+        },
+        {
+          "value": "TM02 - ",
+          "help": ""
+        },
+        {
+          "value": "TM03 - ",
+          "help": ""
+        },
+        {
+          "value": "TM04 - ",
+          "help": ""
+        },
+        {
+          "value": "TM05 - ",
+          "help": ""
+        },
+        {
+          "value": "TM06 - ",
+          "help": ""
+        },
+        {
+          "value": "TM07 - ",
+          "help": ""
+        },
+        {
+          "value": "TM08 - ",
+          "help": ""
+        },
+        {
+          "value": "TM09 - ",
+          "help": ""
+        },
+        {
+          "value": "TM10 - ",
+          "help": ""
+        },
+        {
+          "value": "TM11 - ",
+          "help": ""
+        },
+        {
+          "value": "TM12 - ",
+          "help": ""
+        },
+        {
+          "value": "TM13 - ",
+          "help": ""
+        },
+        {
+          "value": "TM14 - ",
+          "help": ""
+        },
+        {
+          "value": "TM15 - ",
+          "help": ""
+        },
+        {
+          "value": "TM16 - ",
+          "help": ""
+        },
+        {
+          "value": "TM17 - ",
+          "help": ""
+        },
+        {
+          "value": "TM18 - ",
+          "help": ""
+        },
+        {
+          "value": "TM19 - ",
+          "help": ""
+        },
+        {
+          "value": "TM20 - ",
+          "help": ""
+        },
+        {
+          "value": "TM21 - ",
+          "help": ""
+        },
+        {
+          "value": "TM22 - ",
+          "help": ""
+        },
+        {
+          "value": "TM23 - ",
+          "help": ""
+        },
+        {
+          "value": "TM24 - ",
+          "help": ""
+        },
+        {
+          "value": "TM25 - ",
+          "help": ""
+        },
+        {
+          "value": "TM26 - ",
+          "help": ""
+        },
+        {
+          "value": "TM27 - ",
+          "help": ""
+        },
+        {
+          "value": "TM28 - ",
+          "help": ""
+        },
+        {
+          "value": "TM29 - ",
+          "help": ""
+        },
+        {
+          "value": "TM30 - ",
+          "help": ""
+        },
+        {
+          "value": "TM31 - ",
+          "help": ""
+        },
+        {
+          "value": "TM32 - ",
+          "help": ""
+        },
+        {
+          "value": "TM33 - ",
+          "help": ""
+        },
+        {
+          "value": "TM34 - ",
+          "help": ""
+        },
+        {
+          "value": "TM35 - ",
+          "help": ""
+        },
+        {
+          "value": "TM36 - ",
+          "help": ""
+        },
+        {
+          "value": "TM37 - ",
+          "help": ""
+        },
+        {
+          "value": "TM38 - ",
+          "help": ""
+        },
+        {
+          "value": "TM39 - ",
+          "help": ""
+        },
+        {
+          "value": "TM40 - ",
+          "help": ""
+        },
+        {
+          "value": "TM41 - ",
+          "help": ""
+        },
+        {
+          "value": "TM42 - ",
+          "help": ""
+        },
+        {
+          "value": "TM43 - ",
+          "help": ""
+        },
+        {
+          "value": "TM44 - ",
+          "help": ""
+        },
+        {
+          "value": "TM45 - ",
+          "help": ""
+        },
+        {
+          "value": "TM46 - ",
+          "help": ""
+        },
+        {
+          "value": "TM47 - ",
+          "help": ""
+        },
+        {
+          "value": "TM48 - ",
+          "help": ""
+        },
+        {
+          "value": "TM49 - ",
+          "help": ""
+        },
+        {
+          "value": "TM50 - ",
+          "help": ""
+        },
+      ]
+    },
+    {
+      "name": "Dex",
+      "entries": [
+        {
+          "value": "Trade/Transfer for Ekans family",
+          "version": "blue/yellow"
+        },
+        {
+          "value": "Trade/Transfer for Oddish family",
+          "version": "blue"
+        },
+        {
+          "value": "Trade/Transfer for Mankey family",
+          "version": "blue"
+        },
+        {
+          "value": "Trade/Transfer for Growlithe family",
+          "version": "blue"
+        },
+        {
+          "value": "Trade/Transfer for Scyther",
+          "version": "blue"
+        },
+        {
+          "value": "Trade/Transfer for Electabuzz",
+          "version": "blue/yellow"
+        },
+        {
+          "value": "Trade/Transfer for Sandshrew family",
+          "version": "red"
+        },
+        {
+          "value": "Trade/Transfer for Vulpix family",
+          "version": "red"
+        },
+        {
+          "value": "Trade/Transfer for Meowth family",
+          "version": "red/yellow"
+        },
+        {
+          "value": "Trade/Transfer for Bellsprout family",
+          "version": "red"
+        },
+        {
+          "value": "Trade/Transfer for Magmar",
+          "version": "red/yellow"
+        },
+        {
+          "value": "Trade/Transfer for Pinsir",
+          "version": "red"
+        },
+        {
+          "value": "Trade/Transfer for Weedle family",
+          "version": "yellow"
+        },
+        {
+          "value": "Trade/Transfer for Raichu",
+          "version": "yellow"
+        },
+        {
+          "value": "Trade/Transfer for Koffing family",
+          "version": "yellow"
+        },
+        {
+          "value": "Trade/Transfer for Jynx",
+          "version": "yellow"
+        },
+        {
+          "value": "Catch Articuno",
+          "help": "Seafoam Islands"
+        },
+        {
+          "value": "Catch Zapdos",
+          "help": "Power Plant"
+        },
+        {
+          "value": "Catch Moltres",
+          "help": "Victory Road"
+        },
+        {
+          "value": "Catch Mewtwo",
+          "help": "Cerulean Cave (after becoming champion)"
+        },
+        {
+          "value": "Complete Dex"
+        },
+        {
+          "value": "Living Dex",
+          "help": "One of every pokemon in boxes"
+        },
+      ]
+    },
+    {
+      "name": "In-game Gifts",
+      "entries": [
+        {
+          "value": "Bulbasaur",
+          "help": "Cerulian City",
+          "version": "yellow"
+        },
+        {
+          "value": "Charmander",
+          "help": "Just after Nugget Bridge, Route 24",
+          "version": "yellow"
+        },
+        {
+          "value": "Squirtle",
+          "help": "Vermillion City",
+          "version": "yellow"
+        },
+        {
+          "value": "Hitmonlee/Hitmonchan",
+          "help": "Defeat Dojo, Saffron City"
+        },
+        {
+          "value": "Lapras",
+          "help": "Just before you get to Giovanni, Silph Co, Saffron City"
+        },
+        {
+          "value": "Eevee",
+          "help": "Top of Celadon Mansion (back entrance), Celadon City",
+        },
+        {
+          "value": "Omanyte/Kabuto",
+          "help": "Fossil, Mt Moon"
+        },
+        {
+          "value": "Aerodactyl",
+          "help": "Old Amber, Pewter City Museaum (back entrance)"
+        },
+      ]
+    },
+    {
+      "name": "In-game Trades",
+      "entries": [
+        {
+          "value": "Abra for Mr Mime",
+          "help": "Outside Diglett's Cave, Route 2",
+          "version": "red/blue"
+        },
+        {
+          "value": "Nidoran♂ for Nidoran♀",
+          "help": "North exit of Underground Tunnel, Route 5",
+          "version": "red/blue"
+        },
+        {
+          "value": "Nidorino for Nidorina",
+          "help": "Observation Deck, Route 11",
+          "version": "red/blue"
+        },
+        {
+          "value": "Slowbro for Lickitung",
+          "help": "Observation Deck, Route 18",
+          "version": "red/blue"
+        },
+        {
+          "value": "Poliwhirl for Jynx",
+          "help": "House next to Pokemon Centre, Cerulean City",
+          "version": "red/blue"
+        },
+        {
+          "value": "Spearow for Farfetch'd",
+          "help": "Vermillion City",
+          "version": "red/blue"
+        },
+        {
+          "value": "Ponyta for Seel",
+          "help": "Pokemon Lab, Cinnabar Island",
+          "version": "red/blue"
+        },
+        {
+          "value": "Raichu for Electrode",
+          "help": "Pokemon Lab, Cinnabar Island",
+          "version": "red/blue"
+        },
+        {
+          "value": "Venonat for Tangela",
+          "help": "Pokemon Lab, Cinnabar Island",
+          "version": "red/blue"
+        },
+        {
+          "value": "Clefairy for Mr Mime",
+          "help": "Outside Diglett's Cave, Route 2",
+          "version": "yellow"
+        },
+        {
+          "value": "Cubone for Machoke",
+          "help": "North exit of Underground Tunnel, Route 5",
+          "version": "yellow"
+        },
+        {
+          "value": "Lickitung for Dugtrio",
+          "help": "Observation Deck, Route 11",
+          "version": "yellow"
+        },
+        {
+          "value": "Tangela for Parasect",
+          "help": "Observation Deck, Route 18",
+          "version": "yellow"
+        },
+        {
+          "value": "Golduck for Rhydon",
+          "help": "Pokemon Lab, Cinnabar Island",
+          "version": "yellow"
+        },
+        {
+          "value": "Growlithe for Dewgong",
+          "help": "Pokemon Lab, Cinnabar Island",
+          "version": "yellow"
+        },
+        {
+          "value": "Kangaskhan for Muk",
+          "help": "Pokemon Lab, Cinnabar Island",
+          "version": "yellow"
+        },
+      ]
+    },
+  ]
+}
