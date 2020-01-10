@@ -271,7 +271,15 @@
       "name": "Gigantamax Pokemon",
       "entries": [
         {
+          "value": "Venusaur",
+          "help": "Not available yet"
+        },
+        {
           "value": "Charizard"
+        },
+        {
+          "value": "Blastoise",
+          "help": "Not available yet"
         },
         {
           "value": "Butterfree"
@@ -387,6 +395,26 @@
         },
         {
           "value": "Duraludon"
+        },
+        {
+          "value": "Rillaboom",
+          "help": "Not available yet"
+        },
+        {
+          "value": "Cinderace",
+          "help": "Not available yet"
+        },
+        {
+          "value": "Inteleon",
+          "help": "Not available yet"
+        },
+        {
+          "value": "Urshifu Single Strike",
+          "help": "Not available yet"
+        },
+        {
+          "value": "Urshifu Rapid Strike",
+          "help": "Not available yet"
         }
       ]
     },
