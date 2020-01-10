@@ -179,7 +179,7 @@
         {
           "value": "Aerodactyl",
           "help": "Old Amber, Museum Pewter City"
-        },
+        }
       ]
     },
     {
@@ -240,7 +240,7 @@
         {
           "value": "Kantonian Exeggutor for Alolan Exeggutor",
           "help": "Indigo Plateau"
-        },
+        }
       ]
     },
     {
@@ -485,7 +485,7 @@
         {
           "value": "TM60 (Megahorn)",
           "help": "Defeat Coach Trainer Harjit, Cerulean City"
-        },
+        }
       ]
     },
     {
@@ -550,7 +550,7 @@
         {
           "value": "Slowbronite",
           "help": "Indigo Plateau Shop"
-        },
+        }
       ]
     },
     {
@@ -649,7 +649,7 @@
         {
           "value": "Ryan",
           "help": "Victory Road (Reward: TM39)"
-        },
+        }
       ]
     },
     {
@@ -1266,9 +1266,9 @@
         {
           "value": "Show Melmetal Master Trainer a L100 Melmetal",
           "help": "Pokemon Mansion"
-        },
+        }
       ]
-    }
+    },
     {
       "name": "Clothing/Accessories",
       "entries": [
@@ -1538,7 +1538,7 @@
         {
           "value": "Midnight Glasses",
           "help": "Celadon Department Store"
-        },
+        }
       ]
     },
     {
@@ -1547,19 +1547,19 @@
       "entries": [
         {
           "value": "Buy Pewter Crunchies",
-          "help": "Pewter City PC",
+          "help": "Pewter City PC"
         },
         {
           "value": "Take Care of Slowpoke",
-          "help": "Pewter City (Reward: Big Pearl)",
+          "help": "Pewter City (Reward: Big Pearl)"
         },
         {
           "value": "Battle Mina",
-          "help": "Vermillion Port (Reward: Bottle Cap)",
+          "help": "Vermillion Port (Reward: Bottle Cap)"
         },
         {
           "value": "Talk to Diglett",
-          "help": "Warden's House, Fushcia City (Reward: Nugget)",
+          "help": "Warden's House, Fushcia City (Reward: Nugget)"
         },
         {
           "value": "Manipulate Wild Natures",
@@ -1575,8 +1575,8 @@
         {
           "value": "Gym Battles",
           "help": "Requires having beaten the Elite 4"
-        },
+        }
       ]
-    },
+    }
   ]
 }

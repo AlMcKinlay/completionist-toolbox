@@ -12,6 +12,11 @@ module.exports = {
 				path: `${__dirname}/src/data`,
 			},
 		},
-		'gatsby-transformer-hjson',
+		{
+			resolve: `gatsby-transformer-json`,
+			options: {
+			  typeName: "List"
+			},
+		},
   ],
 };

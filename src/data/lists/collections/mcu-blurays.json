@@ -21,7 +21,7 @@
         },
         {
           "value": "The Avengers"
-        },
+        }
       ]
     },
     {
@@ -44,7 +44,7 @@
         },
         {
           "value": "Ant-Man"
-        },
+        }
       ]
     },
     {
@@ -82,8 +82,8 @@
         },
         {
           "value": "Spider-Man: Far From Home"
-        },
+        }
       ]
-    },
+    }
   ]
 }
