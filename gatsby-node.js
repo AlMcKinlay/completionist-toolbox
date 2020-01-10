@@ -3,7 +3,7 @@ const path = require(`path`);
 
 exports.onCreateNode = ({ node, getNode, actions }) => {
 	const { createNodeField } = actions;
-	if (node.internal.owner === `gatsby-transformer-hjson`) {
+	if (node.internal.owner === `gatsby-transformer-json`) {
 		const fileNode = getNode(node.parent);
 		if (fileNode.dir.includes("/data/")) {
 			const slug = createFilePath({ node, getNode, basePath: `pages` });
@@ -17,7 +17,7 @@ exports.onCreateNode = ({ node, getNode, actions }) => {
 };
 
 const getLists = (graphql) => graphql(`{
-	allListsHJson {
+	allList {
 		edges {
 			node {
 				fields {
@@ -32,7 +32,7 @@ const makeListPages = (createPage, result) => {
 	if (!result || !result.data) {
 		return;
 	}
-	return result.data.allListsHJson.edges.forEach(({ node }) => {
+	return result.data.allList.edges.forEach(({ node }) => {
 		createPage({
 			path: node.fields.slug,
 			component: path.resolve(`./src/list/listView.js`),

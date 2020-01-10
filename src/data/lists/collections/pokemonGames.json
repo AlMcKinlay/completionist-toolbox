@@ -41,7 +41,7 @@
         {
           "value": "Puzzle challenge",
           "version": "all"
-        },
+        }
       ]
     },
     {
@@ -69,7 +69,7 @@
         {
           "value": "Mystery Dungeon: Red Rescue Team",
           "version": "all"
-        },
+        }
       ]
     },
     {
@@ -133,7 +133,7 @@
         {
           "value": "Conquest",
           "version": "all"
-        },
+        }
       ]
     },
     {
@@ -174,7 +174,7 @@
         {
           "value": "Detective Pikachu",
           "version": "all"
-        },
+        }
       ]
     },
     {
@@ -199,7 +199,7 @@
         {
           "value": "Puzzle League",
           "version": "all"
-        },
+        }
       ]
     },
     {
@@ -212,7 +212,7 @@
         {
           "value": "XD: Gale of Darkness",
           "version": "all"
-        },
+        }
       ]
     },
     {
@@ -229,7 +229,7 @@
         {
           "value": "Poképark 2",
           "version": "all"
-        },
+        }
       ]
     },
     {
@@ -238,22 +238,22 @@
         {
           "value": "Pokken Tournament",
           "version": "all"
-        },
+        }
       ]
     },
     {
       "name": "Switch",
       "entries": [
         {
-          "value": "Let\'s Go Pikachu"
+          "value": "Let\\'s Go Pikachu"
         },
         {
-          "value": "Let\'s Go Eevee"
+          "value": "Let\\'s Go Eevee"
         },
         {
           "value": "Pokken DX",
           "version": "all"
-        },
+        }
       ]
     }
   ]

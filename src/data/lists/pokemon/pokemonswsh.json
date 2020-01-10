@@ -14,7 +14,7 @@
         },
         {
           "value": "Defeat Leon"
-        },
+        }
       ]
     },
     {
@@ -39,17 +39,17 @@
         {
           "value": "Solve the mystery in Circhester",
           "help": "In the hotel in Circhester, there is a 'crime' to be solved"
-        },
+        }
       ]
     },
     {
       "name": "Post Game",
       "entries": [
         {
-          "value": "Go to Slumbering Weald to start post-game story",
+          "value": "Go to Slumbering Weald to start post-game story"
         },
         {
-          "value": "Defeat all the Dynamax pokemon in post-game story",
+          "value": "Defeat all the Dynamax pokemon in post-game story"
         },
         {
           "value": "Help Hop catch Zamazenta in Slumbering Weald",
@@ -77,7 +77,7 @@
         {
           "value": "Get Beast Ball",
           "help": "Stow-on-Side, merchant on the right"
-        },
+        }
       ]
     },
     {
@@ -237,11 +237,11 @@
         },
         {
           "value": "Trade for Zacian",
-          "version": "shield",
+          "version": "shield"
         },
         {
           "value": "Trade for Zamazenta",
-          "version": "sword",
+          "version": "sword"
         },
         {
           "value": "Complete Dex"
@@ -302,7 +302,7 @@
         {
           "value": "Eevee",
           "help": "Need saved data from Let's Go Eevee"
-        }
+        },
         {
           "value": "Snorlax"
         },
@@ -373,7 +373,7 @@
         },
         {
           "value": "Duraludon"
-        },
+        }
       ]
     },
     {
@@ -414,7 +414,7 @@
         {
           "value": "Gigantamax Charmander",
           "help": "Leon's Room after becoming Champion"
-        },
+        }
       ]
     },
     {
@@ -467,7 +467,7 @@
         {
           "value": "Frosmoth for Duraludon",
           "help": "Wyndon, in house near stadium"
-        },
+        }
       ]
     },
     {
@@ -872,7 +872,7 @@
         {
           "value": "TM99",
           "help": "Defeat Raihun"
-        },
+        }
       ]
     },
     {
@@ -914,7 +914,7 @@
         {
           "value": "Eevee Kit",
           "isDLC": true
-        },
+        }
       ]
     },
     {
@@ -1523,7 +1523,7 @@
         {
           "value": "Gigantamax Curry",
           "help": "Gigantamix and 10 berries of different tastes"
-        },
+        }
       ]
     },
     {
@@ -1780,7 +1780,7 @@
         {
           "value": "Rainbow Swirl with Ribbon Sweet",
           "help": "Spin anticlockwise for over 10 seconds at dusk, holding Strawberry Sweet"
-        },
+        }
       ]
     },
     {
@@ -1961,7 +1961,7 @@
           "display": "Leon (rare)",
           "value": "Leon (2)",
           "help": "Defeat Leon in the Battle Tower"
-        },
+        }
       ]
     },
     {
@@ -1990,7 +1990,7 @@
         },
         {
           "value": "Doubles Master Ball Rank"
-        },
+        }
       ]
     },
     {
@@ -2021,13 +2021,13 @@
         },
         {
           "value": "Battle Morimoto",
-          "help": "Disguised as Police Officer in Circhester Hotel",
+          "help": "Disguised as Police Officer in Circhester Hotel"
         },
         {
           "value": "Battle Marnie",
-          "help": "In Spikemuth",
-        },
+          "help": "In Spikemuth"
+        }
       ]
-    },
+    }
   ]
 }

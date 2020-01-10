@@ -15,9 +15,9 @@
         },
         {
           "value": "Dreamcast"
-        },
+        }
       ]
-    }
+    },
     {
       "name": "Nintendo",
       "entries": [
@@ -76,9 +76,9 @@
         },
         {
           "value": "PS4"
-        },
+        }
       ]
-    }
+    },
     {
       "name": "Microsoft",
       "entries": [
@@ -90,7 +90,7 @@
         },
         {
           "value": "XBox One"
-        },
+        }
       ]
     }
   ]

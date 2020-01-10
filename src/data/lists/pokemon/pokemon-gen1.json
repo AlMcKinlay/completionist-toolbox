@@ -13,7 +13,7 @@
         },
         {
           "value": "Defeat Rival"
-        },
+        }
       ]
     },
     {
@@ -38,7 +38,7 @@
         {
           "value": "HM05 - Flash",
           "help": "Route 2"
-        },
+        }
       ]
     },
     {
@@ -243,7 +243,7 @@
         {
           "value": "TM50 - ",
           "help": ""
-        },
+        }
       ]
     },
     {
@@ -335,7 +335,7 @@
         {
           "value": "Living Dex",
           "help": "One of every pokemon in boxes"
-        },
+        }
       ]
     },
     {
@@ -366,7 +366,7 @@
         },
         {
           "value": "Eevee",
-          "help": "Top of Celadon Mansion (back entrance), Celadon City",
+          "help": "Top of Celadon Mansion (back entrance), Celadon City"
         },
         {
           "value": "Omanyte/Kabuto",
@@ -375,7 +375,7 @@
         {
           "value": "Aerodactyl",
           "help": "Old Amber, Pewter City Museaum (back entrance)"
-        },
+        }
       ]
     },
     {
@@ -460,8 +460,8 @@
           "value": "Kangaskhan for Muk",
           "help": "Pokemon Lab, Cinnabar Island",
           "version": "yellow"
-        },
+        }
       ]
-    },
+    }
   ]
 }

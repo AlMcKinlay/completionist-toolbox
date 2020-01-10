@@ -178,7 +178,7 @@ class SectionList extends React.Component {
 
 	constructor(props) {
 		super(props);
-		const list = props.data.listsHJson;
+		const list = props.data.list;
 		this.defaultVersion = list && list.versions ? list.versions[0] : undefined;
 		
 		const urlId = typeof window !== "undefined" && window.location.hash && window.location.hash.includes("id") && window.location.hash.slice(1).split("=")[1];
@@ -257,7 +257,7 @@ class SectionList extends React.Component {
 	}
 }
 
-const listDispatchProps = (dispatch, {data: {listsHJson: {name}}}) => {
+const listDispatchProps = (dispatch, {data: {list: {name}}}) => {
 	return {
 		showAllSections: () => dispatch({ type: `SHOW_ALL_SECTIONS`, listName: name }),
 		setAllData: (data) => dispatch({ type: `SET_ALL_DATA`, listName: name, data }),
@@ -266,7 +266,7 @@ const listDispatchProps = (dispatch, {data: {listsHJson: {name}}}) => {
 	}
 };
 
-const getState = ({ lists }, {data: {listsHJson: {name}}}) => {
+const getState = ({ lists }, {data: {list: {name}}}) => {
 	return {
 		listState: lists[name]
 	}
@@ -276,7 +276,7 @@ export default connect(getState, listDispatchProps)(SectionList);
 
 export const query = graphql`
   query EntryQuery($slug: String!) {
-		listsHJson(fields: { slug: { eq: $slug } }) {
+		list(fields: { slug: { eq: $slug } }) {
 			name,
 			versions,
 			dlcAvailable,

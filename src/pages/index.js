@@ -4,7 +4,7 @@ import Lists from "../list/lists";
 import { graphql } from 'gatsby';
 import { connect } from "react-redux"
 
-const mapStateToProps = ({ lists }, {data: {allListsHJson: {edges: entries}}}) => {
+const mapStateToProps = ({ lists }, {data: {allList: {edges: entries}}}) => {
 	return {
 		unusedLists: entries.filter((entry) => !lists[entry.node.name] || lists[entry.node.name].visible === false),
 		lists: entries.filter((entry) => lists[entry.node.name] && lists[entry.node.name].visible !== false)
@@ -36,7 +36,7 @@ export default IndexPage;
 
 export const query = graphql`
 	query GetAllLists {
-		allListsHJson {
+		allList {
 			edges {
 				node {
 					name,
