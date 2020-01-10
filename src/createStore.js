@@ -101,6 +101,15 @@ function reducerDoesThing(state, {type: action, listName, sectionName, entryName
 				[listName]: newList
 			}
 		}
+	} else if (action === "TOGGLE_DLC") {
+		newList.dlc = oldList.dlc ? false : true;
+		newList.saved = false;
+		newState = {
+			lists: {
+				...lists,
+				[listName]: newList
+			}
+		}
 	} else if (action === "ADD_LIST") {
 		newList.visible = true;
 		newState = {
