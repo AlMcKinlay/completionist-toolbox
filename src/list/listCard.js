@@ -59,7 +59,7 @@ export class ListCard extends React.Component {
 		}
 		return (
 			<ThemedCard body className="text-center" type={this.props.type}> 
-				<Title title={this.props.name}>{this.props.name}</Title>
+				<Title title={this.props.displayName}>{this.props.displayName}</Title>
 				<Dropdown>
 					<DropdownEl action={this.props.hideList}>Hide List</DropdownEl>
 				</Dropdown>

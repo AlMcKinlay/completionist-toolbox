@@ -40,7 +40,7 @@ export default ({lists = [], unusedLists = [], addList, hideList}) => {
 		<List>
 			{lists.map(({node: list}) =>
 				<ListSection key={list.name}>
-					<ListCard name={list.name} slug={list.fields.slug} total={getTotalItems(list.sections)} hideList={hideList.bind(this, list)} />
+					<ListCard name={list.name} displayName={list.displayName || list.name} slug={list.fields.slug} total={getTotalItems(list.sections)} hideList={hideList.bind(this, list)} />
 				</ListSection>
 			)}
 			<ListSection key={"Add List"} onClick={toggle}>
@@ -54,7 +54,7 @@ export default ({lists = [], unusedLists = [], addList, hideList}) => {
 						{unusedLists.map(({node: list}) =>
 							<div key={list.name}>
 								<Item 
-									name={list.name}
+									name={list.displayName || list.name}
 									checkbox={false}
 									clickItem={() => {
 										addList(list);

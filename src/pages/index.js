@@ -40,6 +40,7 @@ export const query = graphql`
 			edges {
 				node {
 					name,
+					displayName,
 					sections {
 						entries{
 							value
