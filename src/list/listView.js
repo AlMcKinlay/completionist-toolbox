@@ -212,7 +212,7 @@ class SectionList extends React.Component {
 			<div>
 				<Row>
 					<Grid>
-						<Title>{this.state.post.name}</Title>
+						<Title>{this.state.post.displayName || this.props.name}</Title>
 						{
 							this.state.post.dlcAvailable && (
 								<ConnectedDLCSwitch listName={this.state.post.name}>
@@ -278,6 +278,7 @@ export const query = graphql`
   query EntryQuery($slug: String!) {
 		list(fields: { slug: { eq: $slug } }) {
 			name,
+			displayName,
 			versions,
 			dlcAvailable,
 			sections {

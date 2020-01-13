@@ -1,5 +1,6 @@
 {
   "name": "Pokemon Sword and Shield Completion",
+  "displayName": "Pokemon Gen 8",
   "versions": ["sword", "shield"],
   "dlcAvailable": true,
   "sections": [

@@ -1,5 +1,6 @@
 {
   "name": "Pokemon Let's Go Completion",
+  "displayName": "Pokemon Gen 1 (Let's Go)",
   "versions": ["pikachu", "eevee"],
   "sections": [
     {
