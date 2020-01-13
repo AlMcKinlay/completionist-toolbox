@@ -2029,6 +2029,16 @@
           "help": "In Spikemuth"
         }
       ]
+    },
+    {
+      "name": "Isle of Armor",
+      "isDLC": true,
+      "entries": []
+    },
+    {
+      "name": "The Crown Tundra",
+      "isDLC": true,
+      "entries": []
     }
   ]
 }

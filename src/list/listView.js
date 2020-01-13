@@ -72,7 +72,6 @@ const mapDispatchToProps = (dispatch, {listName, name}) => {
 	return {
 		clickItem: (entryName) => dispatch({ type: `SET_ITEM_STATE`, listName, sectionName: name, entryName }),
 		switchVersion: (version) => dispatch({ type: `SET_LIST_VERSION`, listName, version}),
-		toggleDLC: () => dispatch({ type: `TOGGLE_DLC`, listName}),
 		clearSection: () => dispatch({ type: `CLEAR_SECTION`, listName, sectionName: name }),
 		hideSection: () => dispatch({ type: `HIDE_SECTION`, listName, sectionName: name }),
 		completeSection: (sectionData) => dispatch({ type: `COMPLETE_SECTION`, listName, sectionName: name, sectionData }),
@@ -134,10 +133,12 @@ const isDlcEnabled = ({lists}, {listName}) => {
 
 const ConnectedDLCSwitch = connect(isDlcEnabled, mapDispatchToProps)(DLCSwitch);
 
-const getVisibility = ({lists}, {listName, sectionName}) => {
+const getVisibility = ({lists}, {listName, sectionName, isDLC}) => {
 	const list = lists[listName];
 	const section = list && list.sections && list.sections[sectionName];
-	const hidden = section ? section.hidden : false;
+	const dlcEnabled = list && list.dlc;
+	const dlcHidden = isDLC && !dlcEnabled;
+	const hidden = dlcHidden || (section ? section.hidden : false);
 	return { 
 		hidden
 	}
@@ -215,7 +216,9 @@ class SectionList extends React.Component {
 						<Title>{this.state.post.displayName || this.props.name}</Title>
 						{
 							this.state.post.dlcAvailable && (
-								<ConnectedDLCSwitch listName={this.state.post.name}>
+								<ConnectedDLCSwitch 
+									listName={this.state.post.name} 
+									toggleDLC={this.props.toggleDLC}>
 								</ConnectedDLCSwitch>
 							)
 						}
@@ -241,7 +244,8 @@ class SectionList extends React.Component {
 					{this.state.post.sections.map((section) => (
 						<ConnectedListSection key={section.name}
 							listName={this.state.post.name}
-							sectionName={section.name}>
+							sectionName={section.name}
+							isDLC={section.isDLC}>
 							<ConnectedSection 
 								listName={this.state.post.name} 
 								name={section.name} 
@@ -263,6 +267,7 @@ const listDispatchProps = (dispatch, {data: {list: {name}}}) => {
 		setAllData: (data) => dispatch({ type: `SET_ALL_DATA`, listName: name, data }),
 		setId: (id) => dispatch({ type: `SET_ID`, listName: name, id }),
 		setSaved: () => dispatch({ type: `SET_SAVED`, listName: name }),
+		toggleDLC: () => dispatch({ type: `TOGGLE_DLC`, listName: name}),
 	}
 };
 
@@ -284,6 +289,7 @@ export const query = graphql`
 			sections {
 				name,
 				reset,
+				isDLC,
 				entries {
 					value,
 					help,
