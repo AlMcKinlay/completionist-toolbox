@@ -26,7 +26,7 @@
     "@quickbaseoss/babel-plugin-styled-components-css-namespace": "0.1.1",
     "bootstrap": "4.4.1",
     "concurrently": "5.1.0",
-    "gatsby": "2.19.12",
+    "gatsby": "2.19.13",
     "gatsby-link": "2.2.29",
     "gatsby-plugin-react-helmet": "3.1.22",
     "gatsby-plugin-styled-components": "3.1.19",
