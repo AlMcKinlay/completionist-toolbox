@@ -7,7 +7,7 @@
     "diskdb": "0.1.17",
     "express": "4.17.1",
     "uuid": "7.0.2",
-    "ws": "7.2.1"
+    "ws": "7.2.2"
   },
   "keywords": [
     "completionist",
