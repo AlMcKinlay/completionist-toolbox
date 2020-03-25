@@ -58,6 +58,12 @@
         {
           "value": "Upgrade Resident Services",
           "help": "Must have the 3 villagers moved in. Tom will talk to you in the morning to tell you it will be upgraded."
+        },
+        {
+          "value": "Build Able Sisters store"
+        },
+        {
+          "value": "Build Campsite"
         }
       ]
     },
@@ -107,6 +113,26 @@
         {
           "value": "Search for Gulliver"
         }
+      ]
+    },
+    {
+      "name": "Fish",
+      "entries": [
+      ]
+    },
+    {
+      "name": "Bugs",
+      "entries": [
+      ]
+    },
+    {
+      "name": "Fossils",
+      "entries": [
+      ]
+    },
+    {
+      "name": "Trees",
+      "entries": [
       ]
     }
   ]
