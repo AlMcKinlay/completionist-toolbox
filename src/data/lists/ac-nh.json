@@ -1,0 +1,113 @@
+{
+  "name": "Animal Crossing: New Horizons",
+  "sections": [
+    {
+      "name": "Story",
+      "entries": [
+        {
+          "value": "Pay off Moving Fees"
+        },
+        {
+          "value": "Build House Lv 1",
+          "help": "Need to have paid off moving fees. Talk to Tom Nook."
+        },
+        {
+          "value": "Upgrade House to Lv 2",
+          "help": "Need to have paid off 98k loan. Talk to Tom Nook."
+        },
+        {
+          "value": "Upgrade House to Lv 3",
+          "help": "Need to have paid off 198k loan. Talk to Tom Nook."
+        },
+        {
+          "value": "Upgrade House to Lv 4",
+          "help": "Need to have paid off 398k loan. Talk to Tom Nook."
+        },
+        {
+          "value": "Upgrade House to Lv 5",
+          "help": "Need to have paid off 548k loan. Talk to Tom Nook."
+        },
+        {
+          "value": "Upgrade House to Lv 6",
+          "help": "Need to have paid off 758k loan. Talk to Tom Nook."
+        },
+        {
+          "value": "Upgrade House to Lv 7",
+          "help": "Need to have paid off 1.248m loan. Talk to Tom Nook."
+        },
+        {
+          "value": "Invite Blathers to Island",
+          "help": "Donate 5 fish or bugs to Tom Nook, place Blather's tent"
+        },
+        {
+          "value": "Build Museum",
+          "help": "Blathers must have moved to island. Donate 15 fish or bugs to Blathers."
+        },
+        {
+          "value": "Build Nook's Cranny",
+          "help": "Must be at least day 2. Talk to Tommy, donate 30 wood, 30 soft wood, 30 hard wood, 30 iron."
+        },
+        {
+          "value": "Build first bridge",
+          "help": "Must be at least day 3. Talk to Tom, craft bridge construction, place bridge construction."
+        },
+        {
+          "value": "Select first 3 villagers housing",
+          "help": "Must be at least day 3. Talk to Tom, place 3 house plots, fulfill required interior/exterior furniture."
+        },
+        {
+          "value": "Upgrade Resident Services",
+          "help": "Must have the 3 villagers moved in. Tom will talk to you in the morning to tell you it will be upgraded."
+        }
+      ]
+    },
+    {
+      "name": "Daily Tasks",
+      "reset": "daily",
+      "entries": [
+        {
+          "value": "Talk to villagers"
+        },
+        {
+          "value": "Check value of turnips"
+        },
+        {
+          "value": "Check hot item of the day"
+        },
+        {
+          "value": "Check items in the shop"
+        },
+        {
+          "value": "Check items in the ABM shop"
+        },
+        {
+          "value": "Dig up fossils"
+        },
+        {
+          "value": "Get money/items from stones"
+        },
+        {
+          "value": "Pick fruit"
+        },
+        {
+          "value": "Gather wood"
+        },
+        {
+          "value": "Shake trees"
+        },
+        {
+          "value": "Complete the 2x Nook Miles+ Quests"
+        },
+        {
+          "value": "Find the glowing spot"
+        },
+        {
+          "value": "Find the message in a bottle"
+        },
+        {
+          "value": "Search for Gulliver"
+        }
+      ]
+    }
+  ]
+}
