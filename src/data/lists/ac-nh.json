@@ -141,6 +141,78 @@
     {
       "name": "DIY - Tools",
       "entries": [
+        {
+          "value": "Flimsy Axe"
+        },
+        {
+          "value": "Stone Axe"
+        },
+        {
+          "value": "Axe"
+        },
+        {
+          "value": "Flimsy Shovel"
+        },
+        {
+          "value": "Shovel"
+        },
+        {
+          "value": "Flimsy Net"
+        },
+        {
+          "value": "Net"
+        },
+        {
+          "value": "Flimsy Fishing Rod"
+        },
+        {
+          "value": "Fishing Rod"
+        },
+        {
+          "value": "Flimsy Watering Can"
+        },
+        {
+          "value": "Watering can"
+        },
+        {
+          "value": "Slingshot"
+        },
+        {
+          "value": "Ladder",
+          "help": "Help build Nook's Cranny"
+        },
+        {
+          "value": "Vaulting Pole",
+          "help": "From Blathers"
+        },
+        {
+          "value": "Star Wand",
+          "help": "From Celeste"
+        },
+        {
+          "value": "Ice Wand",
+          "help": "From Snowboy"
+        },
+        {
+          "value": "Golden Axe",
+          "help": "Break 100 Axes"
+        },
+        {
+          "value": "Golden Shovel",
+          "help": "Help Gulliver 30 times"
+        },
+        {
+          "value": "Golden Fishing Rod",
+          "help": "Catch all the fish"
+        },
+        {
+          "value": "Golden Net",
+          "help": "Catch all the bugs"
+        },
+        {
+          "value": "Golden Watering Can",
+          "help": "Get 5 star island rating"
+        }
       ]
     },
     {
