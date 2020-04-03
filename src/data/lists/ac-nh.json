@@ -124,16 +124,724 @@
     {
       "name": "Fish",
       "entries": [
+        {
+          "value": "Bitterling"
+        },
+        {
+          "value": "Pale Chub"
+        },
+        {
+          "value": "Crucian Carp"
+        },
+        {
+          "value": "Dace"
+        },
+        {
+          "value": "Carp"
+        },
+        {
+          "value": "Koi"
+        },
+        {
+          "value": "Goldfish"
+        },
+        {
+          "value": "Pop-eyed Goldfish"
+        },
+        {
+          "value": "Ranchu Goldfish"
+        },
+        {
+          "value": "Killifish"
+        },
+        {
+          "value": "Crawfish"
+        },
+        {
+          "value": "Soft-shelled Turtle"
+        },
+        {
+          "value": "Snapping Turtle"
+        },
+        {
+          "value": "Tadpole"
+        },
+        {
+          "value": "Frog"
+        },
+        {
+          "value": "Freshwater Goby"
+        },
+        {
+          "value": "Loach"
+        },
+        {
+          "value": "Catfish"
+        },
+        {
+          "value": "Giant Snakehead"
+        },
+        {
+          "value": "Bluegill"
+        },
+        {
+          "value": "Yellow Perch"
+        },
+        {
+          "value": "Black Bass"
+        },
+        {
+          "value": "Tilapia"
+        },
+        {
+          "value": "Pike"
+        },
+        {
+          "value": "Pond Smelt"
+        },
+        {
+          "value": "Sweetfish"
+        },
+        {
+          "value": "Cherry Salmon"
+        },
+        {
+          "value": "Char"
+        },
+        {
+          "value": "Golden trout"
+        },
+        {
+          "value": "Stringfish"
+        },
+        {
+          "value": "Salmon"
+        },
+        {
+          "value": "King Salmon"
+        },
+        {
+          "value": "Mitten Crab"
+        },
+        {
+          "value": "Guppy"
+        },
+        {
+          "value": "Nibble Fish"
+        },
+        {
+          "value": "Angelfish"
+        },
+        {
+          "value": "Betta"
+        },
+        {
+          "value": "Neon Tetra"
+        },
+        {
+          "value": "Rainbowfish"
+        },
+        {
+          "value": "Piranha"
+        },
+        {
+          "value": "Arowana"
+        },
+        {
+          "value": "Dorado"
+        },
+        {
+          "value": "Gar"
+        },
+        {
+          "value": "Arapaima"
+        },
+        {
+          "value": "Saddled Bichir"
+        },
+        {
+          "value": "Sturgeon"
+        },
+        {
+          "value": "Sea Butterfly"
+        },
+        {
+          "value": "Seahorse"
+        },
+        {
+          "value": "Clownfish"
+        },
+        {
+          "value": "Surgeonfish"
+        },
+        {
+          "value": "Butterfly Fish"
+        },
+        {
+          "value": "Napoleonfish"
+        },
+        {
+          "value": "Zebra Turkeyfish"
+        },
+        {
+          "value": "Blowfish"
+        },
+        {
+          "value": "Puffer Fish"
+        },
+        {
+          "value": "Anchovy"
+        },
+        {
+          "value": "Horse Mackerel"
+        },
+        {
+          "value": "Barred Knifejaw"
+        },
+        {
+          "value": "Sea Bass"
+        },
+        {
+          "value": "Red Snapper"
+        },
+        {
+          "value": "Dab"
+        },
+        {
+          "value": "Olive Flounder"
+        },
+        {
+          "value": "Squid"
+        },
+        {
+          "value": "Moray Eel"
+        },
+        {
+          "value": "Ribbon Eel"
+        },
+        {
+          "value": "Tuna"
+        },
+        {
+          "value": "Blue Marlin"
+        },
+        {
+          "value": "Giant Trevally"
+        },
+        {
+          "value": "Mahi-mahi"
+        },
+        {
+          "value": "Ocean Sunfish"
+        },
+        {
+          "value": "Ray"
+        },
+        {
+          "value": "Saw Shark"
+        },
+        {
+          "value": "Hammerhead Shark"
+        },
+        {
+          "value": "Great White Shark"
+        },
+        {
+          "value": "Whale Shark"
+        },
+        {
+          "value": "Suckerfish"
+        },
+        {
+          "value": "Football Fish"
+        },
+        {
+          "value": "Oarfish"
+        },
+        {
+          "value": "Barreleye"
+        },
+        {
+          "value": "Coelacanth"
+        }
       ]
     },
     {
       "name": "Bugs",
       "entries": [
+        {
+          "value": "Common Butterfly"
+        },
+        {
+          "value": "Yellow Butterfly"
+        },
+        {
+          "value": "Tiger Butterfly"
+        },
+        {
+          "value": "Peacock Butterfly"
+        },
+        {
+          "value": "Common Bluebottle"
+        },
+        {
+          "value": "Paper Kite Butterfly"
+        },
+        {
+          "value": "Great Purple Emperor"
+        },
+        {
+          "value": "Monarch Butterfly"
+        },
+        {
+          "value": "Emperor Butterfly"
+        },
+        {
+          "value": "Agrias Butterfly"
+        },
+        {
+          "value": "Rajah Brooke's Birdwing"
+        },
+        {
+          "value": "Queen Alexandra's Birdwing"
+        },
+        {
+          "value": "Moth"
+        },
+        {
+          "value": "Atlas Moth"
+        },
+        {
+          "value": "Madagascan Sunset Moth"
+        },
+        {
+          "value": "Long Locust"
+        },
+        {
+          "value": "Migratory Locust"
+        },
+        {
+          "value": "Rice Grasshopper"
+        },
+        {
+          "value": "Grasshopper"
+        },
+        {
+          "value": "Cricket"
+        },
+        {
+          "value": "Bell Cricket"
+        },
+        {
+          "value": "Mantis"
+        },
+        {
+          "value": "Orchid Mantis"
+        },
+        {
+          "value": "Honeybee"
+        },
+        {
+          "value": "Wasp"
+        },
+        {
+          "value": "Brown Cicada"
+        },
+        {
+          "value": "Robust Cicada"
+        },
+        {
+          "value": "Giant cicada"
+        },
+        {
+          "value": "Walker Cicada"
+        },
+        {
+          "value": "Evening Cicada"
+        },
+        {
+          "value": "Cicada Shell"
+        },
+        {
+          "value": "Red Dragonfly"
+        },
+        {
+          "value": "Darner Dragonfly"
+        },
+        {
+          "value": "Banded Dragonfly"
+        },
+        {
+          "value": "Damselfly"
+        },
+        {
+          "value": "Firefly"
+        },
+        {
+          "value": "Mole Cricket"
+        },
+        {
+          "value": "Pondskater"
+        },
+        {
+          "value": "Diving Beetle"
+        },
+        {
+          "value": "Giant Water Bug"
+        },
+        {
+          "value": "Stinkbug"
+        },
+        {
+          "value": "Man-faced Stink Bug"
+        },
+        {
+          "value": "Ladybug"
+        },
+        {
+          "value": "Tiger Beetle"
+        },
+        {
+          "value": "Jewel Beetle"
+        },
+        {
+          "value": "Citrus Long-horned Beetle"
+        },
+        {
+          "value": "Rosalia Batesi Beetle"
+        },
+        {
+          "value": "Blue Weevil Beetle"
+        },
+        {
+          "value": "Violin Beetle"
+        },
+        {
+          "value": "Dung Beetle"
+        },
+        {
+          "value": "Earth-boring Dung Beetle"
+        },
+        {
+          "value": "Scarab Beetle"
+        },
+        {
+          "value": "Drone Beetle"
+        },
+        {
+          "value": "Goliath Beetle"
+        },
+        {
+          "value": "Saw Stag"
+        },
+        {
+          "value": "Miyama Stag"
+        },
+        {
+          "value": "Giant Stag"
+        },
+        {
+          "value": "Rainbow Stag"
+        },
+        {
+          "value": "Cyclommatus Stag"
+        },
+        {
+          "value": "Golden Stag"
+        },
+        {
+          "value": "Giraffe Stag"
+        },
+        {
+          "value": "Horned Dynastid"
+        },
+        {
+          "value": "Horned Atlas"
+        },
+        {
+          "value": "Horned Elephant"
+        },
+        {
+          "value": "Horned Hercules"
+        },
+        {
+          "value": "Walking Stick"
+        },
+        {
+          "value": "Walking Leaf"
+        },
+        {
+          "value": "Bagworm"
+        },
+        {
+          "value": "Ant"
+        },
+        {
+          "value": "Hermit Crab"
+        },
+        {
+          "value": "Wharf Roach"
+        },
+        {
+          "value": "Fly"
+        },
+        {
+          "value": "Mosquito"
+        },
+        {
+          "value": "Flea"
+        },
+        {
+          "value": "Snail"
+        },
+        {
+          "value": "Pill Bug"
+        },
+        {
+          "value": "Centipede"
+        },
+        {
+          "value": "Spider"
+        },
+        {
+          "value": "Tarantula"
+        },
+        {
+          "value": "Scorpion"
+        }
       ]
     },
     {
       "name": "Fossils",
       "entries": [
+        {
+          "value": "Acanthostega"
+        },
+        {
+          "value": "Amber"
+        },
+        {
+          "value": "Ammonite"
+        },
+        {
+          "value": "Ankylosaurus Skull"
+        },
+        {
+          "value": "Ankylosaurus Torso"
+        },
+        {
+          "value": "Ankylosaurus Tail"
+        },
+        {
+          "value": "Anomalocaris"
+        },
+        {
+          "value": "Archaeopteryx"
+        },
+        {
+          "value": "Archelon Skull"
+        },
+        {
+          "value": "Archelon Tail"
+        },
+        {
+          "value": "Australopith"
+        },
+        {
+          "value": "Brachiosaurus Skull"
+        },
+        {
+          "value": "Brachiosaurus Chest"
+        },
+        {
+          "value": "Brachiosaurus Pelvis"
+        },
+        {
+          "value": "Brachiosaurus Tail"
+        },
+        {
+          "value": "Coprolite"
+        },
+        {
+          "value": "Deinonychus Torso"
+        },
+        {
+          "value": "Deinonychus Tail"
+        },
+        {
+          "value": "Dimetrodon Skull"
+        },
+        {
+          "value": "Dimetrodon Torso"
+        },
+        {
+          "value": "Dimetrodon Tail"
+        },
+        {
+          "value": "Dinosaur Track"
+        },
+        {
+          "value": "Diplodocus Skull"
+        },
+        {
+          "value": "Diplodocus Neck"
+        },
+        {
+          "value": "Diplodocus Chest"
+        },
+        {
+          "value": "Diplodocus Pelvis"
+        },
+        {
+          "value": "Diplodocus Tail"
+        },
+        {
+          "value": "Diplodocus Tail Tip"
+        },
+        {
+          "value": "Dunkleosteus"
+        },
+        {
+          "value": "Eusthenopteron"
+        },
+        {
+          "value": "Iguanodon Skull"
+        },
+        {
+          "value": "Iguanodon Torso"
+        },
+        {
+          "value": "Iguanodon Tail"
+        },
+        {
+          "value": "Juramaia"
+        },
+        {
+          "value": "Mammoth Skull"
+        },
+        {
+          "value": "Mammoth Torso"
+        },
+        {
+          "value": "Megacerops Skull"
+        },
+        {
+          "value": "Megacerops Torso"
+        },
+        {
+          "value": "Megacerops Tail"
+        },
+        {
+          "value": "Megaloceros Left Side"
+        },
+        {
+          "value": "Megaloceros Right Side"
+        },
+        {
+          "value": "Myllokunmingia"
+        },
+        {
+          "value": "Ophthalmosaurus Skull"
+        },
+        {
+          "value": "Ophthalmosaurus Torso"
+        },
+        {
+          "value": "Ophthalmosaurus Tail"
+        },
+        {
+          "value": "Pachycephalosaurus Skull"
+        },
+        {
+          "value": "Pachycephalosaurus Torso"
+        },
+        {
+          "value": "Pachycephalosaurus Tail"
+        },
+        {
+          "value": "Parasaurolophus Skull"
+        },
+        {
+          "value": "Parasaurolophus Torso"
+        },
+        {
+          "value": "Parasaurolophus Tail"
+        },
+        {
+          "value": "Plesiosaurus Skull"
+        },
+        {
+          "value": "Plesiosaurus Neck"
+        },
+        {
+          "value": "Plesiosaurus Torso"
+        },
+        {
+          "value": "Ptera Body"
+        },
+        {
+          "value": "Left Ptera Wing"
+        },
+        {
+          "value": "Right Ptera Wing"
+        },
+        {
+          "value": "Quetzal Torso"
+        },
+        {
+          "value": "Left Quetzal Wing"
+        },
+        {
+          "value": "Right Quetzal Wing"
+        },
+        {
+          "value": "Sabertooth Skull"
+        },
+        {
+          "value": "Sabertooth Torso"
+        },
+        {
+          "value": "Shark-Tooth Pattern"
+        },
+        {
+          "value": "Spinosaurus Skull"
+        },
+        {
+          "value": "Spinosaurus Torso"
+        },
+        {
+          "value": "Spinosaurus Tail"
+        },
+        {
+          "value": "Stego Skull"
+        },
+        {
+          "value": "Stego Torso"
+        },
+        {
+          "value": "Stego Tail"
+        },
+        {
+          "value": "T.Rex Skull"
+        },
+        {
+          "value": "T.Rex Torso"
+        },
+        {
+          "value": "T.Rex Tail"
+        },
+        {
+          "value": "Tricera Skull"
+        },
+        {
+          "value": "Tricera Torso"
+        },
+        {
+          "value": "Tricera Tail"
+        },
+        {
+          "value": "Trilobite"
+        }
       ]
     },
     {
