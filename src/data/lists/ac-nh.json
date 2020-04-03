@@ -240,76 +240,88 @@
       "name": "DIY - Bunny Day",
       "entries": [
         {
-          "value": "Bunny Day bed"
-        },
-        {
-          "value": "Bunny Day glowly garland"
-        },
-        {
-          "value": "Bunny Day table"
-        },
-        {
-          "value": "Bunny Day wall clock"
-        },
-        {
-          "value": "Bunny Day stool"
-        },
-        {
-          "value": "Bunny Day lamp"
-        },
-        {
-          "value": "Bunny Day flooring"
-        },
-        {
-          "value": "Bunny Day wall"
-        },
-        {
-          "value": "Bunny Day wardrobe"
-        },
-        {
-          "value": "Bunny Day fence"
-        },
-        {
-          "value": "Bunny Day Wreath"
-        },
-        {
-          "value": "Bunny Day Rug"
-        },
-        {
-          "value": "Bunny Day Vanity"
-        },
-        {
-          "value": "Bunny Day Festive Balloons"
-        },
-        {
-          "value": "Bunny Day Merry Balloons"
-        },
-        {
           "value": "Bunny Day bag"
+        },
+        {
+          "value": "Bunny Day bed"
         },
         {
           "value": "Bunny Day crown"
         },
         {
-          "value": "Sky-egg Clothes"
+          "value": "Bunny Day fence"
         },
         {
-          "value": "Wood-egg Clothes"
+          "value": "Bunny Day Festive Balloons",
+          "display": "Bunny Day festive balloons"
         },
         {
-          "value": "Earth-egg Clothes"
+          "value": "Bunny Day flooring"
         },
         {
-          "value": "Stone-egg Clothes"
+          "value": "Bunny Day glowly garland"
         },
         {
-          "value": "Water-egg Clothes"
+          "value": "Bunny Day lamp"
         },
         {
-          "value": "Leaf-egg Clothes"
+          "value": "Bunny Day Merry Balloons",
+          "display": "Bunny Day merry balloons"
         },
         {
-          "value": "Egg Party Clothes"
+          "value": "Bunny Day Rug",
+          "display": "Bunny Day rug"
+        },
+        {
+          "value": "Bunny Day stool"
+        },
+        {
+          "value": "Bunny Day table"
+        },
+        {
+          "value": "Bunny Day wall"
+        },
+        {
+          "value": "Bunny Day wall clock"
+        },
+        {
+          "value": "Bunny Day wardrobe"
+        },
+        {
+          "value": "Bunny Day Wreath",
+          "display": "Bunny Day wreath"
+        },
+        {
+          "value": "Bunny Day Vanity",
+          "display": "Bunny Day vanity"
+        },
+        {
+          "value": "Earth-egg Clothes",
+          "help": "Gain a certain number of earth eggs"
+        },
+        {
+          "value": "Leaf-egg Clothes",
+          "help": "Gain a certain number of leaf eggs"
+        },
+        {
+          "value": "Sky-egg Clothes",
+          "help": "Gain a certain number of sky eggs"
+        },
+        {
+          "value": "Stone-egg Clothes",
+          "help": "Gain a certain number of stone eggs"
+        },
+        {
+          "value": "Water-egg Clothes",
+          "help": "Gain a certain number of water eggs"
+        },
+        {
+          "value": "Wood-egg Clothes",
+          "help": "Gain a certain number of wood eggs"
+        },
+        {
+          "value": "Egg Party Clothes",
+          "help": "Learn all the other egg type clothe recipes"
         }
       ]
     },
@@ -317,19 +329,10 @@
       "name": "DIY - Cherry Blossom",
       "entries": [
         {
-          "value": "Cherry-blossom petal pile"
+          "value": "Blossom-viewing lantern"
         },
         {
           "value": "Cherry-blossom branches"
-        },
-        {
-          "value": "Cherry-blossom wand"
-        },
-        {
-          "value": "Cherry-blossom Pond Stone"
-        },
-        {
-          "value": "Cherry-blossom Pochette"
         },
         {
           "value": "Cherry-blossom clock"
@@ -338,25 +341,42 @@
           "value": "Cherry-blossom flooring"
         },
         {
-          "value": "Cherry-blossom Trees"
+          "value": "Cherry-blossom petal pile"
         },
         {
-          "value": "Cherry-blossom Trees Wall"
+          "value": "Cherry-blossom Pochette",
+          "display": "Cherry-blossom pochette"
         },
         {
-          "value": "Cherry-blossom Umbrella"
+          "value": "Cherry-blossom Pond Stone",
+          "display": "Cherry-blossom pond stone"
         },
         {
-          "value": "Blossom-viewing lantern"
+          "value": "Cherry-blossom Trees",
+          "display": "Cherry-blossom trees"
         },
         {
-          "value": "Outdoor Picnic Set"
+          "value": "Cherry-blossom Trees Wall",
+          "display": "Cherry-blossom trees wall"
         },
         {
-          "value": "Sakura-wood Wall"
+          "value": "Cherry-blossom Umbrella",
+          "display": "Cherry-blossom umbrella"
         },
         {
-          "value": "Sakura-wood Flooring"
+          "value": "Cherry-blossom wand"
+        },
+        {
+          "value": "Outdoor Picnic Set",
+          "display": "Outdoor Picnic set"
+        },
+        {
+          "value": "Sakura-wood Flooring",
+          "display": "Sakura-wood flooring"
+        },
+        {
+          "value": "Sakura-wood Wall",
+          "display": "Sakura-wood wall"
         }
       ]
     }
