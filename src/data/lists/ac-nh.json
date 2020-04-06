@@ -951,6 +951,10 @@
       "name": "DIY - Bunny Day",
       "entries": [
         {
+          "value": "Bunny Day arch",
+          "help": "Talk to Zipper on April 12th"
+        },
+        {
           "value": "Bunny Day bag"
         },
         {
@@ -990,21 +994,29 @@
           "value": "Bunny Day table"
         },
         {
+          "value": "Bunny Day Vanity",
+          "display": "Bunny Day vanity"
+        },
+        {
           "value": "Bunny Day wall"
         },
         {
           "value": "Bunny Day wall clock"
         },
         {
+          "value": "Bunny Day wand",
+          "help": "Craft the Wobbling Zipper Toy from Zipper and speak to Zipper"
+        },
+        {
           "value": "Bunny Day wardrobe"
+        },
+        {
+          "value": "Wobbling Zipper Toy",
+          "help": "Get (and craft) all Bunny Day DIY Recipes (except clothes) and speak to Zipper"
         },
         {
           "value": "Bunny Day Wreath",
           "display": "Bunny Day wreath"
-        },
-        {
-          "value": "Bunny Day Vanity",
-          "display": "Bunny Day vanity"
         },
         {
           "value": "Earth-egg Clothes",
