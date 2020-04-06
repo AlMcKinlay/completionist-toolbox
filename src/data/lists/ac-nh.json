@@ -1192,6 +1192,83 @@
           "display": "Sakura-wood wall"
         }
       ]
+    },
+    {
+      "name": "Reactions",
+      "entries": [
+        {
+          "value": "Aggravation"
+        },
+        {
+          "value": "Amazed"
+        },
+        {
+          "value": "Apologetic"
+        },
+        {
+          "value": "Cold Chill"
+        },
+        {
+          "value": "Curiosity"
+        },
+        {
+          "value": "Delight"
+        },
+        {
+          "value": "Disagreement"
+        },
+        {
+          "value": "Distress"
+        },
+        {
+          "value": "Encouraging"
+        },
+        {
+          "value": "Fearful"
+        },
+        {
+          "value": "Greetings"
+        },
+        {
+          "value": "Heartbreak"
+        },
+        {
+          "value": "Intense"
+        },
+        {
+          "value": "Joy"
+        },
+        {
+          "value": "Laughter"
+        },
+        {
+          "value": "Pleased"
+        },
+        {
+          "value": "Resignation"
+        },
+        {
+          "value": "Shocked"
+        },
+        {
+          "value": "Shyness"
+        },
+        {
+          "value": "Smirking"
+        },
+        {
+          "value": "Sneezing"
+        },
+        {
+          "value": "Surprise"
+        },
+        {
+          "value": "Thought"
+        },
+        {
+          "value": "Worry"
+        },
+      ]
     }
   ]
 }
