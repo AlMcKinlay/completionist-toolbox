@@ -1260,6 +1260,9 @@
           "value": "Apologetic"
         },
         {
+          "value": "Bashfulness"
+        },
+        {
           "value": "Cold Chill"
         },
         {
@@ -1281,6 +1284,9 @@
           "value": "Fearful"
         },
         {
+          "value": "Glee"
+        },
+        {
           "value": "Greetings"
         },
         {
@@ -1296,16 +1302,25 @@
           "value": "Laughter"
         },
         {
+          "value": "Mistaken"
+        },
+        {
           "value": "Pleased"
         },
         {
           "value": "Resignation"
         },
         {
+          "value": "Sadness"
+        },
+        {
           "value": "Shocked"
         },
         {
           "value": "Shyness"
+        },
+        {
+          "value": "Sleepy"
         },
         {
           "value": "Smirking"
