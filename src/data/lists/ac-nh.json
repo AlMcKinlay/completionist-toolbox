@@ -1491,6 +1491,9 @@
           "value": "Greetings"
         },
         {
+          "value": "Happiness"
+        },
+        {
           "value": "Heartbreak"
         },
         {
@@ -1513,6 +1516,9 @@
         },
         {
           "value": "Sadness"
+        },
+        {
+          "value": "Sheepishness"
         },
         {
           "value": "Shocked"
