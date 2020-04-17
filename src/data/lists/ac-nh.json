@@ -871,6 +871,203 @@
       ]
     },
     {
+      "name": "Flowers",
+      "entries": [
+        {
+          "value": "White windflowers"
+        },
+        {
+          "value": "Red windflowers"
+        },
+        {
+          "value": "Orange windflowers"
+        },
+        {
+          "value": "Pink windflowers",
+          "help": "Red and Orange hybrid"
+        },
+        {
+          "value": "Blue windflowers",
+          "help": "White and White hybrid"
+        },
+        {
+          "value": "Purple windflowers",
+          "help": "Blue and Pink hybrid"
+        },
+        {
+          "value": "White Cosmos"
+        },
+        {
+          "value": "Yellow Cosmos"
+        },
+        {
+          "value": "Red Cosmos"
+        },
+        {
+          "value": "Pink Cosmos",
+          "help": "White and Red hybrid"
+        },
+        {
+          "value": "Orange Cosmos",
+          "help": "Yellow and Red hybrid"
+        },
+        {
+          "value": "Black Cosmos",
+          "help": "Red and Red hybrid"
+        },
+        {
+          "value": "White Hyacinth"
+        },
+        {
+          "value": "Yellow Hyacinth"
+        },
+        {
+          "value": "Red Hyacinth"
+        },
+        {
+          "value": "Orange Hyacinth",
+          "help": "Red and Yellow hybrid"
+        },
+        {
+          "value": "Pink Hyacinth",
+          "help": "White and Red hybrid"
+        },
+        {
+          "value": "Blue Hyacinth",
+          "help": "White and White hybrid"
+        },
+        {
+          "value": "Purple Hyacinth",
+          "help": "Blue and Blue hybrid"
+        },
+        {
+          "value": "White Mums"
+        },
+        {
+          "value": "Yellow Mums"
+        },
+        {
+          "value": "Red Mums"
+        },
+        {
+          "value": "Pink Mums",
+          "help": "Red and White hybrid"
+        },
+        {
+          "value": "Purple Mums",
+          "help": "White and White hybrid"
+        },
+        {
+          "value": "Green Mums",
+          "help": "Purple and Purple hybrid"
+        },
+        {
+          "value": "White Pansy"
+        },
+        {
+          "value": "Yellow Pansy"
+        },
+        {
+          "value": "Red Pansy"
+        },
+        {
+          "value": "Blue Pansy",
+          "help": "White and White hybrid"
+        },
+        {
+          "value": "Red/Yellow Pansy",
+          "help": "Red and Yellow hybrid"
+        },
+        {
+          "value": "Purple Pansy",
+          "help": "Blue and Blue hybrid, or sometimes Red and Red hybrid"
+        },
+        {
+          "value": "White Tulip"
+        },
+        {
+          "value": "Yellow Tulip"
+        },
+        {
+          "value": "Red Tulip"
+        },
+        {
+          "value": "Pink Tulip",
+          "help": "Red and White hybrid"
+        },
+        {
+          "value": "Black Tulip",
+          "help": "Red and Red hybrid"
+        },
+        {
+          "value": "Orange Tulip",
+          "help": "Red and Yellow hybrid"
+        },
+        {
+          "value": "Purple Tulip",
+          "help": "Black and Black hybrid (only ones from a nook miles island)"
+        },
+        {
+          "value": "White Rose"
+        },
+        {
+          "value": "Yellow Rose"
+        },
+        {
+          "value": "Red Rose"
+        },
+        {
+          "value": "Pink Rose",
+          "help": "Red and White hybrid"
+        },
+        {
+          "value": "Orange Rose",
+          "help": "Red and Yellow hybrid"
+        },
+        {
+          "value": "Purple Rose",
+          "help": "White and White hybrid"
+        },
+        {
+          "value": "Black Rose",
+          "help": "Red and Red hybrid"
+        },
+        {
+          "value": "Blue Rose",
+          "help": "Orange and Orange hybrid (only ones from a nook miles island), or sometimes Red and Red hybrid"
+        },
+        {
+          "value": "Gold Rose",
+          "help": "Black and Black hybrid (only when watered from a golden watering can)"
+        },
+        {
+          "value": "White Lilly"
+        },
+        {
+          "value": "Yellow Lilly"
+        },
+        {
+          "value": "Red Lilly"
+        },
+        {
+          "value": "Orange Lilly",
+          "help": "Red and Yellow hybrid"
+        },
+        {
+          "value": "Pink Lilly",
+          "help": "Red and White hybrid"
+        },
+        {
+          "value": "Black Lilly",
+          "help": "Red and Red hybrid"
+        },
+        {
+          "value": "Lily Of The Valley",
+          "help": "Get a 5 star Island rating"
+        }
+      ]
+    },
+    {
       "name": "DIY - Tools",
       "entries": [
         {
