@@ -875,6 +875,44 @@
       ]
     },
     {
+      "name": "Shrubs",
+      "entries": [
+        {
+          "value": "Pink Azalea"
+        },
+        {
+          "value": "White Azalea"
+        },
+        {
+          "value": "Pink Camellia"
+        },
+        {
+          "value": "Red Camellia"
+        },
+        {
+          "value": "Red Hibiscus"
+        },
+        {
+          "value": "Yellow Hibiscus"
+        },
+        {
+          "value": "Holly"
+        },
+        {
+          "value": "Blue Hydrangea"
+        },
+        {
+          "value": "Pink Hydrangea"
+        },
+        {
+          "value": "Orange Tea Olive"
+        },
+        {
+          "value": "Yellow Tea Olive"
+        }
+      ]
+    },
+    {
       "name": "Flowers",
       "entries": [
         {
