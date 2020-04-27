@@ -25,7 +25,7 @@
     "@fortawesome/fontawesome": "1.1.8",
     "@quickbaseoss/babel-plugin-styled-components-css-namespace": "0.1.1",
     "bootstrap": "4.4.1",
-    "concurrently": "5.1.0",
+    "concurrently": "5.2.0",
     "gatsby": "2.20.32",
     "gatsby-link": "2.3.5",
     "gatsby-plugin-react-helmet": "3.2.5",
