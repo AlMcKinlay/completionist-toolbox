@@ -1583,6 +1583,304 @@
           "value": "Worry"
         }
       ]
+    },
+    {
+      "name": "K.K. Slider Songs",
+      "entries": [
+        {
+          "value": "Agent K.K."
+        },
+        {
+          "value": "Aloha K.K."
+        },
+        {
+          "value": "Animal City",
+          "help": "Must be requested"
+        },
+        {
+          "value": "Bubblegum K.K."
+        },
+        {
+          "value": "Café K.K."
+        },
+        {
+          "value": "Comrade K.K."
+        },
+        {
+          "value": "DJ K.K."
+        },
+        {
+          "value": "Drivin’",
+          "help": "Must be requested"
+        },
+        {
+          "value": "Farewell",
+          "help": "Must be requested"
+        },
+        {
+          "value": "Forest Life"
+        },
+        {
+          "value": "Go K.K. Rider"
+        },
+        {
+          "value": "Hypno K.K."
+        },
+        {
+          "value": "I Love You"
+        },
+        {
+          "value": "Imperial K.K."
+        },
+        {
+          "value": "K.K. Adventure"
+        },
+        {
+          "value": "K.K. Aria"
+        },
+        {
+          "value": "K.K. Ballad"
+        },
+        {
+          "value": "K.K. Bazaar"
+        },
+        {
+          "value": "K.K. Birthday",
+          "help": "Cannot be purchased"
+        },
+        {
+          "value": "K.K. Blues"
+        },
+        {
+          "value": "K.K. Bossa"
+        },
+        {
+          "value": "K.K. Calypso"
+        },
+        {
+          "value": "K.K. Casbah"
+        },
+        {
+          "value": "K.K. Chorale"
+        },
+        {
+          "value": "K.K. Condor"
+        },
+        {
+          "value": "K.K. Country"
+        },
+        {
+          "value": "K.K. Cruisin’"
+        },
+        {
+          "value": "K.K. D&B"
+        },
+        {
+          "value": "K.K. Dirge"
+        },
+        {
+          "value": "K.K. Disco"
+        },
+        {
+          "value": "K.K. Dixie"
+        },
+        {
+          "value": "K.K. Étude"
+        },
+        {
+          "value": "K.K. Faire"
+        },
+        {
+          "value": "K.K. Flamenco"
+        },
+        {
+          "value": "K.K. Folk"
+        },
+        {
+          "value": "K.K. Fusion"
+        },
+        {
+          "value": "K.K. Groove"
+        },
+        {
+          "value": "K.K. Gumbo"
+        },
+        {
+          "value": "K.K. House"
+        },
+        {
+          "value": "K.K. Island"
+        },
+        {
+          "value": "K.K. Jazz"
+        },
+        {
+          "value": "K.K. Jongara"
+        },
+        {
+          "value": "K.K. Lament"
+        },
+        {
+          "value": "K.K. Love Song"
+        },
+        {
+          "value": "K.K. Lullaby"
+        },
+        {
+          "value": "K.K. Mambo"
+        },
+        {
+          "value": "K.K. Marathon"
+        },
+        {
+          "value": "K.K. March"
+        },
+        {
+          "value": "K.K. Mariachi"
+        },
+        {
+          "value": "K.K. Metal"
+        },
+        {
+          "value": "K.K. Milonga"
+        },
+        {
+          "value": "K.K. Moody"
+        },
+        {
+          "value": "K.K. Oasis"
+        },
+        {
+          "value": "K.K. Parade"
+        },
+        {
+          "value": "K.K. Ragtime"
+        },
+        {
+          "value": "K.K. Rally"
+        },
+        {
+          "value": "K.K. Reggae"
+        },
+        {
+          "value": "K.K. Rock"
+        },
+        {
+          "value": "K.K. Rockabilly"
+        },
+        {
+          "value": "K.K. Safari"
+        },
+        {
+          "value": "K.K. Salsa"
+        },
+        {
+          "value": "K.K. Samba"
+        },
+        {
+          "value": "K.K. Ska"
+        },
+        {
+          "value": "K.K. Sonata"
+        },
+        {
+          "value": "K.K. Song"
+        },
+        {
+          "value": "K.K. Soul"
+        },
+        {
+          "value": "K.K. Steppe"
+        },
+        {
+          "value": "K.K. Stroll"
+        },
+        {
+          "value": "K.K.Swing"
+        },
+        {
+          "value": "K.K. Synth"
+        },
+        {
+          "value": "K.K. Tango"
+        },
+        {
+          "value": "K.K. Technopop"
+        },
+        {
+          "value": "K.K. Waltz"
+        },
+        {
+          "value": "K.K. Western"
+        },
+        {
+          "value": "King K.K."
+        },
+        {
+          "value": "Lucky K.K."
+        },
+        {
+          "value": "Marine Song 2001"
+        },
+        {
+          "value": "Mountain Song"
+        },
+        {
+          "value": "Mr. K.K."
+        },
+        {
+          "value": "My Place"
+        },
+        {
+          "value": "Neapolitan"
+        },
+        {
+          "value": "Only Me"
+        },
+        {
+          "value": "Pondering"
+        },
+        {
+          "value": "Rockin’ K.K."
+        },
+        {
+          "value": "Soulful K.K."
+        },
+        {
+          "value": "Space K.K."
+        },
+        {
+          "value": "Spring Blossoms"
+        },
+        {
+          "value": "Stale Cupcakes"
+        },
+        {
+          "value": "Steep Hill"
+        },
+        {
+          "value": "Surfin’ K.K."
+        },
+        {
+          "value": "The K. Funk"
+        },
+        {
+          "value": "To the Edge"
+        },
+        {
+          "value": "Two Days Ago"
+        },
+        {
+          "value": "Wandering"
+        },
+        {
+          "value": "Welcome Horizons",
+          "help": "Cannot be purchased - K.K. will give you this song the first time he visits"
+        },
+        {
+          "value": "Wild World"
+        }
+      ]
     }
   ]
 }
