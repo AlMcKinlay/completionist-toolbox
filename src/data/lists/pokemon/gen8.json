@@ -249,11 +249,8 @@
           "version": "sword"
         },
         {
-          "value": "Complete Dex"
-        },
-        {
-          "value": "Get Mew",
-          "help": "from Pokeball plus"
+          "value": "Complete Dex",
+          "display": "Complete Main Galar Dex"
         },
         {
           "value": "Catch Kubfu"
@@ -263,6 +260,10 @@
         },
         {
           "value": "Complete Isle of Armor Dex"
+        },
+        {
+          "value": "Get Mew",
+          "help": "from Pokeball plus"
         }
       ]
     },
