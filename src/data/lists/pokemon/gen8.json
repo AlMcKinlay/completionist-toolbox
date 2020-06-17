@@ -40,6 +40,10 @@
         {
           "value": "Solve the mystery in Circhester",
           "help": "In the hotel in Circhester, there is a 'crime' to be solved"
+        },
+        {
+          "value": "Catch the Alolan Diglett",
+          "isDLC": true
         }
       ]
     },
