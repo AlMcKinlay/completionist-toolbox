@@ -1565,6 +1565,10 @@
         {
           "value": "Gigantamax Curry",
           "help": "Gigantamix and 10 berries of different tastes"
+        },
+        {
+          "value": "Max Soup",
+          "isDLC": true
         }
       ]
     },
