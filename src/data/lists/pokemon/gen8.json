@@ -2182,10 +2182,43 @@
           "value": "Defeat the Dojo's trials"
         },
         {
-          "value": "Customise your bike"
+          "value": "Grow your friendship with Kubfu",
+          "help": "Visit the 4 waypoints on your map and 'watch the view' with Kubfu"
         },
         {
-          "value": "Use the Cram-o-matic"
+          "value": "Defeat the Tower of Water or the Tower of Darkness"
+        },
+        {
+          "value": "Unlock Dojo Hair Stylist",
+          "help": "Give at least 5000 watts to Honey after defeating the dojo"
+        },
+        {
+          "value": "Unlock Dojo Rotomi",
+          "help": "Give at least 20000 watts to Honey after defeating the dojo"
+        },
+        {
+          "value": "Unlock Soda Pop for the Dojo Vending Machine",
+          "help": "Give at least 30000 watts to Honey after defeating the dojo"
+        },
+        {
+          "value": "Unlock Lemonade for the Dojo Vending Machine",
+          "help": "Give at least 40000 watts to Honey after defeating the dojo"
+        },
+        {
+          "value": "Unlock Food Deliveries to the Dojo",
+          "help": "Give at least 150000 watts to Honey after defeating the dojo"
+        },
+        {
+          "value": "Unlock Protein and Iron for the Dojo Vending Machine",
+          "help": "Give at least 200000 watts to Honey after defeating the dojo"
+        },
+        {
+          "value": "Use the Cram-o-matic",
+          "display": "Unlock the Cram-o-matic",
+          "help": "Give 500 Watts to Hyde"
+        },
+        {
+          "value": "Customise your bike"
         }
       ]
     },
