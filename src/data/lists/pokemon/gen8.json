@@ -253,7 +253,9 @@
           "display": "Complete Main Galar Dex"
         },
         {
-          "value": "Catch Kubfu"
+          "value": "Catch Kubfu",
+          "display": "Get Kubfu",
+          "help": "From Mustard after finishing the 3rd dojo trial"
         },
         {
           "value": "Evolve Kubfu to Urshifu"
@@ -2070,6 +2072,11 @@
           "display": "Leon (rare)",
           "value": "Leon (2)",
           "help": "Defeat Leon in the Battle Tower"
+        },
+        {
+          "value": "Klara",
+          "isDLC": true,
+          "help": "Defeat Klara (3rd Dojo Trial on Isle of Armor)"
         }
       ]
     },
