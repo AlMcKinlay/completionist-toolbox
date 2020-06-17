@@ -271,15 +271,13 @@
       "name": "Gigantamax Pokemon",
       "entries": [
         {
-          "value": "Venusaur",
-          "help": "Not available yet"
+          "value": "Venusaur"
         },
         {
           "value": "Charizard"
         },
         {
-          "value": "Blastoise",
-          "help": "Not available yet"
+          "value": "Blastoise"
         },
         {
           "value": "Butterfree"
@@ -397,24 +395,19 @@
           "value": "Duraludon"
         },
         {
-          "value": "Rillaboom",
-          "help": "Not available yet"
+          "value": "Rillaboom"
         },
         {
-          "value": "Cinderace",
-          "help": "Not available yet"
+          "value": "Cinderace"
         },
         {
-          "value": "Inteleon",
-          "help": "Not available yet"
+          "value": "Inteleon"
         },
         {
-          "value": "Urshifu Single Strike",
-          "help": "Not available yet"
+          "value": "Urshifu Single Strike"
         },
         {
-          "value": "Urshifu Rapid Strike",
-          "help": "Not available yet"
+          "value": "Urshifu Rapid Strike"
         }
       ]
     },
@@ -456,6 +449,76 @@
         {
           "value": "Gigantamax Charmander",
           "help": "Leon's Room after becoming Champion"
+        },
+        {
+          "value": "Gigantamax Bulbasaur or Squirtle",
+          "help": "From the Isle of Armor Dojo after completing the first trial",
+          "isDLC": true
+        },
+        {
+          "value": "Porygon",
+          "help": "",
+          "isDLC": true
+        },
+        {
+          "value": "Kubfu",
+          "help": "",
+          "isDLC": true
+        },
+        {
+          "value": "Alolan Meowth",
+          "help": "From the Alolan Diglett trainer after retrieving 5 Diglett",
+          "isDLC": true
+        },
+        {
+          "value": "Alolan Vulpix",
+          "help": "From the Alolan Diglett trainer",
+          "isDLC": true
+        },
+        {
+          "value": "Alolan Sandshrew",
+          "help": "From the Alolan Diglett trainer",
+          "isDLC": true
+        },
+        {
+          "value": "Alolan Raichu",
+          "help": "From the Alolan Diglett trainer",
+          "isDLC": true
+        },
+        {
+          "value": "Alolan Marowak",
+          "help": "From the Alolan Diglett trainer",
+          "isDLC": true
+        },
+        {
+          "value": "Alolan Exeggutor",
+          "help": "From the Alolan Diglett trainer",
+          "isDLC": true
+        },
+        {
+          "value": "Alolan Diglett",
+          "help": "From the Alolan Diglett trainer",
+          "isDLC": true
+        },
+        {
+          "value": "Kantonian Slowpoke",
+          "help": "",
+          "isDLC": true
+        },
+        {
+          "value": "Rowlet",
+          "help": "",
+          "isDLC": true
+        },
+        {
+          "value": "Litten",
+          "help": "",
+          "isDLC": true
+        },
+        {
+          "value": "Popplio",
+          "help": "",
+          "isDLC": true
         }
       ]
     },
@@ -2082,7 +2145,42 @@
     {
       "name": "Isle of Armor",
       "isDLC": true,
-      "entries": []
+      "entries": [
+        {
+          "value": "Visit the Isle of Armor",
+          "help": "Talk to the man in the Wedgehurst Station after getting Armor Pass"
+        },
+        {
+          "value": "Get the Isle of Armor Pokedex",
+          "help": "Received when you arrive on the Isle of Armor"
+        },
+        {
+          "value": "Get Style Card",
+          "help": "Beat Klara after arriving at the Isle of Armor",
+          "version": "sword"
+        },
+        {
+          "value": "Get Style Card",
+          "help": "Beat Avery after arriving at the Isle of Armor",
+          "version": "shield"
+        },
+        {
+          "value": "Visit the Dojo"
+        },
+        {
+          "value": "Get EXP Charm",
+          "help": "Received after entering the Dojo"
+        },
+        {
+          "value": "Defeat the Dojo's trials"
+        },
+        {
+          "value": "Customise your bike"
+        },
+        {
+          "value": "Use the Cram-o-matic"
+        }
+      ]
     },
     {
       "name": "The Crown Tundra",
