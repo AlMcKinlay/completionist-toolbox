@@ -2198,27 +2198,55 @@
         },
         {
           "value": "Unlock Dojo Hair Stylist",
-          "help": "Give at least 5000 watts to Honey after defeating the dojo"
+          "help": "Give at least 5,000 watts to Honey after defeating the dojo"
         },
         {
           "value": "Unlock Dojo Rotomi",
-          "help": "Give at least 20000 watts to Honey after defeating the dojo"
+          "help": "Give at least 20,000 watts to Honey after defeating the dojo"
+        },
+        {
+          "value": "Unlock Dojo Vending Machine",
+          "help": "Give at least 30,000 watts to Honey after defeating the dojo"
         },
         {
           "value": "Unlock Soda Pop for the Dojo Vending Machine",
-          "help": "Give at least 30000 watts to Honey after defeating the dojo"
+          "help": "Give at least 40,000 watts to Honey after defeating the dojo"
         },
         {
           "value": "Unlock Lemonade for the Dojo Vending Machine",
-          "help": "Give at least 40000 watts to Honey after defeating the dojo"
+          "help": "Give at least 50,000 watts to Honey after defeating the dojo"
         },
         {
           "value": "Unlock Food Deliveries to the Dojo",
-          "help": "Give at least 150000 watts to Honey after defeating the dojo"
+          "help": "Give at least 100,000 watts to Honey after defeating the dojo"
         },
         {
           "value": "Unlock Protein and Iron for the Dojo Vending Machine",
-          "help": "Give at least 200000 watts to Honey after defeating the dojo"
+          "help": "Give at least 200,000 watts to Honey after defeating the dojo"
+        },
+        {
+          "value": "Unlock Calcium and Zinc for the Dojo Vending Machine",
+          "help": "Give at least 300,000 watts to Honey after defeating the dojo"
+        },
+        {
+          "value": "Unlock More Supplements for the Dojo Vending Machine",
+          "help": "Give at least 400,000 watts to Honey after defeating the dojo"
+        },
+        {
+          "value": "Unlock Dojo League Card Background",
+          "help": "Give at least 500,000 watts to Honey after defeating the dojo"
+        },
+        {
+          "value": "Get Honey's League Card",
+          "help": "Give at least 800,000 watts to Honey after defeating the dojo"
+        },
+        {
+          "value": "Battle Honey",
+          "help": "Give at least 1,000,000 watts to Honey after defeating the dojo"
+        },
+        {
+          "value": "Get Honey's Rare League Card",
+          "help": "Give 3,200,000 watts to Honey after defeating the dojo"
         },
         {
           "value": "Use the Cram-o-matic",
