@@ -2259,6 +2259,60 @@
       ]
     },
     {
+      "name": "Diglett Hunting",
+      "isDLC": true,
+      "entries": [
+        {
+          "value": "Get all of the Diglett in Fields of Honor (18)"
+        },
+        {
+          "value": "Get all of the Diglett in Soothing Wetlands (20)"
+        },
+        {
+          "value": "Get all of the Diglett in Forest of Focus (8)"
+        },
+        {
+          "value": "Get all of the Diglett in Challenge Beach (9)"
+        },
+        {
+          "value": "Get all of the Diglett in Brawlers' Cave (7)"
+        },
+        {
+          "value": "Get all of the Diglett in Challenge Road (8)"
+        },
+        {
+          "value": "Get all of the Diglett in Courageous Cavern (7)"
+        },
+        {
+          "value": "Get all of the Diglett in Loop Lagoon (7)"
+        },
+        {
+          "value": "Get all of the Diglett in Training Lowlands (15)"
+        },
+        {
+          "value": "Get all of the Diglett in Warm-Up Tunnel (3)"
+        },
+        {
+          "value": "Get all of the Diglett in Potbottom Desert (10)"
+        },
+        {
+          "value": "Get all of the Diglett in Workout Sea (11)"
+        },
+        {
+          "value": "Get all of the Diglett in Stepping-Stone Sea (7)"
+        },
+        {
+          "value": "Get all of the Diglett in Insular Sea (6)"
+        },
+        {
+          "value": "Get all of the Diglett in Honeycalm Sea (3)"
+        },
+        {
+          "value": "Get all of the Diglett in Honeycalm Island (11)"
+        }
+      ]
+    },
+    {
       "name": "The Crown Tundra",
       "isDLC": true,
       "entries": []
