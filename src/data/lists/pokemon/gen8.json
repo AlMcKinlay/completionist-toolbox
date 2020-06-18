@@ -2077,6 +2077,16 @@
           "value": "Klara",
           "isDLC": true,
           "help": "Defeat Klara (3rd Dojo Trial on Isle of Armor)"
+        },
+        {
+          "value": "Mustard",
+          "isDLC": true,
+          "help": "Defeat Mustart (Last level on Tower of Two Fists on Isle of Armor)"
+        },
+        {
+          "value": "Mustard (Rare)",
+          "isDLC": true,
+          "help": "Defeat Mustart in final battle (after getting Max Honey for Urshifu)"
         }
       ]
     },
@@ -2187,6 +2197,14 @@
         },
         {
           "value": "Defeat the Tower of Water or the Tower of Darkness"
+        },
+        {
+          "value": "Make Urshifu Gigantamax capable",
+          "help": "Get Max Honey from defeating Dynamax Vespiquen"
+        },
+        {
+          "value": "Defeat Mustard",
+          "help": "Return to Dojo after getting the Max Honet"
         },
         {
           "value": "Unlock Dojo Hair Stylist",
