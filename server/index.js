@@ -1,7 +1,7 @@
 const express = require('express');
 const ws = require('ws');
 const http = require('http');
-const uuidv1 = require('uuid/v1');
+const { v1: uuidv1 } = require('uuid');
 const diskdb = require('diskdb');
 
 const app = express();
