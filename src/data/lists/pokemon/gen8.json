@@ -2077,6 +2077,16 @@
           "value": "Mustard (Rare)",
           "isDLC": true,
           "help": "Defeat Mustart in final battle (after getting Max Honey for Urshifu)"
+        },
+        {
+          "value": "Honey",
+          "isDLC": true,
+          "help": "Give Honey at least 800,000 Watts"
+        },
+        {
+          "value": "Honey (Rare)",
+          "isDLC": true,
+          "help": "Give Honey 3,200,000 Watts"
         }
       ]
     },
