@@ -2220,10 +2220,12 @@
         },
         {
           "value": "Unlock Soda Pop for the Dojo Vending Machine",
+          "display": "Unlock Soda Pop for the Dojo Vending",
           "help": "Give at least 40,000 watts to Honey after defeating the dojo"
         },
         {
           "value": "Unlock Lemonade for the Dojo Vending Machine",
+          "display": "Unlock Lemonade for the Dojo Vending",
           "help": "Give at least 50,000 watts to Honey after defeating the dojo"
         },
         {
@@ -2232,14 +2234,17 @@
         },
         {
           "value": "Unlock Protein and Iron for the Dojo Vending Machine",
+          "display": "Unlock Protein and Iron for the Dojo Vending",
           "help": "Give at least 200,000 watts to Honey after defeating the dojo"
         },
         {
           "value": "Unlock Calcium and Zinc for the Dojo Vending Machine",
+          "display": "Unlock Calcium and Zinc for the Dojo Vending",
           "help": "Give at least 300,000 watts to Honey after defeating the dojo"
         },
         {
           "value": "Unlock More Supplements for the Dojo Vending Machine",
+          "display": "Unlock More Supplements for the Dojo Vending",
           "help": "Give at least 400,000 watts to Honey after defeating the dojo"
         },
         {
@@ -2264,7 +2269,8 @@
           "help": "Give 500 Watts to Hyde"
         },
         {
-          "value": "Customise your bike"
+          "value": "Customise your bike",
+          "help": "Talk to person outside of the dojo, towards the entrance to Soothing Wetlands"
         }
       ]
     },
