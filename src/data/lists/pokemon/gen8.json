@@ -464,7 +464,7 @@
         },
         {
           "value": "Kubfu",
-          "help": "",
+          "help": "After defeating the 3 trials in the Isle of Armor Dojo",
           "isDLC": true
         },
         {
@@ -473,53 +473,43 @@
           "isDLC": true
         },
         {
+          "value": "Kantonian Slowpoke",
+          "help": "From the Alolan Diglett trainer after retrieving 10 Diglett",
+          "isDLC": true
+        },
+        {
           "value": "Alolan Vulpix",
-          "help": "From the Alolan Diglett trainer",
+          "help": "From the Alolan Diglett trainer after retrieving 20 Diglett",
           "isDLC": true
         },
         {
           "value": "Alolan Sandshrew",
-          "help": "From the Alolan Diglett trainer",
+          "help": "From the Alolan Diglett trainer after retrieving 30 Diglett",
           "isDLC": true
         },
         {
           "value": "Alolan Raichu",
-          "help": "From the Alolan Diglett trainer",
+          "help": "From the Alolan Diglett trainer after retrieving 40 Diglett",
           "isDLC": true
         },
         {
           "value": "Alolan Marowak",
-          "help": "From the Alolan Diglett trainer",
+          "help": "From the Alolan Diglett trainer after retrieving 50 Diglett",
           "isDLC": true
         },
         {
           "value": "Alolan Exeggutor",
-          "help": "From the Alolan Diglett trainer",
+          "help": "From the Alolan Diglett trainer after retrieving 75 Diglett",
           "isDLC": true
         },
         {
           "value": "Alolan Diglett",
-          "help": "From the Alolan Diglett trainer",
+          "help": "From the Alolan Diglett trainer after retrieving 150 Diglett",
           "isDLC": true
         },
         {
-          "value": "Kantonian Slowpoke",
-          "help": "",
-          "isDLC": true
-        },
-        {
-          "value": "Rowlet",
-          "help": "",
-          "isDLC": true
-        },
-        {
-          "value": "Litten",
-          "help": "",
-          "isDLC": true
-        },
-        {
-          "value": "Popplio",
-          "help": "",
+          "value": "Rowlet/Little/Popplio",
+          "help": "From the Alolan Diglett trainer after retrieving 100 Diglett",
           "isDLC": true
         }
       ]
