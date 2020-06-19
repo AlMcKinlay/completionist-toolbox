@@ -2066,17 +2066,37 @@
         {
           "value": "Klara",
           "isDLC": true,
+          "version": "sword",
           "help": "Defeat Klara (3rd Dojo Trial on Isle of Armor)"
+        },
+        {
+          "value": "Avery",
+          "isDLC": true,
+          "version": "shield",
+          "help": "Defeat Avery (3rd Dojo Trial on Isle of Armor)"
         },
         {
           "value": "Mustard",
           "isDLC": true,
-          "help": "Defeat Mustart (Last level on Tower of Two Fists on Isle of Armor)"
+          "help": "Defeat Mustard (Last level on Tower of Two Fists on Isle of Armor)"
         },
         {
           "value": "Mustard (Rare)",
+          "display": "Mustard (rare)",
           "isDLC": true,
-          "help": "Defeat Mustart in final battle (after getting Max Honey for Urshifu)"
+          "help": "Defeat Mustard in final battle (after getting Max Honey for Urshifu)"
+        },
+        {
+          "value": "Klara (rare)", 
+          "isDLC": true,
+          "version": "sword",
+          "help": "Go to Potbottom Desert after defeating Mustard"
+        },
+        {
+          "value": "Avery (rare)",
+          "isDLC": true,
+          "version": "shield",
+          "help": "Go to Potbottom Desert after defeating Mustard"
         },
         {
           "value": "Honey",
@@ -2156,6 +2176,11 @@
         {
           "value": "Battle Marnie",
           "help": "In Spikemuth"
+        },
+        {
+          "value": "Battle Mustard",
+          "isDLC": true,
+          "help": "In Isle of Armor Dojo"
         }
       ]
     },
