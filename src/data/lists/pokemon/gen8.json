@@ -1011,6 +1011,34 @@
         {
           "value": "Eevee Kit",
           "isDLC": true
+        },
+        {
+          "value": "Leon's Cap and Tights",
+          "isDLC": true
+        },
+        {
+          "value": "Dojo Sparring",
+          "isDLC": true
+        },
+        {
+          "value": "Style Card clothes from Wedgehurst Boutique",
+          "isDLC": true
+        },
+        {
+          "value": "Style Card clothes from Motostoke Boutique",
+          "isDLC": true
+        },
+        {
+          "value": "Style Card clothes from Hammerlocke Boutique",
+          "isDLC": true
+        },
+        {
+          "value": "Style Card clothes from Circhester Boutique",
+          "isDLC": true
+        },
+        {
+          "value": "Style Card clothes from Wyndon Boutique",
+          "isDLC": true
         }
       ]
     },
