@@ -2354,6 +2354,66 @@
       ]
     },
     {
+      "name": "Restricted Sparring",
+      "isDLC": true,
+      "entries": [
+        {
+          "value": "Grass"
+        },
+        {
+          "value": "Fire"
+        },
+        {
+          "value": "Water"
+        },
+        {
+          "value": "Normal"
+        },
+        {
+          "value": "Fighting"
+        },
+        {
+          "value": "Flying"
+        },
+        {
+          "value": "Poison"
+        },
+        {
+          "value": "Ground"
+        },
+        {
+          "value": "Rock"
+        },
+        {
+          "value": "Bug"
+        },
+        {
+          "value": "Ghost"
+        },
+        {
+          "value": "Steel"
+        },
+        {
+          "value": "Electric"
+        },
+        {
+          "value": "Psychic"
+        },
+        {
+          "value": "Ice"
+        },
+        {
+          "value": "Dragon"
+        },
+        {
+          "value": "Dark"
+        },
+        {
+          "value": "Fairy"
+        }
+      ]
+    },
+    {
       "name": "The Crown Tundra",
       "isDLC": true,
       "entries": []
