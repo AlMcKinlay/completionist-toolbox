@@ -564,6 +564,66 @@
         {
           "value": "Frosmoth for Duraludon",
           "help": "Wyndon, in house near stadium"
+        },
+        {
+          "value": "Galarian Mewoth for Kantonian Meowth",
+          "help": "Isle of Armor, moves around",
+          "isDLC": true
+        },
+        {
+          "value": "Galarian Farfetch'd for Kantonian Meowth",
+          "help": "Isle of Armor, moves around",
+          "isDLC": true
+        },
+        {
+          "value": "Galarian Farfetch'd for Kantonian Farfetch'd",
+          "help": "Isle of Armor, moves around",
+          "isDLC": true
+        },
+        {
+          "value": "Galarian Corsola for Johtonian Corsola",
+          "help": "Isle of Armor, moves around",
+          "isDLC": true
+        },
+        {
+          "value": "Galarian Ponyta for Kantonian Ponyta",
+          "help": "Isle of Armor, moves around",
+          "isDLC": true
+        },
+        {
+          "value": "Galarian Mr. Mime for Kantonian Mr. Mime",
+          "help": "Isle of Armor, moves around",
+          "isDLC": true
+        },
+        {
+          "value": "Galarian Darumaka for Unovan Darumaka",
+          "help": "Isle of Armor, moves around",
+          "isDLC": true
+        },
+        {
+          "value": "Galarian Zigzagoon for Hoenn Zigzagoon",
+          "help": "Isle of Armor, moves around",
+          "isDLC": true
+        },
+        {
+          "value": "Galarian Stunfisk for Unovan Stunfisk",
+          "help": "Isle of Armor, moves around",
+          "isDLC": true
+        },
+        {
+          "value": "Galarian Weezing for Kantonian Weezing",
+          "help": "Isle of Armor, moves around",
+          "isDLC": true
+        },
+        {
+          "value": "Kantonian Exeggutor for Alolan Exeggutor",
+          "help": "Isle of Armor, moves around",
+          "isDLC": true
+        },
+        {
+          "value": "Kantonian Marowak for Alolan Marowak",
+          "help": "Isle of Armor, moves around",
+          "isDLC": true
         }
       ]
     },
