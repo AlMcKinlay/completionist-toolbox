@@ -7,11 +7,5 @@
   "automerge": true,
   "major": {
     "automerge": false
-  },
-  "packageRules": [
-    {
-      "packagePatterns": ["^gatsby"],
-      "enabled": false
-    }
-  ]
+  }
 }
