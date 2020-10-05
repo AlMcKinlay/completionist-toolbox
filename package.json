@@ -6,7 +6,7 @@
   "dependencies": {
     "diskdb": "0.1.17",
     "express": "4.17.1",
-    "uuid": "8.3.0",
+    "uuid": "8.3.1",
     "ws": "7.3.1"
   },
   "keywords": [
