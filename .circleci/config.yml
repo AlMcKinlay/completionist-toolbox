@@ -35,7 +35,8 @@ jobs:
 
       - run: yarn run build
 
-      - setup_remote_docker
+      - setup_remote_docker:
+          version: 19.03.13
 
       - run: docker build . -t toolbox
 
