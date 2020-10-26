@@ -43,7 +43,13 @@
         },
         {
           "value": "Catch the Alolan Diglett",
-          "isDLC": true
+          "isDLC": true,
+          "help": "All over Isle of Armor"
+        },
+        {
+          "value": "Find the Footprints",
+          "isDLC": true,
+          "help": "All over Crown Tundra"
         }
       ]
     },
@@ -255,13 +261,68 @@
         {
           "value": "Catch Kubfu",
           "display": "Get Kubfu",
+          "isDLC": true,
           "help": "From Mustard after finishing the 3rd dojo trial"
         },
         {
-          "value": "Evolve Kubfu to Urshifu"
+          "value": "Evolve Kubfu to Urshifu",
+          "isDLC": true
         },
         {
-          "value": "Complete Isle of Armor Dex"
+          "value": "Complete Isle of Armor Dex",
+          "isDLC": true
+        },
+        {
+          "value": "Catch Calrex",
+          "isDLC": true
+        },
+        {
+          "value": "Catch Galarian Articuno",
+          "isDLC": true,
+          "help": "In the Crown Tundra after visiting the Dyna Tree in the Crown Tundra"
+        },
+        {
+          "value": "Catch Galarian Zapdos",
+          "isDLC": true,
+          "help": "In the Isle of Armor after visiting the Dyna Tree in the Crown Tundra"
+        },
+        {
+          "value": "Catch Galarian Moltres",
+          "isDLC": true,
+          "help": "In the Wild Area after visiting the Dyna Tree in the Crown Tundra"
+        },
+        {
+          "value": "Catch Registeel",
+          "isDLC": true,
+          "help": ""
+        },
+        {
+          "value": "Catch Regice",
+          "isDLC": true,
+          "help": ""
+        },
+        {
+          "value": "Catch Regirock",
+          "isDLC": true,
+          "help": ""
+        },
+        {
+          "value": "Catch Regidrago/Regileki",
+          "isDLC": true,
+          "help": ""
+        },
+        {
+          "value": "Trade for Regileki/Regidrago",
+          "isDLC": true
+        },
+        {
+          "value": "Catch Regigigas",
+          "isDLC": true,
+          "help": "Visit the den raid den surrounded by 4 rocks in Giant's Bed, with 5 regis in your party after catching the 4 available regis in the Crown Tundra"
+        },
+        {
+          "value": "Complete Crown Tundra Dex",
+          "isDLC": true
         },
         {
           "value": "Get Mew",
@@ -1099,6 +1160,31 @@
         {
           "value": "Style Card clothes from Wyndon Boutique",
           "isDLC": true
+        },
+        {
+          "value": "Expedition Uniform",
+          "isDLC": true,
+          "help": "Visit Crown Tundra and defeat Peony, then talk to him in his house"
+        },
+        {
+          "value": "Gold Expedition Uniform",
+          "isDLC": true,
+          "help": "Complete all Peony legendary tasks"
+        },
+        {
+          "value": "Sports Uniform",
+          "isDLC": true,
+          "help": "Defeat the Galarian Star Tournament the first time"
+        },
+        {
+          "value": "Hex Nut Sports Cap",
+          "isDLC": true,
+          "help": "Show meltan to woman in the Crown Tundra train station"
+        },
+        {
+          "value": "Clothing from The Designer in Wyndon stadium",
+          "isDLC": true,
+          "help": "Show Regileki/Regidrago to the Designer in Wyndon Stadium (shows up after your second win)"
         }
       ]
     },
@@ -2195,6 +2281,16 @@
           "value": "Honey (Rare)",
           "isDLC": true,
           "help": "Give Honey 3,200,000 Watts"
+        },
+        {
+          "value": "Peony",
+          "isDLC": true,
+          "help": "Defeat Peony after visiting the Crown Tundra"
+        },
+        {
+          "value": "Peony (Rare)",
+          "isDLC": true,
+          "help": "Complete all Peony legendary tasks"
         }
       ]
     },
@@ -2504,7 +2600,51 @@
     {
       "name": "The Crown Tundra",
       "isDLC": true,
-      "entries": []
+      "entries": [
+        {
+          "value": "Visit the Crown Tundra",
+          "help": "Talk to the man in the Wedgehurst Station after getting Crown Pass"
+        },
+        {
+          "value": "Battle Peony"
+        },
+        {
+          "value": "Defeat your first Dynamax Adventure"
+        },
+        {
+          "value": "Visit Freezington"
+        },
+        {
+          "value": "Catch Calyrex"
+        },
+        {
+          "value": "Catch the Legendary Birds"
+        },
+        {
+          "value": "Catch the Regis"
+        },
+        {
+          "value": "Get the legendary clue",
+          "help": "After finishing Peony's legendary tasks, visit his house and find the legendary clue. Giving this to Peony will unlock Ultra Beasts"
+        },
+        {
+          "value": "Battle Peony Again",
+          "help": "After giving Peony the legendary clue, talk to him again"
+        },
+        {
+          "value": "Catch Spiritomb",
+          "help": "Visit Spiritomb's grave, talk to 40 people online, then visit Spiritomb's grave again"
+        },
+        {
+          "value": "Win the Galarian Star Tournament"
+        }
+      ]
+    },
+    {
+      "name": "Galarian Star Tournament",
+      "isDLC": true,
+      "entries": [
+      ]
     }
   ]
 }
