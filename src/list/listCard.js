@@ -1,11 +1,11 @@
 import React from "react";
-import { CardTitle } from 'reactstrap';
+import { Button, CardTitle } from 'reactstrap';
 import { Completion } from "../components/completion";
 import Dropdown, { DropdownEl } from "../components/dropdown";
 import styled from "styled-components";
 import { ThemedCard } from "../theme";
-import { Link } from "gatsby"
-import { connect } from "react-redux"
+import { navigate } from "gatsby";
+import { connect } from "react-redux";
 
 const Title = styled(CardTitle)`
 	overflow: hidden;
@@ -20,7 +20,7 @@ const Grid = styled.div`
 	margin: auto;
 `;
 
-const StyledButton = styled(Link)`
+const StyledButton = styled(Button)`
 	max-height: 2.5rem;
 	margin: auto;
 	grid-column: 3;
@@ -45,6 +45,10 @@ export class ListCard extends React.Component {
 		return this.props.total;
 	}
 
+	goToList(link) {
+		navigate(link);
+	}
+
 	render() {
 		if (this.props.type === "blank") {
 			return (
@@ -65,7 +69,7 @@ export class ListCard extends React.Component {
 				</Dropdown>
 				<Grid>
 					<ConnectedCompletion total={this.total()} name={this.props.name} ></ConnectedCompletion>
-					<StyledButton className="btn btn-secondary" to={this.props.slug} onClick={this.goToList}>View List</StyledButton>
+					<StyledButton onClick={() => this.goToList(this.props.slug)}>View List</StyledButton>
 				</Grid>
 			</ThemedCard>
 		);
