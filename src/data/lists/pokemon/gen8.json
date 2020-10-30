@@ -2666,7 +2666,23 @@
     {
       "name": "Galarian Star Tournament",
       "isDLC": true,
-      "entries": []
+      "entries": [
+        {
+          "value": "Visit Wyndon Stadium after Leon calls you",
+          "help": "After you give Peony the final Legendary Clue"
+        },
+        {
+          "value": "Win Once"
+        },
+        {
+          "value": "Unlock all gym leaders",
+          "help": "After 10 wins, all gym leaders will be unlocked"
+        },
+        {
+          "value": "Unlock Sordward and Sheildbert",
+          "help": "15 wins"
+        }
+      ]
     }
   ]
 }
