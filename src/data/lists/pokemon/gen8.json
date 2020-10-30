@@ -1,7 +1,10 @@
 {
   "name": "Pokemon Sword and Shield Completion",
   "displayName": "Pokemon Gen 8",
-  "versions": ["sword", "shield"],
+  "versions": [
+    "sword",
+    "shield"
+  ],
   "dlcAvailable": true,
   "sections": [
     {
@@ -321,6 +324,26 @@
           "help": "Visit the den raid den surrounded by 4 rocks in Giant's Bed, with 5 regis in your party after catching the 4 available regis in the Crown Tundra"
         },
         {
+          "value": "Catch Virizion",
+          "isDLC": true,
+          "help": "Get 100% of the data from grassland footprints"
+        },
+        {
+          "value": "Catch Terrakion",
+          "isDLC": true,
+          "help": "Get 100% of the data from cavern footprints"
+        },
+        {
+          "value": "Catch Cobalion",
+          "isDLC": true,
+          "help": "Get 100% of the data from iron will footprints"
+        },
+        {
+          "value": "Catch Keldeo",
+          "isDLC": true,
+          "help": "Make curry at Ballimere Lake, with the 3 Swords of Justice"
+        },
+        {
           "value": "Complete Crown Tundra Dex",
           "isDLC": true
         },
@@ -506,7 +529,7 @@
           "help": "Fish + Dino fossil"
         },
         {
-          "value": "Type Null", 
+          "value": "Type Null",
           "help": "Battle Tower after becoming Champion"
         },
         {
@@ -2261,7 +2284,7 @@
           "help": "Defeat Mustard in final battle (after getting Max Honey for Urshifu)"
         },
         {
-          "value": "Klara (rare)", 
+          "value": "Klara (rare)",
           "isDLC": true,
           "version": "sword",
           "help": "Go to Potbottom Desert after defeating Mustard"
@@ -2643,8 +2666,7 @@
     {
       "name": "Galarian Star Tournament",
       "isDLC": true,
-      "entries": [
-      ]
+      "entries": []
     }
   ]
 }
