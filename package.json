@@ -40,7 +40,7 @@
     "react-helmet": "6.1.0",
     "react-redux": "7.2.2",
     "react-transition-group": "4.4.1",
-    "reactstrap": "8.8.0",
+    "reactstrap": "8.8.1",
     "redux": "4.0.5",
     "redux-devtools": "3.7.0",
     "redux-persist": "6.0.0",
