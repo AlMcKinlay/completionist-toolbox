@@ -37,7 +37,7 @@ class Header extends React.Component {
 							The Completionist's Toolbox
 						</Link>
 						<NavbarToggler onClick={this.toggle} />
-						<Collapse isOpen={this.state.isOpen} navbar>
+						<Collapse isOpen={this.state.isOpen} navbar className="flex-grow-0">
 							<Nav className="ml-auto" navbar>
 								<NavItem>
 									<Link

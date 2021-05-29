@@ -12,6 +12,9 @@ export const ThemedListItem = styled(ListGroupItem)`
   
 	${props => props.theme.dark && 'border-color: rgba(255, 255, 255, 0.25);'}
 
+	
+	color: ${props => props.theme.textColor()};
+
 	&:hover{
 		cursor: pointer;
 		background-color: ${props => props.theme.hoverBackground()};
