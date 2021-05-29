@@ -13,8 +13,10 @@ export const ThemedModalHeader = styled(ModalHeader)`
   
 	${props => props.theme.dark && 'border-color: rgba(255, 255, 255, 0.25);'}
 
-	.close span {
+	.close, .close span {
 		color: ${props => props.theme.textColor()};
+		background-color: ${props => props.theme.background()};
+		border: none;
 	}
 `;
 
