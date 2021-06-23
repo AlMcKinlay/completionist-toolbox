@@ -24,7 +24,7 @@
   "devDependencies": {
     "@fortawesome/fontawesome": "1.1.8",
     "@quickbaseoss/babel-plugin-styled-components-css-namespace": "0.1.1",
-    "bootstrap": "5.0.1",
+    "bootstrap": "5.0.2",
     "concurrently": "6.2.0",
     "gatsby": "3.6.2",
     "gatsby-link": "3.6.0",
