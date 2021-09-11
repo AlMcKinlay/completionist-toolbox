@@ -107,6 +107,14 @@
           "version": "all"
         },
         {
+          "value": "Mystery Dungeon: Explorers of Time",
+          "version": "all"
+        },
+        {
+          "value": "Mystery Dungeon: Explorers of Darkness",
+          "version": "all"
+        },
+        {
           "value": "Mystery Dungeon: Explorers of Sky",
           "version": "all"
         },
@@ -132,6 +140,10 @@
         },
         {
           "value": "Conquest",
+          "version": "all"
+        },
+        {
+          "value": "Typing Adventure",
           "version": "all"
         }
       ]
@@ -164,7 +176,15 @@
           "value": "Ultra Moon"
         },
         {
+          "value": "Rumble Blast",
+          "version": "all"
+        },
+        {
           "value": "Mystery Dungeon: Gates to Infinity",
+          "version": "all"
+        },
+        {
+          "value": "Art Academy",
           "version": "all"
         },
         {
@@ -173,6 +193,10 @@
         },
         {
           "value": "Detective Pikachu",
+          "version": "all"
+        },
+        {
+          "value": "Rumble World",
           "version": "all"
         }
       ]
@@ -206,7 +230,15 @@
       "name": "Gamecube",
       "entries": [
         {
+          "value": "Channel",
+          "version": "all"
+        },
+        {
           "value": "Colosseum",
+          "version": "all"
+        },
+        {
+          "value": "Box: Ruby & Sapphire",
           "version": "all"
         },
         {
@@ -251,7 +283,21 @@
           "value": "Let\\'s Go Eevee"
         },
         {
+          "value": "Sword"
+        },
+        {
+          "value": "Shield"
+        },
+        {
           "value": "Pokken DX",
+          "version": "all"
+        },
+        {
+          "value": "Mystery Dungeon DX",
+          "version": "all"
+        },
+        {
+          "value": "Snap",
           "version": "all"
         }
       ]
