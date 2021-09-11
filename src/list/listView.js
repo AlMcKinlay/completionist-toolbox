@@ -36,7 +36,7 @@ const List = styled.div`
 const Grid = styled.div`
 	display:grid;
 	grid-auto-flow: row;
-	grid-template-columns: 30fr 1fr 2fr 1fr 1fr;
+	grid-template-columns: 30fr 4fr 2fr 1fr 1fr;
 	width:100%;
 `;
 
