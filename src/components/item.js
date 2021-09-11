@@ -53,7 +53,7 @@ export class Item extends React.Component {
 				{this.props.checkbox !== false && (this.props.selected  ? <Icon.CheckSquare.regular /> : <Icon.Square.regular />)}
 				{" " + this.props.name}
 				{this.props.help &&
-					<span className="float-right" onClick={this.copy}>
+					<span className="float-end" onClick={this.copy}>
 						<Icon.QuestionCircle.regular id={`item-tooltip-${this.getName()}`} />
 						<Tooltip isOpen={this.state.tooltipOpen} placement="right" target={`item-tooltip-${this.getName()}`} toggle={this.toggle} >
 							<span>
