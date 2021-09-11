@@ -35,7 +35,6 @@ function reducerDoesThing(state, {type: action, listName, sectionName, entryName
 		newSection.updated = Date.now()
 	} else if (action === "SET_ALL_DATA") {
 		const updatedList = new List(data)
-		updatedList.server = true;
 		newState = {
 			lists: {
 				...lists,
@@ -45,7 +44,6 @@ function reducerDoesThing(state, {type: action, listName, sectionName, entryName
 	} else if (action === "SET_ID") {
 		window.location = `${window.location.protocol}//${window.location.host}${window.location.pathname}#id=${id}`
 		newList.id = id;
-		newList.server = true;
 		newState = {
 			lists: {
 				...lists,

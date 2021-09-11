@@ -146,35 +146,6 @@ const getVisibility = ({lists}, {listName, sectionName, isDLC}) => {
 
 const ConnectedListSection = connect(getVisibility)(ListSection);
 
-function start(websocketServerLocation, id, setSocket, props){
-	const ws = new WebSocket(websocketServerLocation);
-    ws.onclose = function(){
-        setTimeout(() => start(websocketServerLocation, id, setSocket, props), 1000);
-	};
-	ws.onopen = () => ws.send(JSON.stringify({command: "register", data: {id}}));
-	ws.onmessage = (event) => {
-		const message = JSON.parse(event.data);
-		switch(message.event) {
-			case "registered":
-				props.setId(message.id);
-				break;
-			case "init":
-				if (message.data && (props.listState.saved || (props.listState.time ? message.data.time > props.listState.time : message.data.time))) { 
-					props.setAllData(message.data);
-				} else {
-					ws.send(JSON.stringify({command: "set", data: props.listState}));
-				}
-				break;
-			case "listUpdate":
-				props.setAllData(message.data);
-				break;
-			default:
-				break;
-		}
-	};
-	setSocket(ws);
-}
-
 class SectionList extends React.Component {
 
 	constructor(props) {
@@ -184,23 +155,6 @@ class SectionList extends React.Component {
 		
 		const urlId = typeof window !== "undefined" && window.location.hash && window.location.hash.includes("id") && window.location.hash.slice(1).split("=")[1];
 		const id = urlId || (props.listState && props.listState.id);
-
-		if (typeof WebSocket !== "undefined" && WebSocket) {
-			const protocol = window.location.protocol.startsWith("https") ? "wss" : "ws";
-			const location = window.location.hostname.includes("toolbox.yamanickill.com") ? `${window.location.hostname}/ws` : `${window.location.hostname}:3000`;
-			let socket = "test";
-			start(`${protocol}://${location}`, id, (newSocket) => socket = newSocket, props);
-
-			subscribe(`lists.${list.name}`, (state) => {
-				if (state.lists[list.name].server || state.lists[list.name].saved) {
-					return;
-				}
-				if (socket.readyState === socket.OPEN) {
-					socket.send(JSON.stringify({command: "set", data: state.lists[list.name]}));
-					props.setSaved();
-				}
-			});
-		}
 
 		this.state = {
 			post: list

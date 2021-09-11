@@ -17,7 +17,6 @@
   "scripts": {
     "build": "gatsby build --prefix-paths",
     "dev": "gatsby develop",
-    "start": "node server/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "devDependencies": {

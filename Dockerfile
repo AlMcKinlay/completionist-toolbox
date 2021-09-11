@@ -1,7 +1,6 @@
 FROM node:lts
 
 WORKDIR /usr/src/app
-COPY server ./server
 COPY package.json .
 RUN ls
 RUN pwd
