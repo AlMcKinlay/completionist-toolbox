@@ -448,6 +448,15 @@
       ]
     },
     {
+      "name": "Clothes",
+      "entries": [
+        {
+          "value": "",
+          "help": ""
+        }
+      ]
+    },
+    {
       "name": "Daily Tasks",
       "reset": "daily",
       "entries": []
