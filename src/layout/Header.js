@@ -29,10 +29,10 @@ class Header extends React.Component {
 	render() {
 		return (
 			<header>
+			<div className="container">
 				<Navbar color="faded" dark={this.props.theme.dark} light={!this.props.theme.dark} expand="md" style={{
 					backgroundColor: this.props.theme.navbarBackground()
 				}}>
-					<div className="container">
 						<Link to="/" className="navbar-brand">
 							The Completionist's Toolbox
 						</Link>
@@ -60,8 +60,8 @@ class Header extends React.Component {
 								</Dropdown>
 							</Nav>
 						</Collapse>
-					</div>
 				</Navbar>
+					</div>
 			</header>
 		)
 	}
