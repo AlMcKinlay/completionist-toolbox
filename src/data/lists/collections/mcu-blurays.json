@@ -84,6 +84,20 @@
           "value": "Spider-Man: Far From Home"
         }
       ]
+    },
+    {
+      "name": "Phase 4",
+      "entries": [
+        {
+          "value": "Black Widow"
+        },
+        {
+          "value": "Shang-Chi and the Legend of the Ten Rings"
+        },
+        {
+          "value": "Eternals"
+        }
+      ]
     }
   ]
 }
