@@ -76,6 +76,9 @@
         },
         {
           "value": "PS4"
+        },
+        {
+          "value": "PS5"
         }
       ]
     },
@@ -90,6 +93,12 @@
         },
         {
           "value": "XBox One"
+        },
+        {
+          "value": "XBox Series X"
+        },
+        {
+          "value": "XBox Series S"
         }
       ]
     }
