@@ -183,10 +183,12 @@ const setUpCrossTab = (store) => {
 	}
 };
 
-export default () => {
+const store =  () => {
 	const store = createStore(persistedReducer, {...initialState});
 	const subscribe = initSubscriber(store);
 	const persistor = persistStore(store);
 	setUpCrossTab(store);
 	return { store, persistor, subscribe };
 }
+
+export default store;

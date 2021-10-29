@@ -1,6 +1,5 @@
 import React from "react";
 import { Row } from 'reactstrap';
-import {subscribe} from 'redux-subscriber';
 import { Section } from "../section/sectionCard";
 import styled from "styled-components";
 import { connect } from "react-redux"
@@ -152,9 +151,6 @@ class SectionList extends React.Component {
 		super(props);
 		const list = props.data.list;
 		this.defaultVersion = list && list.versions ? list.versions[0] : undefined;
-		
-		const urlId = typeof window !== "undefined" && window.location.hash && window.location.hash.includes("id") && window.location.hash.slice(1).split("=")[1];
-		const id = urlId || (props.listState && props.listState.id);
 
 		this.state = {
 			post: list
