@@ -27,7 +27,7 @@ const List = styled.div`
 
 const getTotalItems = (sections) => sections.reduce((total, section) => total + section.entries.length, 0);
 
-export default ({lists = [], unusedLists = [], addList, hideList}) => {
+const Lists = ({lists = [], unusedLists = [], addList, hideList}) => {
 	const [modal, setModal] = useState(false);
 
 
@@ -73,3 +73,5 @@ export default ({lists = [], unusedLists = [], addList, hideList}) => {
 		</div>
 	);
 }
+
+export default Lists;

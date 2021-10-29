@@ -88,14 +88,16 @@ export const DropdownLink = ({action, link, children}) => {
     )
 }
 
-export default ({name, positioned, children}) => {
+const Dropdown = ({name, positioned, children}) => {
     return (
         <StyledUncontrolledDropdown positioned={positioned}>
             {name ? (<DropdownToggle nav caret>{name}</DropdownToggle>) : (<Menu positioned={positioned}>&#x2807;</Menu>)}
             
-            <StyledDropdownMenu right>
+            <StyledDropdownMenu end>
                 {children}
             </StyledDropdownMenu>
         </StyledUncontrolledDropdown>
     )
 } 
+
+export default Dropdown;
