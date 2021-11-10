@@ -154,7 +154,12 @@
     },
     {
       "name": "In-game Trades",
-      "entries": []
+      "entries": [
+        {
+          "value": "Medicham for Haunter in Snowpoint City",
+          "help": "Trade with Mindy, in the northwesternmost house in the city."
+        },
+      ]
     },
     {
       "name": "TMs",
@@ -564,6 +569,26 @@
     {
       "name": "Clothes",
       "entries": [
+        {
+          "value": "Everyday Style",
+          "help": "Default outfit"
+        },
+        {
+          "value": "Winter Style",
+          "help": "Metronome Style Shop in Veilstone City"
+        },
+        {
+          "value": "Gengar Jacket Style",
+          "help": "Metronome Style Shop in Veilstone City"
+        },
+        {
+          "value": "Leather Jacket Style",
+          "help": "Metronome Style Shop in Veilstone City"
+        },
+        {
+          "value": "Cyber Style",
+          "help": "Metronome Style Shop in Veilstone City"
+        },
         {
           "value": "Platinum Outfit",
           "help": "Mystery gift between 19th Nov 2021 and 21st Feb 2022"
