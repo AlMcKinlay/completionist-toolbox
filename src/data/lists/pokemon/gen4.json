@@ -3,7 +3,8 @@
     "displayName": "Pokémon Gen 4",
     "versions": [
       "diamond",
-      "pearl"
+      "pearl",
+      "platinum"
     ],
     "sections": [
       {
@@ -133,51 +134,63 @@
             },
             {
                 "value": "Trade/Transfer for Seel line",
-                "version": "Pearl"
+                "version": "pearl"
             },
             {
                 "value": "Trade/Transfer for Scyther line",
-                "version": "Pearl"
+                "version": "pearl"
             },
             {
                 "value": "Trade/Transfer for Murkrow line",
-                "version": "Pearl"
+                "version": "pearl"
             },
             {
                 "value": "Trade/Transfer for Larvitar line",
-                "version": "Pearl"
+                "version": "pearl"
             },
             {
                 "value": "Trade/Transfer for Poocheyena line",
-                "version": "Pearl"
+                "version": "pearl"
             },
             {
                 "value": "Trade/Transfer for Aron line",
-                "version": "Pearl"
+                "version": "pearl"
             },
             {
                 "value": "Trade/Transfer for Kecleon",
-                "version": "Pearl"
+                "version": "pearl"
             },
             {
                 "value": "Trade/Transfer for Cranidos line",
-                "version": "Pearl"
+                "version": "pearl"
             },
             {
                 "value": "Trade/Transfer for Stunky line",
-                "version": "Pearl"
+                "version": "pearl"
             },
             {
                 "value": "Trade/Transfer for Dialga",
-                "version": "Pearl"
+                "version": "pearl"
             },
             {
                 "value": "Catch Dialga",
-                "version": "Diamond"
+                "version": "diamond"
             },
             {
                 "value": "Catch Palkia",
-                "version": "Pearl"
+                "version": "pearl"
+            },
+            {
+                "value": "Catch Dialga",
+                "version": "platinum"
+            },
+            {
+                "value": "Catch Palkia",
+                "version": "platinum"
+            },
+            {
+                "value": "Catch Giratina",
+                "version": "platinum"
             },
             {
                 "value": "Catch Uxie"
@@ -196,7 +209,18 @@
             },
             {
                 "value": "Obtain the National Dex",
-                "help": "Speak to Professor Rowan and Professor Oak in the lab in Sandgem Town after defeating the Elite Four and registering all Pokémon in the Sinnoh Dex (except Manaphy) as 'seen'"
+                "help": "Speak to Professor Rowan and Professor Oak in the lab in Sandgem Town after defeating the Elite Four and registering all Pokémon in the Sinnoh Dex (except Manaphy) as 'seen'",
+                "version": "diamond"
+            },
+            {
+                "value": "Obtain the National Dex",
+                "help": "Speak to Professor Rowan and Professor Oak in the lab in Sandgem Town after defeating the Elite Four and registering all Pokémon in the Sinnoh Dex (except Manaphy) as 'seen'",
+                "version": "pearl"
+            },
+            {
+                "value": "Obtain the National Dex",
+                "help": "Speak to Professor Rowan and Professor Oak in the lab in Sandgem Town after defeating the Elite Four and registering all Pokémon in the Sinnoh Dex as 'seen'",
+                "version": "platinum"
             },
             {
                 "value": "Obtain the Pokeradar",
@@ -211,16 +235,31 @@
                 "help": "Complete the sidequest with Buck to defeat Team Galactic in Stark Mountain then talk to Buck in the Survival Area. Return to Stark Mountain inner room."
             },
             {
-                "value": "Regigigas",
+                "value": "Catch Regigigas",
                 "help": "Snowpoint Temple B5F. Transfer Regirock, Regice, and Registeel from Ruby/Sapphire/Emerald and have them in your party."
             },
             {
-                "value": "Giratina",
+                "value": "Catch Giratina",
                 "help": "Surf from Route 214 to the Spring Path after obtaining the National Dex, then follow the path to Sendoff Spring and Rock Climb"
             },
             {
-                "value": "Cresselia",
+                "value": "Catch Cresselia",
                 "help": "With National Dex, go to Sailor's House in Canalave City. Travel to Full Moon Island and interact with Cresselia. Grab the Lunar Wing and return to the Sailor's son, then Cresselia is roaming."
+            },
+            {
+                "value": "Catch Articuno",
+                "help": "With National Dex, talk to Professor Oak in Eterna City, then it is roaming.",
+                "version": "platinum"
+            },
+            {
+                "value": "Catch Zapdos",
+                "help": "With National Dex, talk to Professor Oak in Eterna City, then it is roaming.",
+                "version": "platinum"
+            },
+            {
+                "value": "Catch Moltres",
+                "help": "With National Dex, talk to Professor Oak in Eterna City, then it is roaming.",
+                "version": "platinum"
             },
             {
                 "value": "Complete National Dex"
@@ -232,7 +271,23 @@
         "entries": [
             {
                 "value": "Eevee",
-                "help": "From Bebe in Hearthome City after obtaining the National Dex"
+                "help": "From Bebe in Hearthome City after obtaining the National Dex",
+                "version": "diamond"
+            },
+            {
+                "value": "Eevee",
+                "help": "From Bebe in Hearthome City after obtaining the National Dex",
+                "version": "pearl"
+            },
+            {
+                "value": "Eevee",
+                "help": "From Bebe in Hearthome City",
+                "version": "platinum"
+            },
+            {
+                "value": "Porygon",
+                "help": "Man in Veilstone City",
+                "version": "platinum"
             },
             {
                 "value": "Happiny Egg",
@@ -699,7 +754,7 @@
             },
             {
                 "value": "Capture fifty flags from another player's Secret Base",
-                "help": "Platinum flag, ability to remove all boulders, Glitter Gem, and a star on the Trainer Card."
+                "help": "platinum flag, ability to remove all boulders, Glitter Gem, and a star on the Trainer Card."
             }
         ]
       },
