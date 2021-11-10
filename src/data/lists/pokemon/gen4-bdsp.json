@@ -42,10 +42,6 @@
       "name": "TMs",
       "entries": [
         {
-          "value": "TM00",
-          "help": ""
-        },
-        {
           "value": "TM01",
           "help": ""
         },
@@ -411,6 +407,38 @@
         },
         {
           "value": "TM92",
+          "help": ""
+        },
+        {
+          "value": "TM93",
+          "help": ""
+        },
+        {
+          "value": "TM94",
+          "help": ""
+        },
+        {
+          "value": "TM95",
+          "help": ""
+        },
+        {
+          "value": "TM96",
+          "help": ""
+        },
+        {
+          "value": "TM97",
+          "help": ""
+        },
+        {
+          "value": "TM98",
+          "help": ""
+        },
+        {
+          "value": "TM99",
+          "help": ""
+        },
+        {
+          "value": "TM100",
           "help": ""
         }
       ]
