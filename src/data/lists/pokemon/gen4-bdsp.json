@@ -18,11 +18,6 @@
       ]
     },
     {
-      "name": "Side Quests",
-      "entries": [
-      ]
-    },
-    {
       "name": "Post Game",
       "entries": [
         {
@@ -727,6 +722,11 @@
     },
     {
       "name": "Secret Base Statues",
+      "entries": [
+      ]
+    },
+    {
+      "name": "Super Contest Rewards",
       "entries": [
       ]
     },
