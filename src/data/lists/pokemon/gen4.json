@@ -3,8 +3,7 @@
     "displayName": "Pokémon Gen 4",
     "versions": [
       "diamond",
-      "pearl",
-      "platinum"
+      "pearl"
     ],
     "sections": [
       {
@@ -737,8 +736,84 @@
         "name": "Super Contest Rewards",
         "entries": [
             {
-                "value": "",
-                "help": ""
+                "value": "Red Barrette",
+                "help": "Defeat the Cool Contest Normal Rank for the first time"
+            },
+            {
+                "value": "Red Balloons",
+                "help": "Defeat the Cool Contest Great Rank for the first time"
+            },
+            {
+                "value": "Top Hat",
+                "help": "Defeat the Cool Contest Ultra Rank for the first time"
+            },
+            {
+                "value": "Gold Pedastal",
+                "help": "Defeat the Cool Contest Master Rank for the first time"
+            },
+            {
+                "value": "Blue Barrette",
+                "help": "Defeat the Beauty Contest Normal Rank for the first time"
+            },
+            {
+                "value": "Blue Balloons",
+                "help": "Defeat the Beauty Contest Great Rank for the first time"
+            },
+            {
+                "value": "Silk Veil",
+                "help": "Defeat the Beauty Contest Ultra Rank for the first time"
+            },
+            {
+                "value": "Glass Stage",
+                "help": "Defeat the Beauty Contest Master Rank for the first time"
+            },
+            {
+                "value": "Pink Barrette",
+                "help": "Defeat the Cute Contest Normal Rank for the first time"
+            },
+            {
+                "value": "Pink Balloon",
+                "help": "Defeat the Cute Contest Great Rank for the first time"
+            },
+            {
+                "value": "Lace Headress",
+                "help": "Defeat the Cute Contest Ultra Rank for the first time"
+            },
+            {
+                "value": "Flower Stage",
+                "help": "Defeat the Cute Contest Master Rank for the first time"
+            },
+            {
+                "value": "Green Barrette",
+                "help": "Defeat the Smart Contest Normal Rank for the first time"
+            },
+            {
+                "value": "Green Balloons",
+                "help": "Defeat the Smart Contest Great Rank for the first time"
+            },
+            {
+                "value": "Professor Hat",
+                "help": "Defeat the Smart Contest Ultra Rank for the first time"
+            },
+            {
+                "value": "Cube Stage",
+                "help": "Defeat the Smart Contest Master Rank for the first time"
+            },
+            {
+                "value": "Yellow Barrette",
+                "help": "Defeat the Tough Contest Normal Rank for the first time"
+            },
+            {
+                "value": "Yellow Balloon",
+                "help": "Defeat the Tough Contest Great Rank for the first time"
+            },
+            {
+                "value": "Heroic Headband",
+                "help": "Defeat the Tough Contest Ultra Rank for the first time"
+            },
+            {
+                "value": "Award Podium",
+                "help": "Defeat the Tough Contest Master Rank for the first time"
             }
         ]
       },
@@ -746,8 +821,60 @@
         "name": "Secret Base Items",
         "entries": [
             {
-                "value": "",
-                "help": ""
+                "value": "Beauty Cup",
+                "help": "Defeat the Beauty Master Rank Super Contest"
+            },
+            {
+                "value": "Cool Cup",
+                "help": "Defeat the Cool Master Rank Super Contest"
+            },
+            {
+                "value": "Clever Cup",
+                "help": "Defeat the Smart Master Rank Super Contest"
+            },
+            {
+                "value": "Tough Cup",
+                "help": "Defeat the Tough Master Rank Super Contest"
+            },
+            {
+                "value": "Cute Cup",
+                "help": "Defeat the Cute Master Rank Super Contest"
+            },
+            {
+                "value": "Blue Crystal",
+                "help": "Meet 100 players in the Underground"
+            },
+            {
+                "value": "Pink Crystal",
+                "help": "Give 100 items to other players in the Underground"
+            },
+            {
+                "value": "Red Crystal",
+                "help": "Dig up 100 fossils in the Underground"
+            },
+            {
+                "value": "Yellow Crystal",
+                "help": "Trap 100 players in the Underground"
+            },
+            {
+                "value": "Bronze Trophy",
+                "help": "Achieve a 10-match win-streak in single battles in the Battle Tower"
+            },
+            {
+                "value": "Silver Trophy",
+                "help": "Achieve a 50-match win-streak in single battles in the Battle Tower"
+            },
+            {
+                "value": "Gold Trophy",
+                "help": "Achieve a 100-match win-streak in single battles in the Battle Tower"
+            },
+            {
+                "value": "Gym Statue",
+                "help": "Defeat all 8 gym leaders"
+            },
+            {
+                "value": "Globe",
+                "help": "Access the Global Trade System through Wi-Fi Connection"
             }
         ]
       },
@@ -755,8 +882,20 @@
         "name": "Ribbon Syndicate",
         "entries": [
             {
-                "value": "",
-                "help": ""
+                "value": "Access The Ribbon Syndicate",
+                "help": "have at least 10 different kinds of ribbons across the Pokemon in your Party"
+            },
+            {
+                "value": "Gorgeous Ribbon",
+                "help": "₽10,000"
+            },
+            {
+                "value": "Royal Ribbon",
+                "help": "₽100,000"
+            },
+            {
+                "value": "Royal-Gorgeous Ribbon",
+                "help": "₽999,999"
             }
         ]
       },
@@ -764,8 +903,68 @@
         "name": "Plates",
         "entries": [
             {
-                "value": "",
-                "help": ""
+                "value": "Draco Plate",
+                "help": "Eterna City, behind the statue"
+            },
+            {
+                "value": "Dread Plate",
+                "help": "Old Chateau, first room on the left in the upstairs area"
+            },
+            {
+                "value": "Earth Plate",
+                "help": "Oreburgh Gate, head to the basement (Rock Smash) and west on the water. Located near a boulder that must be moved with strength"
+            },
+            {
+                "value": "Fist Plate",
+                "help": "Route 215, near a Karate Trainer past a tree that must be cut, middle of the route"
+            },
+            {
+                "value": "Flame Plate",
+                "help": "Stark Mountain"
+            },
+            {
+                "value": "Icicle Plate",
+                "help": "Route 217, talk to a man inside the house on the west-side of the route"
+            },
+            {
+                "value": "Insect Plate",
+                "help": "Old Chateau Outside, on the cliff wall immediately to the east of the house"
+            },
+            {
+                "value": "Iron Plate",
+                "help": "Iron Island"
+            },
+            {
+                "value": "Meadow Plate",
+                "help": "Route 210"
+            },
+            {
+                "value": "Mind Plate",
+                "help": "Solaceon Ruins, top right, bottom left, top right, top left, top left, then bottom left"
+            },
+            {
+                "value": "Sky Plate",
+                "help": "Victory Road Exit, near the flower patch to the west, three spaces down from the western statue"
+            },
+            {
+                "value": "Splash Plate",
+                "help": "Route 220, southwestern area of route, on the beach south of two swimmers"
+            },
+            {
+                "value": "Spooky Plate",
+                "help": "Amity Square, next to the second rock hut that is near the east-side entrance, to the right of the boy with Drifloon"
+            },
+            {
+                "value": "Stone Plate",
+                "help": "Mt. Coronet Peak"
+            },
+            {
+                "value": "Toxic Plate",
+                "help": "Great Marsh Area 2, far northeast corner, hiding in the fourth tree from the corner"
+            },
+            {
+                "value": "Zap Plate",
+                "help": "In front of the Sunyshore City Lighthouse"
             }
         ]
       },
@@ -773,8 +972,36 @@
         "name": "Seals",
         "entries": [
             {
-                "value": "",
-                "help": ""
+                "value": "Monday Seals",
+                "help": "Heart Seal A, Star Seal B, Line Seal C, Ele-Seal B, Fire Seal A, Party Seal D, Song Seal A"
+            },
+            {
+                "value": "Tuesday Seals",
+                "help": "Heart Seal B, Star Seal C, Line Seal D, Ele-Seal C, Fire Seal B, Flora Seal A, Song Seal B"
+            },
+            {
+                "value": "Wednesday Seals",
+                "help": "Heart Seal C, Star Seal D, Smoke Seal A, Ele-Seal D, Fire Seal C, Flora Seal B, Song Seal C"
+            },
+            {
+                "value": "Thursday Seals",
+                "help": "Heart Seal D, Star Seal E, Smoke Seal B, Foamy Seal A, Fire Seal D, Flora Seal C, Song Seal D"
+            },
+            {
+                "value": "Friday Seals",
+                "help": "Heart Seal E, Star Seal F, Smoke Seal C, Foamy Seal B, Party Seal A, Flora Seal D, Song Seal E"
+            },
+            {
+                "value": "Saturday Seals",
+                "help": "Heart Seal F, Line Seal A, Smoke Seal D, Foamy Seal C, Party Seal B, Flora Seal E, Song Seal F"
+            },
+            {
+                "value": "Sunday Seals",
+                "help": "Star Seal A, Line Seal B, Ele-Seal A, Foamy Seal D, Party Seal C, Flora Seal F, Song Seal G"
+            },
+            {
+                "value": "Alphabet Seals",
+                "help": "Show each individual Unown form to the boy in a house in Solaceon Town"
             }
         ]
       },
