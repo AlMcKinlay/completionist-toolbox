@@ -132,46 +132,6 @@
         },
         {
           "value": "Complete the Sinnoh Dex"
-        },
-        {
-            "value": "Catch Ho-Oh",
-            "version": "BD",
-            "help": "Catch in Ramanas Park"
-        },
-        {
-            "value": "Catch Raikou",
-            "version": "BD",
-            "help": "Catch in Ramanas Park"
-        },
-        {
-            "value": "Catch Entei",
-            "version": "BD",
-            "help": "Catch in Ramanas Park"
-        },
-        {
-            "value": "Catch Suicune",
-            "version": "BD",
-            "help": "Catch in Ramanas Park"
-        },
-        {
-            "value": "Catch Articuno",
-            "version": "SP",
-            "help": "Catch in Ramanas Park"
-        },
-        {
-            "value": "Catch Zapdos",
-            "version": "SP",
-            "help": "Catch in Ramanas Park"
-        },
-        {
-            "value": "Catch Moltres",
-            "version": "SP",
-            "help": "Catch in Ramanas Park"
-        },
-        {
-            "value": "Catch Lugia",
-            "version": "SP",
-            "help": "Catch in Ramanas Park"
         }
       ]
     },
