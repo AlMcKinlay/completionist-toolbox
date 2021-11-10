@@ -26,6 +26,9 @@
       "name": "Post Game",
       "entries": [
         {
+          "value": "Rematch gym leaders"
+        },
+        {
           "value": "Rematch the Elite Four and Champion Once"
         },
         {
@@ -606,6 +609,10 @@
     {
       "name": "Battle Tower",
       "entries": [
+        {
+          "value": "Unlock Battle Tower",
+          "help": "Complete the Sinnoh Dex"
+        },
         {
           "value": "20 Win Streak"
         },
