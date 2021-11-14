@@ -21,6 +21,10 @@
       "name": "Post Game",
       "entries": [
         {
+          "value": "Get judge function",
+          "help": "From scientist at the far right of the battle tower"
+        },
+        {
           "value": "Rematch gym leaders"
         },
         {
