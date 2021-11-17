@@ -58,7 +58,7 @@ export class Section extends React.Component {
 	}
 
 	entryCountsVersion(entry) {
-		return !entry.version || entry.version.split("/").includes(this.props.version);
+		return !entry.version || entry.version.toLowerCase().split("/").includes(this.props.version);
 	}
 
 	entryCountsDLC(entry) {
