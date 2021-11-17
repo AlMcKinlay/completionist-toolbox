@@ -83,7 +83,7 @@ const entryCounts = (entry, version, dlcEnabled) => entryCountsVersion(entry, ve
 const entryCountsVersion = (entry, version) => !entry.version || entry.version.toLowerCase().split("/").includes(version);
 const entryCountsDLC = (entry, dlcEnabled) => !entry.isDLC || dlcEnabled;
 
-const getCompletionState = ({ lists }, { list, defaultVersion }) => {
+const getCompletionState = ({ lists }, { list, defaultVersion = "" }) => {
 	const listState = lists[list.name];
 	const version = listState && listState.version ? listState.version : defaultVersion.toLowerCase();
 	const dlcEnabled = listState ? listState.dlc : true;
