@@ -600,30 +600,6 @@
     {
       "name": "Underground Man Rewards",
       "entries": [
-          {
-              "value": "Move Trap (Up), Bubble Trap, Leaf Trap",
-              "help": "Go to the underground"
-          },
-          {
-              "value": "Prism Sphere 1, Red Sphere 1, Blue Sphere 1",
-              "help": "Dig something out of a wall"
-          },
-          {
-              "value": "Digger Drill",
-              "help": "Plant a sphere in the ground"
-          },
-          {
-              "value": "Plain Table, Wooden Chair, Small Bookshelf, Buneary Doll",
-              "help": "Dig a secret base"
-          },
-          {
-              "value": "Doll of the player's starter",
-              "help": "Decorate a secret base"
-          },
-          {
-              "value": "Pretty Gem",
-              "help": "Capture a flag from another player's Secret Base"
-          }
       ]
     },
     {
