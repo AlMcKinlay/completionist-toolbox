@@ -2,8 +2,8 @@
   "name": "Pokemon Brilliant BD and Shining SP Completion",
   "displayName": "Pokemon Gen 4 BDSP",
   "versions": [
-    "BD",
-    "SP"
+    "Brilliant Diamond",
+    "Shining Pearl"
   ],
   "sections": [
     {
@@ -40,91 +40,91 @@
       "entries": [
         {
             "value": "Trade/Transfer for Slowpoke line",
-            "version": "BD"
+            "version": "Brilliant Diamond"
         },
         {
             "value": "Trade/Transfer for Pinsir",
-            "version": "BD"
+            "version": "Brilliant Diamond"
         },
         {
             "value": "Trade/Transfer for Misdreavus line",
-            "version": "BD"
+            "version": "Brilliant Diamond"
         },
         {
             "value": "Trade/Transfer for Houndoor line",
-            "version": "BD"
+            "version": "Brilliant Diamond"
         },
         {
             "value": "Trade/Transfer for Stantler",
-            "version": "BD"
+            "version": "Brilliant Diamond"
         },
         {
             "value": "Trade/Transfer for Spheal line",
-            "version": "BD"
+            "version": "Brilliant Diamond"
         },
         {
             "value": "Trade/Transfer for Bagon line",
-            "version": "BD"
+            "version": "Brilliant Diamond"
         },
         {
             "value": "Trade/Transfer for Shieldon line",
-            "version": "BD"
+            "version": "Brilliant Diamond"
         },
         {
             "value": "Trade/Transfer for Glameow line",
-            "version": "BD"
+            "version": "Brilliant Diamond"
         },
         {
             "value": "Trade/Transfer for Palkia",
-            "version": "BD"
+            "version": "Brilliant Diamond"
         },
         {
             "value": "Trade/Transfer for Seel line",
-            "version": "SP"
+            "version": "Shining Pearl"
         },
         {
             "value": "Trade/Transfer for Scyther line",
-            "version": "SP"
+            "version": "Shining Pearl"
         },
         {
             "value": "Trade/Transfer for Murkrow line",
-            "version": "SP"
+            "version": "Shining Pearl"
         },
         {
             "value": "Trade/Transfer for Larvitar line",
-            "version": "SP"
+            "version": "Shining Pearl"
         },
         {
             "value": "Trade/Transfer for Poocheyena line",
-            "version": "SP"
+            "version": "Shining Pearl"
         },
         {
             "value": "Trade/Transfer for Aron line",
-            "version": "SP"
+            "version": "Shining Pearl"
         },
         {
             "value": "Trade/Transfer for Kecleon",
-            "version": "SP"
+            "version": "Shining Pearl"
         },
         {
             "value": "Trade/Transfer for Cranidos line",
-            "version": "SP"
+            "version": "Shining Pearl"
         },
         {
             "value": "Trade/Transfer for Stunky line",
-            "version": "SP"
+            "version": "Shining Pearl"
         },
         {
             "value": "Trade/Transfer for Dialga",
-            "version": "SP"
+            "version": "Shining Pearl"
         },
         {
             "value": "Catch Dialga",
-            "version": "BD"
+            "version": "Brilliant Diamond"
         },
         {
             "value": "Catch Palkia",
-            "version": "SP"
+            "version": "Shining Pearl"
         },
         {
           "value": "Complete the Sinnoh Dex"
