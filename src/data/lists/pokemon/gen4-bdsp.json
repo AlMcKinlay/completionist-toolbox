@@ -128,6 +128,82 @@
         },
         {
           "value": "Complete the Sinnoh Dex"
+        },
+        {
+            "value": "Catch Entei",
+            "version": "Brilliant Diamond"
+        },
+        {
+            "value": "Catch Suicune",
+            "version": "Brilliant Diamond"
+        },
+        {
+            "value": "Catch Raikou",
+            "version": "Brilliant Diamond"
+        },
+        {
+            "value": "Catch Ho-Oh",
+            "version": "Brilliant Diamond"
+        },
+        {
+            "value": "Catch Articuno",
+            "version": "Shining Pearl"
+        },
+        {
+            "value": "Catch Zapdos",
+            "version": "Shining Pearl"
+        },
+        {
+            "value": "Catch Moltres",
+            "version": "Shining Pearl"
+        },
+        {
+            "value": "Catch Lugia",
+            "version": "Shining Pearl"
+        },
+        {
+            "value": "Catch Mewtwo"
+        },
+        {
+            "value": "Catch Rayquaza"
+        },
+        {
+            "value": "Catch Giratina"
+        },
+        {
+            "value": "Trade/Transfer for Articuno",
+            "version": "Brilliant Diamond"
+        },
+        {
+            "value": "Trade/Transfer for Zapdos",
+            "version": "Brilliant Diamond"
+        },
+        {
+            "value": "Trade/Transfer for Moltres",
+            "version": "Brilliant Diamond"
+        },
+        {
+            "value": "Trade/Transfer for Lugia",
+            "version": "Brilliant Diamond"
+        },
+        {
+            "value": "Trade/Transfer for Entei",
+            "version": "Shining Pearl"
+        },
+        {
+            "value": "Trade/Transfer for Suicune",
+            "version": "Shining Pearl"
+        },
+        {
+            "value": "Trade/Transfer for Raikou",
+            "version": "Shining Pearl"
+        },
+        {
+            "value": "Trade/Transfer for Ho-Oh",
+            "version": "Shining Pearl"
+        },
+        {
+          "value": "Complete the National Dex"
         }
       ]
     },
