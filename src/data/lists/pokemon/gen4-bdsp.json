@@ -127,7 +127,28 @@
             "version": "Shining Pearl"
         },
         {
+            "value": "Catch Uxie"
+        },
+        {
+            "value": "Catch Azelf"
+        },
+        {
+            "value": "Catch Mespirit"
+        },
+        {
           "value": "Complete the Sinnoh Dex"
+        },
+        {
+            "value": "Catch Heatran"
+        },
+        {
+            "value": "Catch Regigigas"
+        },
+        {
+            "value": "Catch Giratina"
+        },
+        {
+            "value": "Catch Cresselia"
         },
         {
             "value": "Catch Entei",
@@ -166,9 +187,6 @@
         },
         {
             "value": "Catch Rayquaza"
-        },
-        {
-            "value": "Catch Giratina"
         },
         {
             "value": "Trade/Transfer for Articuno",
