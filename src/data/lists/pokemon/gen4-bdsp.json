@@ -21,6 +21,10 @@
       "name": "Post Game",
       "entries": [
         {
+          "value": "Get National Pokedex",
+          "help": "Encounter all Pokémon in the Sinnoh Pokédex, and then talk to Professor Rowan in Sandgem Town."
+        },
+        {
           "value": "Get judge function",
           "help": "From scientist at the far right of the battle tower"
         },
