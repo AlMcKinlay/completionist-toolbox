@@ -243,16 +243,24 @@
       "name": "In-game Gifts",
       "entries": [
         {
-            "value": "Eevee",
-            "help": "From Bebe in Hearthome City after obtaining the National Dex"
-        },
-        {
           "value": "Mew",
           "help": "Have save data for Let's Go Pikachu or Eevee, talk to the madame in the flower field located on the southwest end of Floaroma Town"
         },
         {
           "value": "Jirachi",
           "help": "Have save data for Sword or Shield, talk to the gentleman in the flower field located on the southwest end of Floaroma Town"
+        },
+        {
+            "value": "Happiny Egg",
+            "help": "From Hiker at Hearthome City west gate, after seeing Amity square"
+        },
+        {
+            "value": "Riolu Egg",
+            "help": "From Riley on Iron Island after clearing Team Galactic from the island."
+        },
+        {
+            "value": "Eevee",
+            "help": "From Bebe in Hearthome City after obtaining the National Dex"
         }
       ]
     },
