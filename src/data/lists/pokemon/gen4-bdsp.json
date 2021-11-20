@@ -237,6 +237,54 @@
     {
       "name": "Poketch Applications",
       "entries": [
+          {
+              "value": "Digital Clock",
+              "help": "Initially installed on Poketch"
+          },
+          {
+              "value": "Calculator",
+              "help": "Initially installed on Poketch"
+          },
+          {
+              "value": "Pedometer",
+              "help": "Initially installed on Poketch"
+          },
+          {
+              "value": "Pokémon List",
+              "help": "Initially installed on Poketch"
+          },
+          {
+              "value": "Hidden Moves",
+              "help": "When you talk to the Hiker who gives you Rock Smash TMs"
+          },
+          {
+              "value": "Memo Pad",
+              "help": "Talk to the President of the Poketch company after getting your first gym badge"
+          },
+          {
+              "value": "Berry Checker"
+          },
+          {
+              "value": "Marking Map"
+          },
+          {
+              "value": "Coin Flip"
+          },
+          {
+              "value": "Friendship Checker"
+          },
+          {
+              "value": "Dowsing Machine"
+          },
+          {
+              "value": "Egg Monitor"
+          },
+          {
+              "value": "Analog Clock"
+          },
+          {
+              "value": "Calendar"
+          }
       ]
     },
     {
