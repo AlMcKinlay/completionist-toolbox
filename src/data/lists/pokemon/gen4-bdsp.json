@@ -256,8 +256,20 @@
       "name": "In-game Trades",
       "entries": [
         {
-          "value": "Medicham for Haunter in Snowpoint City",
-          "help": "Trade with Mindy, in the northwesternmost house in the city."
+            "value": "Machop for Abra in Oreburgh City",
+            "help": "Trade with Hilary, in a two-story house in the northwest of the city."
+        },
+        {
+            "value": "Buizel for Chatot in Eterna City",
+            "help": "Trade with Norton, in the Eterna Condominiums."
+        },
+        {
+            "value": "Medicham for Haunter in Snowpoint City",
+            "help": "Trade with Mindy, in the northwesternmost house in the city."
+        },
+        {
+            "value": "Finneon for German Magikarp in Route 226",
+            "help": "Trade with Meister, in the house on the small island."
         }
       ]
     },
