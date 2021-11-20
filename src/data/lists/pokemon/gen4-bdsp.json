@@ -13,6 +13,10 @@
           "value": "Defeat All League Gyms"
         },
         {
+          "value": "Unlock Mystery Gift",
+          "help": "After defeating first gym, go to the 3rd floor of the Jubilife TV Station, talk to the TV producer, and answer with 'EVERYONE HAPPY WI-FI CONNECTION'",
+        },
+        {
           "value": "Defeat the Elite Four and Champion"
         }
       ]
