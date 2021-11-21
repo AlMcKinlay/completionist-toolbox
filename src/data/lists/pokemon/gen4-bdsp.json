@@ -262,28 +262,64 @@
               "help": "Talk to the President of the Poketch company after getting your first gym badge"
           },
           {
-              "value": "Berry Checker"
+              "value": "Berry Checker",
+              "help": "Talk to the Berry Master on Route 208"
           },
           {
-              "value": "Marking Map"
+              "value": "Marking Map",
+              "help": "Talk to the President of the Poketch company after getting your third gym badge"
           },
           {
-              "value": "Coin Flip"
+              "value": "Coin Flip",
+              "help": "From Rich Boy in house on Route 213"
           },
           {
-              "value": "Friendship Checker"
+              "value": "Friendship Checker",
+              "help": "Woman in the Eterna City Pokémon Center"
           },
           {
-              "value": "Dowsing Machine"
+              "value": "Dowsing Machine",
+              "help": "From Dawn/Lucas"
           },
           {
-              "value": "Egg Monitor"
+              "value": "Egg Monitor",
+              "help": "From the Nursery"
           },
           {
-              "value": "Analog Clock"
+              "value": "Analog Clock",
+              "help": "From resident in Celestic Town"
           },
           {
-              "value": "Calendar"
+              "value": "Pokemon History",
+              "help": "From resident in Solaceon Town"
+          },
+          {
+              "value": "Counter",
+              "help": "From man in Veilstone City department store"
+          },
+          {
+              "value": "Calendar",
+              "help": "Show man in house to the east of Synyshore City a Pokémon with a Serious nature"
+          },
+          {
+              "value": "Dot Artist",
+              "help": "Show man in house to the east of Synyshore City a Pokémon with a Naive nature"
+          },
+          {
+              "value": "Spinner",
+              "help": "Show man in house to the east of Synyshore City a Pokémon with a Quirky nature"
+          },
+          {
+              "value": "Chain Counter",
+              "help": "From Professor Oak in Ramanas Park"
+          },
+          {
+              "value": "Kitchen Timer",
+              "help": "Show girl in Ramanas Park a Snorlax"
+          },
+          {
+              "value": "Color Changer",
+              "help": "Show girl in Ramanas Park a Kecleon"
           }
       ]
     },
