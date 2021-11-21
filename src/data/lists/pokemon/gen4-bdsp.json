@@ -128,73 +128,120 @@
         },
         {
             "value": "Catch Dialga",
-            "version": "Brilliant Diamond"
+            "version": "Brilliant Diamond",
+            "help": "Spear Pillar, after defeating Cyrus"
         },
         {
             "value": "Catch Palkia",
-            "version": "Shining Pearl"
+            "version": "Shining Pearl",
+            "help": "Spear Pillar, after defeating Cyrus"
         },
         {
-            "value": "Catch Uxie"
+            "value": "Catch Uxie",
+            "help": "Lake Acuity, after defeating Cyrus at Spear Pillar"
         },
         {
-            "value": "Catch Azelf"
+            "value": "Catch Azelf",
+            "help": "Roaming after you meet it at Lake Verity, after defeating Cyrus at Spear Pillar"
         },
         {
-            "value": "Catch Mespirit"
+            "value": "Catch Mespirit",
+            "help": "Lake Valor, after defeating Cyrus at Spear Pillar"
         },
         {
           "value": "Complete the Sinnoh Dex"
         },
         {
-            "value": "Catch Heatran"
+            "value": "Catch Heatran",
+            "help": "Stark Mountain, after getting the National Dex"
         },
         {
-            "value": "Catch Regigigas"
+            "value": "Catch Regigigas",
+            "help": "Snowpoint Temple, after getting the National Dex"
         },
         {
-            "value": "Catch Giratina"
+            "value": "Catch Giratina",
+            "help": "Turnback Cave, after getting the National Dex"
         },
         {
-            "value": "Catch Cresselia"
+            "value": "Catch Cresselia",
+            "help": "Roaming after meeting at Fullmoon Island, after getting the National Dex"
+        },
+        {
+            "value": "Catch Regirock",
+            "help": "Discovery Room in Ramanas Park"
+        },
+        {
+            "value": "Catch Regice",
+            "help": "Discovery Room in Ramanas Park"
+        },
+        {
+            "value": "Catch Registeel",
+            "help": "Discovery Room in Ramanas Park"
         },
         {
             "value": "Catch Entei",
-            "version": "Brilliant Diamond"
+            "version": "Brilliant Diamond",
+            "help": "Johto Room in Ramanas Park"
         },
         {
             "value": "Catch Suicune",
-            "version": "Brilliant Diamond"
+            "version": "Brilliant Diamond",
+            "help": "Johto Room in Ramanas Park"
         },
         {
             "value": "Catch Raikou",
-            "version": "Brilliant Diamond"
-        },
-        {
-            "value": "Catch Ho-Oh",
-            "version": "Brilliant Diamond"
+            "version": "Brilliant Diamond",
+            "help": "Johto Room in Ramanas Park"
         },
         {
             "value": "Catch Articuno",
-            "version": "Shining Pearl"
+            "version": "Shining Pearl",
+            "help": "Kanto Room in Ramanas Park"
         },
         {
             "value": "Catch Zapdos",
-            "version": "Shining Pearl"
+            "version": "Shining Pearl",
+            "help": "Kanto Room in Ramanas Park"
         },
         {
             "value": "Catch Moltres",
-            "version": "Shining Pearl"
+            "version": "Shining Pearl",
+            "help": "Kanto Room in Ramanas Park"
+        },
+        {
+            "value": "Catch Latias",
+            "help": "Soul Room in Ramanas Park"
+        },
+        {
+            "value": "Catch Latios",
+            "help": "Soul Room in Ramanas Park"
+        },
+        {
+            "value": "Catch Ho-Oh",
+            "version": "Brilliant Diamond",
+            "help": "Rainbow Room in Ramanas Park"
         },
         {
             "value": "Catch Lugia",
-            "version": "Shining Pearl"
+            "version": "Shining Pearl",
+            "help": "Squall Room in Ramanas Park"
         },
         {
-            "value": "Catch Mewtwo"
+            "value": "Catch Kyogre",
+            "help": "Oceanic Room in Ramanas Park"
         },
         {
-            "value": "Catch Rayquaza"
+            "value": "Catch Groudon",
+            "help": "Techtonic Room in Ramanas Park"
+        },
+        {
+            "value": "Catch Rayquaza",
+            "help": "Stratospheric Room in Ramanas Park"
+        },
+        {
+            "value": "Catch Mewtwo",
+            "help": "Genome Room in Ramanas Park"
         },
         {
             "value": "Trade/Transfer for Articuno",
