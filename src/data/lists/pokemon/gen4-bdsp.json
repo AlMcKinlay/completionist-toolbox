@@ -746,7 +746,19 @@
           "help": "Default outfit"
         },
         {
-          "value": "Winter Style",
+          "value": "Summer Style",
+          "help": "Defeat Elite Four"
+        },
+        {
+          "value": "Pikachu Hoodie Style",
+          "help": "Metronome Style Shop in Veilstone City"
+        },
+        {
+          "value": "Overalls Style",
+          "help": "Metronome Style Shop in Veilstone City"
+        },
+        {
+          "value": "Eevee Jacket Style",
           "help": "Metronome Style Shop in Veilstone City"
         },
         {
@@ -754,12 +766,28 @@
           "help": "Metronome Style Shop in Veilstone City"
         },
         {
+          "value": "Cyber Style",
+          "help": "Metronome Style Shop in Veilstone City"
+        },
+        {
+          "value": "Winter Style",
+          "help": "Metronome Style Shop in Veilstone City"
+        },
+        {
+          "value": "Spring Style",
+          "help": "Metronome Style Shop in Veilstone City"
+        },
+        {
+          "value": "Casual Style",
+          "help": "Metronome Style Shop in Veilstone City"
+        },
+        {
           "value": "Leather Jacket Style",
           "help": "Metronome Style Shop in Veilstone City"
         },
         {
-          "value": "Cyber Style",
-          "help": "Metronome Style Shop in Veilstone City"
+          "value": "Contest Style",
+          "help": "Enter a contest. Only usable in contests."
         },
         {
           "value": "Platinum Outfit",
