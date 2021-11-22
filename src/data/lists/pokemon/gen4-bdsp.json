@@ -891,6 +891,29 @@
     {
       "name": "Trainer Card",
       "entries": [
+        {
+            "value": "Red Card",
+            "help": "Initial Card"
+        },
+        {
+            "value": "Blue Card",
+            "help": "Defeat the Elite Four and the Champion"
+        },
+        {
+            "value": "Bronze Card",
+            "help": "Obtain Master Rank in one of the Contest categories"
+        },
+        {
+            "value": "Silver Card"
+        },
+        {
+            "value": "Gold Card",
+            "help": "Complete the National Dex"
+        },
+        {
+            "value": "Black Card",
+            "help": "Achieve a 100 win streak in the Battle Tower"
+        }
       ]
     },
     {
