@@ -909,8 +909,296 @@
       ]
     },
     {
-      "name": "Seals",
+      "name": "Ball Capsule Stickers",
       "entries": [
+        {
+          "value": "Heart Sticker A"
+        },
+        {
+          "value": "Heart Sticker B"
+        },
+        {
+          "value": "Heart Sticker C"
+        },
+        {
+          "value": "Heart Sticker D"
+        },
+        {
+          "value": "Heart Sticker E"
+        },
+        {
+          "value": "Heart Sticker F"
+        },
+        {
+          "value": "Star Sticker A"
+        },
+        {
+          "value": "Star Sticker B"
+        },
+        {
+          "value": "Star Sticker C"
+        },
+        {
+          "value": "Star Sticker D"
+        },
+        {
+          "value": "Star Sticker E"
+        },
+        {
+          "value": "Star Sticker F"
+        },
+        {
+          "value": "Ribbon Sticker A"
+        },
+        {
+          "value": "Ribbon Sticker B"
+        },
+        {
+          "value": "Ribbon Sticker C"
+        },
+        {
+          "value": "Ribbon Sticker D"
+        },
+        {
+          "value": "Smoke Sticker A"
+        },
+        {
+          "value": "Smoke Sticker B"
+        },
+        {
+          "value": "Smoke Sticker C"
+        },
+        {
+          "value": "Smoke Sticker D"
+        },
+        {
+          "value": "Electricity Sticker A"
+        },
+        {
+          "value": "Electricity Sticker B"
+        },
+        {
+          "value": "Electricity Sticker C"
+        },
+        {
+          "value": "Electricity Sticker D"
+        },
+        {
+          "value": "Bubble Sticker A"
+        },
+        {
+          "value": "Bubble Sticker B"
+        },
+        {
+          "value": "Bubble Sticker C"
+        },
+        {
+          "value": "Bubble Sticker D"
+        },
+        {
+          "value": "Fire Sticker A"
+        },
+        {
+          "value": "Fire Sticker B"
+        },
+        {
+          "value": "Fire Sticker C"
+        },
+        {
+          "value": "Fire Sticker D"
+        },
+        {
+          "value": "Party Sticker A"
+        },
+        {
+          "value": "Party Sticker B"
+        },
+        {
+          "value": "Party Sticker C"
+        },
+        {
+          "value": "Party Sticker D"
+        },
+        {
+          "value": "Flora Sticker A"
+        },
+        {
+          "value": "Flora Sticker B"
+        },
+        {
+          "value": "Flora Sticker C"
+        },
+        {
+          "value": "Flora Sticker D"
+        },
+        {
+          "value": "Flora Sticker E"
+        },
+        {
+          "value": "Flora Sticker F"
+        },
+        {
+          "value": "Song Sticker A"
+        },
+        {
+          "value": "Song Sticker B"
+        },
+        {
+          "value": "Song Sticker C"
+        },
+        {
+          "value": "Song Sticker D"
+        },
+        {
+          "value": "Song Sticker E"
+        },
+        {
+          "value": "Song Sticker F"
+        },
+        {
+          "value": "Song Sticker G"
+        },
+        {
+          "value": "Sinister Sticker A"
+        },
+        {
+          "value": "Sinister Sticker B"
+        },
+        {
+          "value": "Sinister Sticker C"
+        },
+        {
+          "value": "Ethereal Sticker A"
+        },
+        {
+          "value": "Ethereal Sticker B"
+        },
+        {
+          "value": "Ethereal Sticker C"
+        },
+        {
+          "value": "Cool Sticker A"
+        },
+        {
+          "value": "Cool Sticker B"
+        },
+        {
+          "value": "Cool Sticker C"
+        },
+        {
+          "value": "Burning Sticker A"
+        },
+        {
+          "value": "Burning Sticker B"
+        },
+        {
+          "value": "Burning Sticker C"
+        },
+        {
+          "value": "Sky Sticker A"
+        },
+        {
+          "value": "Sky Sticker B"
+        },
+        {
+          "value": "Sky Sticker C"
+        },
+        {
+          "value": "Stone Sticker A"
+        },
+        {
+          "value": "Stone Sticker B"
+        },
+        {
+          "value": "Stone Sticker C"
+        },
+        {
+          "value": "Leaf Sticker A"
+        },
+        {
+          "value": "Leaf Sticker B"
+        },
+        {
+          "value": "Leaf Sticker C"
+        },
+        {
+          "value": "Spark Sticker A"
+        },
+        {
+          "value": "Spark Sticker B"
+        },
+        {
+          "value": "Spark Sticker C"
+        },
+        {
+          "value": "Fashionista Sticker.png"
+        },
+        {
+          "value": "Coolness Sticker A"
+        },
+        {
+          "value": "Coolness Sticker B"
+        },
+        {
+          "value": "Coolness Sticker C"
+        },
+        {
+          "value": "Coolness Sticker D"
+        },
+        {
+          "value": "Beauty Sticker A"
+        },
+        {
+          "value": "Beauty Sticker B"
+        },
+        {
+          "value": "Beauty Sticker C"
+        },
+        {
+          "value": "Beauty Sticker D"
+        },
+        {
+          "value": "Cleverness Sticker A"
+        },
+        {
+          "value": "Cleverness Sticker B"
+        },
+        {
+          "value": "Cleverness Sticker C"
+        },
+        {
+          "value": "Cleverness Sticker D"
+        },
+        {
+          "value": "Toughness Sticker A"
+        },
+        {
+          "value": "Toughness Sticker B"
+        },
+        {
+          "value": "Toughness Sticker C"
+        },
+        {
+          "value": "Toughness Sticker D"
+        },
+        {
+          "value": "Cuteness Sticker A"
+        },
+        {
+          "value": "Cuteness Sticker B"
+        },
+        {
+          "value": "Cuteness Sticker C"
+        },
+        {
+          "value": "Cuteness Sticker D"
+        },
+        {
+          "value": "Show Master Sticker"
+        },
+        {
+          "value": "Champion Sticker.png"
+        }
       ]
     },
     {
