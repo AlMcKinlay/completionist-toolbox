@@ -13,6 +13,38 @@
           "value": "Defeat All League Gyms"
         },
         {
+          "value": "Get Rock Smash",
+          "help": "From hiker in Oreburgh Gate"
+        },
+        {
+          "value": "Get Cut",
+          "help": "From Cynthia after defeating Gardenia"
+        },
+        {
+          "value": "Get Fly",
+          "help": "To the right of the entrance to the Team Galactic Warehouse in Veilstone City"
+        },
+        {
+          "value": "Get Defog",
+          "help": "From Ace Trainer inside the Great Marsh"
+        },
+        {
+          "value": "Get Surf",
+          "help": "From Cynthia's Grandmother in Celestic Town"
+        },
+        {
+          "value": "Get Strength",
+          "help": "Climb to the top of the Lost Tower"
+        },
+        {
+          "value": "Get Rock Climb",
+          "help": "Next to a small house on Route 217"
+        },
+        {
+          "value": "Get Waterfall",
+          "help": "From Jasmine, on the shore above Sunyshore City, after defeating Volkner"
+        },
+        {
           "value": "Unlock Mystery Gift",
           "help": "Automatic after defeating the third gym. To get it earlier, after defeating first gym and defeating the Team Galactic Grunts North of Jubilife City, go to the 3rd floor of the Jubilife TV Station, talk to the TV producer, and answer with 'EVERYONE HAPPY WI-FI CONNECTION'"
         },
