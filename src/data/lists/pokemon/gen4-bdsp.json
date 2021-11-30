@@ -916,8 +916,34 @@
       ]
     },
     {
-      "name": "Underground Man Rewards",
+      "name": "Underground",
       "entries": [
+        {
+          "value": "Use Explorer Kit",
+          "help": "From Underground Man, reward: Red Sphere S, Blue Sphere S, Green Sphere S"
+        },
+        {
+          "value": "Dig an object",
+          "help": "From Underground Man, reward: Digger Drill"
+        },
+        {
+          "value": "Make a Secret Base",
+          "help": "From Underground Man, reward: 5 Quick Ball, 5 Dusk Ball, 5 Dive Ball"
+        },
+        {
+          "value": "Decorate a Secret Base",
+          "help": "From Underground Man, reward: 1 Square Pedestal XS"
+        },
+        {
+          "value": "Dig in a wall started by another player ",
+          "help": "From Underground Man, reward: Clear Pedestal L"
+        },
+        {
+          "value": "Expand your secret base"
+        },
+        {
+          "value": "Expand your secret base a second time"
+        }
       ]
     },
     {
