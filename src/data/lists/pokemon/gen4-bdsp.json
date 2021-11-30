@@ -1067,6 +1067,675 @@
     {
       "name": "Secret Base Statues",
       "entries": [
+        {
+          "value": "Bulbasaur Statue"
+        },
+        {
+            "value": "Ivysaur Statue"
+        },
+        {
+            "value": "Venusaur Statue"
+        },
+        {
+            "value": "Charmander Statue"
+        },
+        {
+            "value": "Charmeleon Statue"
+        },
+        {
+            "value": "Charizard Statue"
+        },
+        {
+            "value": "Squirtle Statue"
+        },
+        {
+            "value": "Wartortle Statue"
+        },
+        {
+            "value": "Blastoise Statue"
+        },
+        {
+            "value": "Pikachu Statue"
+        },
+        {
+            "value": "Nidoqueen Statue"
+        },
+        {
+            "value": "Nidoking Statue"
+        },
+        {
+            "value": "Clefairy Statue"
+        },
+        {
+            "value": "Vulpix Statue"
+        },
+        {
+            "value": "Jigglypuff Statue"
+        },
+        {
+            "value": "Oddish Statue"
+        },
+        {
+            "value": "Meowth Statue"
+        },
+        {
+            "value": "Psyduck Statue"
+        },
+        {
+            "value": "Arcanine Statue"
+        },
+        {
+            "value": "Poliwrath Statue"
+        },
+        {
+            "value": "Alakazam Statue"
+        },
+        {
+            "value": "Machamp Statue"
+        },
+        {
+            "value": "Tentacruel Statue"
+        },
+        {
+            "value": "Geodude Statue"
+        },
+        {
+            "value": "Rapidash Statue"
+        },
+        {
+            "value": "Slowpoke Statue"
+        },
+        {
+            "value": "Farfetchâ€™d Statue"
+        },
+        {
+            "value": "Gengar Statue"
+        },
+        {
+            "value": "Cubone Statue"
+        },
+        {
+            "value": "Lickitung Statue"
+        },
+        {
+            "value": "Weezing Statue"
+        },
+        {
+            "value": "Chansey Statue"
+        },
+        {
+            "value": "Kangaskhan Statue"
+        },
+        {
+            "value": "Seaking Statue"
+        },
+        {
+            "value": "Mr. Mime Statue"
+        },
+        {
+            "value": "Tauros Statue"
+        },
+        {
+            "value": "Magikarp Statue"
+        },
+        {
+            "value": "Gyarados Statue"
+        },
+        {
+            "value": "Lapras Statue"
+        },
+        {
+            "value": "Ditto Statue"
+        },
+        {
+            "value": "Eevee Statue"
+        },
+        {
+            "value": "Vaporeon Statue"
+        },
+        {
+            "value": "Jolteon Statue"
+        },
+        {
+            "value": "Flareon Statue"
+        },
+        {
+            "value": "Porygon Statue"
+        },
+        {
+            "value": "Omastar Statue"
+        },
+        {
+            "value": "Snorlax Statue"
+        },
+        {
+            "value": "Dragonite Statue"
+        },
+        {
+            "value": "Chikorita Statue"
+        },
+        {
+            "value": "Bayleef Statue"
+        },
+        {
+            "value": "Meganium Statue"
+        },
+        {
+            "value": "Cyndaquil Statue"
+        },
+        {
+            "value": "Quilava Statue"
+        },
+        {
+            "value": "Typhlosion Statue"
+        },
+        {
+            "value": "Totodile Statue"
+        },
+        {
+            "value": "Croconaw Statue"
+        },
+        {
+            "value": "Feraligatr Statue"
+        },
+        {
+            "value": "Furret Statue"
+        },
+        {
+            "value": "Noctowl Statue"
+        },
+        {
+            "value": "Crobat Statue"
+        },
+        {
+            "value": "Togepi Statue"
+        },
+        {
+            "value": "Ampharos Statue"
+        },
+        {
+            "value": "Bellossom Statue"
+        },
+        {
+            "value": "Marill Statue"
+        },
+        {
+            "value": "Sudowoodo Statue"
+        },
+        {
+            "value": "Aipom Statue"
+        },
+        {
+            "value": "Sunkern Statue"
+        },
+        {
+            "value": "Quagsire Statue"
+        },
+        {
+            "value": "Espeon Statue"
+        },
+        {
+            "value": "Umbreon Statue"
+        },
+        {
+            "value": "Murkrow Statue"
+        },
+        {
+            "value": "Unown Statue"
+        },
+        {
+            "value": "Wobbuffet Statue"
+        },
+        {
+            "value": "Girafarig Statue"
+        },
+        {
+            "value": "Dunsparce Statue"
+        },
+        {
+            "value": "Steelix Statue"
+        },
+        {
+            "value": "Snubbull Statue"
+        },
+        {
+            "value": "Scizor Statue"
+        },
+        {
+            "value": "Heracross Statue"
+        },
+        {
+            "value": "Magcargo Statue"
+        },
+        {
+            "value": "Octillery Statue"
+        },
+        {
+            "value": "Mantine Statue"
+        },
+        {
+            "value": "Smeargle Statue"
+        },
+        {
+            "value": "Miltank Statue"
+        },
+        {
+            "value": "Tyranitar Statue"
+        },
+        {
+            "value": "Treecko Statue"
+        },
+        {
+            "value": "Grovyle Statue"
+        },
+        {
+            "value": "Sceptile Statue"
+        },
+        {
+            "value": "Torchic Statue"
+        },
+        {
+            "value": "Combusken Statue"
+        },
+        {
+            "value": "Blaziken Statue"
+        },
+        {
+            "value": "Mudkip Statue"
+        },
+        {
+            "value": "Marshtomp Statue"
+        },
+        {
+            "value": "Swampert Statue"
+        },
+        {
+            "value": "Beautifly Statue"
+        },
+        {
+            "value": "Dustox Statue"
+        },
+        {
+            "value": "Ludicolo Statue"
+        },
+        {
+            "value": "Pelipper Statue"
+        },
+        {
+            "value": "Gardevoir Statue"
+        },
+        {
+            "value": "Shroomish Statue"
+        },
+        {
+            "value": "Slaking Statue"
+        },
+        {
+            "value": "Ninjask Statue"
+        },
+        {
+            "value": "Exploud Statue"
+        },
+        {
+            "value": "Skitty Statue"
+        },
+        {
+            "value": "Sableye Statue"
+        },
+        {
+            "value": "Mawile Statue"
+        },
+        {
+            "value": "Aggron Statue"
+        },
+        {
+            "value": "Medicham Statue"
+        },
+        {
+            "value": "Manectric Statue"
+        },
+        {
+            "value": "Plusle Statue"
+        },
+        {
+            "value": "Minun Statue"
+        },
+        {
+            "value": "Volbeat Statue"
+        },
+        {
+            "value": "Illumise Statue"
+        },
+        {
+            "value": "Roselia Statue"
+        },
+        {
+            "value": "Sharpedo Statue"
+        },
+        {
+            "value": "Wailmer Statue"
+        },
+        {
+            "value": "Camerupt Statue"
+        },
+        {
+            "value": "Torkoal Statue"
+        },
+        {
+            "value": "Flygon Statue"
+        },
+        {
+            "value": "Cacturne Statue"
+        },
+        {
+            "value": "Altaria Statue"
+        },
+        {
+            "value": "Zangoose Statue"
+        },
+        {
+            "value": "Seviper Statue"
+        },
+        {
+            "value": "Lunatone Statue"
+        },
+        {
+            "value": "Solrock Statue"
+        },
+        {
+            "value": "Whiscash Statue"
+        },
+        {
+            "value": "Claydol Statue"
+        },
+        {
+            "value": "Cradily Statue"
+        },
+        {
+            "value": "Milotic Statue"
+        },
+        {
+            "value": "Castform Statue"
+        },
+        {
+            "value": "Kecleon Statue"
+        },
+        {
+            "value": "Tropius Statue"
+        },
+        {
+            "value": "Chimecho Statue"
+        },
+        {
+            "value": "Absol Statue"
+        },
+        {
+            "value": "Spheal Statue"
+        },
+        {
+            "value": "Clamperl Statue"
+        },
+        {
+            "value": "Relicanth Statue"
+        },
+        {
+            "value": "Luvdisc Statue"
+        },
+        {
+            "value": "Salamence Statue"
+        },
+        {
+            "value": "Metagross Statue"
+        },
+        {
+            "value": "Turtwig Statue"
+        },
+        {
+            "value": "Grotle Statue"
+        },
+        {
+            "value": "Torterra Statue"
+        },
+        {
+            "value": "Chimchar Statue"
+        },
+        {
+            "value": "Monferno Statue"
+        },
+        {
+            "value": "Infernape Statue"
+        },
+        {
+            "value": "Piplup Statue"
+        },
+        {
+            "value": "Prinplup Statue"
+        },
+        {
+            "value": "Empoleon Statue"
+        },
+        {
+            "value": "Staraptor Statue"
+        },
+        {
+            "value": "Bibarel Statue"
+        },
+        {
+            "value": "Kricketot Statue"
+        },
+        {
+            "value": "Luxray Statue"
+        },
+        {
+            "value": "Budew Statue"
+        },
+        {
+            "value": "Roserade Statue"
+        },
+        {
+            "value": "Cranidos Statue"
+        },
+        {
+            "value": "Bastiodon Statue"
+        },
+        {
+            "value": "Burmy Statue"
+        },
+        {
+            "value": "Wormadam Statue"
+        },
+        {
+            "value": "Mothim Statue"
+        },
+        {
+            "value": "Vespiquen Statue"
+        },
+        {
+            "value": "Pachirisu Statue"
+        },
+        {
+            "value": "Floatzel Statue"
+        },
+        {
+            "value": "Cherubi Statue"
+        },
+        {
+            "value": "Gastrodon Statue"
+        },
+        {
+            "value": "Ambipom Statue"
+        },
+        {
+            "value": "Drifloon Statue"
+        },
+        {
+            "value": "Buneary Statue"
+        },
+        {
+            "value": "Mismagius Statue"
+        },
+        {
+            "value": "Honchkrow Statue"
+        },
+        {
+            "value": "Purugly Statue"
+        },
+        {
+            "value": "Skuntank Statue"
+        },
+        {
+            "value": "Bronzong Statue"
+        },
+        {
+            "value": "Happiny Statue"
+        },
+        {
+            "value": "Chatot Statue"
+        },
+        {
+            "value": "Garchomp Statue"
+        },
+        {
+            "value": "Lucario Statue"
+        },
+        {
+            "value": "Hippowdon Statue"
+        },
+        {
+            "value": "Drapion Statue"
+        },
+        {
+            "value": "Croagunk Statue"
+        },
+        {
+            "value": "Carnivine Statue"
+        },
+        {
+            "value": "Lumineon Statue"
+        },
+        {
+            "value": "Abomasnow Statue"
+        },
+        {
+            "value": "Weavile Statue"
+        },
+        {
+            "value": "Magnezone Statue"
+        },
+        {
+            "value": "Rhyperior Statue"
+        },
+        {
+            "value": "Tangrowth Statue"
+        },
+        {
+            "value": "Electivire Statue"
+        },
+        {
+            "value": "Magmortar Statue"
+        },
+        {
+            "value": "Togekiss Statue"
+        },
+        {
+            "value": "Yanmega Statue"
+        },
+        {
+            "value": "Leafeon Statue"
+        },
+        {
+            "value": "Glaceon Statue"
+        },
+        {
+            "value": "Gliscor Statue"
+        },
+        {
+            "value": "Mamoswine Statue"
+        },
+        {
+            "value": "Porygon-Z Statue"
+        },
+        {
+            "value": "Gallade Statue"
+        },
+        {
+            "value": "Probopass Statue"
+        },
+        {
+            "value": "Dusknoir Statue"
+        },
+        {
+            "value": "Froslass Statue"
+        },
+        {
+            "value": "Rotom Statue"
+        },
+        {
+            "value": "Rotom Statue"
+        },
+        {
+            "value": "Rotom Statue"
+        },
+        {
+            "value": "Rotom Statue"
+        },
+        {
+            "value": "Rotom Statue"
+        },
+        {
+            "value": "Rotom Statue"
+        },
+        {
+            "value": "Articuno Statue"
+        },
+        {
+            "value": "Zapdos Statue"
+        },
+        {
+            "value": "Moltres Statue"
+        },
+        {
+            "value": "Mewtwo Statue"
+        },
+        {
+            "value": "Raikou Statue"
+        },
+        {
+            "value": "Entei Statue"
+        },
+        {
+            "value": "Suicune Statue"
+        },
+        {
+            "value": "Lugia Statue"
+        },
+        {
+            "value": "Ho-Oh Statue"
+        },
+        {
+            "value": "Regirock Statue"
+        },
+        {
+            "value": "Regice Statue"
+        },
+        {
+            "value": "Registeel Statue"
+        },
+        {
+            "value": "Latias Statue"
+        },
+        {
+            "value": "Latios Statue"
+        },
+        {
+            "value": "Kyogre Statue"
+        },
+        {
+            "value": "Groudon Statue"
+        },
+        {
+            "value": "Rayquaza Statue Rayquaza Statue"
+        }
       ]
     },
     {
