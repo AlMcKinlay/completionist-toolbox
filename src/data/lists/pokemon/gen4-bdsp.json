@@ -914,79 +914,112 @@
       "name": "Poffin Cooking",
       "entries": [
         {
-          "value": "Spicy Poffin"
+          "value": "Spicy Poffin",
+          "help": "A Poffin made with Spicy Berries"
         },
         {
-            "value": "Spicy-Dry Poffin"
+            "value": "Spicy-Dry Poffin",
+            "help": "A Poffin made with Spicy & Dry Berries"
         },
         {
-            "value": "Spicy-Sweet Poffin"
+            "value": "Spicy-Sweet Poffin",
+            "help": "A Poffin made with Spicy & Sweet Berries"
         },
         {
-            "value": "Spicy-Bitter Poffin"
+            "value": "Spicy-Bitter Poffin",
+            "help": "A Poffin made with Spicy & Bitter Berries"
         },
         {
-            "value": "Spicy-Sour Poffin"
+            "value": "Spicy-Sour Poffin",
+            "help": "A Poffin made with Spicy & Sour Berries"
         },
         {
-            "value": "Dry-Spicy Poffin"
+            "value": "Dry-Spicy Poffin",
+            "help": "A Poffin made with Dry & Spicy Berries"
         },
         {
-            "value": "Dry Poffin"
+            "value": "Dry Poffin",
+            "help": "A Poffin made with Dry Berries"
         },
         {
-            "value": "Dry-Sweet Poffin"
+            "value": "Dry-Sweet Poffin",
+            "help": "A Poffin made with Dry & Sweet Berries"
         },
         {
-            "value": "Dry-Bitter Poffin"
+            "value": "Dry-Bitter Poffin",
+            "help": "A Poffin made with Dry & Bitter Berries"
         },
         {
-            "value": "Dry-Sour Poffin"
+            "value": "Dry-Sour Poffin",
+            "help": "A Poffin made with Dry & Sour Berries"
         },
         {
-            "value": "Sweet-Spicy Poffin"
+            "value": "Sweet-Spicy Poffin",
+            "help": "A Poffin made with Sweet & Spicy Berries"
         },
         {
-            "value": "Sweet-Dry Poffin"
+            "value": "Sweet-Dry Poffin",
+            "help": "A Poffin made with Sweet & Dry Berries"
         },
         {
-            "value": "Sweet Poffin"
+            "value": "Sweet Poffin",
+            "help": "A Poffin made with Sweet Berries"
         },
         {
-            "value": "Sweet-Bitter Poffin"
+            "value": "Sweet-Bitter Poffin",
+            "help": "A Poffin made with Sweet & Bitter Berries"
         },
         {
-            "value": "Sweet-Sour Poffin"
+            "value": "Sweet-Sour Poffin",
+            "help": "A Poffin made with Sweet & Sour Berries"
         },
         {
-            "value": "Bitter-Spicy Poffin"
+            "value": "Bitter-Spicy Poffin",
+            "help": "A Poffin made with Bitter & Spicy Berries"
         },
         {
-            "value": "Bitter-Dry Poffin"
+            "value": "Bitter-Dry Poffin",
+            "help": "A Poffin made with Bitter & Dry Berries"
         },
         {
-            "value": "Bitter-Sweet Poffin"
+            "value": "Bitter-Sweet Poffin",
+            "help": "A Poffin made with Bitter & Sweet Berries"
         },
         {
-            "value": "Bitter Poffin"
+            "value": "Bitter Poffin",
+            "help": "A Poffin made with Bitter Berries"
         },
         {
-            "value": "Bitter-Sour Poffin"
+            "value": "Bitter-Sour Poffin",
+            "help": "A Poffin made with Bitter & Sour Berries"
         },
         {
-            "value": "Sour-Spicy Poffin"
+            "value": "Sour-Spicy Poffin",
+            "help": "A Poffin made with Sour & Spicy Berries"
         },
         {
-            "value": "Sour-Dry Poffin"
+            "value": "Sour-Dry Poffin",
+            "help": "A Poffin made with Sour & Dry Berries"
         },
         {
-            "value": "Sour-Sweet Poffin"
+            "value": "Sour-Sweet Poffin",
+            "help": "A Poffin made with Sour & Sweet Berries"
         },
         {
-            "value": "Sour-Bitter Poffin"
+            "value": "Sour-Bitter Poffin",
+            "help": "A Poffin made with Sour & Bitter Berries"
         },
         {
-            "value": "Sour Poffin"
+            "value": "Sour Poffin",
+            "help": "A Poffin made with Sour Berries"
+        },
+        {
+            "value": "Mild Poffin",
+            "help": "A Poffin made with a mixture of all kinds of Berries"
+        },
+        {
+            "value": "Super Mild Poffin",
+            "help": "A Poffin made with a mixture of all kinds of Berries"
         },
         {
             "value": "Rich Poffin"
@@ -995,13 +1028,8 @@
             "value": "Overripe Poffin"
         },
         {
-            "value": "Foul Poffin"
-        },
-        {
-            "value": "Mild Poffin"
-        },
-        {
-            "value": "Super Mild Poffin"
+            "value": "Foul Poffin",
+            "help": "A poffin that has been overcooked or cooked with a bad mix of ingredients"
         }
       ]
     },
