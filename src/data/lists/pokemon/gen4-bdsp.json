@@ -1767,8 +1767,31 @@
       ]
     },
     {
-      "name": "Super Contest Rewards",
+      "name": "Super Contest Ribbons",
       "entries": [
+        {
+            "value": "Coolness Master Ribbon"
+        },
+        {
+            "value": "Beauty Master Ribbon"
+        },
+        {
+            "value": "Cuteness Master Ribbon"
+        },
+        {
+            "value": "Cleverness Master Ribbon"
+        },
+        {
+            "value": "Toughness Master Ribbon"
+        },
+        {
+            "value": "Contest Star Ribbon",
+            "help": "Get Master Rank in all 5"
+        },
+        {
+            "value": "Twinkling Star Ribbon",
+            "help": "Be Star of the Show in all Ranks of Super Contest"
+        }
       ]
     },
     {
