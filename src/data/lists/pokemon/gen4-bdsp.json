@@ -913,6 +913,96 @@
     {
       "name": "Poffin Cooking",
       "entries": [
+        {
+          "value": "Spicy Poffin"
+        },
+        {
+            "value": "Spicy-Dry Poffin"
+        },
+        {
+            "value": "Spicy-Sweet Poffin"
+        },
+        {
+            "value": "Spicy-Bitter Poffin"
+        },
+        {
+            "value": "Spicy-Sour Poffin"
+        },
+        {
+            "value": "Dry-Spicy Poffin"
+        },
+        {
+            "value": "Dry Poffin"
+        },
+        {
+            "value": "Dry-Sweet Poffin"
+        },
+        {
+            "value": "Dry-Bitter Poffin"
+        },
+        {
+            "value": "Dry-Sour Poffin"
+        },
+        {
+            "value": "Sweet-Spicy Poffin"
+        },
+        {
+            "value": "Sweet-Dry Poffin"
+        },
+        {
+            "value": "Sweet Poffin"
+        },
+        {
+            "value": "Sweet-Bitter Poffin"
+        },
+        {
+            "value": "Sweet-Sour Poffin"
+        },
+        {
+            "value": "Bitter-Spicy Poffin"
+        },
+        {
+            "value": "Bitter-Dry Poffin"
+        },
+        {
+            "value": "Bitter-Sweet Poffin"
+        },
+        {
+            "value": "Bitter Poffin"
+        },
+        {
+            "value": "Bitter-Sour Poffin"
+        },
+        {
+            "value": "Sour-Spicy Poffin"
+        },
+        {
+            "value": "Sour-Dry Poffin"
+        },
+        {
+            "value": "Sour-Sweet Poffin"
+        },
+        {
+            "value": "Sour-Bitter Poffin"
+        },
+        {
+            "value": "Sour Poffin"
+        },
+        {
+            "value": "Rich Poffin"
+        },
+        {
+            "value": "Overripe Poffin"
+        },
+        {
+            "value": "Foul Poffin"
+        },
+        {
+            "value": "Mild Poffin"
+        },
+        {
+            "value": "Super Mild Poffin"
+        }
       ]
     },
     {
