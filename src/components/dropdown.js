@@ -29,7 +29,7 @@ const Menu = styled(DropdownToggle)`
     }
     background: ${props => props.theme.background()};
     border-color: ${props => props.theme.background()};
-    color: ${props => props.theme.textColor()}
+    color: ${props => props.theme.textColor()};
     box-shadow: none;
     ${(props) => {
         if (props.positioned !== "normal") {
@@ -39,7 +39,7 @@ const Menu = styled(DropdownToggle)`
             right: 0;
             `;
         }
-    }}
+    }};
 `;
 
 const StyledDropdownMenu = styled(DropdownMenu)`
