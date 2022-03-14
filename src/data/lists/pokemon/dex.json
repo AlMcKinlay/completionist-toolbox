@@ -1,0 +1,3922 @@
+{
+  "name": "Pokemon Living Dex",
+  "sections": [
+    {
+      "name": "Kanto",
+      "entries": [
+        {
+          "value": "Bulbasaur"
+        },
+        {
+          "value": "Ivysaur"
+        },
+        {
+          "value": "Venusaur"
+        },
+        {
+          "value": "Charmander"
+        },
+        {
+          "value": "Charmeleon"
+        },
+        {
+          "value": "Charizard"
+        },
+        {
+          "value": "Squirtle"
+        },
+        {
+          "value": "Wartortle"
+        },
+        {
+          "value": "Blastoise"
+        },
+        {
+          "value": "Caterpie"
+        },
+        {
+          "value": "Metapod"
+        },
+        {
+          "value": "Butterfree"
+        },
+        {
+          "value": "Weedle"
+        },
+        {
+          "value": "Kakuna"
+        },
+        {
+          "value": "Beedrill"
+        },
+        {
+          "value": "Pidgey"
+        },
+        {
+          "value": "Pidgeotto"
+        },
+        {
+          "value": "Pidgeot"
+        },
+        {
+          "value": "Rattata"
+        },
+        {
+          "value": "Raticate"
+        },
+        {
+          "value": "Spearow"
+        },
+        {
+          "value": "Fearow"
+        },
+        {
+          "value": "Ekans"
+        },
+        {
+          "value": "Arbok"
+        },
+        {
+          "value": "Pikachu"
+        },
+        {
+          "value": "Raichu"
+        },
+        {
+          "value": "Sandshrew"
+        },
+        {
+          "value": "Sandslash"
+        },
+        {
+          "value": "Nidoran♀"
+        },
+        {
+          "value": "Nidorina"
+        },
+        {
+          "value": "Nidoqueen"
+        },
+        {
+          "value": "Nidoran♂"
+        },
+        {
+          "value": "Nidorino"
+        },
+        {
+          "value": "Nidoking"
+        },
+        {
+          "value": "Clefairy"
+        },
+        {
+          "value": "Clefable"
+        },
+        {
+          "value": "Vulpix"
+        },
+        {
+          "value": "Ninetales"
+        },
+        {
+          "value": "Jigglypuff"
+        },
+        {
+          "value": "Wigglytuff"
+        },
+        {
+          "value": "Zubat"
+        },
+        {
+          "value": "Golbat"
+        },
+        {
+          "value": "Oddish"
+        },
+        {
+          "value": "Gloom"
+        },
+        {
+          "value": "Vileplume"
+        },
+        {
+          "value": "Paras"
+        },
+        {
+          "value": "Parasect"
+        },
+        {
+          "value": "Venonat"
+        },
+        {
+          "value": "Venomoth"
+        },
+        {
+          "value": "Diglett"
+        },
+        {
+          "value": "Dugtrio"
+        },
+        {
+          "value": "Meowth"
+        },
+        {
+          "value": "Persian"
+        },
+        {
+          "value": "Psyduck"
+        },
+        {
+          "value": "Golduck"
+        },
+        {
+          "value": "Mankey"
+        },
+        {
+          "value": "Primeape"
+        },
+        {
+          "value": "Growlithe"
+        },
+        {
+          "value": "Arcanine"
+        },
+        {
+          "value": "Poliwag"
+        },
+        {
+          "value": "Poliwhirl"
+        },
+        {
+          "value": "Poliwrath"
+        },
+        {
+          "value": "Abra"
+        },
+        {
+          "value": "Kadabra"
+        },
+        {
+          "value": "Alakazam"
+        },
+        {
+          "value": "Machop"
+        },
+        {
+          "value": "Machoke"
+        },
+        {
+          "value": "Machamp"
+        },
+        {
+          "value": "Bellsprout"
+        },
+        {
+          "value": "Weepinbell"
+        },
+        {
+          "value": "Victreebel"
+        },
+        {
+          "value": "Tentacool"
+        },
+        {
+          "value": "Tentacruel"
+        },
+        {
+          "value": "Geodude"
+        },
+        {
+          "value": "Graveler"
+        },
+        {
+          "value": "Golem"
+        },
+        {
+          "value": "Ponyta"
+        },
+        {
+          "value": "Rapidash"
+        },
+        {
+          "value": "Slowpoke"
+        },
+        {
+          "value": "Slowbro"
+        },
+        {
+          "value": "Magnemite"
+        },
+        {
+          "value": "Magneton"
+        },
+        {
+          "value": "Farfetch’d"
+        },
+        {
+          "value": "Doduo"
+        },
+        {
+          "value": "Dodrio"
+        },
+        {
+          "value": "Seel"
+        },
+        {
+          "value": "Dewgong"
+        },
+        {
+          "value": "Grimer"
+        },
+        {
+          "value": "Muk"
+        },
+        {
+          "value": "Shellder"
+        },
+        {
+          "value": "Cloyster"
+        },
+        {
+          "value": "Gastly"
+        },
+        {
+          "value": "Haunter"
+        },
+        {
+          "value": "Gengar"
+        },
+        {
+          "value": "Onix"
+        },
+        {
+          "value": "Drowzee"
+        },
+        {
+          "value": "Hypno"
+        },
+        {
+          "value": "Krabby"
+        },
+        {
+          "value": "Kingler"
+        },
+        {
+          "value": "Voltorb"
+        },
+        {
+          "value": "Electrode"
+        },
+        {
+          "value": "Exeggcute"
+        },
+        {
+          "value": "Exeggutor"
+        },
+        {
+          "value": "Cubone"
+        },
+        {
+          "value": "Marowak"
+        },
+        {
+          "value": "Hitmonlee"
+        },
+        {
+          "value": "Hitmonchan"
+        },
+        {
+          "value": "Lickitung"
+        },
+        {
+          "value": "Koffing"
+        },
+        {
+          "value": "Weezing"
+        },
+        {
+          "value": "Rhyhorn"
+        },
+        {
+          "value": "Rhydon"
+        },
+        {
+          "value": "Chansey"
+        },
+        {
+          "value": "Tangela"
+        },
+        {
+          "value": "Kangaskhan"
+        },
+        {
+          "value": "Horsea"
+        },
+        {
+          "value": "Seadra"
+        },
+        {
+          "value": "Goldeen"
+        },
+        {
+          "value": "Seaking"
+        },
+        {
+          "value": "Staryu"
+        },
+        {
+          "value": "Starmie"
+        },
+        {
+          "value": "Mr. Mime"
+        },
+        {
+          "value": "Scyther"
+        },
+        {
+          "value": "Jynx"
+        },
+        {
+          "value": "Electabuzz"
+        },
+        {
+          "value": "Magmar"
+        },
+        {
+          "value": "Pinsir"
+        },
+        {
+          "value": "Tauros"
+        },
+        {
+          "value": "Magikarp"
+        },
+        {
+          "value": "Gyarados"
+        },
+        {
+          "value": "Lapras"
+        },
+        {
+          "value": "Ditto"
+        },
+        {
+          "value": "Eevee"
+        },
+        {
+          "value": "Vaporeon"
+        },
+        {
+          "value": "Jolteon"
+        },
+        {
+          "value": "Flareon"
+        },
+        {
+          "value": "Porygon"
+        },
+        {
+          "value": "Omanyte"
+        },
+        {
+          "value": "Omastar"
+        },
+        {
+          "value": "Kabuto"
+        },
+        {
+          "value": "Kabutops"
+        },
+        {
+          "value": "Aerodactyl"
+        },
+        {
+          "value": "Snorlax"
+        },
+        {
+          "value": "Articuno"
+        },
+        {
+          "value": "Zapdos"
+        },
+        {
+          "value": "Moltres"
+        },
+        {
+          "value": "Dratini"
+        },
+        {
+          "value": "Dragonair"
+        },
+        {
+          "value": "Dragonite"
+        },
+        {
+          "value": "Mewtwo"
+        },
+        {
+          "value": "Mew"
+        }
+      ]
+    },
+    {
+      "name": "Johto",
+      "entries": [
+        {
+          "value": "Chikorita"
+        },
+        {
+          "value": "Bayleef"
+        },
+        {
+          "value": "Meganium"
+        },
+        {
+          "value": "Cyndaquil"
+        },
+        {
+          "value": "Quilava"
+        },
+        {
+          "value": "Typhlosion"
+        },
+        {
+          "value": "Totodile"
+        },
+        {
+          "value": "Croconaw"
+        },
+        {
+          "value": "Feraligatr"
+        },
+        {
+          "value": "Sentret"
+        },
+        {
+          "value": "Furret"
+        },
+        {
+          "value": "Hoothoot"
+        },
+        {
+          "value": "Noctowl"
+        },
+        {
+          "value": "Ledyba"
+        },
+        {
+          "value": "Ledian"
+        },
+        {
+          "value": "Spinarak"
+        },
+        {
+          "value": "Ariados"
+        },
+        {
+          "value": "Crobat"
+        },
+        {
+          "value": "Chinchou"
+        },
+        {
+          "value": "Lanturn"
+        },
+        {
+          "value": "Pichu"
+        },
+        {
+          "value": "Cleffa"
+        },
+        {
+          "value": "Igglybuff"
+        },
+        {
+          "value": "Togepi"
+        },
+        {
+          "value": "Togetic"
+        },
+        {
+          "value": "Natu"
+        },
+        {
+          "value": "Xatu"
+        },
+        {
+          "value": "Mareep"
+        },
+        {
+          "value": "Flaaffy"
+        },
+        {
+          "value": "Ampharos"
+        },
+        {
+          "value": "Bellossom"
+        },
+        {
+          "value": "Marill"
+        },
+        {
+          "value": "Azumarill"
+        },
+        {
+          "value": "Sudowoodo"
+        },
+        {
+          "value": "Politoed"
+        },
+        {
+          "value": "Hoppip"
+        },
+        {
+          "value": "Skiploom"
+        },
+        {
+          "value": "Jumpluff"
+        },
+        {
+          "value": "Aipom"
+        },
+        {
+          "value": "Sunkern"
+        },
+        {
+          "value": "Sunflora"
+        },
+        {
+          "value": "Yanma"
+        },
+        {
+          "value": "Wooper"
+        },
+        {
+          "value": "Quagsire"
+        },
+        {
+          "value": "Espeon"
+        },
+        {
+          "value": "Umbreon"
+        },
+        {
+          "value": "Murkrow"
+        },
+        {
+          "value": "Slowking"
+        },
+        {
+          "value": "Misdreavus"
+        },
+        {
+          "value": "Unown"
+        },
+        {
+          "value": "Wobbuffet"
+        },
+        {
+          "value": "Girafarig"
+        },
+        {
+          "value": "Pineco"
+        },
+        {
+          "value": "Forretress"
+        },
+        {
+          "value": "Dunsparce"
+        },
+        {
+          "value": "Gligar"
+        },
+        {
+          "value": "Steelix"
+        },
+        {
+          "value": "Snubbull"
+        },
+        {
+          "value": "Granbull"
+        },
+        {
+          "value": "Qwilfish"
+        },
+        {
+          "value": "Scizor"
+        },
+        {
+          "value": "Shuckle"
+        },
+        {
+          "value": "Heracross"
+        },
+        {
+          "value": "Sneasel"
+        },
+        {
+          "value": "Teddiursa"
+        },
+        {
+          "value": "Ursaring"
+        },
+        {
+          "value": "Slugma"
+        },
+        {
+          "value": "Magcargo"
+        },
+        {
+          "value": "Swinub"
+        },
+        {
+          "value": "Piloswine"
+        },
+        {
+          "value": "Corsola"
+        },
+        {
+          "value": "Remoraid"
+        },
+        {
+          "value": "Octillery"
+        },
+        {
+          "value": "Delibird"
+        },
+        {
+          "value": "Mantine"
+        },
+        {
+          "value": "Skarmory"
+        },
+        {
+          "value": "Houndour"
+        },
+        {
+          "value": "Houndoom"
+        },
+        {
+          "value": "Kingdra"
+        },
+        {
+          "value": "Phanpy"
+        },
+        {
+          "value": "Donphan"
+        },
+        {
+          "value": "Porygon2"
+        },
+        {
+          "value": "Stantler"
+        },
+        {
+          "value": "Smeargle"
+        },
+        {
+          "value": "Tyrogue"
+        },
+        {
+          "value": "Hitmontop"
+        },
+        {
+          "value": "Smoochum"
+        },
+        {
+          "value": "Elekid"
+        },
+        {
+          "value": "Magby"
+        },
+        {
+          "value": "Miltank"
+        },
+        {
+          "value": "Blissey"
+        },
+        {
+          "value": "Raikou"
+        },
+        {
+          "value": "Entei"
+        },
+        {
+          "value": "Suicune"
+        },
+        {
+          "value": "Larvitar"
+        },
+        {
+          "value": "Pupitar"
+        },
+        {
+          "value": "Tyranitar"
+        },
+        {
+          "value": "Lugia"
+        },
+        {
+          "value": "Ho-Oh"
+        },
+        {
+          "value": "Celebi"
+        }
+      ]
+    },
+    {
+      "name": "Hoenn",
+      "entries": [
+        {
+          "value": "Treecko"
+        },
+        {
+          "value": "Grovyle"
+        },
+        {
+          "value": "Sceptile"
+        },
+        {
+          "value": "Torchic"
+        },
+        {
+          "value": "Combusken"
+        },
+        {
+          "value": "Blaziken"
+        },
+        {
+          "value": "Mudkip"
+        },
+        {
+          "value": "Marshtomp"
+        },
+        {
+          "value": "Swampert"
+        },
+        {
+          "value": "Poochyena"
+        },
+        {
+          "value": "Mightyena"
+        },
+        {
+          "value": "Zigzagoon"
+        },
+        {
+          "value": "Linoone"
+        },
+        {
+          "value": "Wurmple"
+        },
+        {
+          "value": "Silcoon"
+        },
+        {
+          "value": "Beautifly"
+        },
+        {
+          "value": "Cascoon"
+        },
+        {
+          "value": "Dustox"
+        },
+        {
+          "value": "Lotad"
+        },
+        {
+          "value": "Lombre"
+        },
+        {
+          "value": "Ludicolo"
+        },
+        {
+          "value": "Seedot"
+        },
+        {
+          "value": "Nuzleaf"
+        },
+        {
+          "value": "Shiftry"
+        },
+        {
+          "value": "Taillow"
+        },
+        {
+          "value": "Swellow"
+        },
+        {
+          "value": "Wingull"
+        },
+        {
+          "value": "Pelipper"
+        },
+        {
+          "value": "Ralts"
+        },
+        {
+          "value": "Kirlia"
+        },
+        {
+          "value": "Gardevoir"
+        },
+        {
+          "value": "Surskit"
+        },
+        {
+          "value": "Masquerain"
+        },
+        {
+          "value": "Shroomish"
+        },
+        {
+          "value": "Breloom"
+        },
+        {
+          "value": "Slakoth"
+        },
+        {
+          "value": "Vigoroth"
+        },
+        {
+          "value": "Slaking"
+        },
+        {
+          "value": "Nincada"
+        },
+        {
+          "value": "Ninjask"
+        },
+        {
+          "value": "Shedinja"
+        },
+        {
+          "value": "Whismur"
+        },
+        {
+          "value": "Loudred"
+        },
+        {
+          "value": "Exploud"
+        },
+        {
+          "value": "Makuhita"
+        },
+        {
+          "value": "Hariyama"
+        },
+        {
+          "value": "Azurill"
+        },
+        {
+          "value": "Nosepass"
+        },
+        {
+          "value": "Skitty"
+        },
+        {
+          "value": "Delcatty"
+        },
+        {
+          "value": "Sableye"
+        },
+        {
+          "value": "Mawile"
+        },
+        {
+          "value": "Aron"
+        },
+        {
+          "value": "Lairon"
+        },
+        {
+          "value": "Aggron"
+        },
+        {
+          "value": "Meditite"
+        },
+        {
+          "value": "Medicham"
+        },
+        {
+          "value": "Electrike"
+        },
+        {
+          "value": "Manectric"
+        },
+        {
+          "value": "Plusle"
+        },
+        {
+          "value": "Minun"
+        },
+        {
+          "value": "Volbeat"
+        },
+        {
+          "value": "Illumise"
+        },
+        {
+          "value": "Roselia"
+        },
+        {
+          "value": "Gulpin"
+        },
+        {
+          "value": "Swalot"
+        },
+        {
+          "value": "Carvanha"
+        },
+        {
+          "value": "Sharpedo"
+        },
+        {
+          "value": "Wailmer"
+        },
+        {
+          "value": "Wailord"
+        },
+        {
+          "value": "Numel"
+        },
+        {
+          "value": "Camerupt"
+        },
+        {
+          "value": "Torkoal"
+        },
+        {
+          "value": "Spoink"
+        },
+        {
+          "value": "Grumpig"
+        },
+        {
+          "value": "Spinda"
+        },
+        {
+          "value": "Trapinch"
+        },
+        {
+          "value": "Vibrava"
+        },
+        {
+          "value": "Flygon"
+        },
+        {
+          "value": "Cacnea"
+        },
+        {
+          "value": "Cacturne"
+        },
+        {
+          "value": "Swablu"
+        },
+        {
+          "value": "Altaria"
+        },
+        {
+          "value": "Zangoose"
+        },
+        {
+          "value": "Seviper"
+        },
+        {
+          "value": "Lunatone"
+        },
+        {
+          "value": "Solrock"
+        },
+        {
+          "value": "Barboach"
+        },
+        {
+          "value": "Whiscash"
+        },
+        {
+          "value": "Corphish"
+        },
+        {
+          "value": "Crawdaunt"
+        },
+        {
+          "value": "Baltoy"
+        },
+        {
+          "value": "Claydol"
+        },
+        {
+          "value": "Lileep"
+        },
+        {
+          "value": "Cradily"
+        },
+        {
+          "value": "Anorith"
+        },
+        {
+          "value": "Armaldo"
+        },
+        {
+          "value": "Feebas"
+        },
+        {
+          "value": "Milotic"
+        },
+        {
+          "value": "Castform"
+        },
+        {
+          "value": "Kecleon"
+        },
+        {
+          "value": "Shuppet"
+        },
+        {
+          "value": "Banette"
+        },
+        {
+          "value": "Duskull"
+        },
+        {
+          "value": "Dusclops"
+        },
+        {
+          "value": "Tropius"
+        },
+        {
+          "value": "Chimecho"
+        },
+        {
+          "value": "Absol"
+        },
+        {
+          "value": "Wynaut"
+        },
+        {
+          "value": "Snorunt"
+        },
+        {
+          "value": "Glalie"
+        },
+        {
+          "value": "Spheal"
+        },
+        {
+          "value": "Sealeo"
+        },
+        {
+          "value": "Walrein"
+        },
+        {
+          "value": "Clamperl"
+        },
+        {
+          "value": "Huntail"
+        },
+        {
+          "value": "Gorebyss"
+        },
+        {
+          "value": "Relicanth"
+        },
+        {
+          "value": "Luvdisc"
+        },
+        {
+          "value": "Bagon"
+        },
+        {
+          "value": "Shelgon"
+        },
+        {
+          "value": "Salamence"
+        },
+        {
+          "value": "Beldum"
+        },
+        {
+          "value": "Metang"
+        },
+        {
+          "value": "Metagross"
+        },
+        {
+          "value": "Regirock"
+        },
+        {
+          "value": "Regice"
+        },
+        {
+          "value": "Registeel"
+        },
+        {
+          "value": "Latias"
+        },
+        {
+          "value": "Latios"
+        },
+        {
+          "value": "Kyogre"
+        },
+        {
+          "value": "Groudon"
+        },
+        {
+          "value": "Rayquaza"
+        },
+        {
+          "value": "Jirachi"
+        },
+        {
+          "value": "Deoxys"
+        }
+      ]
+    },
+    {
+      "name": "Sinnoh",
+      "entries": [
+        {
+          "value": "Turtwig"
+        },
+        {
+          "value": "Grotle"
+        },
+        {
+          "value": "Torterra"
+        },
+        {
+          "value": "Chimchar"
+        },
+        {
+          "value": "Monferno"
+        },
+        {
+          "value": "Infernape"
+        },
+        {
+          "value": "Piplup"
+        },
+        {
+          "value": "Prinplup"
+        },
+        {
+          "value": "Empoleon"
+        },
+        {
+          "value": "Starly"
+        },
+        {
+          "value": "Staravia"
+        },
+        {
+          "value": "Staraptor"
+        },
+        {
+          "value": "Bidoof"
+        },
+        {
+          "value": "Bibarel"
+        },
+        {
+          "value": "Kricketot"
+        },
+        {
+          "value": "Kricketune"
+        },
+        {
+          "value": "Shinx"
+        },
+        {
+          "value": "Luxio"
+        },
+        {
+          "value": "Luxray"
+        },
+        {
+          "value": "Budew"
+        },
+        {
+          "value": "Roserade"
+        },
+        {
+          "value": "Cranidos"
+        },
+        {
+          "value": "Rampardos"
+        },
+        {
+          "value": "Shieldon"
+        },
+        {
+          "value": "Bastiodon"
+        },
+        {
+          "value": "Burmy"
+        },
+        {
+          "value": "Wormadam"
+        },
+        {
+          "value": "Mothim"
+        },
+        {
+          "value": "Combee"
+        },
+        {
+          "value": "Vespiquen"
+        },
+        {
+          "value": "Pachirisu"
+        },
+        {
+          "value": "Buizel"
+        },
+        {
+          "value": "Floatzel"
+        },
+        {
+          "value": "Cherubi"
+        },
+        {
+          "value": "Cherrim"
+        },
+        {
+          "value": "Shellos"
+        },
+        {
+          "value": "Gastrodon"
+        },
+        {
+          "value": "Ambipom"
+        },
+        {
+          "value": "Drifloon"
+        },
+        {
+          "value": "Drifblim"
+        },
+        {
+          "value": "Buneary"
+        },
+        {
+          "value": "Lopunny"
+        },
+        {
+          "value": "Mismagius"
+        },
+        {
+          "value": "Honchkrow"
+        },
+        {
+          "value": "Glameow"
+        },
+        {
+          "value": "Purugly"
+        },
+        {
+          "value": "Chingling"
+        },
+        {
+          "value": "Stunky"
+        },
+        {
+          "value": "Skuntank"
+        },
+        {
+          "value": "Bronzor"
+        },
+        {
+          "value": "Bronzong"
+        },
+        {
+          "value": "Bonsly"
+        },
+        {
+          "value": "Mime Jr."
+        },
+        {
+          "value": "Happiny"
+        },
+        {
+          "value": "Chatot"
+        },
+        {
+          "value": "Spiritomb"
+        },
+        {
+          "value": "Gible"
+        },
+        {
+          "value": "Gabite"
+        },
+        {
+          "value": "Garchomp"
+        },
+        {
+          "value": "Munchlax"
+        },
+        {
+          "value": "Riolu"
+        },
+        {
+          "value": "Lucario"
+        },
+        {
+          "value": "Hippopotas"
+        },
+        {
+          "value": "Hippowdon"
+        },
+        {
+          "value": "Skorupi"
+        },
+        {
+          "value": "Drapion"
+        },
+        {
+          "value": "Croagunk"
+        },
+        {
+          "value": "Toxicroak"
+        },
+        {
+          "value": "Carnivine"
+        },
+        {
+          "value": "Finneon"
+        },
+        {
+          "value": "Lumineon"
+        },
+        {
+          "value": "Mantyke"
+        },
+        {
+          "value": "Snover"
+        },
+        {
+          "value": "Abomasnow"
+        },
+        {
+          "value": "Weavile"
+        },
+        {
+          "value": "Magnezone"
+        },
+        {
+          "value": "Lickilicky"
+        },
+        {
+          "value": "Rhyperior"
+        },
+        {
+          "value": "Tangrowth"
+        },
+        {
+          "value": "Electivire"
+        },
+        {
+          "value": "Magmortar"
+        },
+        {
+          "value": "Togekiss"
+        },
+        {
+          "value": "Yanmega"
+        },
+        {
+          "value": "Leafeon"
+        },
+        {
+          "value": "Glaceon"
+        },
+        {
+          "value": "Gliscor"
+        },
+        {
+          "value": "Mamoswine"
+        },
+        {
+          "value": "Porygon-Z"
+        },
+        {
+          "value": "Gallade"
+        },
+        {
+          "value": "Probopass"
+        },
+        {
+          "value": "Dusknoir"
+        },
+        {
+          "value": "Froslass"
+        },
+        {
+          "value": "Rotom"
+        },
+        {
+          "value": "Uxie"
+        },
+        {
+          "value": "Mesprit"
+        },
+        {
+          "value": "Azelf"
+        },
+        {
+          "value": "Dialga"
+        },
+        {
+          "value": "Palkia"
+        },
+        {
+          "value": "Heatran"
+        },
+        {
+          "value": "Regigigas"
+        },
+        {
+          "value": "Giratina"
+        },
+        {
+          "value": "Cresselia"
+        },
+        {
+          "value": "Phione"
+        },
+        {
+          "value": "Manaphy"
+        },
+        {
+          "value": "Darkrai"
+        },
+        {
+          "value": "Shaymin"
+        },
+        {
+          "value": "Arceus"
+        }
+      ]
+    },
+    {
+      "name": "Unova",
+      "entries": [
+        {
+          "value": "Victini"
+        },
+        {
+          "value": "Snivy"
+        },
+        {
+          "value": "Servine"
+        },
+        {
+          "value": "Serperior"
+        },
+        {
+          "value": "Tepig"
+        },
+        {
+          "value": "Pignite"
+        },
+        {
+          "value": "Emboar"
+        },
+        {
+          "value": "Oshawott"
+        },
+        {
+          "value": "Dewott"
+        },
+        {
+          "value": "Samurott"
+        },
+        {
+          "value": "Patrat"
+        },
+        {
+          "value": "Watchog"
+        },
+        {
+          "value": "Lillipup"
+        },
+        {
+          "value": "Herdier"
+        },
+        {
+          "value": "Stoutland"
+        },
+        {
+          "value": "Purrloin"
+        },
+        {
+          "value": "Liepard"
+        },
+        {
+          "value": "Pansage"
+        },
+        {
+          "value": "Simisage"
+        },
+        {
+          "value": "Pansear"
+        },
+        {
+          "value": "Simisear"
+        },
+        {
+          "value": "Panpour"
+        },
+        {
+          "value": "Simipour"
+        },
+        {
+          "value": "Munna"
+        },
+        {
+          "value": "Musharna"
+        },
+        {
+          "value": "Pidove"
+        },
+        {
+          "value": "Tranquill"
+        },
+        {
+          "value": "Unfezant"
+        },
+        {
+          "value": "Blitzle"
+        },
+        {
+          "value": "Zebstrika"
+        },
+        {
+          "value": "Roggenrola"
+        },
+        {
+          "value": "Boldore"
+        },
+        {
+          "value": "Gigalith"
+        },
+        {
+          "value": "Woobat"
+        },
+        {
+          "value": "Swoobat"
+        },
+        {
+          "value": "Drilbur"
+        },
+        {
+          "value": "Excadrill"
+        },
+        {
+          "value": "Audino"
+        },
+        {
+          "value": "Timburr"
+        },
+        {
+          "value": "Gurdurr"
+        },
+        {
+          "value": "Conkeldurr"
+        },
+        {
+          "value": "Tympole"
+        },
+        {
+          "value": "Palpitoad"
+        },
+        {
+          "value": "Seismitoad"
+        },
+        {
+          "value": "Throh"
+        },
+        {
+          "value": "Sawk"
+        },
+        {
+          "value": "Sewaddle"
+        },
+        {
+          "value": "Swadloon"
+        },
+        {
+          "value": "Leavanny"
+        },
+        {
+          "value": "Venipede"
+        },
+        {
+          "value": "Whirlipede"
+        },
+        {
+          "value": "Scolipede"
+        },
+        {
+          "value": "Cottonee"
+        },
+        {
+          "value": "Whimsicott"
+        },
+        {
+          "value": "Petilil"
+        },
+        {
+          "value": "Lilligant"
+        },
+        {
+          "value": "Basculin"
+        },
+        {
+          "value": "Sandile"
+        },
+        {
+          "value": "Krokorok"
+        },
+        {
+          "value": "Krookodile"
+        },
+        {
+          "value": "Darumaka"
+        },
+        {
+          "value": "Darmanitan"
+        },
+        {
+          "value": "Maractus"
+        },
+        {
+          "value": "Dwebble"
+        },
+        {
+          "value": "Crustle"
+        },
+        {
+          "value": "Scraggy"
+        },
+        {
+          "value": "Scrafty"
+        },
+        {
+          "value": "Sigilyph"
+        },
+        {
+          "value": "Yamask"
+        },
+        {
+          "value": "Cofagrigus"
+        },
+        {
+          "value": "Tirtouga"
+        },
+        {
+          "value": "Carracosta"
+        },
+        {
+          "value": "Archen"
+        },
+        {
+          "value": "Archeops"
+        },
+        {
+          "value": "Trubbish"
+        },
+        {
+          "value": "Garbodor"
+        },
+        {
+          "value": "Zorua"
+        },
+        {
+          "value": "Zoroark"
+        },
+        {
+          "value": "Minccino"
+        },
+        {
+          "value": "Cinccino"
+        },
+        {
+          "value": "Gothita"
+        },
+        {
+          "value": "Gothorita"
+        },
+        {
+          "value": "Gothitelle"
+        },
+        {
+          "value": "Solosis"
+        },
+        {
+          "value": "Duosion"
+        },
+        {
+          "value": "Reuniclus"
+        },
+        {
+          "value": "Ducklett"
+        },
+        {
+          "value": "Swanna"
+        },
+        {
+          "value": "Vanillite"
+        },
+        {
+          "value": "Vanillish"
+        },
+        {
+          "value": "Vanilluxe"
+        },
+        {
+          "value": "Deerling"
+        },
+        {
+          "value": "Sawsbuck"
+        },
+        {
+          "value": "Emolga"
+        },
+        {
+          "value": "Karrablast"
+        },
+        {
+          "value": "Escavalier"
+        },
+        {
+          "value": "Foongus"
+        },
+        {
+          "value": "Amoonguss"
+        },
+        {
+          "value": "Frillish"
+        },
+        {
+          "value": "Jellicent"
+        },
+        {
+          "value": "Alomomola"
+        },
+        {
+          "value": "Joltik"
+        },
+        {
+          "value": "Galvantula"
+        },
+        {
+          "value": "Ferroseed"
+        },
+        {
+          "value": "Ferrothorn"
+        },
+        {
+          "value": "Klink"
+        },
+        {
+          "value": "Klang"
+        },
+        {
+          "value": "Klinklang"
+        },
+        {
+          "value": "Tynamo"
+        },
+        {
+          "value": "Eelektrik"
+        },
+        {
+          "value": "Eelektross"
+        },
+        {
+          "value": "Elgyem"
+        },
+        {
+          "value": "Beheeyem"
+        },
+        {
+          "value": "Litwick"
+        },
+        {
+          "value": "Lampent"
+        },
+        {
+          "value": "Chandelure"
+        },
+        {
+          "value": "Axew"
+        },
+        {
+          "value": "Fraxure"
+        },
+        {
+          "value": "Haxorus"
+        },
+        {
+          "value": "Cubchoo"
+        },
+        {
+          "value": "Beartic"
+        },
+        {
+          "value": "Cryogonal"
+        },
+        {
+          "value": "Shelmet"
+        },
+        {
+          "value": "Accelgor"
+        },
+        {
+          "value": "Stunfisk"
+        },
+        {
+          "value": "Mienfoo"
+        },
+        {
+          "value": "Mienshao"
+        },
+        {
+          "value": "Druddigon"
+        },
+        {
+          "value": "Golett"
+        },
+        {
+          "value": "Golurk"
+        },
+        {
+          "value": "Pawniard"
+        },
+        {
+          "value": "Bisharp"
+        },
+        {
+          "value": "Bouffalant"
+        },
+        {
+          "value": "Rufflet"
+        },
+        {
+          "value": "Braviary"
+        },
+        {
+          "value": "Vullaby"
+        },
+        {
+          "value": "Mandibuzz"
+        },
+        {
+          "value": "Heatmor"
+        },
+        {
+          "value": "Durant"
+        },
+        {
+          "value": "Deino"
+        },
+        {
+          "value": "Zweilous"
+        },
+        {
+          "value": "Hydreigon"
+        },
+        {
+          "value": "Larvesta"
+        },
+        {
+          "value": "Volcarona"
+        },
+        {
+          "value": "Cobalion"
+        },
+        {
+          "value": "Terrakion"
+        },
+        {
+          "value": "Virizion"
+        },
+        {
+          "value": "Tornadus"
+        },
+        {
+          "value": "Thundurus"
+        },
+        {
+          "value": "Reshiram"
+        },
+        {
+          "value": "Zekrom"
+        },
+        {
+          "value": "Landorus"
+        },
+        {
+          "value": "Kyurem"
+        },
+        {
+          "value": "Keldeo"
+        },
+        {
+          "value": "Meloetta"
+        },
+        {
+          "value": "Genesect"
+        }
+      ]
+    },
+    {
+      "name": "Kalos",
+      "entries": [
+        {
+          "value": "Chespin"
+        },
+        {
+          "value": "Quilladin"
+        },
+        {
+          "value": "Chesnaught"
+        },
+        {
+          "value": "Fennekin"
+        },
+        {
+          "value": "Braixen"
+        },
+        {
+          "value": "Delphox"
+        },
+        {
+          "value": "Froakie"
+        },
+        {
+          "value": "Frogadier"
+        },
+        {
+          "value": "Greninja"
+        },
+        {
+          "value": "Bunnelby"
+        },
+        {
+          "value": "Diggersby"
+        },
+        {
+          "value": "Fletchling"
+        },
+        {
+          "value": "Fletchinder"
+        },
+        {
+          "value": "Talonflame"
+        },
+        {
+          "value": "Scatterbug"
+        },
+        {
+          "value": "Spewpa"
+        },
+        {
+          "value": "Vivillon"
+        },
+        {
+          "value": "Litleo"
+        },
+        {
+          "value": "Pyroar"
+        },
+        {
+          "value": "Flabébé"
+        },
+        {
+          "value": "Floette"
+        },
+        {
+          "value": "Florges"
+        },
+        {
+          "value": "Skiddo"
+        },
+        {
+          "value": "Gogoat"
+        },
+        {
+          "value": "Pancham"
+        },
+        {
+          "value": "Pangoro"
+        },
+        {
+          "value": "Furfrou"
+        },
+        {
+          "value": "Espurr"
+        },
+        {
+          "value": "Meowstic"
+        },
+        {
+          "value": "Honedge"
+        },
+        {
+          "value": "Doublade"
+        },
+        {
+          "value": "Aegislash"
+        },
+        {
+          "value": "Spritzee"
+        },
+        {
+          "value": "Aromatisse"
+        },
+        {
+          "value": "Swirlix"
+        },
+        {
+          "value": "Slurpuff"
+        },
+        {
+          "value": "Inkay"
+        },
+        {
+          "value": "Malamar"
+        },
+        {
+          "value": "Binacle"
+        },
+        {
+          "value": "Barbaracle"
+        },
+        {
+          "value": "Skrelp"
+        },
+        {
+          "value": "Dragalge"
+        },
+        {
+          "value": "Clauncher"
+        },
+        {
+          "value": "Clawitzer"
+        },
+        {
+          "value": "Helioptile"
+        },
+        {
+          "value": "Heliolisk"
+        },
+        {
+          "value": "Tyrunt"
+        },
+        {
+          "value": "Tyrantrum"
+        },
+        {
+          "value": "Amaura"
+        },
+        {
+          "value": "Aurorus"
+        },
+        {
+          "value": "Sylveon"
+        },
+        {
+          "value": "Hawlucha"
+        },
+        {
+          "value": "Dedenne"
+        },
+        {
+          "value": "Carbink"
+        },
+        {
+          "value": "Goomy"
+        },
+        {
+          "value": "Sliggoo"
+        },
+        {
+          "value": "Goodra"
+        },
+        {
+          "value": "Klefki"
+        },
+        {
+          "value": "Phantump"
+        },
+        {
+          "value": "Trevenant"
+        },
+        {
+          "value": "Pumpkaboo"
+        },
+        {
+          "value": "Gourgeist"
+        },
+        {
+          "value": "Bergmite"
+        },
+        {
+          "value": "Avalugg"
+        },
+        {
+          "value": "Noibat"
+        },
+        {
+          "value": "Noivern"
+        },
+        {
+          "value": "Xerneas"
+        },
+        {
+          "value": "Yveltal"
+        },
+        {
+          "value": "Zygarde"
+        },
+        {
+          "value": "Diancie"
+        },
+        {
+          "value": "Hoopa"
+        },
+        {
+          "value": "Volcanion"
+        }
+      ]
+    },
+    {
+      "name": "Alola",
+      "entries": [
+        {
+          "value": "Rowlet"
+        },
+        {
+          "value": "Dartrix"
+        },
+        {
+          "value": "Decidueye"
+        },
+        {
+          "value": "Litten"
+        },
+        {
+          "value": "Torracat"
+        },
+        {
+          "value": "Incineroar"
+        },
+        {
+          "value": "Popplio"
+        },
+        {
+          "value": "Brionne"
+        },
+        {
+          "value": "Primarina"
+        },
+        {
+          "value": "Pikipek"
+        },
+        {
+          "value": "Trumbeak"
+        },
+        {
+          "value": "Toucannon"
+        },
+        {
+          "value": "Yungoos"
+        },
+        {
+          "value": "Gumshoos"
+        },
+        {
+          "value": "Grubbin"
+        },
+        {
+          "value": "Charjabug"
+        },
+        {
+          "value": "Vikavolt"
+        },
+        {
+          "value": "Crabrawler"
+        },
+        {
+          "value": "Crabominable"
+        },
+        {
+          "value": "Oricorio"
+        },
+        {
+          "value": "Cutiefly"
+        },
+        {
+          "value": "Ribombee"
+        },
+        {
+          "value": "Rockruff"
+        },
+        {
+          "value": "Lycanroc"
+        },
+        {
+          "value": "Wishiwashi"
+        },
+        {
+          "value": "Mareanie"
+        },
+        {
+          "value": "Toxapex"
+        },
+        {
+          "value": "Mudbray"
+        },
+        {
+          "value": "Mudsdale"
+        },
+        {
+          "value": "Dewpider"
+        },
+        {
+          "value": "Araquanid"
+        },
+        {
+          "value": "Fomantis"
+        },
+        {
+          "value": "Lurantis"
+        },
+        {
+          "value": "Morelull"
+        },
+        {
+          "value": "Shiinotic"
+        },
+        {
+          "value": "Salandit"
+        },
+        {
+          "value": "Salazzle"
+        },
+        {
+          "value": "Stufful"
+        },
+        {
+          "value": "Bewear"
+        },
+        {
+          "value": "Bounsweet"
+        },
+        {
+          "value": "Steenee"
+        },
+        {
+          "value": "Tsareena"
+        },
+        {
+          "value": "Comfey"
+        },
+        {
+          "value": "Oranguru"
+        },
+        {
+          "value": "Passimian"
+        },
+        {
+          "value": "Wimpod"
+        },
+        {
+          "value": "Golisopod"
+        },
+        {
+          "value": "Sandygast"
+        },
+        {
+          "value": "Palossand"
+        },
+        {
+          "value": "Pyukumuku"
+        },
+        {
+          "value": "Type: Null"
+        },
+        {
+          "value": "Silvally"
+        },
+        {
+          "value": "Minior"
+        },
+        {
+          "value": "Komala"
+        },
+        {
+          "value": "Turtonator"
+        },
+        {
+          "value": "Togedemaru"
+        },
+        {
+          "value": "Mimikyu"
+        },
+        {
+          "value": "Bruxish"
+        },
+        {
+          "value": "Drampa"
+        },
+        {
+          "value": "Dhelmise"
+        },
+        {
+          "value": "Jangmo-o"
+        },
+        {
+          "value": "Hakamo-o"
+        },
+        {
+          "value": "Kommo-o"
+        },
+        {
+          "value": "Tapu Koko"
+        },
+        {
+          "value": "Tapu Lele"
+        },
+        {
+          "value": "Tapu Bulu"
+        },
+        {
+          "value": "Tapu Fini"
+        },
+        {
+          "value": "Cosmog"
+        },
+        {
+          "value": "Cosmoem"
+        },
+        {
+          "value": "Solgaleo"
+        },
+        {
+          "value": "Lunala"
+        },
+        {
+          "value": "Nihilego"
+        },
+        {
+          "value": "Buzzwole"
+        },
+        {
+          "value": "Pheromosa"
+        },
+        {
+          "value": "Xurkitree"
+        },
+        {
+          "value": "Celesteela"
+        },
+        {
+          "value": "Kartana"
+        },
+        {
+          "value": "Guzzlord"
+        },
+        {
+          "value": "Necrozma"
+        },
+        {
+          "value": "Magearna"
+        },
+        {
+          "value": "Marshadow"
+        },
+        {
+          "value": "Poipole"
+        },
+        {
+          "value": "Naganadel"
+        },
+        {
+          "value": "Stakataka"
+        },
+        {
+          "value": "Blacephalon"
+        },
+        {
+          "value": "Zeraora"
+        },
+        {
+          "value": "Meltan"
+        },
+        {
+          "value": "Melmetal"
+        }
+      ]
+    },
+    {
+      "name": "Galar",
+      "entries": [
+        {
+          "value": "Grookey"
+        },
+        {
+          "value": "Thwackey"
+        },
+        {
+          "value": "Rillaboom"
+        },
+        {
+          "value": "Scorbunny"
+        },
+        {
+          "value": "Raboot"
+        },
+        {
+          "value": "Cinderace"
+        },
+        {
+          "value": "Sobble"
+        },
+        {
+          "value": "Drizzile"
+        },
+        {
+          "value": "Inteleon"
+        },
+        {
+          "value": "Skwovet"
+        },
+        {
+          "value": "Greedent"
+        },
+        {
+          "value": "Rookidee"
+        },
+        {
+          "value": "Corvisquire"
+        },
+        {
+          "value": "Corviknight"
+        },
+        {
+          "value": "Blipbug"
+        },
+        {
+          "value": "Dottler"
+        },
+        {
+          "value": "Orbeetle"
+        },
+        {
+          "value": "Nickit"
+        },
+        {
+          "value": "Thievul"
+        },
+        {
+          "value": "Gossifleur"
+        },
+        {
+          "value": "Eldegoss"
+        },
+        {
+          "value": "Wooloo"
+        },
+        {
+          "value": "Dubwool"
+        },
+        {
+          "value": "Chewtle"
+        },
+        {
+          "value": "Drednaw"
+        },
+        {
+          "value": "Yamper"
+        },
+        {
+          "value": "Boltund"
+        },
+        {
+          "value": "Rolycoly"
+        },
+        {
+          "value": "Carkol"
+        },
+        {
+          "value": "Coalossal"
+        },
+        {
+          "value": "Applin"
+        },
+        {
+          "value": "Flapple"
+        },
+        {
+          "value": "Appletun"
+        },
+        {
+          "value": "Silicobra"
+        },
+        {
+          "value": "Sandaconda"
+        },
+        {
+          "value": "Cramorant"
+        },
+        {
+          "value": "Arrokuda"
+        },
+        {
+          "value": "Barraskewda"
+        },
+        {
+          "value": "Toxel"
+        },
+        {
+          "value": "Toxtricity"
+        },
+        {
+          "value": "Sizzlipede"
+        },
+        {
+          "value": "Centiskorch"
+        },
+        {
+          "value": "Clobbopus"
+        },
+        {
+          "value": "Grapploct"
+        },
+        {
+          "value": "Sinistea"
+        },
+        {
+          "value": "Polteageist"
+        },
+        {
+          "value": "Hatenna"
+        },
+        {
+          "value": "Hattrem"
+        },
+        {
+          "value": "Hatterene"
+        },
+        {
+          "value": "Impidimp"
+        },
+        {
+          "value": "Morgrem"
+        },
+        {
+          "value": "Grimmsnarl"
+        },
+        {
+          "value": "Obstagoon"
+        },
+        {
+          "value": "Perrserker"
+        },
+        {
+          "value": "Cursola"
+        },
+        {
+          "value": "Sirfetch’d"
+        },
+        {
+          "value": "Mr. Rime"
+        },
+        {
+          "value": "Runerigus"
+        },
+        {
+          "value": "Milcery"
+        },
+        {
+          "value": "Alcremie"
+        },
+        {
+          "value": "Falinks"
+        },
+        {
+          "value": "Pincurchin"
+        },
+        {
+          "value": "Snom"
+        },
+        {
+          "value": "Frosmoth"
+        },
+        {
+          "value": "Stonjourner"
+        },
+        {
+          "value": "Eiscue"
+        },
+        {
+          "value": "Indeedee"
+        },
+        {
+          "value": "Morpeko"
+        },
+        {
+          "value": "Cufant"
+        },
+        {
+          "value": "Copperajah"
+        },
+        {
+          "value": "Dracozolt"
+        },
+        {
+          "value": "Arctozolt"
+        },
+        {
+          "value": "Dracovish"
+        },
+        {
+          "value": "Arctovish"
+        },
+        {
+          "value": "Duraludon"
+        },
+        {
+          "value": "Dreepy"
+        },
+        {
+          "value": "Drakloak"
+        },
+        {
+          "value": "Dragapult"
+        },
+        {
+          "value": "Zacian"
+        },
+        {
+          "value": "Zamazenta"
+        },
+        {
+          "value": "Eternatus"
+        },
+        {
+          "value": "Kubfu"
+        },
+        {
+          "value": "Urshifu"
+        },
+        {
+          "value": "Zarude"
+        },
+        {
+          "value": "Regieleki"
+        },
+        {
+          "value": "Regidrago"
+        },
+        {
+          "value": "Glastrier"
+        },
+        {
+          "value": "Spectrier"
+        },
+        {
+          "value": "Calyrex"
+        }
+      ]
+    },
+    {
+      "name": "Hisui",
+      "entries": [
+        {
+          "value": "Wyrdeer"
+        },
+        {
+          "value": "Kleavor"
+        },
+        {
+          "value": "Ursaluna"
+        },
+        {
+          "value": "Basculegion"
+        },
+        {
+          "value": "Sneasler"
+        },
+        {
+          "value": "Overqwil"
+        },
+        {
+          "value": "Enamorus"
+        }
+      ]
+    },
+    {
+      "name": "Alolan Forms",
+      "entries": [
+        {
+          "value": "Alolan Rattata"
+        },
+        {
+          "value": "Alolan Raticate"
+        },
+        {
+          "value": "Alolan Raichu"
+        },
+        {
+          "value": "Alolan Sandshrew"
+        },
+        {
+          "value": "Alolan Sandslash"
+        },
+        {
+          "value": "Alolan Vulpix"
+        },
+        {
+          "value": "Alolan Ninetails"
+        },
+        {
+          "value": "Alolan Diglett"
+        },
+        {
+          "value": "Alola Dugtrio"
+        },
+        {
+          "value": "Alolan Meowth"
+        },
+        {
+          "value": "Alolan Persian"
+        },
+        {
+          "value": "Alolan Geodude"
+        },
+        {
+          "value": "Alolan Graveler"
+        },
+        {
+          "value": "Alolan Golem"
+        },
+        {
+          "value": "Alolan Grimer"
+        },
+        {
+          "value": "Alolan Muk"
+        },
+        {
+          "value": "Alolan Exeggutor"
+        },
+        {
+          "value": "Alolan Marowak"
+        }
+      ]
+    },
+    {
+      "name": "Galarian Forms",
+      "entries": [
+        {
+          "value": "Galarian Meowth"
+        },
+        {
+          "value": "Galarian Ponyta"
+        },
+        {
+          "value": "Galarian Rapidash"
+        },
+        {
+          "value": "Galarian Slowpoke"
+        },
+        {
+          "value": "Galarian Slowbro"
+        },
+        {
+          "value": "Galarian Farfetch'd"
+        },
+        {
+          "value": "Galarian Weezing"
+        },
+        {
+          "value": "Galarian Mr. Mime"
+        },
+        {
+          "value": "Galarian Articuno"
+        },
+        {
+          "value": "Galarian Zapdos"
+        },
+        {
+          "value": "Galarian Moltres"
+        },
+        {
+          "value": "Galarian Slowking"
+        },
+        {
+          "value": "Galarian Corsola"
+        },
+        {
+          "value": "Galarian Zigzagoon"
+        },
+        {
+          "value": "Galarian Linoone"
+        },
+        {
+          "value": "Galarian Darumaka"
+        },
+        {
+          "value": "Galarian Darmanitan"
+        },
+        {
+          "value": "Galarian Yamask"
+        },
+        {
+          "value": "Galarian Stunfisk"
+        }
+      ]
+    },
+    {
+      "name": "Hisuian Forms",
+      "entries": [
+        {
+          "value": "Hisuian Growlithe"
+        },
+        {
+          "value": "Hisuian Arcanine"
+        },
+        {
+          "value": "Hisuian Voltorb"
+        },
+        {
+          "value": "Hisuian Electrode"
+        },
+        {
+          "value": "Hisuian Typhlosion"
+        },
+        {
+          "value": "Hisuian Qwilfish"
+        },
+        {
+          "value": "Hisuian Sneasel"
+        },
+        {
+          "value": "Hisuian Samurott"
+        },
+        {
+          "value": "Hisuian Lilligant"
+        },
+        {
+          "value": "Hisuian Zorua"
+        },
+        {
+          "value": "Hisuian Zoroark"
+        },
+        {
+          "value": "Hisuian Braviary"
+        },
+        {
+          "value": "Hisuian Sligoo"
+        },
+        {
+          "value": "Hisuian Goodra"
+        },
+        {
+          "value": "Hisuian Avalugg"
+        },
+        {
+          "value": "Hisuian Decidueye"
+        }
+      ]
+    },
+    {
+      "name": "Alt Forms",
+      "entries": [
+        {
+          "value": "Normal Castform"
+        },
+        {
+          "value": "Sunny Castform"
+        },
+        {
+          "value": "Rainy Castform"
+        },
+        {
+          "value": "Snowy Castform"
+        },
+        {
+          "value": "Normal Forme Deoxys"
+        },
+        {
+          "value": "Attack Forme Deoxys"
+        },
+        {
+          "value": "Defense Forme Deoxys"
+        },
+        {
+          "value": "Speeed Forme Deoxys"
+        },
+        {
+          "value": "Plant Cloak Burmy"
+        },
+        {
+          "value": "Sandy Cloak Burmy"
+        },
+        {
+          "value": "Trash Cloak Burmy"
+        },
+        {
+          "value": "Plant Cloak Wormadam"
+        },
+        {
+          "value": "Sandy Cloak Wormadam"
+        },
+        {
+          "value": "Trash Cloak Wormadam"
+        },
+        {
+          "value": "West Sea Shellos"
+        },
+        {
+          "value": "East Sea Shellos"
+        },
+        {
+          "value": "West Sea Gastrodon"
+        },
+        {
+          "value": "East Sea Gastrodon"
+        },
+        {
+          "value": "Normal Rotom"
+        },
+        {
+          "value": "Heat Rotom"
+        },
+        {
+          "value": "Wash Rotom"
+        },
+        {
+          "value": "Frost Rotom"
+        },
+        {
+          "value": "Fan Rotom"
+        },
+        {
+          "value": "Mow Rotom"
+        },
+        {
+          "value": "Normal Dialga"
+        },
+        {
+          "value": "Origin Form Dialga"
+        },
+        {
+          "value": "Normal Palkia"
+        },
+        {
+          "value": "Origin Form Palkia"
+        },
+        {
+          "value": "Altered Form Giratina"
+        },
+        {
+          "value": "Origin Form Giratina"
+        },
+        {
+          "value": "Red-Striped Basculin"
+        },
+        {
+          "value": "Blue-Striped Basculin"
+        },
+        {
+          "value": "White-Striped Basculin"
+        },
+        {
+          "value": "Spring Deerling"
+        },
+        {
+          "value": "Summer Deerling"
+        },
+        {
+          "value": "Autumn Deerling"
+        },
+        {
+          "value": "Winter Deerling"
+        },
+        {
+          "value": "Spring Sawsbuck"
+        },
+        {
+          "value": "Summer Sawsbuck"
+        },
+        {
+          "value": "Autumn Sawsbuck"
+        },
+        {
+          "value": "Winter Sawsbuck"
+        },
+        {
+          "value": "Incarnate Form Tornadus"
+        },
+        {
+          "value": "Therian Form Tornadus"
+        },
+        {
+          "value": "Incarnate Form Thundurus"
+        },
+        {
+          "value": "Therian Form Thundurus"
+        },
+        {
+          "value": "Incarnate Form Landorus"
+        },
+        {
+          "value": "Therian Form Landorus"
+        },
+        {
+          "value": "Ordinary Form Keldeo"
+        },
+        {
+          "value": "Resolute Form Keldeo"
+        },
+        {
+          "value": "Normal Genesect"
+        },
+        {
+          "value": "Shock Drive Genesect"
+        },
+        {
+          "value": "Burn Drive Genesect"
+        },
+        {
+          "value": "Chill Drive Genesect"
+        },
+        {
+          "value": "Douse Drive Genesect"
+        },
+        {
+          "value": "Normal Greninja"
+        },
+        {
+          "value": "Ash Greninja"
+        },
+        {
+          "value": "Red Flower Flabébé"
+        },
+        {
+          "value": "Yellow Flower Flabébé"
+        },
+        {
+          "value": "Orange Flower Flabébé"
+        },
+        {
+          "value": "Blue Flower Flabébé"
+        },
+        {
+          "value": "White Flower Flabébé"
+        },
+        {
+          "value": "Red Flower Floette"
+        },
+        {
+          "value": "Yellow Flower Floette"
+        },
+        {
+          "value": "Orange Flower Floette"
+        },
+        {
+          "value": "Blue Flower Floette"
+        },
+        {
+          "value": "White Flower Floette"
+        },
+        {
+          "value": "Red Flower Florges"
+        },
+        {
+          "value": "Yellow Flower Florges"
+        },
+        {
+          "value": "Orange Flower Florges"
+        },
+        {
+          "value": "Blue Flower Florges"
+        },
+        {
+          "value": "White Flower Florges"
+        },
+        {
+          "value": "Small Size Pumpkaboo"
+        },
+        {
+          "value": "Average Size Pumpkaboo"
+        },
+        {
+          "value": "Large Size Pumpkaboo"
+        },
+        {
+          "value": "Super Size Pumpkaboo"
+        },
+        {
+          "value": "Small Size Gourgeist"
+        },
+        {
+          "value": "Average Size Gourgeist"
+        },
+        {
+          "value": "Large Size Gourgeist"
+        },
+        {
+          "value": "Super Size Gourgeist"
+        },
+        {
+          "value": "10% Zygarde"
+        },
+        {
+          "value": "50% Zygarde"
+        },
+        {
+          "value": "Power Construct Zygarde",
+          "help": "Even though it is not possible to have a complete form Zygarde, only Zygarde with Power Construct can turn into complete form"
+        },
+        {
+          "value": "Baile Style Oricorio"
+        },
+        {
+          "value": "Pom-Pom Style Oricorio"
+        },
+        {
+          "value": "Pa'u Style Oricorio"
+        },
+        {
+          "value": "Sensu Style Oricorio"
+        },
+        {
+          "value": "Midday Lycanroc"
+        },
+        {
+          "value": "Midnight Lycanroc"
+        },
+        {
+          "value": "Dusk Lycanroc"
+        },
+        {
+          "value": "Normal Magearna"
+        },
+        {
+          "value": "Original Color Magearna"
+        },
+        {
+          "value": "Amped Toxtricity"
+        },
+        {
+          "value": "Low Key Toxtricity"
+        },
+        {
+          "value": "Phony Sinistea"
+        },
+        {
+          "value": "Antique Sinistea"
+        },
+        {
+          "value": "Phony Polteageist"
+        },
+        {
+          "value": "Antique Polteageist"
+        },
+        {
+          "value": "Single Strike Urshifu"
+        },
+        {
+          "value": "Rapid Strike Urshifu"
+        },
+        {
+          "value": "Normal Zarude"
+        },
+        {
+          "value": "Dada Zarude"
+        },
+        {
+          "value": "Incarnate Form Enamorus"
+        },
+        {
+          "value": "Therian Form Enamorus"
+        }
+      ]
+    },
+    {
+      "name": "Pikachu",
+      "entries": [
+        {
+          "value": "Normal Pikachu"
+        },
+        {
+          "value": "Original Cap Pikachu"
+        },
+        {
+          "value": "Hoenn Cap Pikachu"
+        },
+        {
+          "value": "Sinnoh Cap Pikachu"
+        },
+        {
+          "value": "Unova Cap Pikachu"
+        },
+        {
+          "value": "Kalos Cap Pikachu"
+        },
+        {
+          "value": "Alola Cap Pikachu"
+        },
+        {
+          "value": "Partner Cap Pikachu"
+        },
+        {
+          "value": "World Cap Pikachu"
+        }
+      ]
+    },
+    {
+      "name": "Unown",
+      "entries": [
+        {
+          "value": "Unown A"
+        },
+        {
+          "value": "Unown B"
+        },
+        {
+          "value": "Unown C"
+        },
+        {
+          "value": "Unown D"
+        },
+        {
+          "value": "Unown E"
+        },
+        {
+          "value": "Unown F"
+        },
+        {
+          "value": "Unown G"
+        },
+        {
+          "value": "Unown H"
+        },
+        {
+          "value": "Unown I"
+        },
+        {
+          "value": "Unown J"
+        },
+        {
+          "value": "Unown K"
+        },
+        {
+          "value": "Unown L"
+        },
+        {
+          "value": "Unown M"
+        },
+        {
+          "value": "Unown N"
+        },
+        {
+          "value": "Unown O"
+        },
+        {
+          "value": "Unown P"
+        },
+        {
+          "value": "Unown Q"
+        },
+        {
+          "value": "Unown R"
+        },
+        {
+          "value": "Unown S"
+        },
+        {
+          "value": "Unown T"
+        },
+        {
+          "value": "Unown U"
+        },
+        {
+          "value": "Unown V"
+        },
+        {
+          "value": "Unown W"
+        },
+        {
+          "value": "Unown X"
+        },
+        {
+          "value": "Unown Y"
+        },
+        {
+          "value": "Unown Z"
+        },
+        {
+          "value": "Unown !"
+        },
+        {
+          "value": "Unown ?"
+        }
+      ]
+    },
+    {
+      "name": "Arceus",
+      "entries": [
+        {
+          "value": "Normal Arceus"
+        },
+        {
+          "value": "Fire Arceus"
+        },
+        {
+          "value": "Water Arceus"
+        },
+        {
+          "value": "Electric Arceus"
+        },
+        {
+          "value": "Grass Arceus"
+        },
+        {
+          "value": "Ice Arceus"
+        },
+        {
+          "value": "Fighting Arceus"
+        },
+        {
+          "value": "Poison Arceus"
+        },
+        {
+          "value": "Ground Arceus"
+        },
+        {
+          "value": "Flying Arceus"
+        },
+        {
+          "value": "Psychic Arceus"
+        },
+        {
+          "value": "Bug Arceus"
+        },
+        {
+          "value": "Rock Arceus"
+        },
+        {
+          "value": "Ghost Arceus"
+        },
+        {
+          "value": "Dragon Arceus"
+        },
+        {
+          "value": "Dark Arceus"
+        },
+        {
+          "value": "Steel Arceus"
+        },
+        {
+          "value": "Fairy Arceus"
+        }
+      ]
+    },
+    {
+      "name": "Vivillon",
+      "entries": [
+        {
+          "value": "Archipelago Vivillom"
+        },
+        {
+          "value": "Continental Vivillom"
+        },
+        {
+          "value": "Elegant Vivillom"
+        },
+        {
+          "value": "Garden Vivillom"
+        },
+        {
+          "value": "High Plains Vivillom"
+        },
+        {
+          "value": "Icy Snow Vivillom"
+        },
+        {
+          "value": "Jungle Vivillom"
+        },
+        {
+          "value": "Marine Vivillom"
+        },
+        {
+          "value": "Meadow Vivillom"
+        },
+        {
+          "value": "Modern Vivillom"
+        },
+        {
+          "value": "Monsoon Vivillom"
+        },
+        {
+          "value": "Ocean Vivillom"
+        },
+        {
+          "value": "Polar Vivillom"
+        },
+        {
+          "value": "River Vivillom"
+        },
+        {
+          "value": "Sandstorm Vivillom"
+        },
+        {
+          "value": "Savanna Vivillom"
+        },
+        {
+          "value": "Sun Vivillom"
+        },
+        {
+          "value": "Tundra Vivillom"
+        },
+        {
+          "value": "Fancy Vivillom"
+        },
+        {
+          "value": "Pokeball Vivillom"
+        }
+      ]
+    },
+    {
+      "name": "Furfrou",
+      "entries": [
+        {
+          "value": "Natural Furfrou"
+        },
+        {
+          "value": "Heart Trim Furfrou"
+        },
+        {
+          "value": "Star Trim Furfrou"
+        },
+        {
+          "value": "Diamond Trim Furfrou"
+        },
+        {
+          "value": "Debutante Trim Furfrou"
+        },
+        {
+          "value": "Matron Trim Furfrou"
+        },
+        {
+          "value": "Dandy Trim Furfrou"
+        },
+        {
+          "value": "La Reine Trim Furfrou"
+        },
+        {
+          "value": "Kabuki Trim Furfrou"
+        },
+        {
+          "value": "Pharaoh Trim Furfrou"
+        }
+      ]
+    },
+    {
+      "name": "Silvally",
+      "entries": [
+        {
+          "value": "Normal Silvally"
+        },
+        {
+          "value": "Fire Silvally"
+        },
+        {
+          "value": "Water Silvally"
+        },
+        {
+          "value": "Electric Silvally"
+        },
+        {
+          "value": "Grass Silvally"
+        },
+        {
+          "value": "Ice Silvally"
+        },
+        {
+          "value": "Fighting Silvally"
+        },
+        {
+          "value": "Poison Silvally"
+        },
+        {
+          "value": "Ground Silvally"
+        },
+        {
+          "value": "Flying Silvally"
+        },
+        {
+          "value": "Psychic Silvally"
+        },
+        {
+          "value": "Bug Silvally"
+        },
+        {
+          "value": "Rock Silvally"
+        },
+        {
+          "value": "Ghost Silvally"
+        },
+        {
+          "value": "Dragon Silvally"
+        },
+        {
+          "value": "Dark Silvally"
+        },
+        {
+          "value": "Steel Silvally"
+        },
+        {
+          "value": "Fairy Silvally"
+        }
+      ]
+    },
+    {
+      "name": "Minior",
+      "entries": [
+        {
+          "value": "Red Core Minior"
+        },
+        {
+          "value": "Orange Core Minior"
+        },
+        {
+          "value": "Yellow Core Minior"
+        },
+        {
+          "value": "Green Core Minior"
+        },
+        {
+          "value": "Blue Core Minior"
+        },
+        {
+          "value": "Indigo Core Minior"
+        },
+        {
+          "value": "Violet Core Minior"
+        }
+      ]
+    },
+    {
+      "name": "Alcremie",
+      "entries": [
+        {
+          "value": "Vanilla Cream Strawberry Sweet Alcremie"
+        },
+        {
+          "value": "Vanilla Cream Blueberry Sweet Alcremie"
+        },
+        {
+          "value": "Vanilla Cream Love Sweet Alcremie"
+        },
+        {
+          "value": "Vanilla Cream Star Sweet Alcremie"
+        },
+        {
+          "value": "Vanilla Cream Clover Sweet Alcremie"
+        },
+        {
+          "value": "Vanilla Cream Flower Sweet Alcremie"
+        },
+        {
+          "value": "Vanilla Cream Ribbon Sweet Alcremie"
+        },
+        {
+          "value": "Ruby Cream Strawberry Sweet Alcremie"
+        },
+        {
+          "value": "Ruby Cream Blueberry Sweet Alcremie"
+        },
+        {
+          "value": "Ruby Cream Love Sweet Alcremie"
+        },
+        {
+          "value": "Ruby Cream Star Sweet Alcremie"
+        },
+        {
+          "value": "Ruby Cream Clover Sweet Alcremie"
+        },
+        {
+          "value": "Ruby Cream Flower Sweet Alcremie"
+        },
+        {
+          "value": "Ruby Cream Ribbon Sweet Alcremie"
+        },
+        {
+          "value": "Matcha Cream Strawberry Sweet Alcremie"
+        },
+        {
+          "value": "Matcha Cream Blueberry Sweet Alcremie"
+        },
+        {
+          "value": "Matcha Cream Love Sweet Alcremie"
+        },
+        {
+          "value": "Matcha Cream Star Sweet Alcremie"
+        },
+        {
+          "value": "Matcha Cream Clover Sweet Alcremie"
+        },
+        {
+          "value": "Matcha Cream Flower Sweet Alcremie"
+        },
+        {
+          "value": "Matcha Cream Ribbon Sweet Alcremie"
+        },
+        {
+          "value": "Mint Cream Strawberry Sweet Alcremie"
+        },
+        {
+          "value": "Mint Cream Blueberry Sweet Alcremie"
+        },
+        {
+          "value": "Mint Cream Love Sweet Alcremie"
+        },
+        {
+          "value": "Mint Cream Star Sweet Alcremie"
+        },
+        {
+          "value": "Mint Cream Clover Sweet Alcremie"
+        },
+        {
+          "value": "Mint Cream Flower Sweet Alcremie"
+        },
+        {
+          "value": "Mint Cream Ribbon Sweet Alcremie"
+        },
+        {
+          "value": "Lemon Cream Strawberry Sweet Alcremie"
+        },
+        {
+          "value": "Lemon Cream Blueberry Sweet Alcremie"
+        },
+        {
+          "value": "Lemon Cream Love Sweet Alcremie"
+        },
+        {
+          "value": "Lemon Cream Star Sweet Alcremie"
+        },
+        {
+          "value": "Lemon Cream Clover Sweet Alcremie"
+        },
+        {
+          "value": "Lemon Cream Flower Sweet Alcremie"
+        },
+        {
+          "value": "Lemon Cream Ribbon Sweet Alcremie"
+        },
+        {
+          "value": "Salted Cream Strawberry Sweet Alcremie"
+        },
+        {
+          "value": "Salted Cream Blueberry Sweet Alcremie"
+        },
+        {
+          "value": "Salted Cream Love Sweet Alcremie"
+        },
+        {
+          "value": "Salted Cream Star Sweet Alcremie"
+        },
+        {
+          "value": "Salted Cream Clover Sweet Alcremie"
+        },
+        {
+          "value": "Salted Cream Flower Sweet Alcremie"
+        },
+        {
+          "value": "Salted Cream Ribbon Sweet Alcremie"
+        },
+        {
+          "value": "Ruby Swirl Strawberry Sweet Alcremie"
+        },
+        {
+          "value": "Ruby Swirl Blueberry Sweet Alcremie"
+        },
+        {
+          "value": "Ruby Swirl Love Sweet Alcremie"
+        },
+        {
+          "value": "Ruby Swirl Star Sweet Alcremie"
+        },
+        {
+          "value": "Ruby Swirl Clover Sweet Alcremie"
+        },
+        {
+          "value": "Ruby Swirl Flower Sweet Alcremie"
+        },
+        {
+          "value": "Ruby Swirl Ribbon Sweet Alcremie"
+        },
+        {
+          "value": "Caramel Swirl Strawberry Sweet Alcremie"
+        },
+        {
+          "value": "Caramel Swirl Blueberry Sweet Alcremie"
+        },
+        {
+          "value": "Caramel Swirl Love Sweet Alcremie"
+        },
+        {
+          "value": "Caramel Swirl Star Sweet Alcremie"
+        },
+        {
+          "value": "Caramel Swirl Clover Sweet Alcremie"
+        },
+        {
+          "value": "Caramel Swirl Flower Sweet Alcremie"
+        },
+        {
+          "value": "Caramel Swirl Ribbon Sweet Alcremie"
+        },
+        {
+          "value": "Rainbow Swirl Strawberry Sweet Alcremie"
+        },
+        {
+          "value": "Rainbow Swirl Blueberry Sweet Alcremie"
+        },
+        {
+          "value": "Rainbow Swirl Love Sweet Alcremie"
+        },
+        {
+          "value": "Rainbow Swirl Star Sweet Alcremie"
+        },
+        {
+          "value": "Rainbow Swirl Clover Sweet Alcremie"
+        },
+        {
+          "value": "Rainbow Swirl Flower Sweet Alcremie"
+        },
+        {
+          "value": "Rainbow Swirl Ribbon Sweet Alcremie"
+        }
+      ]
+    },
+    {
+      "name": "Gendered Forms",
+      "entries": [
+      ]
+    },
+    {
+      "name": "Gigantamax",
+      "entries": [
+        {
+          "value": "Venusaur"
+        },
+        {
+          "value": "Charizard"
+        },
+        {
+          "value": "Blastoise"
+        },
+        {
+          "value": "Butterfree"
+        },
+        {
+          "value": "Pikachu"
+        },
+        {
+          "value": "Meowth"
+        },
+        {
+          "value": "Machamp"
+        },
+        {
+          "value": "Gengar"
+        },
+        {
+          "value": "Kingler"
+        },
+        {
+          "value": "Lapras"
+        },
+        {
+          "value": "Eevee"
+        },
+        {
+          "value": "Snorlax"
+        },
+        {
+          "value": "Garbodor"
+        },
+        {
+          "value": "Melmetal"
+        },
+        {
+          "value": "Rillaboom"
+        },
+        {
+          "value": "Cinderace"
+        },
+        {
+          "value": "Inteleon"
+        },
+        {
+          "value": "Corviknight"
+        },
+        {
+          "value": "Orbeetle"
+        },
+        {
+          "value": "Drednaw"
+        },
+        {
+          "value": "Coalossal"
+        },
+        {
+          "value": "Flapple"
+        },
+        {
+          "value": "Appletun"
+        },
+        {
+          "value": "Sandaconda"
+        },
+        {
+          "value": "Toxtricity"
+        },
+        {
+          "value": "Centiskorch"
+        },
+        {
+          "value": "Hatterene"
+        },
+        {
+          "value": "Grimmsnarl"
+        },
+        {
+          "value": "Alcremie"
+        },
+        {
+          "value": "Copperajah"
+        },
+        {
+          "value": "Duraludon"
+        },
+        {
+          "value": "Single Strike Urshifu"
+        },
+        {
+          "value": "Rapid Strike Urshifu"
+        }
+      ]
+    }
+  ]
+}
