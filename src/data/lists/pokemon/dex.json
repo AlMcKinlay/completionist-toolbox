@@ -2939,18 +2939,6 @@
       "name": "Alt Forms",
       "entries": [
         {
-          "value": "Normal Castform"
-        },
-        {
-          "value": "Sunny Castform"
-        },
-        {
-          "value": "Rainy Castform"
-        },
-        {
-          "value": "Snowy Castform"
-        },
-        {
           "value": "Normal Forme Deoxys"
         },
         {
@@ -3009,24 +2997,6 @@
         },
         {
           "value": "Mow Rotom"
-        },
-        {
-          "value": "Normal Dialga"
-        },
-        {
-          "value": "Origin Form Dialga"
-        },
-        {
-          "value": "Normal Palkia"
-        },
-        {
-          "value": "Origin Form Palkia"
-        },
-        {
-          "value": "Altered Form Giratina"
-        },
-        {
-          "value": "Origin Form Giratina"
         },
         {
           "value": "Red-Striped Basculin"
