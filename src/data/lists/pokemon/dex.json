@@ -2939,6 +2939,14 @@
       "name": "Alt Forms",
       "entries": [
         {
+          "value": "Pikachu",
+          "help": "In a seperate section"
+        },
+        {
+          "value": "Unown",
+          "help": "In a seperate section"
+        },
+        {
           "value": "Normal Forme Deoxys"
         },
         {
@@ -2997,6 +3005,10 @@
         },
         {
           "value": "Mow Rotom"
+        },
+        {
+          "value": "Arceus",
+          "help": "In a seperate section"
         },
         {
           "value": "Red-Striped Basculin"
@@ -3077,6 +3089,10 @@
           "value": "Ash Greninja"
         },
         {
+          "value": "Vivillon",
+          "help": "In a seperate section"
+        },
+        {
           "value": "Red Flower Flabébé"
         },
         {
@@ -3120,6 +3136,10 @@
         },
         {
           "value": "White Flower Florges"
+        },
+        {
+          "value": "Furfrou",
+          "help": "In a seperate section"
         },
         {
           "value": "Small Size Pumpkaboo"
@@ -3177,6 +3197,14 @@
           "value": "Dusk Lycanroc"
         },
         {
+          "value": "Silvally",
+          "help": "In a seperate section"
+        },
+        {
+          "value": "Minior",
+          "help": "In a seperate section"
+        },
+        {
           "value": "Normal Magearna"
         },
         {
@@ -3199,6 +3227,10 @@
         },
         {
           "value": "Antique Polteageist"
+        },
+        {
+          "value": "Alcremie",
+          "help": "In a seperate section"
         },
         {
           "value": "Single Strike Urshifu"
