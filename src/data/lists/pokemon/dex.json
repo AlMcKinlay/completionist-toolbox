@@ -3782,6 +3782,618 @@
     {
       "name": "Gendered Forms",
       "entries": [
+        {
+          "value": "Male Venusaur"
+        },
+        {
+          "value": "Female Venusaur"
+        },
+        {
+          "value": "Male Butterfree"
+        },
+        {
+          "value": "Female ButterFree"
+        },
+        {
+          "value": "Male Rattata"
+        },
+        {
+          "value": "Female Rattata"
+        },
+        {
+          "value": "Male Raticate"
+        },
+        {
+          "value": "Female Raticate"
+        },
+        {
+          "value": "Male Pikachu"
+        },
+        {
+          "value": "Female Pikachu"
+        },
+        {
+          "value": "Male Raichu"
+        },
+        {
+          "value": "Female Raichu"
+        },
+        {
+          "value": "Male Zubat"
+        },
+        {
+          "value": "Female Zubat"
+        },
+        {
+          "value": "Male Golbat"
+        },
+        {
+          "value": "Female Golbat"
+        },
+        {
+          "value": "Male Gloom"
+        },
+        {
+          "value": "Female Gloom"
+        },
+        {
+          "value": "Male Vileplume"
+        },
+        {
+          "value": "Female Vileplume"
+        },
+        {
+          "value": "Male Kadabra"
+        },
+        {
+          "value": "Female Kadabra"
+        },
+        {
+          "value": "Male Alakazam"
+        },
+        {
+          "value": "Female Alakazam"
+        },
+        {
+          "value": "Male Duduo"
+        },
+        {
+          "value": "Female Duduo"
+        },
+        {
+          "value": "Male Dodrio"
+        },
+        {
+          "value": "Female Dodrio"
+        },
+        {
+          "value": "Male Hypno"
+        },
+        {
+          "value": "Female Hypno"
+        },
+        {
+          "value": "Male Rhyhorn"
+        },
+        {
+          "value": "Female Rhyhorn"
+        },
+        {
+          "value": "Male Rhydon"
+        },
+        {
+          "value": "Female Rhydon"
+        },
+        {
+          "value": "Male Goldeen"
+        },
+        {
+          "value": "Female Goldeen"
+        },
+        {
+          "value": "Male Seaking"
+        },
+        {
+          "value": "Female Seaking"
+        },
+        {
+          "value": "Male Scyther"
+        },
+        {
+          "value": "Female Scyther"
+        },
+        {
+          "value": "Male Magikarp"
+        },
+        {
+          "value": "Female Magikarp"
+        },
+        {
+          "value": "Male Gyarados"
+        },
+        {
+          "value": "Female Gyarados"
+        },
+        {
+          "value": "Male Eevee"
+        },
+        {
+          "value": "Female Eevee"
+        },
+        {
+          "value": "Male Meganium"
+        },
+        {
+          "value": "Female Meganium"
+        },
+        {
+          "value": "Male Ledyba"
+        },
+        {
+          "value": "Female Ledyba"
+        },
+        {
+          "value": "Male Ledian"
+        },
+        {
+          "value": "Female Ledian"
+        },
+        {
+          "value": "Male Xatu"
+        },
+        {
+          "value": "Female Xatu"
+        },
+        {
+          "value": "Male Sudowoodo"
+        },
+        {
+          "value": "Female Sudowoodo"
+        },
+        {
+          "value": "Male Politoed"
+        },
+        {
+          "value": "Female Politoed"
+        },
+        {
+          "value": "Male Aipom"
+        },
+        {
+          "value": "Female Aipom"
+        },
+        {
+          "value": "Male Wooper"
+        },
+        {
+          "value": "Female Wooper"
+        },
+        {
+          "value": "Male Quagsire"
+        },
+        {
+          "value": "Female Quagsire"
+        },
+        {
+          "value": "Male Murkrow"
+        },
+        {
+          "value": "Female Murkrow"
+        },
+        {
+          "value": "Male Woobuffet"
+        },
+        {
+          "value": "Female Woobuffet"
+        },
+        {
+          "value": "Male Girafarig"
+        },
+        {
+          "value": "Female Girafarig"
+        },
+        {
+          "value": "Male Gligar"
+        },
+        {
+          "value": "Female Gligar"
+        },
+        {
+          "value": "Male Steelix"
+        },
+        {
+          "value": "Female Steelix"
+        },
+        {
+          "value": "Male Scizor"
+        },
+        {
+          "value": "Female Scizor"
+        },
+        {
+          "value": "Male Heracross"
+        },
+        {
+          "value": "Female Heracross"
+        },
+        {
+          "value": "Male Sneasel"
+        },
+        {
+          "value": "Female Sneasel"
+        },
+        {
+          "value": "Male Hisuian Sneasel"
+        },
+        {
+          "value": "Female Hisuian Sneasel"
+        },
+        {
+          "value": "Male Ursaring"
+        },
+        {
+          "value": "Female Ursaring"
+        },
+        {
+          "value": "Male Piloswine"
+        },
+        {
+          "value": "Female Piloswine"
+        },
+        {
+          "value": "Male Octillery"
+        },
+        {
+          "value": "Female Octillery"
+        },
+        {
+          "value": "Male Houndoom"
+        },
+        {
+          "value": "Female Houndoom"
+        },
+        {
+          "value": "Male Donphan"
+        },
+        {
+          "value": "Female Donphan"
+        },
+        {
+          "value": "Male Torchic"
+        },
+        {
+          "value": "Female Torchic"
+        },
+        {
+          "value": "Male Combusken"
+        },
+        {
+          "value": "Female Combusken"
+        },
+        {
+          "value": "Male Blaziken"
+        },
+        {
+          "value": "Female Blaziken"
+        },
+        {
+          "value": "Male Beautifly"
+        },
+        {
+          "value": "Female Beautifly"
+        },
+        {
+          "value": "Male Dustox"
+        },
+        {
+          "value": "Female Dustox"
+        },
+        {
+          "value": "Male Ludicolo"
+        },
+        {
+          "value": "Female Ludicolo"
+        },
+        {
+          "value": "Male Nuzleaf"
+        },
+        {
+          "value": "Female Nuzleaf"
+        },
+        {
+          "value": "Male Shiftry"
+        },
+        {
+          "value": "Female Shiftry"
+        },
+        {
+          "value": "Male Meditite"
+        },
+        {
+          "value": "Female Meditite"
+        },
+        {
+          "value": "Male Medicham"
+        },
+        {
+          "value": "Female Medicham"
+        },
+        {
+          "value": "Male Roselia"
+        },
+        {
+          "value": "Female Roselia"
+        },
+        {
+          "value": "Male Gulpin"
+        },
+        {
+          "value": "Female Gulpin"
+        },
+        {
+          "value": "Male Swalot"
+        },
+        {
+          "value": "Female Swalot"
+        },
+        {
+          "value": "Male Numel"
+        },
+        {
+          "value": "Female Numel"
+        },
+        {
+          "value": "Male Camerupt"
+        },
+        {
+          "value": "Female Camerupt"
+        },
+        {
+          "value": "Male Cacturne"
+        },
+        {
+          "value": "Female Cacturne"
+        },
+        {
+          "value": "Male Milotic"
+        },
+        {
+          "value": "Female Milotic"
+        },
+        {
+          "value": "Male Relicanth"
+        },
+        {
+          "value": "Female Relicanth"
+        },
+        {
+          "value": "Male Starly"
+        },
+        {
+          "value": "Female Starly"
+        },
+        {
+          "value": "Male Staravia"
+        },
+        {
+          "value": "Female Staravia"
+        },
+        {
+          "value": "Male Staraptor"
+        },
+        {
+          "value": "Female Staraptor"
+        },
+        {
+          "value": "Male Bidoof"
+        },
+        {
+          "value": "Female Bidoof"
+        },
+        {
+          "value": "Male Bibarel"
+        },
+        {
+          "value": "Female Bibarel"
+        },
+        {
+          "value": "Male Kricketot"
+        },
+        {
+          "value": "Female Kricketot"
+        },
+        {
+          "value": "Male Kricketune"
+        },
+        {
+          "value": "Female Kricketune"
+        },
+        {
+          "value": "Male Shinx"
+        },
+        {
+          "value": "Female Shinx"
+        },
+        {
+          "value": "Male Luxio"
+        },
+        {
+          "value": "Female Luxio"
+        },
+        {
+          "value": "Male Luxray"
+        },
+        {
+          "value": "Female Luxray"
+        },
+        {
+          "value": "Male Roserade"
+        },
+        {
+          "value": "Female Roserade"
+        },
+        {
+          "value": "Male Combee"
+        },
+        {
+          "value": "Female Combee"
+        },
+        {
+          "value": "Male Pachirisu"
+        },
+        {
+          "value": "Female Pachirisu"
+        },
+        {
+          "value": "Male Buizel"
+        },
+        {
+          "value": "Female Buizel"
+        },
+        {
+          "value": "Male Floatsel"
+        },
+        {
+          "value": "Female Floatsel"
+        },
+        {
+          "value": "Male Ambipom"
+        },
+        {
+          "value": "Female Ambipom"
+        },
+        {
+          "value": "Male Gible"
+        },
+        {
+          "value": "Female Gible"
+        },
+        {
+          "value": "Male Gabite"
+        },
+        {
+          "value": "Female Gabite"
+        },
+        {
+          "value": "Male Garchomp"
+        },
+        {
+          "value": "Female Garchomp"
+        },
+        {
+          "value": "Male Hippopotas"
+        },
+        {
+          "value": "Female Hippopotas"
+        },
+        {
+          "value": "Male Hippowdon"
+        },
+        {
+          "value": "Female Hippowdon"
+        },
+        {
+          "value": "Male Croagunk"
+        },
+        {
+          "value": "Female Croagunk"
+        },
+        {
+          "value": "Male Toxicroak"
+        },
+        {
+          "value": "Female Toxicroak"
+        },
+        {
+          "value": "Male Finneon"
+        },
+        {
+          "value": "Female Finneon"
+        },
+        {
+          "value": "Male Lumineon"
+        },
+        {
+          "value": "Female Lumineon"
+        },
+        {
+          "value": "Male Snover"
+        },
+        {
+          "value": "Female Snover"
+        },
+        {
+          "value": "Male Abomasnow"
+        },
+        {
+          "value": "Female Abomasnow"
+        },
+        {
+          "value": "Male Weavile"
+        },
+        {
+          "value": "Female Weavile"
+        },
+        {
+          "value": "Male Rhyperior"
+        },
+        {
+          "value": "Female Rhyperior"
+        },
+        {
+          "value": "Male Tangrowth"
+        },
+        {
+          "value": "Female Tangrowth"
+        },
+        {
+          "value": "Male Mamoswine"
+        },
+        {
+          "value": "Female Mamoswine"
+        },
+        {
+          "value": "Male Unfezant"
+        },
+        {
+          "value": "Female Unfezant"
+        },
+        {
+          "value": "Male Frillish"
+        },
+        {
+          "value": "Female Frillish"
+        },
+        {
+          "value": "Male Jellicent"
+        },
+        {
+          "value": "Female Jellicent"
+        },
+        {
+          "value": "Male Pyroar"
+        },
+        {
+          "value": "Female Pyroar"
+        },
+        {
+          "value": "Male Meowstic"
+        },
+        {
+          "value": "Female Meowstic"
+        },
+        {
+          "value": "Male Indeedee"
+        },
+        {
+          "value": "Female Indeedee"
+        },
+        {
+          "value": "Male Basculegion"
+        },
+        {
+          "value": "Female Basculegion"
+        }
       ]
     },
     {
