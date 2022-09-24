@@ -1,22 +1,27 @@
 module.exports = {
   siteMetadata: {
-    title: 'The Completionist Toolbox',
+    title: "The Completionist Toolbox",
   },
-	pathPrefix: `/`,
+  pathPrefix: `/`,
   plugins: [
-    'gatsby-plugin-react-helmet',
-		{
-			resolve: `gatsby-source-filesystem`,
-			options: {
-				name: `data`,
-				path: `${__dirname}/src/data`,
-			},
-		},
-		{
-			resolve: `gatsby-transformer-json`,
-			options: {
-			  typeName: "List"
-			},
-		},
+    "gatsby-plugin-react-helmet",
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `data`,
+        path: `${__dirname}/src/data`,
+      },
+    },
+    {
+      resolve: `gatsby-transformer-json`,
+      options: {
+        typeName: "List",
+      },
+    },
+    {
+      resolve: `gatsby-plugin-styled-components`,
+      options: {
+      },
+    },
   ],
 };
