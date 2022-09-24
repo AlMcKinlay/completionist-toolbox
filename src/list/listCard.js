@@ -67,10 +67,12 @@ export class ListCard extends React.Component {
 				<Dropdown>
 					<DropdownEl action={this.props.hideList}>Hide List</DropdownEl>
 				</Dropdown>
-				<Grid>
-					<ConnectedCompletion total={this.total()} name={this.props.name} ></ConnectedCompletion>
-					<StyledButton onClick={() => this.goToList(this.props.slug)}>View List</StyledButton>
-				</Grid>
+				{this.props.list.sections.length > 0 ? (
+					<Grid>
+						<ConnectedCompletion total={this.total()} name={this.props.name} ></ConnectedCompletion>
+						<StyledButton onClick={() => this.goToList(this.props.slug)}>View List</StyledButton>
+					</Grid>
+				) : (<Grid><StyledButton disabled>Coming Soon</StyledButton></Grid>)}
 			</ThemedCard>
 		);
 	}

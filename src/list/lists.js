@@ -40,7 +40,7 @@ const Lists = ({lists = [], unusedLists = [], addList, hideList}) => {
 		<List>
 			{lists.map(({node: list}) =>
 				<ListSection key={list.name}>
-					<ListCard name={list.name} displayName={list.displayName || list.name} slug={list.fields.slug} total={getTotalItems(list.sections)} hideList={hideList.bind(this, list)} />
+					<ListCard list={list} name={list.name} displayName={list.displayName || list.name} slug={list.fields.slug} total={getTotalItems(list.sections)} hideList={hideList.bind(this, list)} />
 				</ListSection>
 			)}
 			<ListSection key={"Add List"} onClick={toggle}>
