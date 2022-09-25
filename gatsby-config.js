@@ -20,8 +20,13 @@ module.exports = {
     },
     {
       resolve: `gatsby-plugin-styled-components`,
+      options: {},
+    },
+    {
+      resolve: `gatsby-plugin-react-redux-persist`,
       options: {
-      },
+		pathToCreateStoreModule: './src/createStore',
+	  },
     },
   ],
 };
