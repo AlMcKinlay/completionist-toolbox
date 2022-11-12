@@ -6,5 +6,55 @@
     "violet"
   ],
   "sections": [
+    {
+      "name": "Victory Road",
+      "entries": [
+      ]
+    },
+    {
+      "name": "Path of Legends",
+      "entries": [
+      ]
+    },
+    {
+      "name": "Starfall",
+      "entries": [
+      ]
+    },
+    {
+      "name": "Side Quests",
+      "entries": [
+      ]
+    },
+    {
+      "name": "Post Game",
+      "entries": [
+      ]
+    },
+    {
+      "name": "Dex",
+      "entries": [
+      ]
+    },
+    {
+      "name": "In-game Gifts",
+      "entries": [
+      ]
+    },
+    {
+      "name": "In-game Trades",
+      "entries": [
+      ]
+    },
+    {
+      "name": "Clothing/Accessories",
+      "entries": [
+      ]
+    },
+    {
+      "name": "Sandwiches",
+      "entries": [
+      ]
+    }
   ]
 }
