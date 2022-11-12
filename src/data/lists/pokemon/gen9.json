@@ -9,6 +9,36 @@
     {
       "name": "Victory Road",
       "entries": [
+        {
+          "value": "Defeat Bug Gym"
+        },
+        {
+          "value": "Defeat Grass Gym"
+        },
+        {
+          "value": "Defeat Electric Gym"
+        },
+        {
+          "value": "Defeat Water Gym"
+        },
+        {
+          "value": "Defeat Normal Gym"
+        },
+        {
+          "value": "Defeat Ghost Gym"
+        },
+        {
+          "value": "Defeat Psychic Gym"
+        },
+        {
+          "value": "Defeat Ice Gym"
+        },
+        {
+          "value": "Defeat Elite Four"
+        },
+        {
+          "value": "Defeat Champion"
+        }
       ]
     },
     {
