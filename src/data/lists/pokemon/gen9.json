@@ -43,23 +43,19 @@
     },
     {
       "name": "Path of Legends",
-      "entries": [
-      ]
+      "entries": []
     },
     {
       "name": "Starfall",
-      "entries": [
-      ]
+      "entries": []
     },
     {
       "name": "Side Quests",
-      "entries": [
-      ]
+      "entries": []
     },
     {
       "name": "Post Game",
-      "entries": [
-      ]
+      "entries": []
     },
     {
       "name": "Dex",
@@ -214,27 +210,544 @@
         },
         {
           "value": "Complete Paldea Dex"
-        },
+        }
       ]
     },
     {
       "name": "In-game Gifts",
-      "entries": [
-      ]
+      "entries": []
     },
     {
       "name": "In-game Trades",
-      "entries": [
-      ]
+      "entries": []
     },
     {
       "name": "Clothing/Accessories",
-      "entries": [
-      ]
+      "entries": []
     },
     {
       "name": "Sandwiches",
+      "entries": []
+    },
+    {
+      "name": "TMs",
       "entries": [
+        {
+          "value": "TM1 - Take Down"
+        },
+        {
+          "value": "TM2 - Charm"
+        },
+        {
+          "value": "TM3 - Fake Tears"
+        },
+        {
+          "value": "TM4 - Agility"
+        },
+        {
+          "value": "TM5 - Mud-Slap"
+        },
+        {
+          "value": "TM6 - Scary Face"
+        },
+        {
+          "value": "TM7 - Protect"
+        },
+        {
+          "value": "TM8 - Fire Fang"
+        },
+        {
+          "value": "TM9 - Thunder Fang"
+        },
+        {
+          "value": "TM10 - Ice Fang"
+        },
+        {
+          "value": "TM11 - Water Pulse"
+        },
+        {
+          "value": "TM12 - Low Kick"
+        },
+        {
+          "value": "TM13 - Acid Spray"
+        },
+        {
+          "value": "TM14 - Acrobatics"
+        },
+        {
+          "value": "TM15 - Struggle Bug"
+        },
+        {
+          "value": "TM16 - Psybeam"
+        },
+        {
+          "value": "TM17 - Confuse Ray"
+        },
+        {
+          "value": "TM18 - Thief"
+        },
+        {
+          "value": "TM19 - Disarming Voice"
+        },
+        {
+          "value": "TM20 - Trailblaze"
+        },
+        {
+          "value": "TM21 - Pounce"
+        },
+        {
+          "value": "TM22 - Chilling Water"
+        },
+        {
+          "value": "TM23 - Charge Beam"
+        },
+        {
+          "value": "TM24 - Fire Spin"
+        },
+        {
+          "value": "TM25 - Facade"
+        },
+        {
+          "value": "TM26 - Poison Tail"
+        },
+        {
+          "value": "TM27 - Aerial Ace"
+        },
+        {
+          "value": "TM28 - Bulldoze"
+        },
+        {
+          "value": "TM29 - Hex"
+        },
+        {
+          "value": "TM30 - Snarl"
+        },
+        {
+          "value": "TM31 - Metal Claw"
+        },
+        {
+          "value": "TM32 - Swift"
+        },
+        {
+          "value": "TM33 - Magical Leaf"
+        },
+        {
+          "value": "TM34 - Icy Wind"
+        },
+        {
+          "value": "TM35 - Mud Shot"
+        },
+        {
+          "value": "TM36 - Rock Tomb"
+        },
+        {
+          "value": "TM37 - Draining Kiss"
+        },
+        {
+          "value": "TM38 - Flame Charge"
+        },
+        {
+          "value": "TM39 - Low Sweep"
+        },
+        {
+          "value": "TM40 - Air Cutter"
+        },
+        {
+          "value": "TM41 - Stored Power"
+        },
+        {
+          "value": "TM42 - Night Shade"
+        },
+        {
+          "value": "TM43 - Fling"
+        },
+        {
+          "value": "TM44 - Dragon Tail"
+        },
+        {
+          "value": "TM45 - Venoshock"
+        },
+        {
+          "value": "TM46 - Avalanche"
+        },
+        {
+          "value": "TM47 - Endure"
+        },
+        {
+          "value": "TM48 - Volt Switch"
+        },
+        {
+          "value": "TM49 - Sunny Day"
+        },
+        {
+          "value": "TM50 - Rain Dance"
+        },
+        {
+          "value": "TM51 - Sandstorm"
+        },
+        {
+          "value": "TM52 - Snowscape"
+        },
+        {
+          "value": "TM53 - Smart Strike"
+        },
+        {
+          "value": "TM54 - Psyshock"
+        },
+        {
+          "value": "TM55 - Dig"
+        },
+        {
+          "value": "TM56 - Bullet Seed"
+        },
+        {
+          "value": "TM57 - False Swipe"
+        },
+        {
+          "value": "TM58 - Brick Break"
+        },
+        {
+          "value": "TM59 - Zen Headbutt"
+        },
+        {
+          "value": "TM60 - U-turn"
+        },
+        {
+          "value": "TM61 - Shadow Claw"
+        },
+        {
+          "value": "TM62 - Foul Play"
+        },
+        {
+          "value": "TM63 - Psychic Fangs"
+        },
+        {
+          "value": "TM64 - Bulk Up"
+        },
+        {
+          "value": "TM65 - Air Slash"
+        },
+        {
+          "value": "TM66 - Body Slam"
+        },
+        {
+          "value": "TM67 - Fire Punch"
+        },
+        {
+          "value": "TM68 - Thunder Punch"
+        },
+        {
+          "value": "TM69 - Ice Punch"
+        },
+        {
+          "value": "TM70 - Sleep Talk"
+        },
+        {
+          "value": "TM71 - Seed Boomb"
+        },
+        {
+          "value": "TM72 - Electro Ball"
+        },
+        {
+          "value": "TM73 - Drain Punch"
+        },
+        {
+          "value": "TM74 - Reflect"
+        },
+        {
+          "value": "TM75 - Light Screen"
+        },
+        {
+          "value": "TM76 - Rock Blast"
+        },
+        {
+          "value": "TM77 - Waterfall"
+        },
+        {
+          "value": "TM78 - Dragon Claw"
+        },
+        {
+          "value": "TM79 - Dazzling Gleam"
+        },
+        {
+          "value": "TM80 - Metronome"
+        },
+        {
+          "value": "TM81 - Grass Knot"
+        },
+        {
+          "value": "TM82 - Thunder Wave"
+        },
+        {
+          "value": "TM83 - Poison Jab"
+        },
+        {
+          "value": "TM84 - Stomping Tantrum"
+        },
+        {
+          "value": "TM85 - Rest"
+        },
+        {
+          "value": "TM86 - Rock Slide"
+        },
+        {
+          "value": "TM87 - Taunt"
+        },
+        {
+          "value": "TM88 - Swords Dance"
+        },
+        {
+          "value": "TM89 - Body Press"
+        },
+        {
+          "value": "TM90 - Spikes"
+        },
+        {
+          "value": "TM91 - Toxic Spikes"
+        },
+        {
+          "value": "TM92 - Imprison"
+        },
+        {
+          "value": "TM93 - Flash Cannon"
+        },
+        {
+          "value": "TM94 - Dark Pulse"
+        },
+        {
+          "value": "TM95 - Leech Life"
+        },
+        {
+          "value": "TM96 - Eerie Impulse"
+        },
+        {
+          "value": "TM97 - Fly"
+        },
+        {
+          "value": "TM98 - Skill Swap"
+        },
+        {
+          "value": "TM99 - Iron Head"
+        },
+        {
+          "value": "TM100 - Dragon Dance"
+        },
+        {
+          "value": "TM101 - Power Gem"
+        },
+        {
+          "value": "TM102 - Gunk Shot"
+        },
+        {
+          "value": "TM103 - Substitute"
+        },
+        {
+          "value": "TM104 - Iron Defense"
+        },
+        {
+          "value": "TM105 - X-Scissor"
+        },
+        {
+          "value": "TM106 - Drill Run"
+        },
+        {
+          "value": "TM107 - Will-O-Wisp"
+        },
+        {
+          "value": "TM108 - Crunch"
+        },
+        {
+          "value": "TM109 - Trick"
+        },
+        {
+          "value": "TM110 - Liquidation"
+        },
+        {
+          "value": "TM111 - Giga Drain"
+        },
+        {
+          "value": "TM112 - Aura Sphere"
+        },
+        {
+          "value": "TM113 - Tailwind"
+        },
+        {
+          "value": "TM114 - Shadow Ball"
+        },
+        {
+          "value": "TM115 - Dragon Pulse"
+        },
+        {
+          "value": "TM116 - Stealth Rock"
+        },
+        {
+          "value": "TM117 - Hyper Voice"
+        },
+        {
+          "value": "TM118 - Heat Wave"
+        },
+        {
+          "value": "TM119 - Energy Ball"
+        },
+        {
+          "value": "TM120 - Psychic"
+        },
+        {
+          "value": "TM121 - Heavy Slam"
+        },
+        {
+          "value": "TM122 - Encore"
+        },
+        {
+          "value": "TM123 - Surf"
+        },
+        {
+          "value": "TM124 - Ice Spinner"
+        },
+        {
+          "value": "TM125 - Flamethrower"
+        },
+        {
+          "value": "TM126 - Thunderbolt"
+        },
+        {
+          "value": "TM127 - Play Rough"
+        },
+        {
+          "value": "TM128 - Amnesia"
+        },
+        {
+          "value": "TM129 - Calm Mind"
+        },
+        {
+          "value": "TM130 - Helping Hand"
+        },
+        {
+          "value": "TM131 - Pollen Puff"
+        },
+        {
+          "value": "TM132 - Baton Pass"
+        },
+        {
+          "value": "TM133 - Earth Power"
+        },
+        {
+          "value": "TM134 - Reversal"
+        },
+        {
+          "value": "TM135 - Ice Beam"
+        },
+        {
+          "value": "TM136 - Electric Terrain"
+        },
+        {
+          "value": "TM137 - Grassy Terrain"
+        },
+        {
+          "value": "TM138 - Psychic Terrain"
+        },
+        {
+          "value": "TM139 - Misty Terrain"
+        },
+        {
+          "value": "TM140 - Nasty Plot"
+        },
+        {
+          "value": "TM141 - Fire Blast"
+        },
+        {
+          "value": "TM142 - Hydro Pump"
+        },
+        {
+          "value": "TM143 - Blizzard"
+        },
+        {
+          "value": "TM144 - Fire Pledge"
+        },
+        {
+          "value": "TM145 - Water Pledge"
+        },
+        {
+          "value": "TM146 - Grass Pledge"
+        },
+        {
+          "value": "TM147 - Wild Charge"
+        },
+        {
+          "value": "TM148 - Sludge Bomb"
+        },
+        {
+          "value": "TM149 - Earthquake"
+        },
+        {
+          "value": "TM150 - Stone Edge"
+        },
+        {
+          "value": "TM151 - Phantom Force"
+        },
+        {
+          "value": "TM152 - Giga Impact"
+        },
+        {
+          "value": "TM153 - Blast Burn"
+        },
+        {
+          "value": "TM154 - Hydro Cannon"
+        },
+        {
+          "value": "TM155 - Frenzy Plant"
+        },
+        {
+          "value": "TM156 - Outrage"
+        },
+        {
+          "value": "TM157 - Overheat"
+        },
+        {
+          "value": "TM158 - Focus Blast"
+        },
+        {
+          "value": "TM159 - Leaf Storm"
+        },
+        {
+          "value": "TM160 - Hurricane"
+        },
+        {
+          "value": "TM161 - Trick Room"
+        },
+        {
+          "value": "TM162 - Bug Buzz"
+        },
+        {
+          "value": "TM163 - Hyper Beam"
+        },
+        {
+          "value": "TM164 - Brave Bird"
+        },
+        {
+          "value": "TM165 - Flare Blitz"
+        },
+        {
+          "value": "TM166 - Thunder"
+        },
+        {
+          "value": "TM167 - Close Combat"
+        },
+        {
+          "value": "TM168 - Solar Beam"
+        },
+        {
+          "value": "TM169 - Draco Meteor"
+        },
+        {
+          "value": "TM170 - Steel Beam"
+        },
+        {
+          "value": "TM172"
+        },
+        {
+          "value": "TM171 - Tera Blast"
+        }
       ]
     }
   ]
