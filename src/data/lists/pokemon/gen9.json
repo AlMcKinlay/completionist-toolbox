@@ -241,301 +241,301 @@
       "name": "TMs",
       "entries": [
         {
-          "value": "TM1 - Take Down"
+          "value": "TM001 - Take Down"
         },
         {
-          "value": "TM2 - Charm"
+          "value": "TM002 - Charm"
         },
         {
-          "value": "TM3 - Fake Tears"
+          "value": "TM003 - Fake Tears"
         },
         {
-          "value": "TM4 - Agility"
+          "value": "TM004 - Agility"
         },
         {
-          "value": "TM5 - Mud-Slap"
+          "value": "TM005 - Mud-Slap"
         },
         {
-          "value": "TM6 - Scary Face"
+          "value": "TM006 - Scary Face"
         },
         {
-          "value": "TM7 - Protect"
+          "value": "TM007 - Protect"
         },
         {
-          "value": "TM8 - Fire Fang"
+          "value": "TM008 - Fire Fang"
         },
         {
-          "value": "TM9 - Thunder Fang"
+          "value": "TM009 - Thunder Fang"
         },
         {
-          "value": "TM10 - Ice Fang"
+          "value": "TM010 - Ice Fang"
         },
         {
-          "value": "TM11 - Water Pulse"
+          "value": "TM011 - Water Pulse"
         },
         {
-          "value": "TM12 - Low Kick"
+          "value": "TM012 - Low Kick"
         },
         {
-          "value": "TM13 - Acid Spray"
+          "value": "TM013 - Acid Spray"
         },
         {
-          "value": "TM14 - Acrobatics"
+          "value": "TM014 - Acrobatics"
         },
         {
-          "value": "TM15 - Struggle Bug"
+          "value": "TM015 - Struggle Bug"
         },
         {
-          "value": "TM16 - Psybeam"
+          "value": "TM016 - Psybeam"
         },
         {
-          "value": "TM17 - Confuse Ray"
+          "value": "TM017 - Confuse Ray"
         },
         {
-          "value": "TM18 - Thief"
+          "value": "TM018 - Thief"
         },
         {
-          "value": "TM19 - Disarming Voice"
+          "value": "TM019 - Disarming Voice"
         },
         {
-          "value": "TM20 - Trailblaze"
+          "value": "TM020 - Trailblaze"
         },
         {
-          "value": "TM21 - Pounce"
+          "value": "TM021 - Pounce"
         },
         {
-          "value": "TM22 - Chilling Water"
+          "value": "TM022 - Chilling Water"
         },
         {
-          "value": "TM23 - Charge Beam"
+          "value": "TM023 - Charge Beam"
         },
         {
-          "value": "TM24 - Fire Spin"
+          "value": "TM024 - Fire Spin"
         },
         {
-          "value": "TM25 - Facade"
+          "value": "TM025 - Facade"
         },
         {
-          "value": "TM26 - Poison Tail"
+          "value": "TM026 - Poison Tail"
         },
         {
-          "value": "TM27 - Aerial Ace"
+          "value": "TM027 - Aerial Ace"
         },
         {
-          "value": "TM28 - Bulldoze"
+          "value": "TM028 - Bulldoze"
         },
         {
-          "value": "TM29 - Hex"
+          "value": "TM029 - Hex"
         },
         {
-          "value": "TM30 - Snarl"
+          "value": "TM030 - Snarl"
         },
         {
-          "value": "TM31 - Metal Claw"
+          "value": "TM031 - Metal Claw"
         },
         {
-          "value": "TM32 - Swift"
+          "value": "TM032 - Swift"
         },
         {
-          "value": "TM33 - Magical Leaf"
+          "value": "TM033 - Magical Leaf"
         },
         {
-          "value": "TM34 - Icy Wind"
+          "value": "TM034 - Icy Wind"
         },
         {
-          "value": "TM35 - Mud Shot"
+          "value": "TM035 - Mud Shot"
         },
         {
-          "value": "TM36 - Rock Tomb"
+          "value": "TM036 - Rock Tomb"
         },
         {
-          "value": "TM37 - Draining Kiss"
+          "value": "TM037 - Draining Kiss"
         },
         {
-          "value": "TM38 - Flame Charge"
+          "value": "TM038 - Flame Charge"
         },
         {
-          "value": "TM39 - Low Sweep"
+          "value": "TM039 - Low Sweep"
         },
         {
-          "value": "TM40 - Air Cutter"
+          "value": "TM040 - Air Cutter"
         },
         {
-          "value": "TM41 - Stored Power"
+          "value": "TM041 - Stored Power"
         },
         {
-          "value": "TM42 - Night Shade"
+          "value": "TM042 - Night Shade"
         },
         {
-          "value": "TM43 - Fling"
+          "value": "TM043 - Fling"
         },
         {
-          "value": "TM44 - Dragon Tail"
+          "value": "TM044 - Dragon Tail"
         },
         {
-          "value": "TM45 - Venoshock"
+          "value": "TM045 - Venoshock"
         },
         {
-          "value": "TM46 - Avalanche"
+          "value": "TM046 - Avalanche"
         },
         {
-          "value": "TM47 - Endure"
+          "value": "TM047 - Endure"
         },
         {
-          "value": "TM48 - Volt Switch"
+          "value": "TM048 - Volt Switch"
         },
         {
-          "value": "TM49 - Sunny Day"
+          "value": "TM049 - Sunny Day"
         },
         {
-          "value": "TM50 - Rain Dance"
+          "value": "TM050 - Rain Dance"
         },
         {
-          "value": "TM51 - Sandstorm"
+          "value": "TM051 - Sandstorm"
         },
         {
-          "value": "TM52 - Snowscape"
+          "value": "TM052 - Snowscape"
         },
         {
-          "value": "TM53 - Smart Strike"
+          "value": "TM053 - Smart Strike"
         },
         {
-          "value": "TM54 - Psyshock"
+          "value": "TM054 - Psyshock"
         },
         {
-          "value": "TM55 - Dig"
+          "value": "TM055 - Dig"
         },
         {
-          "value": "TM56 - Bullet Seed"
+          "value": "TM056 - Bullet Seed"
         },
         {
-          "value": "TM57 - False Swipe"
+          "value": "TM057 - False Swipe"
         },
         {
-          "value": "TM58 - Brick Break"
+          "value": "TM058 - Brick Break"
         },
         {
-          "value": "TM59 - Zen Headbutt"
+          "value": "TM059 - Zen Headbutt"
         },
         {
-          "value": "TM60 - U-turn"
+          "value": "TM060 - U-turn"
         },
         {
-          "value": "TM61 - Shadow Claw"
+          "value": "TM061 - Shadow Claw"
         },
         {
-          "value": "TM62 - Foul Play"
+          "value": "TM062 - Foul Play"
         },
         {
-          "value": "TM63 - Psychic Fangs"
+          "value": "TM063 - Psychic Fangs"
         },
         {
-          "value": "TM64 - Bulk Up"
+          "value": "TM064 - Bulk Up"
         },
         {
-          "value": "TM65 - Air Slash"
+          "value": "TM065 - Air Slash"
         },
         {
-          "value": "TM66 - Body Slam"
+          "value": "TM066 - Body Slam"
         },
         {
-          "value": "TM67 - Fire Punch"
+          "value": "TM067 - Fire Punch"
         },
         {
-          "value": "TM68 - Thunder Punch"
+          "value": "TM068 - Thunder Punch"
         },
         {
-          "value": "TM69 - Ice Punch"
+          "value": "TM069 - Ice Punch"
         },
         {
-          "value": "TM70 - Sleep Talk"
+          "value": "TM070 - Sleep Talk"
         },
         {
-          "value": "TM71 - Seed Boomb"
+          "value": "TM071 - Seed Boomb"
         },
         {
-          "value": "TM72 - Electro Ball"
+          "value": "TM072 - Electro Ball"
         },
         {
-          "value": "TM73 - Drain Punch"
+          "value": "TM073 - Drain Punch"
         },
         {
-          "value": "TM74 - Reflect"
+          "value": "TM074 - Reflect"
         },
         {
-          "value": "TM75 - Light Screen"
+          "value": "TM075 - Light Screen"
         },
         {
-          "value": "TM76 - Rock Blast"
+          "value": "TM076 - Rock Blast"
         },
         {
-          "value": "TM77 - Waterfall"
+          "value": "TM077 - Waterfall"
         },
         {
-          "value": "TM78 - Dragon Claw"
+          "value": "TM078 - Dragon Claw"
         },
         {
-          "value": "TM79 - Dazzling Gleam"
+          "value": "TM079 - Dazzling Gleam"
         },
         {
-          "value": "TM80 - Metronome"
+          "value": "TM080 - Metronome"
         },
         {
-          "value": "TM81 - Grass Knot"
+          "value": "TM081 - Grass Knot"
         },
         {
-          "value": "TM82 - Thunder Wave"
+          "value": "TM082 - Thunder Wave"
         },
         {
-          "value": "TM83 - Poison Jab"
+          "value": "TM083 - Poison Jab"
         },
         {
-          "value": "TM84 - Stomping Tantrum"
+          "value": "TM084 - Stomping Tantrum"
         },
         {
-          "value": "TM85 - Rest"
+          "value": "TM085 - Rest"
         },
         {
-          "value": "TM86 - Rock Slide"
+          "value": "TM086 - Rock Slide"
         },
         {
-          "value": "TM87 - Taunt"
+          "value": "TM087 - Taunt"
         },
         {
-          "value": "TM88 - Swords Dance"
+          "value": "TM088 - Swords Dance"
         },
         {
-          "value": "TM89 - Body Press"
+          "value": "TM089 - Body Press"
         },
         {
-          "value": "TM90 - Spikes"
+          "value": "TM090 - Spikes"
         },
         {
-          "value": "TM91 - Toxic Spikes"
+          "value": "TM091 - Toxic Spikes"
         },
         {
-          "value": "TM92 - Imprison"
+          "value": "TM092 - Imprison"
         },
         {
-          "value": "TM93 - Flash Cannon"
+          "value": "TM093 - Flash Cannon"
         },
         {
-          "value": "TM94 - Dark Pulse"
+          "value": "TM094 - Dark Pulse"
         },
         {
-          "value": "TM95 - Leech Life"
+          "value": "TM095 - Leech Life"
         },
         {
-          "value": "TM96 - Eerie Impulse"
+          "value": "TM096 - Eerie Impulse"
         },
         {
-          "value": "TM97 - Fly"
+          "value": "TM097 - Fly"
         },
         {
-          "value": "TM98 - Skill Swap"
+          "value": "TM098 - Skill Swap"
         },
         {
-          "value": "TM99 - Iron Head"
+          "value": "TM099 - Iron Head"
         },
         {
           "value": "TM100 - Dragon Dance"
