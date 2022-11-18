@@ -43,11 +43,46 @@
     },
     {
       "name": "Path of Legends",
-      "entries": []
+      "entries": [
+        {
+          "value": "Defeat the Stony Cliff Titan"
+        },
+        {
+          "value": "Defeat the Open Sky Titan"
+        },
+        {
+          "value": "Defeat the Lurking Steel Titan"
+        },
+        {
+          "value": "Defeat the Quaking Earth Titan"
+        },
+        {
+          "value": "Defeat the False Dragon Titan"
+        },
+        {
+          "value": "Defeat the final titan challenge"
+        }
+      ]
     },
     {
       "name": "Starfall Street",
-      "entries": []
+      "entries": [
+        {
+          "value": "Defeat the Team Star Dark Crew"
+        },
+        {
+          "value": "Defeat the Team Star Fire Crew"
+        },
+        {
+          "value": "Defeat the Team Star Poison Crew"
+        },
+        {
+          "value": "Defeat the Team Star Fairy Crew"
+        },
+        {
+          "value": "Defeat the Team Star Fighting Crew"
+        }
+      ]
     },
     {
       "name": "Side Quests",
