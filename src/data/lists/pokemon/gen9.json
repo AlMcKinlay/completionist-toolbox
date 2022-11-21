@@ -381,607 +381,607 @@
       "entries": [
         {
           "value": "Jambon-Beurre",
-          "ingredients": "Ham, Butter"
+          "help": "Ham, Butter"
       },
       {
           "value": "Bitter Jambon-Beurre",
-          "ingredients": "Ham, Butter, Bitter Herba Mystica"
+          "help": "Ham, Butter, Bitter Herba Mystica"
       },
       {
           "value": "Sweet Jambon-Beurre",
-          "ingredients": "Ham, Butter, Sweet Herba Mystica"
+          "help": "Ham, Butter, Sweet Herba Mystica"
       },
       {
           "value": "Salty Jambon-Beurre",
-          "ingredients": "Ham, Butter, Salty Herba Mystica"
+          "help": "Ham, Butter, Salty Herba Mystica"
       },
       {
           "value": "Sour Jambon-Beurre",
-          "ingredients": "Ham, Butter, Sour Herba Mystica"
+          "help": "Ham, Butter, Sour Herba Mystica"
       },
       {
           "value": "Spicy Jambon-Beurre",
-          "ingredients": "Ham, Butter, Spicy Herba Mystica"
+          "help": "Ham, Butter, Spicy Herba Mystica"
       },
       {
           "value": "Legendary Bitter Sandwich",
-          "ingredients": "Lettuce, Bacon, Bitter Herba Mystica, Pepper"
+          "help": "Lettuce, Bacon, Bitter Herba Mystica, Pepper"
       },
       {
           "value": "Legendary Salty Sandwich",
-          "ingredients": "Lettuce, Bacon, Salty Herba Mystica, Pepper"      
+          "help": "Lettuce, Bacon, Salty Herba Mystica, Pepper"      
       },
       {
           "value": "Legendary Sweet Sandwich",
-          "ingredients": "Lettuce, Bacon, Sweet Herba Mystica, Pepper"
+          "help": "Lettuce, Bacon, Sweet Herba Mystica, Pepper"
       },
       {
           "value": "Legendary Sour Sandwich",
-          "ingredients": "Lettuce, Bacon, Sour Herba Mystica, Pepper"
+          "help": "Lettuce, Bacon, Sour Herba Mystica, Pepper"
       },
       {
           "value": "Legendary Spicy Sandwich",
-          "ingredients": "Lettuce, Bacon, Spicy Herba Mystica, Pepper"
+          "help": "Lettuce, Bacon, Spicy Herba Mystica, Pepper"
       },
       {
           "value": "Jam Sandwich",
-          "ingredients": "Strawberry, Jam"
+          "help": "Strawberry, Jam"
       },
       {
           "value": "Great Jam Sandwich",
-          "ingredients": "Strawberry, Jam, Yogurt"
+          "help": "Strawberry, Jam, Yogurt"
       },
       {
           "value": "Ultra Jam Sandwich",
-          "ingredients": "Strawberry, Pineapple, Jam, Yogurt"
+          "help": "Strawberry, Pineapple, Jam, Yogurt"
       },
       {
           "value": "Master Jam Sandwich",
-          "ingredients": "Strawberry, Pineapple, Jam, Yogurt, Sweet Herba Mystica"
+          "help": "Strawberry, Pineapple, Jam, Yogurt, Sweet Herba Mystica"
       },
       {
           "value": "Peanut Butter Sandwich",
-          "ingredients": "Banana, Peanut, Butter"
+          "help": "Banana, Peanut, Butter"
       },
       {
           "value": "Great Peanut Butter Sandwich",
-          "ingredients": "Banana, Peanut, Butter x2"
+          "help": "Banana, Peanut, Butter x2"
       },
       {
           "value": "Ultra Peanut Butter Sandwich",
-          "ingredients": "Banana, Peanut, Butter x2, Jam"
+          "help": "Banana, Peanut, Butter x2, Jam"
       },
       {
           "value": "Master Peanut Butter Sandwich",
-          "ingredients": "Banana, Peanut, Butter x2, Jam, Spicy Herba Mystica"
+          "help": "Banana, Peanut, Butter x2, Jam, Spicy Herba Mystica"
       },
       {
           "value": "Pickle Sandwich",
-          "ingredients": "Pickle, Olive Oil"
+          "help": "Pickle, Olive Oil"
       },
       {
           "value": "Great Pickle Sandwich",
-          "ingredients": "Pickle, Watercress, Olive Oil"
+          "help": "Pickle, Watercress, Olive Oil"
       },
       {
           "value": "Ultra Pickle Sandwich",
-          "ingredients": "Pickle, Watercress, Basil, Olive Oil"
+          "help": "Pickle, Watercress, Basil, Olive Oil"
       },
       {
           "value": "Master Pickle Sandwich",
-          "ingredients": "Pickle, Watercress, Basil, Olive Oil, Sour Herba Mystica"
+          "help": "Pickle, Watercress, Basil, Olive Oil, Sour Herba Mystica"
       },
       {
           "value": "Marmalade Sandwich",
-          "ingredients": "Cheese, Marmalade"
+          "help": "Cheese, Marmalade"
       },
       {
           "value": "Great Marmalade Sandwich",
-          "ingredients": "Cheese, Marmalade, Butter"
+          "help": "Cheese, Marmalade, Butter"
       },
       {
           "value": "Ultra Marmalade Sandwich",
-          "ingredients": "Cheese, Marmalade, Butter, Cream, Cheese"
+          "help": "Cheese, Marmalade, Butter, Cream, Cheese"
       },
       {
           "value": "Master Marmalade Sandwich",
-          "ingredients": "Cheese, Marmalade, Butter, Cream, Cheese, Salty Herba Mystica"
+          "help": "Cheese, Marmalade, Butter, Cream, Cheese, Salty Herba Mystica"
       },
       {
           "value": "Herbed-Sausage Sandwich",
-          "ingredients": "Herbed Sausage, Ketchup"
+          "help": "Herbed Sausage, Ketchup"
       },
       {
           "value": "Great Herbed-Sausage Sandwich",
-          "ingredients": "Herbed Sausage, Ketchup, Mustard"
+          "help": "Herbed Sausage, Ketchup, Mustard"
       },
       {
           "value": "Ultra Herbed-Sausage Sandwich",
-          "ingredients": "Herbed Sausage, Lettuce, Ketchup, Mustard"
+          "help": "Herbed Sausage, Lettuce, Ketchup, Mustard"
       },
       {
           "value": "Master Herbed-Sausage Sandwich",
-          "ingredients": "Herbed Sausage, Lettuce, Ketchup, Mustard, Bitter Herba Mystica"
+          "help": "Herbed Sausage, Lettuce, Ketchup, Mustard, Bitter Herba Mystica"
       },
       {
           "value": "Curry-and-Rice-Style Sandwich",
-          "ingredients": "Rice, Curry, Powder, Mayonnaise"
+          "help": "Rice, Curry, Powder, Mayonnaise"
       },
       {
           "value": "Great Curry-and-Rice-Style Sandwich",
-          "ingredients": "Rice, Jalapeno, Curry, Powder, Mayonnaise"
+          "help": "Rice, Jalapeno, Curry, Powder, Mayonnaise"
       },
       {
           "value": "Ultra Curry-and-Rice-Style Sandwich",
-          "ingredients": "Rice, Jalapeno, Tomato, Curry, Powder, Mayonnaise"
+          "help": "Rice, Jalapeno, Tomato, Curry, Powder, Mayonnaise"
       },
       {
           "value": "Master Curry-and-Rice-Style Sandwich",
-          "ingredients": "Rice, Jalapeno, Tomato, Curry, Powder, Mayonnaise, Spicy Herba Mystica"
+          "help": "Rice, Jalapeno, Tomato, Curry, Powder, Mayonnaise, Spicy Herba Mystica"
       },
       {
           "value": "Dessert Sandwich",
-          "ingredients": "Apple x2, Yogurt, Whipped, Cream"
+          "help": "Apple x2, Yogurt, Whipped, Cream"
       },
       {
           "value": "Great Dessert Sandwich",
-          "ingredients": "Apple x2, Kiwi, Yogurt, Whipped, Cream"
+          "help": "Apple x2, Kiwi, Yogurt, Whipped, Cream"
       },
       {
           "value": "Ultra Dessert Sandwich",
-          "ingredients": "Apple x2, Kiwi, Strawberry, Yogurt, Whipped, Cream"
+          "help": "Apple x2, Kiwi, Strawberry, Yogurt, Whipped, Cream"
       },
       {
           "value": "Master Dessert Sandwich",
-          "ingredients": "Apple x2, Kiwi, Strawberry, Yogurt, Whipped, Cream, Sweet Herba Mystica"
+          "help": "Apple x2, Kiwi, Strawberry, Yogurt, Whipped, Cream, Sweet Herba Mystica"
       },
       {
           "value": "Tropical Sandwich",
-          "ingredients": "Klawf Stick, Avocado, Marmalade"
+          "help": "Klawf Stick, Avocado, Marmalade"
       },
       {
           "value": "Great Tropical Sandwich",
-          "ingredients": "Klawf Stick, Avocado, Pineapple, Marmalade"
+          "help": "Klawf Stick, Avocado, Pineapple, Marmalade"
       },
       {
           "value": "Ultra Tropical Sandwich",
-          "ingredients": "Klawf Stick, Avocado, Pineapple, Jalapeno, Marmalade"
+          "help": "Klawf Stick, Avocado, Pineapple, Jalapeno, Marmalade"
       },
       {
           "value": "Master Tropical Sandwich",
-          "ingredients": "Klawf Stick, Avocado, Pineapple, Jalapeno, Marmalade, Sour Herba Mystica"
+          "help": "Klawf Stick, Avocado, Pineapple, Jalapeno, Marmalade, Sour Herba Mystica"
       },
       {
           "value": "Avocado Sandwich",
-          "ingredients": "Avocado, Smoked Fillet, Salt"
+          "help": "Avocado, Smoked Fillet, Salt"
       },
       {
           "value": "Great Avocado Sandwich",
-          "ingredients": "Avocado, Smoked Fillet, Tomato, Salt"
+          "help": "Avocado, Smoked Fillet, Tomato, Salt"
       },
       {
           "value": "Ultra Avocado Sandwich",
-          "ingredients": "Avocado, Smoked Fillet, Tomato, Lettuce, Salt"
+          "help": "Avocado, Smoked Fillet, Tomato, Lettuce, Salt"
       },
       {
           "value": "Master Avocado Sandwich",
-          "ingredients": "Avocado, Smoked Fillet, Tomato, Lettuce, Salt, Salty Herba Mystica"
+          "help": "Avocado, Smoked Fillet, Tomato, Lettuce, Salt, Salty Herba Mystica"
       },
       {
           "value": "Noodle Sandwich",
-          "ingredients": "Noodles, Olive Oil, Ketchup"
+          "help": "Noodles, Olive Oil, Ketchup"
       },
       {
           "value": "Great Noodle Sandwich",
-          "ingredients": "Noodles, Lettuce, Olive Oil, Ketchup"
+          "help": "Noodles, Lettuce, Olive Oil, Ketchup"
       },
       {
           "value": "Ultra Noodle Sandwich",
-          "ingredients": "Noodles, Lettuce, Chorizo, Olive Oil, Ketchup"
+          "help": "Noodles, Lettuce, Chorizo, Olive Oil, Ketchup"
       },
       {
           "value": "Master Noodle Sandwich",
-          "ingredients": "Noodles, Lettuce, Chorizo, Olive Oil, Ketchup, Bitter Herba Mystica"
+          "help": "Noodles, Lettuce, Chorizo, Olive Oil, Ketchup, Bitter Herba Mystica"
       },
       {
           "value": "Potato Salad Sandwich",
-          "ingredients": "Potato, Salad, Cucumber, Red Bell Pepper, Mayonnaise"
+          "help": "Potato, Salad, Cucumber, Red Bell Pepper, Mayonnaise"
       },
       {
           "value": "Great Potato Salad Sandwich",
-          "ingredients": "Potato, Salad, Cucumber, Red Bell Pepper, Avocado, Mayonnaise"
+          "help": "Potato, Salad, Cucumber, Red Bell Pepper, Avocado, Mayonnaise"
       },
       {
           "value": "Ultra Potato Salad Sandwich",
-          "ingredients": "Potato, Salad, Cucumber, Red Bell Pepper, Avocado, Red Onion, Mayonnaise"
+          "help": "Potato, Salad, Cucumber, Red Bell Pepper, Avocado, Red Onion, Mayonnaise"
       },
       {
           "value": "Master Potato Salad Sandwich",
-          "ingredients": "Potato, Salad, Cucumber, Red Bell Pepper, Avocado, Red Onion, Mayonnaise, Sweet Herba Mystica"
+          "help": "Potato, Salad, Cucumber, Red Bell Pepper, Avocado, Red Onion, Mayonnaise, Sweet Herba Mystica"
       },
       {
           "value": "Zesty Sandwich",
-          "ingredients": "Jalapeno, Onion, Herbed Sausage, Chili Sauce"
+          "help": "Jalapeno, Onion, Herbed Sausage, Chili Sauce"
       },
       {
           "value": "Great Zesty Sandwich",
-          "ingredients": "Jalapeno, Onion, Herbed Sausage, Sliced, Green, Pepper, Chili Sauce"
+          "help": "Jalapeno, Onion, Herbed Sausage, Sliced, Green, Pepper, Chili Sauce"
       },
       {
           "value": "Ultra Zesty Sandwich",
-          "ingredients": "Jalapeno, Onion, Herbed Sausage, Sliced, Green, Pepper, Watercress, Chili Sauce"
+          "help": "Jalapeno, Onion, Herbed Sausage, Sliced, Green, Pepper, Watercress, Chili Sauce"
       },
       {
           "value": "Master Zesty Sandwich",
-          "ingredients": "Jalapeno, Onion, Herbed Sausage, Sliced, Green, Pepper, Watercress, Chili Sauce, Sour Herba Mystica"
+          "help": "Jalapeno, Onion, Herbed Sausage, Sliced, Green, Pepper, Watercress, Chili Sauce, Sour Herba Mystica"
       },
       {
           "value": "Egg Sandwich",
-          "ingredients": "Egg, Cucumber, Salt, Mayonnaise"
+          "help": "Egg, Cucumber, Salt, Mayonnaise"
       },
       {
           "value": "Great Egg Sandwich",
-          "ingredients": "Egg, Cucumber, Red Onion, Salt, Mayonnaise"
+          "help": "Egg, Cucumber, Red Onion, Salt, Mayonnaise"
       },
       {
           "value": "Ultra Egg Sandwich",
-          "ingredients": "Egg, Cucumber, Red Onion, Cheese, Salt, Mayonnaise"
+          "help": "Egg, Cucumber, Red Onion, Cheese, Salt, Mayonnaise"
       },
       {
           "value": "Master Egg Sandwich",
-          "ingredients": "Egg, Cucumber, Red Onion, Cheese, Salt, Mayonnaise, Salty Herba Mystica"
+          "help": "Egg, Cucumber, Red Onion, Cheese, Salt, Mayonnaise, Salty Herba Mystica"
       },
       {
           "value": "Classic Bocadillo",
-          "ingredients": "Prosciutto, Cheese, Potato, Tortilla, Olive Oil"
+          "help": "Prosciutto, Cheese, Potato, Tortilla, Olive Oil"
       },
       {
           "value": "Great Classic Bocadillo",
-          "ingredients": "Prosciutto, Cheese, Potato, Tortilla, Olive Oil, Curry, Powder"
+          "help": "Prosciutto, Cheese, Potato, Tortilla, Olive Oil, Curry, Powder"
       },
       {
           "value": "Ultra Classic Bocadillo",
-          "ingredients": "Prosciutto, Cheese, Potato, Tortilla, Avocado, Olive Oil, Curry, Powder"
+          "help": "Prosciutto, Cheese, Potato, Tortilla, Avocado, Olive Oil, Curry, Powder"
       },
       {
           "value": "Master Classic Bocadillo",
-          "ingredients": "Prosciutto, Cheese, Potato, Tortilla, Avocado, Olive Oil, Curry, Powder, Bitter Herba Mystica"
+          "help": "Prosciutto, Cheese, Potato, Tortilla, Avocado, Olive Oil, Curry, Powder, Bitter Herba Mystica"
       },
       {
           "value": "Refreshing Sandwich",
-          "ingredients": "Cherry, Tomatoes, Avocado, Marmalade, Salt"
+          "help": "Cherry, Tomatoes, Avocado, Marmalade, Salt"
       },
       {
           "value": "Great Refreshing Sandwich",
-          "ingredients": "Cherry, Tomatoes, Avocado, Kiwi, Marmalade, Salt"
+          "help": "Cherry, Tomatoes, Avocado, Kiwi, Marmalade, Salt"
       },
       {
           "value": "Ultra Refreshing Sandwich",
-          "ingredients": "Cherry, Tomatoes, Avocado, Kiwi, Pickle, Marmalade, Salt"
+          "help": "Cherry, Tomatoes, Avocado, Kiwi, Pickle, Marmalade, Salt"
       },
       {
           "value": "Master Refreshing Sandwich",
-          "ingredients": "Cherry, Tomatoes, Avocado, Kiwi, Pickle, Marmalade, Salt, Spicy Herba Mystica"
+          "help": "Cherry, Tomatoes, Avocado, Kiwi, Pickle, Marmalade, Salt, Spicy Herba Mystica"
       },
       {
           "value": "BLT Sandwich",
-          "ingredients": "Bacon, Lettuce, Tomato, Mayonnaise, Mustard"
+          "help": "Bacon, Lettuce, Tomato, Mayonnaise, Mustard"
       },
       {
           "value": "Great BLT Sandwich",
-          "ingredients": "Bacon, Lettuce, Tomato, Basil, Mayonnaise, Mustard"
+          "help": "Bacon, Lettuce, Tomato, Basil, Mayonnaise, Mustard"
       },
       {
           "value": "Ultra BLT Sandwich",
-          "ingredients": "Bacon, Lettuce, Tomato, Basil, Cheese, Mayonnaise, Mustard"
+          "help": "Bacon, Lettuce, Tomato, Basil, Cheese, Mayonnaise, Mustard"
       },
       {
           "value": "Master BLT Sandwich",
-          "ingredients": "Bacon, Lettuce, Tomato, Basil, Cheese, Mayonnaise, Mustard, Sweet Herba Mystica"
+          "help": "Bacon, Lettuce, Tomato, Basil, Cheese, Mayonnaise, Mustard, Sweet Herba Mystica"
       },
       {
           "value": "Fried Fillet Sandwich",
-          "ingredients": "Fried, Fillet, Potato, Salad, Mayonnaise, Ketchup"
+          "help": "Fried, Fillet, Potato, Salad, Mayonnaise, Ketchup"
       },
       {
           "value": "Great Fried Fillet Sandwich",
-          "ingredients": "Fried, Fillet, Potato, Salad, Lettuce, Mayonnaise, Ketchup"
+          "help": "Fried, Fillet, Potato, Salad, Lettuce, Mayonnaise, Ketchup"
       },
       {
           "value": "Ultra Fried Fillet Sandwich",
-          "ingredients": "Fried, Fillet, Potato, Salad, Lettuce, Mayonnaise, Ketchup, Horseradish"
+          "help": "Fried, Fillet, Potato, Salad, Lettuce, Mayonnaise, Ketchup, Horseradish"
       },
       {
           "value": "Master Fried Fillet Sandwich",
-          "ingredients": "Fried, Fillet, Potato, Salad, Lettuce, Mayonnaise, Ketchup, Horseradish, Spicy Herba Mystica"
+          "help": "Fried, Fillet, Potato, Salad, Lettuce, Mayonnaise, Ketchup, Horseradish, Spicy Herba Mystica"
       },
       {
           "value": "Ham Sandwich",
-          "ingredients": "Pickle, Ham, Mayonnaise, Mustard"
+          "help": "Pickle, Ham, Mayonnaise, Mustard"
       },
       {
           "value": "Great Ham Sandwich",
-          "ingredients": "Pickle, Ham, Prosciutto, Mayonnaise, Mustard"
+          "help": "Pickle, Ham, Prosciutto, Mayonnaise, Mustard"
       },
       {
           "value": "Ultra Ham Sandwich",
-          "ingredients": "Pickle, Ham, Prosciutto, Jalapeno, Mayonnaise, Mustard"
+          "help": "Pickle, Ham, Prosciutto, Jalapeno, Mayonnaise, Mustard"
       },
       {
           "value": "Master Ham Sandwich",
-          "ingredients": "Pickle, Ham, Prosciutto, Jalapeno, Mayonnaise, Mustard, Salty Herba Mystica"
+          "help": "Pickle, Ham, Prosciutto, Jalapeno, Mayonnaise, Mustard, Salty Herba Mystica"
       },
       {
           "value": "Cheese Sandwich",
-          "ingredients": "Cheese, Cream, Cheese, Pepper, Salt"
+          "help": "Cheese, Cream, Cheese, Pepper, Salt"
       },
       {
           "value": "Great Cheese Sandwich",
-          "ingredients": "Cheese, Avocado, Cream, Cheese, Pepper, Salt"
+          "help": "Cheese, Avocado, Cream, Cheese, Pepper, Salt"
       },
       {
           "value": "Ultra Cheese Sandwich",
-          "ingredients": "Cheese, Avocado, Basil, Cream, Cheese, Pepper, Salt"
+          "help": "Cheese, Avocado, Basil, Cream, Cheese, Pepper, Salt"
       },
       {
           "value": "Master Cheese Sandwich",
-          "ingredients": "Cheese, Avocado, Basil, Cream, Cheese, Pepper, Salt, Salty Herba Mystica"
+          "help": "Cheese, Avocado, Basil, Cream, Cheese, Pepper, Salt, Salty Herba Mystica"
       },
       {
           "value": "Hamburger Patty Sandwich",
-          "ingredients": "Hamburger, Onion, Vinegar, Pepper"
+          "help": "Hamburger, Onion, Vinegar, Pepper"
       },
       {
           "value": "Great Hamburger Patty Sandwich",
-          "ingredients": "Hamburger, Onion, Vinegar, Pepper, Horseradish"
+          "help": "Hamburger, Onion, Vinegar, Pepper, Horseradish"
       },
       {
           "value": "Ultra Hamburger Patty Sandwich",
-          "ingredients": "Hamburger, Onion, Watercress, Vinegar, Pepper, Horseradish"
+          "help": "Hamburger, Onion, Watercress, Vinegar, Pepper, Horseradish"
       },
       {
           "value": "Master Hamburger Patty Sandwich",
-          "ingredients": "Hamburger, Onion, Watercress, Vinegar, Pepper, Horseradish, Sweet Herba Mystica"
+          "help": "Hamburger, Onion, Watercress, Vinegar, Pepper, Horseradish, Sweet Herba Mystica"
       },
       {
           "value": "Smoky Sandwich",
-          "ingredients": "Smoked Fillet, Watercress, Vinegar, Pepper, Salt"
+          "help": "Smoked Fillet, Watercress, Vinegar, Pepper, Salt"
       },
       {
           "value": "Great Smoky Sandwich",
-          "ingredients": "Smoked Fillet, Watercress, Red Onion, Vinegar, Pepper, Salt"
+          "help": "Smoked Fillet, Watercress, Red Onion, Vinegar, Pepper, Salt"
       },
       {
           "value": "Ultra Smoky Sandwich",
-          "ingredients": "Smoked Fillet, Watercress, Red Onion, Basil, Vinegar, Pepper, Salt"
+          "help": "Smoked Fillet, Watercress, Red Onion, Basil, Vinegar, Pepper, Salt"
       },
       {
           "value": "Master Smoky Sandwich",
-          "ingredients": "Smoked Fillet, Watercress, Red Onion, Basil, Vinegar, Pepper, Salt, Salty Herba Mystica"
+          "help": "Smoked Fillet, Watercress, Red Onion, Basil, Vinegar, Pepper, Salt, Salty Herba Mystica"
       },
       {
           "value": "Fruit Sandwich",
-          "ingredients": "Banana, Apple, Pineapple, Kiwi, Whipped, Cream"
+          "help": "Banana, Apple, Pineapple, Kiwi, Whipped, Cream"
       },
       {
           "value": "Great Fruit Sandwich",
-          "ingredients": "Banana, Apple, Pineapple, Kiwi, Whipped, Cream, Marmalade"
+          "help": "Banana, Apple, Pineapple, Kiwi, Whipped, Cream, Marmalade"
       },
       {
           "value": "Ultra Fruit Sandwich",
-          "ingredients": "Banana, Apple, Pineapple, Kiwi, Whipped, Cream, Marmalade, Yogurt"
+          "help": "Banana, Apple, Pineapple, Kiwi, Whipped, Cream, Marmalade, Yogurt"
       },
       {
           "value": "Master Fruit Sandwich",
-          "ingredients": "Banana, Apple, Pineapple, Kiwi, Whipped, Cream, Marmalade, Yogurt, Sweet Herba Mystica"
+          "help": "Banana, Apple, Pineapple, Kiwi, Whipped, Cream, Marmalade, Yogurt, Sweet Herba Mystica"
       },
       {
           "value": "Variety Sandwich",
-          "ingredients": "Prosciutto, Cherry, Tomatoes, Smoked Fillet, Salt, Vinegar"
+          "help": "Prosciutto, Cherry, Tomatoes, Smoked Fillet, Salt, Vinegar"
       },
       {
           "value": "Great Variety Sandwich",
-          "ingredients": "Prosciutto, Cherry, Tomatoes, Smoked Fillet, Potato, Salad, Salt, Vinegar"
+          "help": "Prosciutto, Cherry, Tomatoes, Smoked Fillet, Potato, Salad, Salt, Vinegar"
       },
       {
           "value": "Ultra Variety Sandwich",
-          "ingredients": "Prosciutto, Cherry, Tomatoes, Smoked Fillet, Potato, Salad, Hamburger, Salt, Vinegar"
+          "help": "Prosciutto, Cherry, Tomatoes, Smoked Fillet, Potato, Salad, Hamburger, Salt, Vinegar"
       },
       {
           "value": "Master Variety Sandwich",
-          "ingredients": "Prosciutto, Cherry, Tomatoes, Smoked Fillet, Potato, Salad, Hamburger, Salt, Vinegar, Bitter Herba Mystica"
+          "help": "Prosciutto, Cherry, Tomatoes, Smoked Fillet, Potato, Salad, Hamburger, Salt, Vinegar, Bitter Herba Mystica"
       },
       {
           "value": "Klawf Claw Sandwich",
-          "ingredients": "Klawf Stick, Tomato, Lettuce, Salt, Olive Oil"
+          "help": "Klawf Stick, Tomato, Lettuce, Salt, Olive Oil"
       },
       {
           "value": "Great Klawf Claw Sandwich",
-          "ingredients": "Klawf Stick, Tomato, Lettuce, Salt, Olive Oil, Wasabi"
+          "help": "Klawf Stick, Tomato, Lettuce, Salt, Olive Oil, Wasabi"
       },
       {
           "value": "Ultra Klawf Claw Sandwich",
-          "ingredients": "Klawf Stick, Tomato, Lettuce, Yellow Bell Pepper, Salt, Olive Oil, Wasabi"
+          "help": "Klawf Stick, Tomato, Lettuce, Yellow Bell Pepper, Salt, Olive Oil, Wasabi"
       },
       {
           "value": "Master Klawf Claw Sandwich",
-          "ingredients": "Klawf Stick, Tomato, Lettuce, Yellow Bell Pepper, Salt, Olive Oil, Wasabi, Spicy Herba Mystica"
+          "help": "Klawf Stick, Tomato, Lettuce, Yellow Bell Pepper, Salt, Olive Oil, Wasabi, Spicy Herba Mystica"
       },
       {
           "value": "Sweet Sandwich",
-          "ingredients": "Banana, Apple, Cheese, Whipped, Cream, Butter"
+          "help": "Banana, Apple, Cheese, Whipped, Cream, Butter"
       },
       {
           "value": "Great Sweet Sandwich",
-          "ingredients": "Banana, Apple, Cheese, Whipped, Cream, Butter, Salt"
+          "help": "Banana, Apple, Cheese, Whipped, Cream, Butter, Salt"
       },
       {
           "value": "Ultra Sweet Sandwich",
-          "ingredients": "Banana, Apple, Cheese, Basil, Whipped, Cream, Butter, Salt"
+          "help": "Banana, Apple, Cheese, Basil, Whipped, Cream, Butter, Salt"
       },
       {
           "value": "Master Sweet Sandwich",
-          "ingredients": "Banana, Apple, Cheese, Basil, Whipped, Cream, Butter, Salt, Sour Herba Mystica"
+          "help": "Banana, Apple, Cheese, Basil, Whipped, Cream, Butter, Salt, Sour Herba Mystica"
       },
       {
           "value": "Vegetable Sandwich",
-          "ingredients": "Sliced, Green, Pepper, Cherry, Tomatoes, Cucumber, Salt, Olive Oil, Vinegar"
+          "help": "Sliced, Green, Pepper, Cherry, Tomatoes, Cucumber, Salt, Olive Oil, Vinegar"
       },
       {
           "value": "Great Vegetable Sandwich",
-          "ingredients": "Sliced, Green, Pepper, Cherry, Tomatoes, Cucumber, Red Onion, Salt, Olive Oil, Vinegar"
+          "help": "Sliced, Green, Pepper, Cherry, Tomatoes, Cucumber, Red Onion, Salt, Olive Oil, Vinegar"
       },
       {
           "value": "Ultra Vegetable Sandwich",
-          "ingredients": "Sliced, Green, Pepper, Cherry, Tomatoes, Cucumber, Red Onion, Watercress, Salt, Olive Oil, Vinegar"
+          "help": "Sliced, Green, Pepper, Cherry, Tomatoes, Cucumber, Red Onion, Watercress, Salt, Olive Oil, Vinegar"
       },
       {
           "value": "Master Vegetable Sandwich",
-          "ingredients": "Sliced, Green, Pepper, Cherry, Tomatoes, Cucumber, Red Onion, Watercress, Salt, Olive Oil, Vinegar, Salty Herba Mystica"
+          "help": "Sliced, Green, Pepper, Cherry, Tomatoes, Cucumber, Red Onion, Watercress, Salt, Olive Oil, Vinegar, Salty Herba Mystica"
       },
       {
           "value": "Hefty Sandwich",
-          "ingredients": "Potato, Tortilla, Fried, Fillet, Prosciutto, Potato, Salad, Salt, Peanut, Butter"
+          "help": "Potato, Tortilla, Fried, Fillet, Prosciutto, Potato, Salad, Salt, Peanut, Butter"
       },
       {
           "value": "Great Hefty Sandwich",
-          "ingredients": "Potato, Tortilla, Fried, Fillet, Prosciutto, Potato, Salad, Herbed Sausage, Salt, Peanut, Butter"
+          "help": "Potato, Tortilla, Fried, Fillet, Prosciutto, Potato, Salad, Herbed Sausage, Salt, Peanut, Butter"
       },
       {
           "value": "Ultra Hefty Sandwich",
-          "ingredients": "Potato, Tortilla, Fried, Fillet, Prosciutto, Potato, Salad, Herbed Sausage, Hamburger, Salt, Peanut, Butter"
+          "help": "Potato, Tortilla, Fried, Fillet, Prosciutto, Potato, Salad, Herbed Sausage, Hamburger, Salt, Peanut, Butter"
       },
       {
           "value": "Master Hefty Sandwich",
-          "ingredients": "Potato, Tortilla, Fried, Fillet, Prosciutto, Potato, Salad, Herbed Sausage, Hamburger, Salt, Peanut, Butter, Sour Herba Mystica"
+          "help": "Potato, Tortilla, Fried, Fillet, Prosciutto, Potato, Salad, Herbed Sausage, Hamburger, Salt, Peanut, Butter, Sour Herba Mystica"
       },
       {
           "value": "Five-Alarm Sandwich",
-          "ingredients": "Chorizo, Onion, Sliced, Green, Pepper, Mustard, Chili Sauce, Pepper"
+          "help": "Chorizo, Onion, Sliced, Green, Pepper, Mustard, Chili Sauce, Pepper"
       },
       {
           "value": "Great Five-Alarm Sandwich",
-          "ingredients": "Chorizo, Onion, Sliced, Green, Pepper, Basil, Mustard, Chili Sauce, Pepper"
+          "help": "Chorizo, Onion, Sliced, Green, Pepper, Basil, Mustard, Chili Sauce, Pepper"
       },
       {
           "value": "Ultra Five-Alarm Sandwich",
-          "ingredients": "Chorizo, Onion, Sliced, Green, Pepper, Basil, Jalapeno, Mustard, Chili Sauce, Pepper"
+          "help": "Chorizo, Onion, Sliced, Green, Pepper, Basil, Jalapeno, Mustard, Chili Sauce, Pepper"
       },
       {
           "value": "Master Five-Alarm Sandwich",
-          "ingredients": "Chorizo, Onion, Sliced, Green, Pepper, Basil, Jalapeno, Mustard, Chili Sauce, Pepper, Spicy Herba Mystica"
+          "help": "Chorizo, Onion, Sliced, Green, Pepper, Basil, Jalapeno, Mustard, Chili Sauce, Pepper, Spicy Herba Mystica"
       },
       {
           "value": "Nouveau Veggie Sandwich",
-          "ingredients": "Watercress, Yellow Bell Pepper, Onion, Tomato, Olive Oil, Wasabi"
+          "help": "Watercress, Yellow Bell Pepper, Onion, Tomato, Olive Oil, Wasabi"
       },
       {
           "value": "Great Nouveau Veggie Sandwich",
-          "ingredients": "Watercress, Yellow Bell Pepper, Onion, Tomato, Cucumber, Olive Oil, Wasabi"
+          "help": "Watercress, Yellow Bell Pepper, Onion, Tomato, Cucumber, Olive Oil, Wasabi"
       },
       {
           "value": "Ultra Nouveau Veggie Sandwich",
-          "ingredients": "Watercress, Yellow Bell Pepper, Onion, Tomato, Cucumber, Olive Oil, Wasabi, Mayonnaise"
+          "help": "Watercress, Yellow Bell Pepper, Onion, Tomato, Cucumber, Olive Oil, Wasabi, Mayonnaise"
       },
       {
           "value": "Master Nouveau Veggie Sandwich",
-          "ingredients": "Watercress, Yellow Bell Pepper, Onion, Tomato, Cucumber, Olive Oil, Wasabi, Mayonnaise, Sweet Herba Mystica"
+          "help": "Watercress, Yellow Bell Pepper, Onion, Tomato, Cucumber, Olive Oil, Wasabi, Mayonnaise, Sweet Herba Mystica"
       },
       {
           "value": "Spicy-Sweet Sandwich",
-          "ingredients": "Hamburger, Tomato, Kiwi, Pineapple, Butter, Horseradish"
+          "help": "Hamburger, Tomato, Kiwi, Pineapple, Butter, Horseradish"
       },
       {
           "value": "Great Spicy-Sweet Sandwich",
-          "ingredients": "Hamburger, Tomato, Kiwi, Pineapple, Avocado, Butter, Horseradish"
+          "help": "Hamburger, Tomato, Kiwi, Pineapple, Avocado, Butter, Horseradish"
       },
       {
           "value": "Ultra Spicy-Sweet Sandwich",
-          "ingredients": "Hamburger, Tomato, Kiwi, Pineapple, Avocado, Cheese, Butter, Horseradish"
+          "help": "Hamburger, Tomato, Kiwi, Pineapple, Avocado, Cheese, Butter, Horseradish"
       },
       {
           "value": "Master Spicy-Sweet Sandwich",
-          "ingredients": "Hamburger, Tomato, Kiwi, Pineapple, Avocado, Cheese, Butter, Horseradish, Bitter Herba Mystica"
+          "help": "Hamburger, Tomato, Kiwi, Pineapple, Avocado, Cheese, Butter, Horseradish, Bitter Herba Mystica"
       },
       {
           "value": "Decadent Sandwich",
-          "ingredients": "Smoked Fillet, Klawf Stick, Watercress, Basil, Vinegar, Olive Oil, Salt"
+          "help": "Smoked Fillet, Klawf Stick, Watercress, Basil, Vinegar, Olive Oil, Salt"
       },
       {
           "value": "Great Decadent Sandwich",
-          "ingredients": "Smoked Fillet, Klawf Stick, Watercress, Basil, Tofu, Vinegar, Olive Oil, Salt"
+          "help": "Smoked Fillet, Klawf Stick, Watercress, Basil, Tofu, Vinegar, Olive Oil, Salt"
       },
       {
           "value": "Ultra Decadent Sandwich",
-          "ingredients": "Smoked Fillet, Klawf Stick, Watercress, Basil, Tofu, Red Onion, Vinegar, Olive Oil, Salt"
+          "help": "Smoked Fillet, Klawf Stick, Watercress, Basil, Tofu, Red Onion, Vinegar, Olive Oil, Salt"
       },
       {
           "value": "Master Decadent Sandwich",
-          "ingredients": "Smoked Fillet, Klawf Stick, Watercress, Basil, Tofu, Red Onion, Vinegar, Olive Oil, Salt, Spicy Herba Mystica"
+          "help": "Smoked Fillet, Klawf Stick, Watercress, Basil, Tofu, Red Onion, Vinegar, Olive Oil, Salt, Spicy Herba Mystica"
       },
       {
           "value": "Tofu Sandwich",
-          "ingredients": "Tofu x2, Rice, Lettuce, Avocado, Wasabi, Salt"
+          "help": "Tofu x2, Rice, Lettuce, Avocado, Wasabi, Salt"
       },
       {
           "value": "Great Tofu Sandwich",
-          "ingredients": "Tofu x2, Rice, Lettuce, Avocado, Wasabi, Salt, Horseradish"
+          "help": "Tofu x2, Rice, Lettuce, Avocado, Wasabi, Salt, Horseradish"
       },
       {
           "value": "Ultra Tofu Sandwich",
-          "ingredients": "Tofu x2, Rice, Lettuce, Avocado, Watercress, Wasabi, Salt, Horseradish"
+          "help": "Tofu x2, Rice, Lettuce, Avocado, Watercress, Wasabi, Salt, Horseradish"
       },
       {
           "value": "Master Tofu Sandwich",
-          "ingredients": "Tofu x2, Rice, Lettuce, Avocado, Watercress, Wasabi, Salt, Horseradish, Salty Herba Mystica"
+          "help": "Tofu x2, Rice, Lettuce, Avocado, Watercress, Wasabi, Salt, Horseradish, Salty Herba Mystica"
       },
       {
           "value": "Curry-and-Noodle Sandwich",
-          "ingredients": "Noodles, Red Bell Pepper, Bacon, Yellow Bell Pepper, Olive Oil, Salt, Curry, Powder"
+          "help": "Noodles, Red Bell Pepper, Bacon, Yellow Bell Pepper, Olive Oil, Salt, Curry, Powder"
       },
       {
           "value": "Great Curry-and-Noodle Sandwich",
-          "ingredients": "Noodles, Red Bell Pepper, Bacon, Yellow Bell Pepper, Jalapeno, Olive Oil, Salt, Curry, Powder"
+          "help": "Noodles, Red Bell Pepper, Bacon, Yellow Bell Pepper, Jalapeno, Olive Oil, Salt, Curry, Powder"
       },
       {
           "value": "Ultra Curry-and-Noodle Sandwich",
-          "ingredients": "Noodles, Red Bell Pepper, Bacon, Yellow Bell Pepper, Jalapeno, Egg, Olive Oil, Salt, Curry, Powder"
+          "help": "Noodles, Red Bell Pepper, Bacon, Yellow Bell Pepper, Jalapeno, Egg, Olive Oil, Salt, Curry, Powder"
       },
       {
           "value": "Master Curry-and-Noodle Sandwich",
-          "ingredients": "Noodles, Red Bell Pepper, Bacon, Yellow Bell Pepper, Jalapeno, Egg, Olive Oil, Salt, Curry, Powder, Sweet Herba Mystica"
+          "help": "Noodles, Red Bell Pepper, Bacon, Yellow Bell Pepper, Jalapeno, Egg, Olive Oil, Salt, Curry, Powder, Sweet Herba Mystica"
       },
       {
           "value": "Tower Sandwich",
-          "ingredients": "Hamburger, Noodles, Potato, Salad, Rice, Olive Oil, Salt, Curry, Powder"
+          "help": "Hamburger, Noodles, Potato, Salad, Rice, Olive Oil, Salt, Curry, Powder"
       },
       {
           "value": "Great Tower Sandwich",
-          "ingredients": "Hamburger, Noodles, Potato, Salad, Rice, Klawf Stick, Olive Oil, Salt, Curry, Powder"
+          "help": "Hamburger, Noodles, Potato, Salad, Rice, Klawf Stick, Olive Oil, Salt, Curry, Powder"
       },
       {
           "value": "Ultra Tower Sandwich",
-          "ingredients": "Hamburger, Noodles, Potato, Salad, Rice, Klawf Stick, Tofu, Olive Oil, Salt, Curry, Powder"
+          "help": "Hamburger, Noodles, Potato, Salad, Rice, Klawf Stick, Tofu, Olive Oil, Salt, Curry, Powder"
       },
       {
           "value": "Master Tower Sandwich",
-          "ingredients": "Hamburger, Noodles, Potato, Salad, Rice, Klawf Stick, Tofu, Olive Oil, Salt, Curry, Powder, Bitter Herba Mystica"
+          "help": "Hamburger, Noodles, Potato, Salad, Rice, Klawf Stick, Tofu, Olive Oil, Salt, Curry, Powder, Bitter Herba Mystica"
       },
       {
           "value": "Sushi Sandwich",
-          "ingredients": "Rice, Smoked Fillet, Smoked Fillet, Klawf Stick, Salt, Vinegar, Wasabi"
+          "help": "Rice, Smoked Fillet, Smoked Fillet, Klawf Stick, Salt, Vinegar, Wasabi"
       },
       {
           "value": "Great Sushi Sandwich",
-          "ingredients": "Rice, Smoked Fillet, Smoked Fillet, Klawf Stick, Watercress, Salt, Vinegar, Wasabi"
+          "help": "Rice, Smoked Fillet, Smoked Fillet, Klawf Stick, Watercress, Salt, Vinegar, Wasabi"
       },
       {
           "value": "Ultra Sushi Sandwich",
-          "ingredients": "Rice, Smoked Fillet, Smoked Fillet, Klawf Stick x2, Watercress, Salt, Vinegar, Wasabi"
+          "help": "Rice, Smoked Fillet, Smoked Fillet, Klawf Stick x2, Watercress, Salt, Vinegar, Wasabi"
       },
       {
           "value": "Master Sushi Sandwich",
-          "ingredients": "Rice, Smoked Fillet, Smoked Fillet, Klawf Stick x2, Watercress, Salt, Vinegar, Wasabi, Sour Herba Mystica"
+          "help": "Rice, Smoked Fillet, Smoked Fillet, Klawf Stick x2, Watercress, Salt, Vinegar, Wasabi, Sour Herba Mystica"
       }
       ]
     },
