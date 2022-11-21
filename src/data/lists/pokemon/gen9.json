@@ -99,6 +99,79 @@
       "entries": []
     },
     {
+      "name": "Classes",
+      "entries": [
+        {
+          "value": "Biology Midterm"
+        },
+        {
+          "value": "Biology Final"
+        },
+        {
+          "value": "Maths Midterm"
+        },
+        {
+          "value": "Maths Final"
+        },
+        {
+          "value": "History Midterm"
+        },
+        {
+          "value": "History Final"
+        },
+        {
+          "value": "Languages Midterm"
+        },
+        {
+          "value": "Languages Final"
+        },
+        {
+          "value": "Battle Midterm"
+        },
+        {
+          "value": "Battle Final"
+        },
+        {
+          "value": "Art Midterm"
+        },
+        {
+          "value": "Art Final"
+        },
+        {
+          "value": "Home Ec Midterm"
+        },
+        {
+          "value": "Home Ec Final"
+        }
+      ]
+    },
+    {
+      "name": "Befriend Teachers",
+      "entries": [
+        {
+          "value": "Salvatore"
+        },
+        {
+          "value": "Miriam"
+        },
+        {
+          "value": "Raifort"
+        },
+        {
+          "value": "Saguaro"
+        },
+        {
+          "value": "Tyme"
+        },
+        {
+          "value": "Hassel"
+        },
+        {
+          "value": "Dendra"
+        }
+      ]
+    },
+    {
       "name": "Dex",
       "entries": [
         {
