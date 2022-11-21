@@ -264,11 +264,40 @@
     },
     {
       "name": "In-game Gifts",
-      "entries": []
+      "entries": [
+        {
+          "value": "Starter"
+        },
+        {
+          "value": "Koraidon",
+          "version": "scarlet"
+        },
+        {
+          "value": "Miraidon",
+          "version": "violet"
+        },
+        {
+          "value": "Galarian Meowth",
+          "help": "Complete all the Salvatore classes"
+        }
+      ]
     },
     {
       "name": "In-game Trades",
-      "entries": []
+      "entries": [
+        {
+          "value": "Snom for Flabebe",
+          "help": "On the main path in Cortondo"
+        },
+        {
+          "value": "Johtonian Wooper for Paldean Wooper",
+          "help": "In the middle of the fountain in Cascarrafa"
+        },
+        {
+          "value": "Haunter for Pincurchin",
+          "help": "Next to the battle court in Levincia"
+        }
+      ]
     },
     {
       "name": "Clothing/Accessories",
