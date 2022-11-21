@@ -96,7 +96,45 @@
     },
     {
       "name": "Post Game",
-      "entries": []
+      "entries": [
+        {
+          "value": "Unlock the judge function",
+          "help": "Talk to Pokemon Centre receptionist"
+        },
+        {
+          "value": "Get the master ball",
+          "help": "Talk to Director Clavell in his office"
+        },
+        {
+          "value": "Rematch Gym Leaders",
+          "help": "Start by talking to Director Clavell"
+        },
+        {
+          "value": "Win the Academy Ace Tournament",
+          "help": "Rematch all the gym leaders"
+        },
+        {
+          "value": "Rematch Team Star Leaders"
+        },
+        {
+          "value": "Catch a second Koraidon",
+          "help": "Go to the back of the Zero Lab",
+          "version": "scarlet"
+        },
+        {
+          "value": "Catch a second Miraidon",
+          "help": "Go to the back of the Zero Lab",
+          "version": "violet"
+        },
+        {
+          "value": "Unlock the glowing gate",
+          "help": "Find the 8 black stakes"
+        },
+        {
+          "value": "Get the shiny charm",
+          "help": "Talk to Professor Jacq after completing the Pokedex"
+        }
+      ]
     },
     {
       "name": "Classes",
