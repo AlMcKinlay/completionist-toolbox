@@ -428,8 +428,260 @@
       ]
     },
     {
+      "name": "Ten Great Sights of Paldea",
+      "entries": [
+        {
+          "value": "Casseroya Fields"
+        },
+        {
+          "value": "Glaseados Grasp"
+        },
+        {
+          "value": "Paldea's Highest Peak"
+        },
+        {
+          "value": "Fury Falls"
+        },
+        {
+          "value": "Grand Olive Orchard"
+        },
+        {
+          "value": "The Secluded Beach"
+        },
+        {
+          "value": "The Leaking Tower Of Paldea"
+        },
+        {
+          "value": "The Gracia Stones"
+        },
+        {
+          "value": "The Million Vault Skyline"
+        },
+        {
+          "value": "Colonade Hollow"
+        }
+      ]
+    },
+    {
       "name": "Clothing/Accessories",
-      "entries": []
+      "entries": [
+        {
+          "value": "High Socks"
+        },
+        {
+          "value": "Sporty High Socks"
+        },
+        {
+          "value": "Plaid High Socks"
+        },
+        {
+          "value": "Floral High Socks"
+        },
+        {
+          "value": "Printed Tights"
+        },
+        {
+          "value": "Crew Socks"
+        },
+        {
+          "value": "Striped Crew Socks"
+        },
+        {
+          "value": "Starry Crew Socks"
+        },
+        {
+          "value": "Colorful Crew Socks"
+        },
+        {
+          "value": "Frilly Crew Socks"
+        },
+        {
+          "value": "Plain Tights"
+        },
+        {
+          "value": "Dazzling Tights"
+        },
+        {
+          "value": "Sporty Tights"
+        },
+        {
+          "value": "Patterned Tights"
+        },
+        {
+          "value": "School Shoes"
+        },
+        {
+          "value": "Performance Sneakers"
+        },
+        {
+          "value": "Low-Top Sneakers"
+        },
+        {
+          "value": "Engineer Boots"
+        },
+        {
+          "value": "Dress Shoes"
+        },
+        {
+          "value": "Sporty Sandals"
+        },
+        {
+          "value": "Flip-Flops"
+        },
+        {
+          "value": "High-Top Sneakers"
+        },
+        {
+          "value": "Loafers"
+        },
+        {
+          "value": "School Gloves"
+        },
+        {
+          "value": "Plain Gloves"
+        },
+        {
+          "value": "Driving Gloves"
+        },
+        {
+          "value": "Fingerless Gloves"
+        },
+        {
+          "value": "Leather Gloves"
+        },
+        {
+          "value": "Fingerless Mittens"
+        },
+        {
+          "value": "School Backpack"
+        },
+        {
+          "value": "Canvas Backpack"
+        },
+        {
+          "value": "Nylon Backpack"
+        },
+        {
+          "value": "Leather Backpack"
+        },
+        {
+          "value": "Sport Backpack"
+        },
+        {
+          "value": ""
+        },
+        {
+          "value": "School Hat"
+        },
+        {
+          "value": "School Helmet"
+        },
+        {
+          "value": "Sporty Cap"
+        },
+        {
+          "value": "Gatsby Cap"
+        },
+        {
+          "value": "Beanie"
+        },
+        {
+          "value": "Pom-Pom Hat"
+        },
+        {
+          "value": "Square Cap"
+        },
+        {
+          "value": "Bucket Hat"
+        },
+        {
+          "value": "Fedora"
+        },
+        {
+          "value": "Beret"
+        },
+        {
+          "value": "Bowler Hat"
+        },
+        {
+          "value": "Straw Hat"
+        },
+        {
+          "value": "Lokix Helmet"
+        },
+        {
+          "value": "Full-Face Helmet"
+        },
+        {
+          "value": "Cool Helmet"
+        },
+        {
+          "value": "Retro Jet Helmet"
+        },
+        {
+          "value": "Off-Road Helmet"
+        },
+        {
+          "value": "Cycling Helmet"
+        },
+        {
+          "value": "Trapper Hat"
+        },
+        {
+          "value": "Flat Cap"
+        },
+        {
+          "value": "Sweatband"
+        },
+        {
+          "value": "Jet Helmet"
+        },
+        {
+          "value": "Half Helmet"
+        },
+        {
+          "value": "Racing Helmet"
+        },
+        {
+          "value": "Half-Rim Glasses"
+        },
+        {
+          "value": "Half-Rim Sunglasses"
+        },
+        {
+          "value": "Horn-Rimmed Glasses"
+        },
+        {
+          "value": "Horn-Rimmed Sunglasses"
+        },
+        {
+          "value": "Round Glasses"
+        },
+        {
+          "value": "Round Sunglasses"
+        },
+        {
+          "value": "Square Glasses"
+        },
+        {
+          "value": "Square Sunglasses"
+        },
+        {
+          "value": "Oval Glasses"
+        },
+        {
+          "value": "Oval Sunglasses"
+        },
+        {
+          "value": "Sporty Sunglasses"
+        },
+        {
+          "value": "Cat-Eye Sunglasses"
+        },
+        {
+          "value": "Aviator Sunglasses"
+        }
+      ]
     },
     {
       "name": "Sandwiches",
@@ -437,607 +689,607 @@
         {
           "value": "Jambon-Beurre",
           "help": "Ham, Butter"
-      },
-      {
+        },
+        {
           "value": "Bitter Jambon-Beurre",
           "help": "Ham, Butter, Bitter Herba Mystica"
-      },
-      {
+        },
+        {
           "value": "Sweet Jambon-Beurre",
           "help": "Ham, Butter, Sweet Herba Mystica"
-      },
-      {
+        },
+        {
           "value": "Salty Jambon-Beurre",
           "help": "Ham, Butter, Salty Herba Mystica"
-      },
-      {
+        },
+        {
           "value": "Sour Jambon-Beurre",
           "help": "Ham, Butter, Sour Herba Mystica"
-      },
-      {
+        },
+        {
           "value": "Spicy Jambon-Beurre",
           "help": "Ham, Butter, Spicy Herba Mystica"
-      },
-      {
+        },
+        {
           "value": "Legendary Bitter Sandwich",
           "help": "Lettuce, Bacon, Bitter Herba Mystica, Pepper"
-      },
-      {
+        },
+        {
           "value": "Legendary Salty Sandwich",
-          "help": "Lettuce, Bacon, Salty Herba Mystica, Pepper"      
-      },
-      {
+          "help": "Lettuce, Bacon, Salty Herba Mystica, Pepper"
+        },
+        {
           "value": "Legendary Sweet Sandwich",
           "help": "Lettuce, Bacon, Sweet Herba Mystica, Pepper"
-      },
-      {
+        },
+        {
           "value": "Legendary Sour Sandwich",
           "help": "Lettuce, Bacon, Sour Herba Mystica, Pepper"
-      },
-      {
+        },
+        {
           "value": "Legendary Spicy Sandwich",
           "help": "Lettuce, Bacon, Spicy Herba Mystica, Pepper"
-      },
-      {
+        },
+        {
           "value": "Jam Sandwich",
           "help": "Strawberry, Jam"
-      },
-      {
+        },
+        {
           "value": "Great Jam Sandwich",
           "help": "Strawberry, Jam, Yogurt"
-      },
-      {
+        },
+        {
           "value": "Ultra Jam Sandwich",
           "help": "Strawberry, Pineapple, Jam, Yogurt"
-      },
-      {
+        },
+        {
           "value": "Master Jam Sandwich",
           "help": "Strawberry, Pineapple, Jam, Yogurt, Sweet Herba Mystica"
-      },
-      {
+        },
+        {
           "value": "Peanut Butter Sandwich",
           "help": "Banana, Peanut, Butter"
-      },
-      {
+        },
+        {
           "value": "Great Peanut Butter Sandwich",
           "help": "Banana, Peanut, Butter x2"
-      },
-      {
+        },
+        {
           "value": "Ultra Peanut Butter Sandwich",
           "help": "Banana, Peanut, Butter x2, Jam"
-      },
-      {
+        },
+        {
           "value": "Master Peanut Butter Sandwich",
           "help": "Banana, Peanut, Butter x2, Jam, Spicy Herba Mystica"
-      },
-      {
+        },
+        {
           "value": "Pickle Sandwich",
           "help": "Pickle, Olive Oil"
-      },
-      {
+        },
+        {
           "value": "Great Pickle Sandwich",
           "help": "Pickle, Watercress, Olive Oil"
-      },
-      {
+        },
+        {
           "value": "Ultra Pickle Sandwich",
           "help": "Pickle, Watercress, Basil, Olive Oil"
-      },
-      {
+        },
+        {
           "value": "Master Pickle Sandwich",
           "help": "Pickle, Watercress, Basil, Olive Oil, Sour Herba Mystica"
-      },
-      {
+        },
+        {
           "value": "Marmalade Sandwich",
           "help": "Cheese, Marmalade"
-      },
-      {
+        },
+        {
           "value": "Great Marmalade Sandwich",
           "help": "Cheese, Marmalade, Butter"
-      },
-      {
+        },
+        {
           "value": "Ultra Marmalade Sandwich",
           "help": "Cheese, Marmalade, Butter, Cream, Cheese"
-      },
-      {
+        },
+        {
           "value": "Master Marmalade Sandwich",
           "help": "Cheese, Marmalade, Butter, Cream, Cheese, Salty Herba Mystica"
-      },
-      {
+        },
+        {
           "value": "Herbed-Sausage Sandwich",
           "help": "Herbed Sausage, Ketchup"
-      },
-      {
+        },
+        {
           "value": "Great Herbed-Sausage Sandwich",
           "help": "Herbed Sausage, Ketchup, Mustard"
-      },
-      {
+        },
+        {
           "value": "Ultra Herbed-Sausage Sandwich",
           "help": "Herbed Sausage, Lettuce, Ketchup, Mustard"
-      },
-      {
+        },
+        {
           "value": "Master Herbed-Sausage Sandwich",
           "help": "Herbed Sausage, Lettuce, Ketchup, Mustard, Bitter Herba Mystica"
-      },
-      {
+        },
+        {
           "value": "Curry-and-Rice-Style Sandwich",
           "help": "Rice, Curry, Powder, Mayonnaise"
-      },
-      {
+        },
+        {
           "value": "Great Curry-and-Rice-Style Sandwich",
           "help": "Rice, Jalapeno, Curry, Powder, Mayonnaise"
-      },
-      {
+        },
+        {
           "value": "Ultra Curry-and-Rice-Style Sandwich",
           "help": "Rice, Jalapeno, Tomato, Curry, Powder, Mayonnaise"
-      },
-      {
+        },
+        {
           "value": "Master Curry-and-Rice-Style Sandwich",
           "help": "Rice, Jalapeno, Tomato, Curry, Powder, Mayonnaise, Spicy Herba Mystica"
-      },
-      {
+        },
+        {
           "value": "Dessert Sandwich",
           "help": "Apple x2, Yogurt, Whipped, Cream"
-      },
-      {
+        },
+        {
           "value": "Great Dessert Sandwich",
           "help": "Apple x2, Kiwi, Yogurt, Whipped, Cream"
-      },
-      {
+        },
+        {
           "value": "Ultra Dessert Sandwich",
           "help": "Apple x2, Kiwi, Strawberry, Yogurt, Whipped, Cream"
-      },
-      {
+        },
+        {
           "value": "Master Dessert Sandwich",
           "help": "Apple x2, Kiwi, Strawberry, Yogurt, Whipped, Cream, Sweet Herba Mystica"
-      },
-      {
+        },
+        {
           "value": "Tropical Sandwich",
           "help": "Klawf Stick, Avocado, Marmalade"
-      },
-      {
+        },
+        {
           "value": "Great Tropical Sandwich",
           "help": "Klawf Stick, Avocado, Pineapple, Marmalade"
-      },
-      {
+        },
+        {
           "value": "Ultra Tropical Sandwich",
           "help": "Klawf Stick, Avocado, Pineapple, Jalapeno, Marmalade"
-      },
-      {
+        },
+        {
           "value": "Master Tropical Sandwich",
           "help": "Klawf Stick, Avocado, Pineapple, Jalapeno, Marmalade, Sour Herba Mystica"
-      },
-      {
+        },
+        {
           "value": "Avocado Sandwich",
           "help": "Avocado, Smoked Fillet, Salt"
-      },
-      {
+        },
+        {
           "value": "Great Avocado Sandwich",
           "help": "Avocado, Smoked Fillet, Tomato, Salt"
-      },
-      {
+        },
+        {
           "value": "Ultra Avocado Sandwich",
           "help": "Avocado, Smoked Fillet, Tomato, Lettuce, Salt"
-      },
-      {
+        },
+        {
           "value": "Master Avocado Sandwich",
           "help": "Avocado, Smoked Fillet, Tomato, Lettuce, Salt, Salty Herba Mystica"
-      },
-      {
+        },
+        {
           "value": "Noodle Sandwich",
           "help": "Noodles, Olive Oil, Ketchup"
-      },
-      {
+        },
+        {
           "value": "Great Noodle Sandwich",
           "help": "Noodles, Lettuce, Olive Oil, Ketchup"
-      },
-      {
+        },
+        {
           "value": "Ultra Noodle Sandwich",
           "help": "Noodles, Lettuce, Chorizo, Olive Oil, Ketchup"
-      },
-      {
+        },
+        {
           "value": "Master Noodle Sandwich",
           "help": "Noodles, Lettuce, Chorizo, Olive Oil, Ketchup, Bitter Herba Mystica"
-      },
-      {
+        },
+        {
           "value": "Potato Salad Sandwich",
           "help": "Potato, Salad, Cucumber, Red Bell Pepper, Mayonnaise"
-      },
-      {
+        },
+        {
           "value": "Great Potato Salad Sandwich",
           "help": "Potato, Salad, Cucumber, Red Bell Pepper, Avocado, Mayonnaise"
-      },
-      {
+        },
+        {
           "value": "Ultra Potato Salad Sandwich",
           "help": "Potato, Salad, Cucumber, Red Bell Pepper, Avocado, Red Onion, Mayonnaise"
-      },
-      {
+        },
+        {
           "value": "Master Potato Salad Sandwich",
           "help": "Potato, Salad, Cucumber, Red Bell Pepper, Avocado, Red Onion, Mayonnaise, Sweet Herba Mystica"
-      },
-      {
+        },
+        {
           "value": "Zesty Sandwich",
           "help": "Jalapeno, Onion, Herbed Sausage, Chili Sauce"
-      },
-      {
+        },
+        {
           "value": "Great Zesty Sandwich",
           "help": "Jalapeno, Onion, Herbed Sausage, Sliced, Green, Pepper, Chili Sauce"
-      },
-      {
+        },
+        {
           "value": "Ultra Zesty Sandwich",
           "help": "Jalapeno, Onion, Herbed Sausage, Sliced, Green, Pepper, Watercress, Chili Sauce"
-      },
-      {
+        },
+        {
           "value": "Master Zesty Sandwich",
           "help": "Jalapeno, Onion, Herbed Sausage, Sliced, Green, Pepper, Watercress, Chili Sauce, Sour Herba Mystica"
-      },
-      {
+        },
+        {
           "value": "Egg Sandwich",
           "help": "Egg, Cucumber, Salt, Mayonnaise"
-      },
-      {
+        },
+        {
           "value": "Great Egg Sandwich",
           "help": "Egg, Cucumber, Red Onion, Salt, Mayonnaise"
-      },
-      {
+        },
+        {
           "value": "Ultra Egg Sandwich",
           "help": "Egg, Cucumber, Red Onion, Cheese, Salt, Mayonnaise"
-      },
-      {
+        },
+        {
           "value": "Master Egg Sandwich",
           "help": "Egg, Cucumber, Red Onion, Cheese, Salt, Mayonnaise, Salty Herba Mystica"
-      },
-      {
+        },
+        {
           "value": "Classic Bocadillo",
           "help": "Prosciutto, Cheese, Potato, Tortilla, Olive Oil"
-      },
-      {
+        },
+        {
           "value": "Great Classic Bocadillo",
           "help": "Prosciutto, Cheese, Potato, Tortilla, Olive Oil, Curry, Powder"
-      },
-      {
+        },
+        {
           "value": "Ultra Classic Bocadillo",
           "help": "Prosciutto, Cheese, Potato, Tortilla, Avocado, Olive Oil, Curry, Powder"
-      },
-      {
+        },
+        {
           "value": "Master Classic Bocadillo",
           "help": "Prosciutto, Cheese, Potato, Tortilla, Avocado, Olive Oil, Curry, Powder, Bitter Herba Mystica"
-      },
-      {
+        },
+        {
           "value": "Refreshing Sandwich",
           "help": "Cherry, Tomatoes, Avocado, Marmalade, Salt"
-      },
-      {
+        },
+        {
           "value": "Great Refreshing Sandwich",
           "help": "Cherry, Tomatoes, Avocado, Kiwi, Marmalade, Salt"
-      },
-      {
+        },
+        {
           "value": "Ultra Refreshing Sandwich",
           "help": "Cherry, Tomatoes, Avocado, Kiwi, Pickle, Marmalade, Salt"
-      },
-      {
+        },
+        {
           "value": "Master Refreshing Sandwich",
           "help": "Cherry, Tomatoes, Avocado, Kiwi, Pickle, Marmalade, Salt, Spicy Herba Mystica"
-      },
-      {
+        },
+        {
           "value": "BLT Sandwich",
           "help": "Bacon, Lettuce, Tomato, Mayonnaise, Mustard"
-      },
-      {
+        },
+        {
           "value": "Great BLT Sandwich",
           "help": "Bacon, Lettuce, Tomato, Basil, Mayonnaise, Mustard"
-      },
-      {
+        },
+        {
           "value": "Ultra BLT Sandwich",
           "help": "Bacon, Lettuce, Tomato, Basil, Cheese, Mayonnaise, Mustard"
-      },
-      {
+        },
+        {
           "value": "Master BLT Sandwich",
           "help": "Bacon, Lettuce, Tomato, Basil, Cheese, Mayonnaise, Mustard, Sweet Herba Mystica"
-      },
-      {
+        },
+        {
           "value": "Fried Fillet Sandwich",
           "help": "Fried, Fillet, Potato, Salad, Mayonnaise, Ketchup"
-      },
-      {
+        },
+        {
           "value": "Great Fried Fillet Sandwich",
           "help": "Fried, Fillet, Potato, Salad, Lettuce, Mayonnaise, Ketchup"
-      },
-      {
+        },
+        {
           "value": "Ultra Fried Fillet Sandwich",
           "help": "Fried, Fillet, Potato, Salad, Lettuce, Mayonnaise, Ketchup, Horseradish"
-      },
-      {
+        },
+        {
           "value": "Master Fried Fillet Sandwich",
           "help": "Fried, Fillet, Potato, Salad, Lettuce, Mayonnaise, Ketchup, Horseradish, Spicy Herba Mystica"
-      },
-      {
+        },
+        {
           "value": "Ham Sandwich",
           "help": "Pickle, Ham, Mayonnaise, Mustard"
-      },
-      {
+        },
+        {
           "value": "Great Ham Sandwich",
           "help": "Pickle, Ham, Prosciutto, Mayonnaise, Mustard"
-      },
-      {
+        },
+        {
           "value": "Ultra Ham Sandwich",
           "help": "Pickle, Ham, Prosciutto, Jalapeno, Mayonnaise, Mustard"
-      },
-      {
+        },
+        {
           "value": "Master Ham Sandwich",
           "help": "Pickle, Ham, Prosciutto, Jalapeno, Mayonnaise, Mustard, Salty Herba Mystica"
-      },
-      {
+        },
+        {
           "value": "Cheese Sandwich",
           "help": "Cheese, Cream, Cheese, Pepper, Salt"
-      },
-      {
+        },
+        {
           "value": "Great Cheese Sandwich",
           "help": "Cheese, Avocado, Cream, Cheese, Pepper, Salt"
-      },
-      {
+        },
+        {
           "value": "Ultra Cheese Sandwich",
           "help": "Cheese, Avocado, Basil, Cream, Cheese, Pepper, Salt"
-      },
-      {
+        },
+        {
           "value": "Master Cheese Sandwich",
           "help": "Cheese, Avocado, Basil, Cream, Cheese, Pepper, Salt, Salty Herba Mystica"
-      },
-      {
+        },
+        {
           "value": "Hamburger Patty Sandwich",
           "help": "Hamburger, Onion, Vinegar, Pepper"
-      },
-      {
+        },
+        {
           "value": "Great Hamburger Patty Sandwich",
           "help": "Hamburger, Onion, Vinegar, Pepper, Horseradish"
-      },
-      {
+        },
+        {
           "value": "Ultra Hamburger Patty Sandwich",
           "help": "Hamburger, Onion, Watercress, Vinegar, Pepper, Horseradish"
-      },
-      {
+        },
+        {
           "value": "Master Hamburger Patty Sandwich",
           "help": "Hamburger, Onion, Watercress, Vinegar, Pepper, Horseradish, Sweet Herba Mystica"
-      },
-      {
+        },
+        {
           "value": "Smoky Sandwich",
           "help": "Smoked Fillet, Watercress, Vinegar, Pepper, Salt"
-      },
-      {
+        },
+        {
           "value": "Great Smoky Sandwich",
           "help": "Smoked Fillet, Watercress, Red Onion, Vinegar, Pepper, Salt"
-      },
-      {
+        },
+        {
           "value": "Ultra Smoky Sandwich",
           "help": "Smoked Fillet, Watercress, Red Onion, Basil, Vinegar, Pepper, Salt"
-      },
-      {
+        },
+        {
           "value": "Master Smoky Sandwich",
           "help": "Smoked Fillet, Watercress, Red Onion, Basil, Vinegar, Pepper, Salt, Salty Herba Mystica"
-      },
-      {
+        },
+        {
           "value": "Fruit Sandwich",
           "help": "Banana, Apple, Pineapple, Kiwi, Whipped, Cream"
-      },
-      {
+        },
+        {
           "value": "Great Fruit Sandwich",
           "help": "Banana, Apple, Pineapple, Kiwi, Whipped, Cream, Marmalade"
-      },
-      {
+        },
+        {
           "value": "Ultra Fruit Sandwich",
           "help": "Banana, Apple, Pineapple, Kiwi, Whipped, Cream, Marmalade, Yogurt"
-      },
-      {
+        },
+        {
           "value": "Master Fruit Sandwich",
           "help": "Banana, Apple, Pineapple, Kiwi, Whipped, Cream, Marmalade, Yogurt, Sweet Herba Mystica"
-      },
-      {
+        },
+        {
           "value": "Variety Sandwich",
           "help": "Prosciutto, Cherry, Tomatoes, Smoked Fillet, Salt, Vinegar"
-      },
-      {
+        },
+        {
           "value": "Great Variety Sandwich",
           "help": "Prosciutto, Cherry, Tomatoes, Smoked Fillet, Potato, Salad, Salt, Vinegar"
-      },
-      {
+        },
+        {
           "value": "Ultra Variety Sandwich",
           "help": "Prosciutto, Cherry, Tomatoes, Smoked Fillet, Potato, Salad, Hamburger, Salt, Vinegar"
-      },
-      {
+        },
+        {
           "value": "Master Variety Sandwich",
           "help": "Prosciutto, Cherry, Tomatoes, Smoked Fillet, Potato, Salad, Hamburger, Salt, Vinegar, Bitter Herba Mystica"
-      },
-      {
+        },
+        {
           "value": "Klawf Claw Sandwich",
           "help": "Klawf Stick, Tomato, Lettuce, Salt, Olive Oil"
-      },
-      {
+        },
+        {
           "value": "Great Klawf Claw Sandwich",
           "help": "Klawf Stick, Tomato, Lettuce, Salt, Olive Oil, Wasabi"
-      },
-      {
+        },
+        {
           "value": "Ultra Klawf Claw Sandwich",
           "help": "Klawf Stick, Tomato, Lettuce, Yellow Bell Pepper, Salt, Olive Oil, Wasabi"
-      },
-      {
+        },
+        {
           "value": "Master Klawf Claw Sandwich",
           "help": "Klawf Stick, Tomato, Lettuce, Yellow Bell Pepper, Salt, Olive Oil, Wasabi, Spicy Herba Mystica"
-      },
-      {
+        },
+        {
           "value": "Sweet Sandwich",
           "help": "Banana, Apple, Cheese, Whipped, Cream, Butter"
-      },
-      {
+        },
+        {
           "value": "Great Sweet Sandwich",
           "help": "Banana, Apple, Cheese, Whipped, Cream, Butter, Salt"
-      },
-      {
+        },
+        {
           "value": "Ultra Sweet Sandwich",
           "help": "Banana, Apple, Cheese, Basil, Whipped, Cream, Butter, Salt"
-      },
-      {
+        },
+        {
           "value": "Master Sweet Sandwich",
           "help": "Banana, Apple, Cheese, Basil, Whipped, Cream, Butter, Salt, Sour Herba Mystica"
-      },
-      {
+        },
+        {
           "value": "Vegetable Sandwich",
           "help": "Sliced, Green, Pepper, Cherry, Tomatoes, Cucumber, Salt, Olive Oil, Vinegar"
-      },
-      {
+        },
+        {
           "value": "Great Vegetable Sandwich",
           "help": "Sliced, Green, Pepper, Cherry, Tomatoes, Cucumber, Red Onion, Salt, Olive Oil, Vinegar"
-      },
-      {
+        },
+        {
           "value": "Ultra Vegetable Sandwich",
           "help": "Sliced, Green, Pepper, Cherry, Tomatoes, Cucumber, Red Onion, Watercress, Salt, Olive Oil, Vinegar"
-      },
-      {
+        },
+        {
           "value": "Master Vegetable Sandwich",
           "help": "Sliced, Green, Pepper, Cherry, Tomatoes, Cucumber, Red Onion, Watercress, Salt, Olive Oil, Vinegar, Salty Herba Mystica"
-      },
-      {
+        },
+        {
           "value": "Hefty Sandwich",
           "help": "Potato, Tortilla, Fried, Fillet, Prosciutto, Potato, Salad, Salt, Peanut, Butter"
-      },
-      {
+        },
+        {
           "value": "Great Hefty Sandwich",
           "help": "Potato, Tortilla, Fried, Fillet, Prosciutto, Potato, Salad, Herbed Sausage, Salt, Peanut, Butter"
-      },
-      {
+        },
+        {
           "value": "Ultra Hefty Sandwich",
           "help": "Potato, Tortilla, Fried, Fillet, Prosciutto, Potato, Salad, Herbed Sausage, Hamburger, Salt, Peanut, Butter"
-      },
-      {
+        },
+        {
           "value": "Master Hefty Sandwich",
           "help": "Potato, Tortilla, Fried, Fillet, Prosciutto, Potato, Salad, Herbed Sausage, Hamburger, Salt, Peanut, Butter, Sour Herba Mystica"
-      },
-      {
+        },
+        {
           "value": "Five-Alarm Sandwich",
           "help": "Chorizo, Onion, Sliced, Green, Pepper, Mustard, Chili Sauce, Pepper"
-      },
-      {
+        },
+        {
           "value": "Great Five-Alarm Sandwich",
           "help": "Chorizo, Onion, Sliced, Green, Pepper, Basil, Mustard, Chili Sauce, Pepper"
-      },
-      {
+        },
+        {
           "value": "Ultra Five-Alarm Sandwich",
           "help": "Chorizo, Onion, Sliced, Green, Pepper, Basil, Jalapeno, Mustard, Chili Sauce, Pepper"
-      },
-      {
+        },
+        {
           "value": "Master Five-Alarm Sandwich",
           "help": "Chorizo, Onion, Sliced, Green, Pepper, Basil, Jalapeno, Mustard, Chili Sauce, Pepper, Spicy Herba Mystica"
-      },
-      {
+        },
+        {
           "value": "Nouveau Veggie Sandwich",
           "help": "Watercress, Yellow Bell Pepper, Onion, Tomato, Olive Oil, Wasabi"
-      },
-      {
+        },
+        {
           "value": "Great Nouveau Veggie Sandwich",
           "help": "Watercress, Yellow Bell Pepper, Onion, Tomato, Cucumber, Olive Oil, Wasabi"
-      },
-      {
+        },
+        {
           "value": "Ultra Nouveau Veggie Sandwich",
           "help": "Watercress, Yellow Bell Pepper, Onion, Tomato, Cucumber, Olive Oil, Wasabi, Mayonnaise"
-      },
-      {
+        },
+        {
           "value": "Master Nouveau Veggie Sandwich",
           "help": "Watercress, Yellow Bell Pepper, Onion, Tomato, Cucumber, Olive Oil, Wasabi, Mayonnaise, Sweet Herba Mystica"
-      },
-      {
+        },
+        {
           "value": "Spicy-Sweet Sandwich",
           "help": "Hamburger, Tomato, Kiwi, Pineapple, Butter, Horseradish"
-      },
-      {
+        },
+        {
           "value": "Great Spicy-Sweet Sandwich",
           "help": "Hamburger, Tomato, Kiwi, Pineapple, Avocado, Butter, Horseradish"
-      },
-      {
+        },
+        {
           "value": "Ultra Spicy-Sweet Sandwich",
           "help": "Hamburger, Tomato, Kiwi, Pineapple, Avocado, Cheese, Butter, Horseradish"
-      },
-      {
+        },
+        {
           "value": "Master Spicy-Sweet Sandwich",
           "help": "Hamburger, Tomato, Kiwi, Pineapple, Avocado, Cheese, Butter, Horseradish, Bitter Herba Mystica"
-      },
-      {
+        },
+        {
           "value": "Decadent Sandwich",
           "help": "Smoked Fillet, Klawf Stick, Watercress, Basil, Vinegar, Olive Oil, Salt"
-      },
-      {
+        },
+        {
           "value": "Great Decadent Sandwich",
           "help": "Smoked Fillet, Klawf Stick, Watercress, Basil, Tofu, Vinegar, Olive Oil, Salt"
-      },
-      {
+        },
+        {
           "value": "Ultra Decadent Sandwich",
           "help": "Smoked Fillet, Klawf Stick, Watercress, Basil, Tofu, Red Onion, Vinegar, Olive Oil, Salt"
-      },
-      {
+        },
+        {
           "value": "Master Decadent Sandwich",
           "help": "Smoked Fillet, Klawf Stick, Watercress, Basil, Tofu, Red Onion, Vinegar, Olive Oil, Salt, Spicy Herba Mystica"
-      },
-      {
+        },
+        {
           "value": "Tofu Sandwich",
           "help": "Tofu x2, Rice, Lettuce, Avocado, Wasabi, Salt"
-      },
-      {
+        },
+        {
           "value": "Great Tofu Sandwich",
           "help": "Tofu x2, Rice, Lettuce, Avocado, Wasabi, Salt, Horseradish"
-      },
-      {
+        },
+        {
           "value": "Ultra Tofu Sandwich",
           "help": "Tofu x2, Rice, Lettuce, Avocado, Watercress, Wasabi, Salt, Horseradish"
-      },
-      {
+        },
+        {
           "value": "Master Tofu Sandwich",
           "help": "Tofu x2, Rice, Lettuce, Avocado, Watercress, Wasabi, Salt, Horseradish, Salty Herba Mystica"
-      },
-      {
+        },
+        {
           "value": "Curry-and-Noodle Sandwich",
           "help": "Noodles, Red Bell Pepper, Bacon, Yellow Bell Pepper, Olive Oil, Salt, Curry, Powder"
-      },
-      {
+        },
+        {
           "value": "Great Curry-and-Noodle Sandwich",
           "help": "Noodles, Red Bell Pepper, Bacon, Yellow Bell Pepper, Jalapeno, Olive Oil, Salt, Curry, Powder"
-      },
-      {
+        },
+        {
           "value": "Ultra Curry-and-Noodle Sandwich",
           "help": "Noodles, Red Bell Pepper, Bacon, Yellow Bell Pepper, Jalapeno, Egg, Olive Oil, Salt, Curry, Powder"
-      },
-      {
+        },
+        {
           "value": "Master Curry-and-Noodle Sandwich",
           "help": "Noodles, Red Bell Pepper, Bacon, Yellow Bell Pepper, Jalapeno, Egg, Olive Oil, Salt, Curry, Powder, Sweet Herba Mystica"
-      },
-      {
+        },
+        {
           "value": "Tower Sandwich",
           "help": "Hamburger, Noodles, Potato, Salad, Rice, Olive Oil, Salt, Curry, Powder"
-      },
-      {
+        },
+        {
           "value": "Great Tower Sandwich",
           "help": "Hamburger, Noodles, Potato, Salad, Rice, Klawf Stick, Olive Oil, Salt, Curry, Powder"
-      },
-      {
+        },
+        {
           "value": "Ultra Tower Sandwich",
           "help": "Hamburger, Noodles, Potato, Salad, Rice, Klawf Stick, Tofu, Olive Oil, Salt, Curry, Powder"
-      },
-      {
+        },
+        {
           "value": "Master Tower Sandwich",
           "help": "Hamburger, Noodles, Potato, Salad, Rice, Klawf Stick, Tofu, Olive Oil, Salt, Curry, Powder, Bitter Herba Mystica"
-      },
-      {
+        },
+        {
           "value": "Sushi Sandwich",
           "help": "Rice, Smoked Fillet, Smoked Fillet, Klawf Stick, Salt, Vinegar, Wasabi"
-      },
-      {
+        },
+        {
           "value": "Great Sushi Sandwich",
           "help": "Rice, Smoked Fillet, Smoked Fillet, Klawf Stick, Watercress, Salt, Vinegar, Wasabi"
-      },
-      {
+        },
+        {
           "value": "Ultra Sushi Sandwich",
           "help": "Rice, Smoked Fillet, Smoked Fillet, Klawf Stick x2, Watercress, Salt, Vinegar, Wasabi"
-      },
-      {
+        },
+        {
           "value": "Master Sushi Sandwich",
           "help": "Rice, Smoked Fillet, Smoked Fillet, Klawf Stick x2, Watercress, Salt, Vinegar, Wasabi, Sour Herba Mystica"
-      }
+        }
       ]
     },
     {
