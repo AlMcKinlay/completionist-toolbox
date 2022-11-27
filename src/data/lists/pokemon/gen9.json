@@ -38,6 +38,9 @@
         },
         {
           "value": "Defeat Champion"
+        },
+        {
+          "value": "Defeat Nemona"
         }
       ]
     },
@@ -83,11 +86,29 @@
           "value": "Defeat the Team Star Fighting Crew"
         },
         {
-          "value": "Defeat the Team Star Boss"
+          "value": "Defeat the Team Star Boss",
+          "display": "Defeat Cassiopeia"
         },
         {
           "value": "Defeat the Team Star Leader"
         }
+      ]
+    },
+    {
+      "name": "Area Zero",
+      "entries": [
+        {
+          "value": "Get to Area Zero"
+        },
+        {
+          "value": "Unlock Lab Zero"
+        },
+        {
+          "value": "Defeat the AI Professor"
+        },
+        {
+          "value": "Defeat the Paradise Protection Protocol"
+        },
       ]
     },
     {
