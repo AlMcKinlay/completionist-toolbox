@@ -63,7 +63,8 @@
           "value": "Defeat the False Dragon Titan"
         },
         {
-          "value": "Defeat the final titan challenge"
+          "value": "Defeat the final titan challenge",
+          "display": "Defeat Arven"
         }
       ]
     },
@@ -680,6 +681,231 @@
         },
         {
           "value": "Aviator Sunglasses"
+        }
+      ]
+    },
+    {
+      "name": "Rotom Phone Cases",
+      "entries": [
+        {
+          "value": "Default Case",
+          "help": "Acquired by default at the start."
+        },
+        {
+          "value": "Sprigatito Case",
+          "help": "Purchase from Delibird Presents in Mesagoza for ₽3000."
+        },
+        {
+          "value": "Fuecoco Case",
+          "help": "Purchase from Delibird Presents in Mesagoza for ₽3000."
+        },
+        {
+          "value": "Quaxly Case",
+          "help": "Purchase from Delibird Presents in Mesagoza for ₽3000."
+        },
+        {
+          "value": "Yellow Case",
+          "help": "Purchase from Delibird Presents in Mesagoza for ₽1000."
+        },
+        {
+          "value": "Green Case",
+          "help": "Purchase from Delibird Presents in Mesagoza for ₽1000."
+        },
+        {
+          "value": "Purple Case",
+          "help": "Purchase from Delibird Presents in Mesagoza for ₽1000."
+        },
+        {
+          "value": "Pink Case",
+          "help": "Purchase from Delibird Presents in Mesagoza for ₽1000."
+        },
+        {
+          "value": "Blue Case",
+          "help": "Purchase from Delibird Presents in Mesagoza for ₽1000."
+        },
+        {
+          "value": "Turquoise Case",
+          "help": "Purchase from Delibird Presents in Mesagoza for ₽1000."
+        },
+        {
+          "value": "Olive Case",
+          "help": "Purchase from Delibird Presents in Mesagoza for ₽1000."
+        },
+        {
+          "value": "Rose Case",
+          "help": "Purchase from Delibird Presents in Mesagoza for ₽1000."
+        },
+        {
+          "value": "Brown Case",
+          "help": "Purchase from Delibird Presents in Mesagoza for ₽1000."
+        },
+        {
+          "value": "Lavender Case",
+          "help": "Purchase from Delibird Presents in Mesagoza for ₽1000."
+        },
+        {
+          "value": "Pikachu Case",
+          "help": "Purchase from Delibird Presents in Levincia for ₽6000."
+        },
+        {
+          "value": "Eevee Case",
+          "help": "Purchase from Delibird Presents in Levincia for ₽6000."
+        },
+        {
+          "value": "Cream Case",
+          "help": "Purchase from Delibird Presents in Levincia for ₽1000."
+        },
+        {
+          "value": "Dark Green Case",
+          "help": "Purchase from Delibird Presents in Levincia for ₽1000."
+        },
+        {
+          "value": "Wine Red Case",
+          "help": "Purchase from Delibird Presents in Levincia for ₽1000."
+        },
+        {
+          "value": "Orange Case",
+          "help": "Purchase from Delibird Presents in Levincia for ₽1000."
+        },
+        {
+          "value": "Sky Blue Case",
+          "help": "Purchase from Delibird Presents in Levincia for ₽1000."
+        },
+        {
+          "value": "Navy Blue Case",
+          "help": "Purchase from Delibird Presents in Levincia for ₽1000."
+        },
+        {
+          "value": "Cocoa Brown Case",
+          "help": "Purchase from Delibird Presents in Levincia for ₽1000."
+        },
+        {
+          "value": "Dark Brown Case",
+          "help": "Purchase from Delibird Presents in Levincia for ₽1000."
+        },
+        {
+          "value": "White Case",
+          "help": "Purchase from Delibird Presents in Levincia for ₽1000."
+        },
+        {
+          "value": "Black Case",
+          "help": "Purchase from Delibird Presents in Levincia for ₽1000."
+        },
+        {
+          "value": "Swablu Sky Case",
+          "help": "Purchase from Delibird Presents in Levincia for ₽5000."
+        },
+        {
+          "value": "Combee Honey Case",
+          "help": "Purchase from Delibird Presents in Levincia for ₽5000."
+        },
+        {
+          "value": "Applin Apple Case",
+          "help": "Purchase from Delibird Presents in Levincia for ₽5000."
+        },
+        {
+          "value": "Grass Case",
+          "help": "Purchase from Delibird Presents in Cascarrafa for ₽2500."
+        },
+        {
+          "value": "Water Case",
+          "help": "Purchase from Delibird Presents in Cascarrafa for ₽2500."
+        },
+        {
+          "value": "Fire Case",
+          "help": "Purchase from Delibird Presents in Cascarrafa for ₽2500."
+        },
+        {
+          "value": "Electric Case",
+          "help": "Purchase from Delibird Presents in Cascarrafa for ₽2500."
+        },
+        {
+          "value": "Normal Case",
+          "help": "Purchase from Delibird Presents in Cascarrafa for ₽2500."
+        },
+        {
+          "value": "Flying Case",
+          "help": "Purchase from Delibird Presents in Cascarrafa for ₽2500."
+        },
+        {
+          "value": "Bug Case",
+          "help": "Purchase from Delibird Presents in Cascarrafa for ₽2500."
+        },
+        {
+          "value": "Fighting Case",
+          "help": "Purchase from Delibird Presents in Cascarrafa for ₽2500."
+        },
+        {
+          "value": "Psychic Case",
+          "help": "Purchase from Delibird Presents in Cascarrafa for ₽2500."
+        },
+        {
+          "value": "Ghost Case",
+          "help": "Purchase from Delibird Presents in Cascarrafa for ₽2500."
+        },
+        {
+          "value": "Ground Case",
+          "help": "Purchase from Delibird Presents in Cascarrafa for ₽2500."
+        },
+        {
+          "value": "Rock Case",
+          "help": "Purchase from Delibird Presents in Cascarrafa for ₽2500."
+        },
+        {
+          "value": "Ice Case",
+          "help": "Purchase from Delibird Presents in Cascarrafa for ₽2500."
+        },
+        {
+          "value": "Dark Case",
+          "help": "Purchase from Delibird Presents in Cascarrafa for ₽2500."
+        },
+        {
+          "value": "Fairy Case",
+          "help": "Purchase from Delibird Presents in Cascarrafa for ₽2500."
+        },
+        {
+          "value": "Poison Case",
+          "help": "Purchase from Delibird Presents in Cascarrafa for ₽2500."
+        },
+        {
+          "value": "Steel Case",
+          "help": "Purchase from Delibird Presents in Cascarrafa for ₽2500."
+        },
+        {
+          "value": "Dragon Case",
+          "help": "Purchase from Delibird Presents in Cascarrafa for ₽2500."
+        },
+        {
+          "value": "Komala Log Case",
+          "help": "Purchase from Delibird Presents in Cascarrafa for ₽5000."
+        },
+        {
+          "value": "Flabebe Flower Case",
+          "help": "Purchase from Delibird Presents in Cascarrafa for ₽5000."
+        },
+        {
+          "value": "Magnemite Magnet Case",
+          "help": "Purchase from Delibird Presents in Cascarrafa for ₽5000."
+        },
+        {
+          "value": "Gothita Ribbon Case",
+          "help": "Purchase from Delibird Presents in Cascarrafa for ₽5000."
+        },
+        {
+          "value": "Arc Phone Case",
+          "help": "Choose the Hisui dialogue option when talking to the Fortune Teller on the main road in Mesagoza.(Must have save files from Pokemon Legends: Arceus)."
+        },
+        {
+          "value": "Ball Guy Phone Case",
+          "help": "Choose the Galar dialogue option when talking to the Fortune Teller on the main road in Mesagoza.(Must have save files from Pokemon Sword or Shield)."
+        },
+        {
+          "value": "Pokétech Case",
+          "help": "Choose the Sinnoh dialogue option when talking to the Fortune Teller on the main road in Mesagoza.(Must have save files from Pokemon Brilliant Diamond or Shining Pearl)."
+        },
+        {
+          "value": "Pika-Vee Case",
+          "help": "Choose the Kanto dialogue option when talking to the Fortune Teller on the main road in Mesagoza.(Must have save files from Pokemon Let's Go, Pikachu! or Pokemon Let's Go, Eevee!)."
         }
       ]
     },
