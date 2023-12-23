@@ -2590,6 +2590,12 @@
           "value": "Complete the BB Pokedex"
         },
         {
+          "value": "Visit the Crystal Lake in Kitikami with Terapagos"
+        },
+        {
+          "value": "Meet up with Eri and Giacomo"
+        },
+        {
           "value": "Get the Mark Charm",
           "help": "Talk to Cyrano after completing the BB Pokedex"
         }
@@ -2679,6 +2685,11 @@
           "value": "Complete Super-Hard"
         }
       ]
+    },
+    {
+      "name": "Legendary Pokemon",
+      "isDLC": true,
+      "entries": []
     },
     {
       "name": "Coaches",
