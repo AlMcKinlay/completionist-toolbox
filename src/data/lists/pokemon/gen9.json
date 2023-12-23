@@ -2490,7 +2490,90 @@
     {
       "name": "The Teal Mask",
       "isDLC": true,
-      "entries": []
+      "entries": [
+        {
+          "value": "Visit Kitikami",
+          "help": "After getting a call, go to the school and meet Briar, after the cutscene, talk to her again and she'll take you to Kitikami"
+        },
+        {
+          "value": "Visit Mossui Town"
+        },
+        {
+          "value": "Find the first signpost"
+        },
+        {
+          "value": "Find the second signpost"
+        },
+        {
+          "value": "Find the third signpost"
+        },
+        {
+          "value": "Fight the loyal three"
+        },
+        {
+          "value": "Catch Ogerpon"
+        },
+        {
+          "value": "Evolve Applin into Dipplin",
+          "help": "Use Syrupy Apple from the shop in the South East of Mossfell Confluence"
+        },
+        {
+          "value": "Catch Poltchageist"
+        },
+        {
+          "value": "Evolve Poltchageist into Sinistch",
+          "help": "Use Unremarkable Teacup or Masterpiece Teacup"
+        },
+        {
+          "value": "Catch Munkidori",
+          "help": "Wisteria Pond"
+        },
+        {
+          "value": "Catch Okidogi",
+          "help": "Barren Wastes"
+        },
+        {
+          "value": "Catch Fezandipiti",
+          "help": "Fellhorn Gorge"
+        },
+        {
+          "value": "Talk to Perrin"
+        },
+        {
+          "value": "Catch The Blood Moon Beast",
+          "help": "Found through the Perrin side-quest"
+        },
+        {
+          "value": "Complete the Kitikami Pokedex"
+        },
+        {
+          "value": "Obtain the Glimmering Charm",
+          "help": "From Jacq on Reveler's Road after completing the pokedex"
+        },
+        {
+          "value": "Repair the Loyalty Plaza Shrine"
+        },
+        {
+          "value": "Visit Carmine and Keiran's Grandma",
+          "help": "Visit their house after catching Ogrepon"
+        },
+        {
+          "value": "Get Jacq's egg",
+          "help": "Find Jacq on Reveler's Road, and he will give you an egg"
+        },
+        {
+          "value": "Fight the Glitterati",
+          "help": "Found in Apple Hills, dressed in gold clothing"
+        },
+        {
+          "value": "Help the Lovey Dovey Couple",
+          "help": "Begind the community centre"
+        },
+        {
+          "value": "Defeat the Ogre Clan",
+          "help": "8 trainers dotted across Kitikami"
+        }
+      ]
     },
     {
       "name": "The Indigo Disk",
@@ -2550,19 +2633,23 @@
         },
         {
           "value": "Catch Gouging Fire",
-          "version": "scarlet"
+          "version": "scarlet",
+          "hekp": "Access the Perrin side-quest"
         },
         {
           "value": "Catch Raging Bolt",
-          "version": "scarlet"
+          "version": "scarlet",
+          "hekp": "Access the Perrin side-quest"
         },
         {
           "value": "Catch Iron Boulder",
-          "version": "violet"
+          "version": "violet",
+          "hekp": "Access the Perrin side-quest"
         },
         {
           "value": "Catch Iron Crown",
-          "version": "violet"
+          "version": "violet",
+          "hekp": "Access the Perrin side-quest"
         },
         {
           "value": "Trade or transfer for Gouging Fire",
