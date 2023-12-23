@@ -1,10 +1,8 @@
 {
   "name": "Pokemon Scarlet and Violet Completion",
   "displayName": "Pokemon Gen 9",
-  "versions": [
-    "scarlet",
-    "violet"
-  ],
+  "versions": ["scarlet", "violet"],
+  "dlcAvailable": true,
   "sections": [
     {
       "name": "Victory Road",
@@ -2254,8 +2252,438 @@
         },
         {
           "value": "TM171 - Tera Blast"
+        },
+        {
+          "value": "TM172 - Roar",
+          "isDLC": true
+        },
+        {
+          "value": "TM173 - Charge",
+          "isDLC": true
+        },
+        {
+          "value": "TM174 - Haze",
+          "isDLC": true
+        },
+        {
+          "value": "TM175 - Toxic",
+          "isDLC": true
+        },
+        {
+          "value": "TM176 - Sand Tomb",
+          "isDLC": true
+        },
+        {
+          "value": "TM177 - Spite",
+          "isDLC": true
+        },
+        {
+          "value": "TM178 - Gravity",
+          "isDLC": true
+        },
+        {
+          "value": "TM179 - Smack Down",
+          "isDLC": true
+        },
+        {
+          "value": "TM180 - Gyro Ball",
+          "isDLC": true
+        },
+        {
+          "value": "TM181 - Knock Off",
+          "isDLC": true
+        },
+        {
+          "value": "TM182 - Bug Bite",
+          "isDLC": true
+        },
+        {
+          "value": "TM183 - Super Fang",
+          "isDLC": true
+        },
+        {
+          "value": "TM184 - Vacuum Wave",
+          "isDLC": true
+        },
+        {
+          "value": "TM185 - Lunge",
+          "isDLC": true
+        },
+        {
+          "value": "TM186 - High Horsepower",
+          "isDLC": true
+        },
+        {
+          "value": "TM187 - Icicle Spear",
+          "isDLC": true
+        },
+        {
+          "value": "TM188 - Scald",
+          "isDLC": true
+        },
+        {
+          "value": "TM189 - Heat Crash",
+          "isDLC": true
+        },
+        {
+          "value": "TM190 - Solar Blade",
+          "isDLC": true
+        },
+        {
+          "value": "TM191 - Uproar",
+          "isDLC": true
+        },
+        {
+          "value": "TM192 - Focus Punch",
+          "isDLC": true
+        },
+        {
+          "value": "TM193 - Weather Ball",
+          "isDLC": true
+        },
+        {
+          "value": "TM194 - Grassy Glide",
+          "isDLC": true
+        },
+        {
+          "value": "TM195 - Burning Jealousy",
+          "isDLC": true
+        },
+        {
+          "value": "TM196 - Flip Turn",
+          "isDLC": true
+        },
+        {
+          "value": "TM197 - Dual Wingbeat",
+          "isDLC": true
+        },
+        {
+          "value": "TM198 - Poltergeist",
+          "isDLC": true
+        },
+        {
+          "value": "TM199 - Lash Out",
+          "isDLC": true
+        },
+        {
+          "value": "TM200 - Scale Shot",
+          "isDLC": true
+        },
+        {
+          "value": "TM201 - Misty Explosion",
+          "isDLC": true
+        },
+        {
+          "value": "TM202 - Pain Split",
+          "isDLC": true
+        },
+        {
+          "value": "TM203 - Psych Up",
+          "isDLC": true
+        },
+        {
+          "value": "TM204 - Double Edge",
+          "isDLC": true
+        },
+        {
+          "value": "TM205 - Endeavour",
+          "isDLC": true
+        },
+        {
+          "value": "TM206 - Petal Blizzard",
+          "isDLC": true
+        },
+        {
+          "value": "TM207 - Temper Flare",
+          "isDLC": true
+        },
+        {
+          "value": "TM208 - Whirlpool",
+          "isDLC": true
+        },
+        {
+          "value": "TM209 - Muddy Water",
+          "isDLC": true
+        },
+        {
+          "value": "TM210 - Supercell Slam",
+          "isDLC": true
+        },
+        {
+          "value": "TM211 - Electroweb",
+          "isDLC": true
+        },
+        {
+          "value": "TM212 - Triple Axel",
+          "isDLC": true
+        },
+        {
+          "value": "TM213 - Coaching",
+          "isDLC": true
+        },
+        {
+          "value": "TM214 - Sludge Wave",
+          "isDLC": true
+        },
+        {
+          "value": "TM215 - Scorching Sands",
+          "isDLC": true
+        },
+        {
+          "value": "TM216 - Feather Dance",
+          "isDLC": true
+        },
+        {
+          "value": "TM217 - Future Sight",
+          "isDLC": true
+        },
+        {
+          "value": "TM218 - Expanding Force",
+          "isDLC": true
+        },
+        {
+          "value": "TM219 - Skitter Smack",
+          "isDLC": true
+        },
+        {
+          "value": "TM220 - Meteor Beam",
+          "isDLC": true
+        },
+        {
+          "value": "TM221 - Throat Chop",
+          "isDLC": true
+        },
+        {
+          "value": "TM222 - Breaking Swipe",
+          "isDLC": true
+        },
+        {
+          "value": "TM223 - Metal Sound",
+          "isDLC": true
+        },
+        {
+          "value": "TM224 - Curse",
+          "isDLC": true
+        },
+        {
+          "value": "TM225 - Hard Press",
+          "isDLC": true
+        },
+        {
+          "value": "TM226 - Dragon Cheer",
+          "isDLC": true
+        },
+        {
+          "value": "TM227 - Alluring Voice",
+          "isDLC": true
+        },
+        {
+          "value": "TM228 - Psychic Noise",
+          "isDLC": true
+        },
+        {
+          "value": "TM229 - Upper Hand",
+          "isDLC": true
         }
       ]
+    },
+    {
+      "name": "The Teal Mask",
+      "isDLC": true,
+      "entries": []
+    },
+    {
+      "name": "The Indigo Disk",
+      "isDLC": true,
+      "entries": [
+        {
+          "value": "Visit The BlueBerry Academy",
+          "help": "After getting a call, go to the school and meet Cyrano, after the cutscene, talk to him again and he'll take you to the blueberry academy"
+        },
+        {
+          "value": "Visit the Terarium"
+        },
+        {
+          "value": "Complete a class",
+          "help": "After visiting the terarium, you will be invited to go complete a class in the coastal biome. Catch an Alolan pokemon as part of this"
+        },
+        {
+          "value": "Meet Carmine at the Central Plaza",
+          "help": "After completing the class, Carmine will call you to visit the Central Plaza"
+        },
+        {
+          "value": "Defeat Crispin"
+        },
+        {
+          "value": "Defeat Amarys"
+        },
+        {
+          "value": "Defeat Lacey"
+        },
+        {
+          "value": "Defeat Drayton"
+        },
+        {
+          "value": "Defeat the Champion"
+        },
+        {
+          "value": "Visit Area Zero",
+          "help": "After defeating Keiran, you will be invited to join a group to visit Area Zero (again) and find the hidden treasure"
+        },
+        {
+          "value": "Find the hidden treasure of Area Zero"
+        },
+        {
+          "value": "Catch Terapagos"
+        },
+        {
+          "value": "Get Brair's book",
+          "help": "After catching Terapagos, visit Classroom 1-4 and talk to Briar"
+        },
+        {
+          "value": "Unlock flying",
+          "help": "After catching Terapagos, visit Classroom 3-2 and talk to Amarys"
+        },
+        {
+          "value": "Talk to Perrin",
+          "help": "She is at the rest area at the entrance to the Terarium. If she is not there, you need to complete the Perrin quest from the Teal Mask"
+        },
+        {
+          "value": "Catch Gouging Fire",
+          "version": "scarlet"
+        },
+        {
+          "value": "Catch Raging Bolt",
+          "version": "scarlet"
+        },
+        {
+          "value": "Catch Iron Boulder",
+          "version": "violet"
+        },
+        {
+          "value": "Catch Iron Crown",
+          "version": "violet"
+        },
+        {
+          "value": "Trade or transfer for Gouging Fire",
+          "version": "violet"
+        },
+        {
+          "value": "Trade or transfer for Raging Bolt",
+          "version": "violet"
+        },
+        {
+          "value": "Trade or transfer for Iron Boulder",
+          "version": "scarlet"
+        },
+        {
+          "value": "Trade or transfer for Iron Crown",
+          "version": "scarlet"
+        },
+        {
+          "value": "Evolve Duraludon into Archaludon"
+        },
+        {
+          "value": "Evolve Dipplin into Hydrapple"
+        },
+        {
+          "value": "Complete the BB Pokedex"
+        },
+        {
+          "value": "Get the Mark Charm",
+          "help": "Talk to Cyrano after completing the BB Pokedex"
+        }
+      ]
+    },
+    {
+      "name": "League Club Room",
+      "isDLC": true,
+      "entries": [
+        {
+          "value": "Visit the league club room and try out the BP computer"
+        },
+        {
+          "value": "Unlock the Item Printer"
+        },
+        {
+          "value": "Unlock throwing styles"
+        },
+        {
+          "value": "Unlock photo effects"
+        },
+        {
+          "value": "Unlock the photo touch-up feature"
+        },
+        {
+          "value": "Upgrade the lock-on feature"
+        },
+        {
+          "value": "Unlock the room styles"
+        },
+        {
+          "value": "Unlock the smart speaker"
+        },
+        {
+          "value": "Purchase the music albums"
+        },
+        {
+          "value": "Upgrade the Savanna Biome"
+        },
+        {
+          "value": "Upgrade the Coastal Biome"
+        },
+        {
+          "value": "Upgrade the Canyon Biome"
+        },
+        {
+          "value": "Upgrade the Polar Biome"
+        },
+        {
+          "value": "Invite the League's Secret Boss to battle"
+        }
+      ]
+    },
+    {
+      "name": "Item Printer",
+      "isDLC": true,
+      "entries": [
+        {
+          "value": "Unlock",
+          "help": "Pay to unlock it from the League Club Room computer"
+        },
+        {
+          "value": "Upgrade to Great Ball"
+        },
+        {
+          "value": "Upgrade to Ultra Ball"
+        },
+        {
+          "value": "Upgrade to Master Ball"
+        }
+      ]
+    },
+    {
+      "name": "Flying Time Trial",
+      "isDLC": true,
+      "entries": [
+        {
+          "value": "Complete Easy"
+        },
+        {
+          "value": "Complete Normal"
+        },
+        {
+          "value": "Complete Hard"
+        },
+        {
+          "value": "Complete Super-Hard"
+        }
+      ]
+    },
+    {
+      "name": "Coaches",
+      "isDLC": true,
+      "entries": []
     }
   ]
 }
